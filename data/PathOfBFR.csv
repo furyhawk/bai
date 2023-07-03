@@ -1,0 +1,268 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,e6159f64a28a001478aa1c46410be2a7,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2746867,2023-06-30T17:50:30.000Z
+1,8d099f64002f4750aafb51eb8afe2439,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2691033,2023-06-30T16:57:49.000Z
+2,44059f6404bdef8b3ebd6b2ce62f4764,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,776667,2023-06-30T16:39:32.000Z
+3,05fa9e64b38ec02f1ea7f100c74cebd2,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2304100,2023-06-30T15:51:33.000Z
+4,43f59e64d1657238c990eb292f0cc4b9,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,876433,2023-06-30T15:31:15.000Z
+5,10ed9e6408664b4ec00c976952924ed3,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1821567,2023-06-30T14:56:16.000Z
+6,b5df9e6410f3531c7eb12977c6cb3bf8,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3034867,2023-06-30T13:59:17.000Z
+7,53a09d6431e79c0e16b068e12736ccde,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2254600,2023-06-29T15:16:35.000Z
+8,43999d6486c583cc6bc1e0767a9ab536,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1056733,2023-06-29T14:46:27.000Z
+9,42919d642aea1ca25e090f1cdf6f6d4f,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1368967,2023-06-29T14:12:18.000Z
+10,89c495642aec22454731a2be13828c7f,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2115500,2023-06-23T16:12:57.000Z
+11,66bc956401d4811aeed5ed3789e2e781,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1715733,2023-06-23T15:38:14.000Z
+12,1f6394646da3014706d965b4ec5adf85,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1419267,2023-06-22T15:05:03.000Z
+13,165c9464fdda4ce8b3527a3a0f1b18ad,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,828467,2023-06-22T14:35:02.000Z
+14,ad589464ee69260f8adbd3d9748e93da,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,581567,2023-06-22T14:20:29.000Z
+15,2d4c94642cd271250e1230e9532e0736,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2355767,2023-06-22T13:27:09.000Z
+16,55839064213ab6368b36fe198858eb17,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2150200,2023-06-19T16:33:25.000Z
+17,cb759064ebea2001319a5a031bde4b1c,PathOfBFR,False,koom_valley_3_3.1,Koom Valley 3 3.1,2382600,2023-06-19T15:35:39.000Z
+18,77738d64bb4e886d3143e5229d9c1df0,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2837633,2023-06-17T08:48:55.000Z
+19,35698d64c03d9201038188f2a6ec278f,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2235600,2023-06-17T08:05:09.000Z
+20,aaa38c64eb07ac376928a727694a3965,PathOfBFR,True,all_that_glitters_v2.1,All That Glitters v2.1,1881200,2023-06-16T18:02:18.000Z
+21,98978c64671e862aa8359b09b17f4434,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2043600,2023-06-16T17:10:48.000Z
+22,af8a8c648d8f6993483bd7b6798eb8d5,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2325300,2023-06-16T16:15:43.000Z
+23,76828c64752159c14a128e066c69f757,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1727633,2023-06-16T15:40:38.000Z
+24,547c8c643eccd3099d10ae44e260407b,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1205367,2023-06-16T15:14:28.000Z
+25,8a718c64b4e7797fc6dee427ab014624,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2221367,2023-06-16T14:28:26.000Z
+26,ed7d886437037c7c8e7123bd9b048c1c,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1728167,2023-06-13T14:32:13.000Z
+27,a22387642c3752cab2dbc7e8171d6920,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1502633,2023-06-12T13:54:42.000Z
+28,1b1d8764634c9fedc976056f3496240b,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1224100,2023-06-12T13:26:51.000Z
+29,d2f48664956b80cea2470ca718405b38,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2433533,2023-06-12T10:34:58.000Z
+30,22e786643e61274a3727f19fbaf644f3,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3067833,2023-06-12T09:36:34.000Z
+31,85db8664fe9c1999629ef7cbb08fce3a,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2375833,2023-06-12T08:47:01.000Z
+32,db2b866421ef612a255def648f353b8d,PathOfBFR,False,dsdr_4.1,DSDR 4.1,1836733,2023-06-11T20:17:31.000Z
+33,91258664f0132c8beacd5ac5b2429b69,PathOfBFR,True,Tempest_V3,Tempest_V3,750800,2023-06-11T19:50:41.000Z
+34,5a1b86648c89e3814f53c89b09a6e265,PathOfBFR,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,2135567,2023-06-11T19:07:06.000Z
+35,6e0a86648cc4379ed7a1095c18d9a81b,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2185367,2023-06-11T17:54:54.000Z
+36,a3f18564e52ee1aed5952ac87fe8369c,PathOfBFR,True,ascendancy_v1.1,Ascendancy v1.1,2022600,2023-06-11T16:09:07.000Z
+37,91e88564f8801b1345c5a06b656e7813,PathOfBFR,False,thermal_shock_v1.1,Thermal Shock v1.1,1872100,2023-06-11T15:30:25.000Z
+38,1cda856431e7b4dadd2f8c915797990f,PathOfBFR,False,koom_valley_3_3.1,Koom Valley 3 3.1,3213133,2023-06-11T14:28:44.000Z
+39,ffcc8564421ad8f6871d50a1e7e8799b,PathOfBFR,True,starwatcher_1.0,Starwatcher 1.0,2314967,2023-06-11T13:32:47.000Z
+40,30ba8564ee8ac9e75317d27043c9e231,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2084733,2023-06-11T12:12:32.000Z
+41,f7a68564791b3c8259f30d6dd1c13a4c,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2407433,2023-06-11T10:50:31.000Z
+42,2c9885642118238b1acde7dfe171571d,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3177300,2023-06-11T09:47:24.000Z
+43,258c856429850ebd58d116a38d1b302c,PathOfBFR,True,all_that_glitters_v2.1,All That Glitters v2.1,2373767,2023-06-11T08:56:05.000Z
+44,b080856410e54088001e572654d6aa4f,PathOfBFR,False,all_that_glitters_v2.1,All That Glitters v2.1,2129300,2023-06-11T08:07:12.000Z
+45,e3b584644508bf367fbeac9883bad1c5,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1918300,2023-06-10T17:41:55.000Z
+46,88ad846418fd4adb89f4c3a491f9c63b,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1806167,2023-06-10T17:06:16.000Z
+47,2da48464bcec92c4e102b899307b059f,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1659700,2023-06-10T16:26:21.000Z
+48,249a84642bede49de5ded220ae9cf693,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1794667,2023-06-10T15:43:32.000Z
+49,798e8464e86b6f15539ba0c71b7c734e,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2558567,2023-06-10T14:53:45.000Z
+50,c87e846463ac43b79ec51e1a24d81549,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1388867,2023-06-10T13:46:48.000Z
+51,d7738464bc5ca48221023df2fa0db896,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2097567,2023-06-10T13:00:07.000Z
+52,2e608464aa3071ac46074b99b54afc95,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3070133,2023-06-10T11:36:14.000Z
+53,985c8464f30e01dae9229c15a3681b7c,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,521833,2023-06-10T11:20:56.000Z
+54,0654846431f71d24d2eae8e03437ca98,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1710567,2023-06-10T10:44:22.000Z
+55,e568836423c187e25f9416a15eaa2da1,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,4326867,2023-06-09T18:01:09.000Z
+56,735f83648d82e68211b0e1a23a73e0e6,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1913000,2023-06-09T17:20:51.000Z
+57,c3508364ee09d02e3fd517af727607b4,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3374533,2023-06-09T16:18:11.000Z
+58,e1398364a8f492b25c715bc5de796df9,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2821033,2023-06-09T14:40:33.000Z
+59,98f58164660e378edaf112ca1b25f6d6,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1873067,2023-06-08T15:36:56.000Z
+60,feed816436377d1b4a6cca094c1a2514,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1367300,2023-06-08T15:04:30.000Z
+61,76ea8164c6b3c70c9eeaa655553bf756,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,532400,2023-06-08T14:49:26.000Z
+62,13037e640d7e9d83c0e4f20729e6821a,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2342733,2023-06-05T15:45:23.000Z
+63,16f17d646145fd56763b8b2d07db97eb,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2822700,2023-06-05T14:28:38.000Z
+64,fa737b6473d95d369e72646518b05d96,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2657967,2023-06-03T17:10:18.000Z
+65,ae6c7b642aa9590c82ad50b8ee9ece85,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1500200,2023-06-03T16:39:10.000Z
+66,6b5f7b645236d52f82a60323222911dd,PathOfBFR,True,starwatcher_1.0,Starwatcher 1.0,1422900,2023-06-03T15:42:35.000Z
+67,cf587b643eef27598555cc585d018bb5,PathOfBFR,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1208867,2023-06-03T15:14:23.000Z
+68,ce547b64aaf74f5cd31b15b31dc2e0c1,PathOfBFR,True,all_that_glitters_v2.1,All That Glitters v2.1,659000,2023-06-03T14:57:18.000Z
+69,81507b648b3ec70c0c71cb855af8f0b1,PathOfBFR,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,711233,2023-06-03T14:38:57.000Z
+70,434b7b6441d25d72c06dd051acdce2b4,PathOfBFR,True,hades_ponds_0.7,Hades Ponds 0.7,976767,2023-06-03T14:16:35.000Z
+71,7d3f7b64c8c08a6ae5e446bc208a1a32,PathOfBFR,False,carrot_mountains_v1.0,Carrot Mountains v1.0,2671867,2023-06-03T13:26:21.000Z
+72,a4397b64986698f98968c1f564aa7a79,PathOfBFR,False,eight_horses_1.2,Eight Horses 1.2,1205500,2023-06-03T13:01:24.000Z
+73,f5307b64d62500ec08f8d3ed18ab07ba,PathOfBFR,False,Rosetta1.4,Rosetta 1.4,1605833,2023-06-03T12:24:21.000Z
+74,fe2a7b6461a75c35f2827ab7d2070011,PathOfBFR,True,Rosetta1.4,Rosetta 1.4,1106800,2023-06-03T11:58:54.000Z
+75,73257b6437f4c4599e71ba105e3149d0,PathOfBFR,False,NuclearWinterR,Nuclear Winter Bar 1.4,1021967,2023-06-03T11:35:15.000Z
+76,461a7b64979ced4ef1fa9911f45e7ea2,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1971767,2023-06-03T10:47:34.000Z
+77,42307a645a9ea481c1eec9a45d2241a1,PathOfBFR,True,starwatcher_1.0,Starwatcher 1.0,2289167,2023-06-02T18:09:06.000Z
+78,e3277a64e30fdaef4ca801df94f1f4e4,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1764800,2023-06-02T17:33:23.000Z
+79,5d117a64aa2d62349f72aa99c5dd715f,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2362633,2023-06-02T15:57:17.000Z
+80,f3f37964d55c242c2ae548c89ee6eb0a,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2186167,2023-06-02T13:51:47.000Z
+81,520476648184cc7b5d3e616aa9aac468,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2058600,2023-05-30T14:12:34.000Z
+82,42ff7564bcd8486430d03fc84e345b06,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1024700,2023-05-30T13:50:58.000Z
+83,fcc0746421a41a29fcc8db0979cfe26c,PathOfBFR,True,theta_crystals_1.0,Theta Crystals 1.0,2771767,2023-05-29T15:13:00.000Z
+84,9b607364b2477279b7a1bd0223e9424c,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2834267,2023-05-28T14:09:31.000Z
+85,d44e7364af45b0607cce7e2a5be3c8d6,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1961800,2023-05-28T12:53:40.000Z
+86,62467364dc832ac39511357bffb56e1d,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1818833,2023-05-28T12:17:38.000Z
+87,ad237364e69bf92fd132ff30644b18b7,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,4236066,2023-05-28T09:49:33.000Z
+88,0f1b736484f9c0478a0f0dac423381d5,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1729633,2023-05-28T09:12:47.000Z
+89,b20f7364f0c0dcf7beda814f56b88fa6,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2471700,2023-05-28T08:24:18.000Z
+90,b75672645db393c27b262d03df51a5d2,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2312867,2023-05-27T19:15:03.000Z
+91,e94972647f0c8314a313d42014a79986,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2674200,2023-05-27T18:20:25.000Z
+92,28367264040436a9795d88b676ee82d8,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3741700,2023-05-27T16:56:08.000Z
+93,212e7264f75c806bee979d855bfd8076,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1496767,2023-05-27T16:21:53.000Z
+94,1a247264fc559ee21797d9bc0c356b64,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2024900,2023-05-27T15:39:06.000Z
+95,fa17726423d1f562a8968b29316d875d,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2821867,2023-05-27T14:47:22.000Z
+96,d30b72642df918cccdbd9d1e8f333eb6,PathOfBFR,False,stronghold_v4,Stronghold V4,2766300,2023-05-27T13:55:31.000Z
+97,5df9716476708af4fa74d14f198ea6f1,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2484300,2023-05-27T12:36:45.000Z
+98,c3ef71645e0fffaa38c566cb8dd7694d,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1771700,2023-05-27T11:55:47.000Z
+99,56e9716449cd6eafa915fdf5357b9977,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1368267,2023-05-27T11:28:22.000Z
+100,81d67164fda820ce3620d96776ba78f0,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1904633,2023-05-27T10:08:01.000Z
+101,f3c57164716a4bd329326294f08b1a4c,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1922267,2023-05-27T08:57:23.000Z
+102,5ce9706451c78bc885990d4efdfd8bee,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3056333,2023-05-26T17:16:12.000Z
+103,4be370646dc800782f04e01324165d6d,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1172867,2023-05-26T16:50:19.000Z
+104,70dc70649e32d9e0594b8f0d259aa70f,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1146700,2023-05-26T16:21:04.000Z
+105,39ca7064805d3964fde3cf2f3d5eea20,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3160500,2023-05-26T15:03:21.000Z
+106,9fc070649f34e59c482c89e4a83f6c0a,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1910533,2023-05-26T14:22:23.000Z
+107,40b970640c0c6e2af666ab83d2dbefd2,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1356400,2023-05-26T13:50:56.000Z
+108,99aa7064384d2627af478b470fed67f0,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3058867,2023-05-26T12:48:25.000Z
+109,63376e64147af3bcce09f2bbe83ef047,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2621700,2023-05-24T16:12:19.000Z
+110,b6296e645664849ace437d43b77ddb81,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2989700,2023-05-24T15:13:58.000Z
+111,d81b6e647de0880495e247fc7e9ace14,PathOfBFR,False,flats_and_forests_v2.1,Flats and Forests v2.1,2394600,2023-05-24T14:14:48.000Z
+112,ca086e64d96ad18dc05ac5fe95bbf318,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3126633,2023-05-24T12:53:30.000Z
+113,f3dc6c64cf20dbdc1b2d4ca818248956,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,802133,2023-05-23T15:34:11.000Z
+114,5bd66c64aba55714bc2d0fdaf533019e,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1279767,2023-05-23T15:06:03.000Z
+115,acc06c645a325345a24f65509f956a3d,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2884733,2023-05-23T13:33:32.000Z
+116,558f6b64cbdbc674bab0604042159032,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1464833,2023-05-22T15:50:45.000Z
+117,6d856b64e8bfdea101f05c35be4bc202,PathOfBFR,False,flats_and_forests_v2.1,Flats and Forests v2.1,1785400,2023-05-22T15:08:29.000Z
+118,fd7f6b6466bd927a4e1ccc8816e68228,PathOfBFR,True,dsdr_4.1,DSDR 4.1,593233,2023-05-22T14:45:17.000Z
+119,9f796b6488a2b0a5a97deaff0bcd8f6b,PathOfBFR,False,koom_valley_3_3.1,Koom Valley 3 3.1,1261700,2023-05-22T14:18:07.000Z
+120,4b3a6a64229cc9cceaf0fc480f6127c6,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3592333,2023-05-21T15:35:39.000Z
+121,da196a64967f394dbb04f69db28ee35e,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2664133,2023-05-21T13:17:14.000Z
+122,96146a64c074822d0e80806e9b4aacfd,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1015533,2023-05-21T12:54:46.000Z
+123,a2096a64e2a5ac7d2bdfd4fd9ba48ccd,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2112834,2023-05-21T12:08:02.000Z
+124,c2ef696409676708b335108aad5d32f1,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2386367,2023-05-21T10:17:38.000Z
+125,13e4696448b73e49a4685bc7c68db8ea,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2049733,2023-05-21T09:27:47.000Z
+126,50c86964de7dadcb06dc11936205620f,PathOfBFR,True,all_that_glitters_v2.1,All That Glitters v2.1,3409767,2023-05-21T07:29:20.000Z
+127,9fc26964addd159d8cc109849fdf4367,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1207033,2023-05-21T07:05:03.000Z
+128,e9b5696481d3f44769f4783d3bd01f6a,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2528733,2023-05-21T06:10:49.000Z
+129,6e0869646928165dc33109c589edc58a,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2454567,2023-05-20T17:50:38.000Z
+130,d6fe68644f3b0982a299f0cb3fcfce85,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2127433,2023-05-20T17:09:42.000Z
+131,26ed6864f6bf00c6c7bd7e90884088fa,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1705567,2023-05-20T15:54:14.000Z
+132,7ee16864d81cddfdf79570996f53f51e,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2567767,2023-05-20T15:04:30.000Z
+133,6bd36864d89e682767790c82ae15bb1b,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3179033,2023-05-20T14:04:27.000Z
+134,e8ca6864f8d5c455be809baf1f091f78,PathOfBFR,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1661467,2023-05-20T13:28:08.000Z
+135,11b16764caae410b4ede773bee77dca1,PathOfBFR,True,eight_horses_1.2,Eight Horses 1.2,3106900,2023-05-19T17:25:37.000Z
+136,349167644b41f48b8d62a22c5c776a1e,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2361400,2023-05-19T15:09:40.000Z
+137,f38a6764cdc3e9d8631cc0529c54a2fa,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1257433,2023-05-19T14:42:59.000Z
+138,e495606435b826b013e09bb7883ac1b4,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2767367,2023-05-14T08:03:48.000Z
+139,61a75f6419776681daba9a239a504003,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3780567,2023-05-13T15:06:09.000Z
+140,33855f64f4fda910658eed2e98ca5a43,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,4680433,2023-05-13T12:40:19.000Z
+141,62695f6455781e93dfa663efc5bfd3b9,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2984767,2023-05-13T10:41:38.000Z
+142,ec5c5f648d05a1454416841773597658,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2792267,2023-05-13T09:48:28.000Z
+143,03a45b64d7cb92fec1ca09804cbe063d,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3277800,2023-05-10T14:02:43.000Z
+144,dd045a64d70ed475132bd410177ef0c6,PathOfBFR,False,ice_scream_v2.5,Ice Scream v2.5,2802567,2023-05-09T08:31:24.000Z
+145,d9fe5964c9e83b941a5b8435722c7076,PathOfBFR,True,koom_valley_3_3.1,Koom Valley 3 3.1,1168633,2023-05-09T08:05:45.000Z
+146,70e45964eb57c26f0508135c698c0849,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3215167,2023-05-09T06:13:04.000Z
+147,03df59647e45d688fa83bf4a218ba60d,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1083667,2023-05-09T05:49:55.000Z
+148,33285964c1a31c1c72313cdad8371f48,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2881267,2023-05-08T16:49:55.000Z
+149,b01c5964ef22736450e790120d6a61e0,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2419467,2023-05-08T16:00:48.000Z
+150,b2125964ff58c60d474e7a0dd07cfffa,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1857333,2023-05-08T15:18:10.000Z
+151,f4f25864a107515459a8254d19d1338d,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2914833,2023-05-08T13:02:44.000Z
+152,73e058643a349260dd42297e8a9f92fe,PathOfBFR,False,flats_and_forests_v2.1,Flats and Forests v2.1,1365633,2023-05-08T11:43:47.000Z
+153,01ea57640ebcefc28565254f1be9578c,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2610033,2023-05-07T18:12:17.000Z
+154,d2e15764b17b8cc335cc5d544b306373,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1752633,2023-05-07T17:37:22.000Z
+155,92dc57647bae3ad6c54bb2ede6e16a78,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,956633,2023-05-07T17:14:58.000Z
+156,2dd657642e3aa042c94662217d32a811,PathOfBFR,False,starwatcher_0.9,Starwatcher 0.9,1216367,2023-05-07T16:47:41.000Z
+157,4243576441f89a7688ee090afcb005e3,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2557833,2023-05-07T06:20:50.000Z
+158,6c3557646b8b294791f1f9b3ae45e638,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,634633,2023-05-07T05:21:48.000Z
+159,aa2a576424e586efe724b7b0dfdd7ebc,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2221833,2023-05-07T04:35:54.000Z
+160,5c215764b09400353106e8d96305b837,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1667933,2023-05-07T03:56:12.000Z
+161,da035664bffe98e6dd74e55c8768b709,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3531867,2023-05-06T07:38:02.000Z
+162,e5fd5564a5aa44228a7f25587466e8d9,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1066233,2023-05-06T07:12:37.000Z
+163,82ee5564f8b2f47f8178e7fc2c03cc0c,PathOfBFR,True,Riverrun_V1,Riverrun_V1,2892700,2023-05-06T06:06:58.000Z
+164,54e8556455871c3c08547a5cf1a9d8a2,PathOfBFR,True,starwatcher_0.9,Starwatcher 0.9,1312867,2023-05-06T05:40:36.000Z
+165,381d4d64b5f1211525f15933e99c6827,PathOfBFR,True,koom_valley_3_3.1,Koom Valley 3 3.1,1888467,2023-04-29T13:35:52.000Z
+166,ed124d64a4c5be146007c726a8e1fecf,PathOfBFR,False,koom_valley_3_3.1,Koom Valley 3 3.1,2279800,2023-04-29T12:51:57.000Z
+167,f7cd4c64c92d3557893bea9990c33f6b,PathOfBFR,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1924367,2023-04-29T07:57:43.000Z
+168,19c44c649df2d5a36fc6b6d6977d021d,PathOfBFR,False,Rosetta1.4,Rosetta 1.4,1981400,2023-04-29T07:15:37.000Z
+169,dab74c64b3d2674b6011df6ec244ef60,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,2014667,2023-04-29T06:23:22.000Z
+170,5daf4c64139019e3b4db00b1f161c951,PathOfBFR,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1728433,2023-04-29T05:47:09.000Z
+171,bda54c64706afe82f28c2c0cc994a4b5,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1951800,2023-04-29T05:06:05.000Z
+172,ab134c648242f425b7373cf7107d2a9c,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1873900,2023-04-28T18:42:51.000Z
+173,090a4c643cd3b158dc323d277ca8e728,PathOfBFR,True,all_that_glitters_1.2,All That Glitters v1.2,2029600,2023-04-28T18:01:45.000Z
+174,efff4b6499e40e65de7e1370021ad9c6,PathOfBFR,False,eight_horses_1.2,Eight Horses 1.2,2291900,2023-04-28T17:18:39.000Z
+175,18f74b64eddc5a27819210ef6666142a,PathOfBFR,True,eight_horses_1.2,Eight Horses 1.2,1676900,2023-04-28T16:40:56.000Z
+176,96e74b64b82fa2270dac0ce87d04b398,PathOfBFR,True,all_that_glitters_1.2,All That Glitters v1.2,1161300,2023-04-28T15:34:46.000Z
+177,242b49648104a2fc2127a456419ff8a8,PathOfBFR,True,ice_scream_v2.5,Ice Scream v2.5,3280833,2023-04-26T13:46:12.000Z
+178,be234964a39162f844d8ac2e8b81d070,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1523767,2023-04-26T13:14:38.000Z
+179,6df0476445a2bb354d59fad8a7676b0a,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2107500,2023-04-25T15:23:25.000Z
+180,d0084564bd2cd8ab6c7ba1c4d644ed1d,PathOfBFR,False,forge_v1.4,Forge v1.4,1344367,2023-04-23T10:30:40.000Z
+181,e4f04464890bc7628cc7aa2769e009aa,PathOfBFR,True,dsdr_4.1,DSDR 4.1,2125433,2023-04-23T08:48:36.000Z
+182,f5ea446412100dad416fe85e267ea864,PathOfBFR,True,forge_v1.4,Forge v1.4,1217300,2023-04-23T08:23:17.000Z
+183,f1d344642107302e6a9070d8f66ca38a,PathOfBFR,True,all_that_glitters_1.2,All That Glitters v1.2,2109433,2023-04-23T06:45:05.000Z
+184,86ca4464b7311ba4b600ac62861f6984,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,2175133,2023-04-23T06:04:54.000Z
+185,5bc0446499132ba85da81c86fdb8c6bf,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2069933,2023-04-23T05:21:31.000Z
+186,eee543644256aaf0817360292b723850,PathOfBFR,True,flats_and_forests_v2.1,Flats and Forests v2.1,2062967,2023-04-22T13:49:34.000Z
+187,35df43642a76ccf2bc0f98c2868caab9,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,1332333,2023-04-22T13:20:53.000Z
+188,e0d6436478697cacae3c024219349b79,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1251933,2023-04-22T12:45:20.000Z
+189,ccd0436414283eaff705591ab083255b,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,1010333,2023-04-22T12:19:24.000Z
+190,c5cc4364bb5c5ff30b30f48f06a55bad,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,690567,2023-04-22T12:02:13.000Z
+191,05c1436426dd9a9149ee36818d3b4ace,PathOfBFR,False,carrot_mountains_v1.0,Carrot Mountains v1.0,2256400,2023-04-22T11:12:05.000Z
+192,6f994364c81b0afd099b1f8f6ac6f883,PathOfBFR,True,koom_valley_3_3.1,Koom Valley 3 3.1,2402667,2023-04-22T08:23:11.000Z
+193,fe8e436408d63a2e061e970778cfbb8e,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2162033,2023-04-22T07:38:38.000Z
+194,587f4364fb0b9ff1037191b289bb7104,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,3177767,2023-04-22T06:31:52.000Z
+195,92c84264358339816c3ec15b0ba32ae3,PathOfBFR,False,starwatcher_0.9,Starwatcher 0.9,2393267,2023-04-21T17:32:02.000Z
+196,5cbf4264d55c8e20dcbb08faaa24fe9f,PathOfBFR,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1567667,2023-04-21T16:52:44.000Z
+197,269d42641b7d453b79eeb0640c282fbb,PathOfBFR,True,all_that_glitters_1.2,All That Glitters v1.2,1481400,2023-04-21T14:26:46.000Z
+198,c790426411f8ed32138b534f094bfd13,PathOfBFR,False,flats_and_forests_v2.1,Flats and Forests v2.1,2678033,2023-04-21T13:33:59.000Z
+199,eb804164302286c6774bf79fe8b03811,PathOfBFR,False,hotlips_remake_v3.1,Hotlips Remake v3.1,3653967,2023-04-20T18:14:03.000Z
+200,3a764164ab16908b59e2e71f08d022dd,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2257000,2023-04-20T17:28:26.000Z
+201,dd6a416475037829875f8055c01c9ef1,PathOfBFR,True,sulphur_springs_v1.1,Sulphur Springs v1.1,2466500,2023-04-20T16:39:57.000Z
+202,35f640643cdc25c7c89bdb6cda691893,PathOfBFR,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2652600,2023-04-20T08:22:13.000Z
+203,89f33f644a7873614b0c7e05b2e0306a,PathOfBFR,False,koom_valley_3_3.1,Koom Valley 3 3.1,1796533,2023-04-19T13:58:33.000Z
+204,0ee93f6404cf121d48b2f537cf065303,PathOfBFR,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,2209100,2023-04-19T13:13:50.000Z
+205,79e23f6421d09e28faed481b71a208b4,PathOfBFR,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,926167,2023-04-19T12:45:45.000Z
+206,61d03e644203919e53dde5a5ea12b014,PathOfBFR,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1698000,2023-04-18T17:16:17.000Z
+207,b05d3e64b60ab8714bf1edba7b4c8fc5,PathOfBFR,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2618900,2023-04-18T09:06:56.000Z
+208,40593e64765a13a909ff02949a1509ed,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,861667,2023-04-18T08:48:00.000Z
+209,ed4d3e64ab989d6ce89cddf542e6248e,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,1849300,2023-04-18T07:59:41.000Z
+210,db703d64578077c0d054541e2a73c2e5,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,2150233,2023-04-17T16:16:27.000Z
+211,72673d64c1faa3353456232d6d7467a7,PathOfBFR,False,flats_and_forests_v2.1,Flats and Forests v2.1,1902767,2023-04-17T15:36:18.000Z
+212,435c3d64dc589fba395dcb932b0e6b8e,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,2029867,2023-04-17T14:48:35.000Z
+213,74233c64d534fdf96a95aa275accb58c,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1392733,2023-04-16T16:33:56.000Z
+214,7c193c64a9b9fae85fe5f606cbab9289,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2183400,2023-04-16T15:51:24.000Z
+215,c6103c64ba68a3c46adf8844c91c8e94,PathOfBFR,True,pawn_retreat_1.2,Pawn Retreat 1.2,1743267,2023-04-16T15:14:14.000Z
+216,8c073c648d9e7c09dda2b7fd57fc7f23,PathOfBFR,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1836067,2023-04-16T14:34:52.000Z
+217,f9f73b64c268b0178fc00ddff70e34cd,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3041300,2023-04-16T13:28:25.000Z
+218,16ee3b641a7d114bb09ed362fb9ede54,PathOfBFR,False,eight_horses_1.2,Eight Horses 1.2,2160833,2023-04-16T12:46:14.000Z
+219,f9e73b64c57f020d82844b863a23304d,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1217833,2023-04-16T12:20:09.000Z
+220,54d43a64f5ed82bc3f9a254f60e993ca,PathOfBFR,True,all_that_glitters_1.2,All That Glitters v1.2,1533233,2023-04-15T16:44:04.000Z
+221,73d03a64042528b7680b3f23302c5bec,PathOfBFR,True,forge_v1.4,Forge v1.4,623700,2023-04-15T16:27:31.000Z
+222,4e653a64293aab47d0932c44d2147112,PathOfBFR,True,supreme_strait_v1.4,Supreme Strait v1.4,1781700,2023-04-15T08:50:22.000Z
+223,50553a645e99e167f2a751afcb6f8f8b,PathOfBFR,False,carrot_mountains_v1.0,Carrot Mountains v1.0,3680567,2023-04-15T07:42:08.000Z
+224,d0423a647f488b676849270a252b5522,PathOfBFR,True,darkside_v3.0,Darkside v3.0,2267633,2023-04-15T06:23:12.000Z
+225,7f903964db6ab6db03968fac7bda010e,PathOfBFR,True,flats_and_forests_v2.1,Flats and Forests v2.1,2145300,2023-04-14T17:42:23.000Z
+226,3c833964a3bf17ede101e1eb1164463b,PathOfBFR,False,supreme_strait_v1.4,Supreme Strait v1.4,3117600,2023-04-14T16:45:48.000Z
+227,925e39646d03e0a98fd41bceb8f2738b,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2203367,2023-04-14T14:09:22.000Z
+228,775339647312c6820ae3bc765892b3bc,PathOfBFR,False,all_that_glitters_1.2,All That Glitters v1.2,2510533,2023-04-14T13:21:59.000Z
+229,c54228641ad7f74cf576866e153b4ff5,PathOfBFR,True,dsdr_4.1,DSDR 4.1,2464933,2023-04-01T14:42:13.000Z
+230,9a2f2864a52af682c2731eefa9c67ef7,PathOfBFR,True,pawn_retreat_1.2,Pawn Retreat 1.2,2160667,2023-04-01T13:20:26.000Z
+231,4c0727647ea1d1fd0e7d670d9696e19f,PathOfBFR,True,koom_valley_3_3.1,Koom Valley 3 3.1,2390267,2023-03-31T16:16:12.000Z
+232,73fe2664d24628465b5c1f2d017f8ad1,PathOfBFR,True,supreme_strait_v1.3,Supreme Strait v1.3,1949000,2023-03-31T15:38:27.000Z
+233,a9f626649053a75a32cc31575c3c63da,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1498567,2023-03-31T15:05:13.000Z
+234,3eee266420d0a1c4e7593915e1dd5246,PathOfBFR,False,FolsomdamR_1.16,FolsomDamR 1.16,1570967,2023-03-31T14:29:18.000Z
+235,85e52664684fa82c38dd86b079b1afd7,PathOfBFR,False,copper_hill_v1,Copper Hill v1,1976333,2023-03-31T13:52:05.000Z
+236,45572464e5c40637c38c830cef72fa67,PathOfBFR,True,supreme_strait_v1.3,Supreme Strait v1.3,2043033,2023-03-29T15:20:37.000Z
+237,234a2464e084b335e9b0839cf2059c2d,PathOfBFR,False,supreme_strait_v1.3,Supreme Strait v1.3,3059467,2023-03-29T14:24:35.000Z
+238,20432464a9759aa3a36f59e67d1a5124,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1476467,2023-03-29T13:54:40.000Z
+239,5d3d246407e1a15001591f6ed2ede6ad,PathOfBFR,True,forge_v1.4,Forge v1.4,1123367,2023-03-29T13:30:05.000Z
+240,c2f6226414a0091b58822448926f85de,PathOfBFR,True,supreme_strait_v1.3,Supreme Strait v1.3,3759000,2023-03-28T14:16:34.000Z
+241,8deb22646fd8ce4f99cc266e7d1e4727,PathOfBFR,True,flats_and_forests_v2.1,Flats and Forests v2.1,2316933,2023-03-28T13:28:45.000Z
+242,3f401f6490c481be0787024e152322d3,PathOfBFR,True,lightside_darkside_v2.0,Lightside Darkside v2.0,2594500,2023-03-25T18:41:03.000Z
+243,ee321f64156eec8004f43a7c7c9995e9,PathOfBFR,False,Riverrun_V1,Riverrun_V1,2358000,2023-03-25T17:44:14.000Z
+244,62d41d64f30580eb0402082c50354b24,PathOfBFR,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1700033,2023-03-24T16:48:34.000Z
+245,79c01d64682af296fae4512152e48e74,PathOfBFR,True,forge_v1.4,Forge v1.4,2246400,2023-03-24T15:23:37.000Z
+246,b2b21d64e0e7a30f0680fa778332a219,PathOfBFR,True,starwatcher_0.9,Starwatcher 0.9,3101600,2023-03-24T14:24:50.000Z
+247,2f7d1c64a4b5fce92d289f85b7fccae8,PathOfBFR,False,Tau12,Tau12,1789333,2023-03-23T16:24:15.000Z
+248,05751c646e59e4868a6db567d47b037b,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1249267,2023-03-23T15:49:25.000Z
+249,b36b1c64c2afc3030d2aa9bbe59f025d,PathOfBFR,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1589333,2023-03-23T15:09:39.000Z
+250,80651c6464cc71b6b7d96c362dbceceb,PathOfBFR,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1066800,2023-03-23T14:43:12.000Z
+251,585f1c64dd821a50c44494b7a909d728,PathOfBFR,False,valles_marineris_2.6,Valles Marineris 2.6,1199133,2023-03-23T14:16:56.000Z
+252,8d581c640b8cb68dc42b3d300149dc4d,PathOfBFR,True,altair_crossing_V4,Altair_Crossing_V4,1081967,2023-03-23T13:47:57.000Z
+253,6d521c64fd483c8a08987b4bdc0e75c5,PathOfBFR,True,death_valley_v1,Death Valley v1,1145267,2023-03-23T13:21:49.000Z
+254,b74a1c64d0d8dac42bd0daca68776b9d,PathOfBFR,False,silveridge_v1,Silveridge v1,2039500,2023-03-23T12:48:55.000Z
+255,891b1b646000ad3cbd26ca074f0293cc,PathOfBFR,True,Rosetta1.4,Rosetta 1.4,1870933,2023-03-22T15:15:21.000Z
+256,4b111b6444da613c7f479ccacbfa9376,PathOfBFR,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2051533,2023-03-22T14:31:39.000Z
+257,49081b64e232cc1b47fef5ad53a91c44,PathOfBFR,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1544833,2023-03-22T13:53:13.000Z
+258,35c61964ee9d760970fdd15981855db2,PathOfBFR,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1626567,2023-03-21T14:59:01.000Z
+259,ff7b186425100b8d00eaadb297565d97,PathOfBFR,True,all_that_glitters_1.2,All That Glitters v1.2,2950667,2023-03-20T15:30:07.000Z
+260,74781864d2ba1138ae8063ff74a3fd7b,PathOfBFR,True,theta_crystals_1.0,Theta Crystals 1.0,527400,2023-03-20T15:15:00.000Z
+261,8e311764863631f47704e94c876f8234,PathOfBFR,False,pentos_v1,Pentos_V1,3519167,2023-03-19T16:00:14.000Z
+262,788ef763a164d62d2eae5d4bcb683a63,PathOfBFR,False,pawn_retreat_1.2,Pawn Retreat 1.2,1216500,2023-02-23T16:04:08.000Z
+263,7081f763e750b3a7b14d63b145061ab1,PathOfBFR,False,pawn_retreat_1.2,Pawn Retreat 1.2,2858567,2023-02-23T15:08:32.000Z
+264,0740f263a29a35c9dc53e4b7ddd0b0b0,PathOfBFR,False,supreme_strait_v1.3,Supreme Strait v1.3,1477233,2023-02-19T15:28:07.000Z
+265,0ffef063cc29ab05d5dffd30911493ad,PathOfBFR,True,supreme_strait_v1.3,Supreme Strait v1.3,1617500,2023-02-18T16:34:23.000Z
+266,b7f6f06367118f5a2341c411151f3306,PathOfBFR,False,forge_v1.4,Forge v1.4,1610067,2023-02-18T16:03:03.000Z

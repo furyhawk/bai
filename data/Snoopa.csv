@@ -1,0 +1,489 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,9f0fa164aaff8e8c4540afbd8f52c0a9,Snoopa,True,white_fire_remake_1.2,White Fire Remake 1.2,1847967,2023-07-02T05:48:15.000Z
+1,5105a164dba03ad2691de20b34cc32d7,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,2022167,2023-07-02T05:04:17.000Z
+2,0901a164053f745a1bd0a1ec2f3bf894,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,658367,2023-07-02T04:46:01.000Z
+3,ef7f9f6423b4ac08f02af4a9f9c1c7ff,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1499900,2023-07-01T01:22:55.000Z
+4,1d789f649df62c4fe69a1d8c2c79c4e1,Snoopa,False,dsdr_4.1,DSDR 4.1,1187967,2023-07-01T00:49:33.000Z
+5,8b709f64196bfd2b5307466c2216620c,Snoopa,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1419800,2023-07-01T00:17:15.000Z
+6,1f679f643ab090679f7c32bfa9002d53,Snoopa,False,ascendancy_v2.0,Ascendancy v2.0,1928567,2023-06-30T23:37:03.000Z
+7,b6d39e64c46d320db76ab302493326ce,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2566033,2023-06-30T13:08:06.000Z
+8,c2c99e640eb1743ebd323f6829ce0f77,Snoopa,False,great_divide_v1,Great Divide V1,1351600,2023-06-30T12:25:38.000Z
+9,49739d64f035006ac76a7ebc65c26d5a,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1179667,2023-06-29T12:04:25.000Z
+10,626e9d6472deb6abe2d77739fe59b71b,Snoopa,False,dsdr_4.1,DSDR 4.1,726433,2023-06-29T11:43:30.000Z
+11,b9189c64163d5657f9f111508a64fb04,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,989400,2023-06-28T11:25:45.000Z
+12,160d9c6439badce4faa09051de833151,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,2658967,2023-06-28T10:36:06.000Z
+13,fe059c640d60fcae4ed9203ed24ab70b,Snoopa,False,dsdr_4.1,DSDR 4.1,1082833,2023-06-28T10:05:50.000Z
+14,46c09a64b25e64ea58f6972685f4ac54,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1071100,2023-06-27T10:56:06.000Z
+15,53b89a64dd4aa124b23ec1a7c6040392,Snoopa,True,Rosetta1.4,Rosetta 1.4,1527300,2023-06-27T10:22:11.000Z
+16,d5ae9a64c76ab0dbe18acbddd47a8008,Snoopa,False,white_fire_remake_1.1,White Fire Remake 1.1,1758767,2023-06-27T09:41:41.000Z
+17,91a79a647cfa2b2ab5be2c1f23138295,Snoopa,False,white_fire_remake_1.1,White Fire Remake 1.1,1252500,2023-06-27T09:10:41.000Z
+18,1d9f9a6491ddc582aa852e36f48fb514,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1699600,2023-06-27T08:34:37.000Z
+19,73569a644e11f8fa706db40113dbca75,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,946367,2023-06-27T03:24:35.000Z
+20,b8519a646fef6b2ddd08aa1fd49b8f6e,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,864633,2023-06-27T03:04:24.000Z
+21,db759964d6c470ab3a6077fe6ecef686,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1304867,2023-06-26T11:26:19.000Z
+22,fc6f996414079c617758f55703197425,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,986100,2023-06-26T11:01:16.000Z
+23,1861996402cf03965f1d8b661c5b7e89,Snoopa,False,dsdr_4.1,DSDR 4.1,3172800,2023-06-26T09:57:44.000Z
+24,ee2598646e8ada60f61f89d9f884eb73,Snoopa,True,dsdr_4.1,DSDR 4.1,3033833,2023-06-25T11:33:02.000Z
+25,eb1f98643ea26ce0fa39beb994c7b7a7,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1041400,2023-06-25T11:07:23.000Z
+26,b0f797641202a63648dd98c5f3aa3ac7,Snoopa,True,Rosetta1.4,Rosetta 1.4,885600,2023-06-25T08:15:44.000Z
+27,64f297646b79ee113627b99737e0ae7e,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,965433,2023-06-25T07:53:08.000Z
+28,bde79764357f61b22d6eaacfd569fe71,Snoopa,False,ascendancy_v2.0,Ascendancy v2.0,2272633,2023-06-25T07:07:41.000Z
+29,a7e39764f514df395a91518a8da47e36,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,709600,2023-06-25T06:50:15.000Z
+30,c0d797648770b7375e68867f260ac965,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,2417367,2023-06-25T05:59:28.000Z
+31,efca97641f516ed5710886b4c4208223,Snoopa,True,starwatcher_1.0,Starwatcher 1.0,2811800,2023-06-25T05:04:47.000Z
+32,c7b99764322050a38a3fb9f651b29307,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,3393533,2023-06-25T03:51:35.000Z
+33,69b29764c4f06fd922fb1d19982e59e9,Snoopa,False,ascendancy_v2.0,Ascendancy v2.0,1073767,2023-06-25T03:20:09.000Z
+34,3fa9976446d8a7d123e5f24f467a6bd8,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1765700,2023-06-25T02:41:03.000Z
+35,109697646a2869307b7a854ac2c40c76,Snoopa,True,theta_crystals_1.0,Theta Crystals 1.0,1164967,2023-06-25T01:19:12.000Z
+36,4e8e97640db73fb45405d14e97c4f6ff,Snoopa,True,theta_crystals_1.0,Theta Crystals 1.0,1601333,2023-06-25T00:46:06.000Z
+37,e8879764aa4829952e54dee95bd512b0,Snoopa,False,theta_crystals_1.0,Theta Crystals 1.0,1255833,2023-06-25T00:18:48.000Z
+38,2582976460258b4a2e5412b0b1f52f4f,Snoopa,True,theta_crystals_1.0,Theta Crystals 1.0,1196767,2023-06-24T23:54:13.000Z
+39,cb7d976433678b0871c11e59ed0a44a3,Snoopa,True,theta_crystals_1.0,Theta Crystals 1.0,802167,2023-06-24T23:35:39.000Z
+40,fad6966480387da3f524b8a1435832ad,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,4212633,2023-06-24T11:43:54.000Z
+41,19be966414743afc51af9460ea65baf3,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2642833,2023-06-24T09:57:45.000Z
+42,e8aa9664c6d46ebd647bae1a97f818e4,Snoopa,False,darkside_v3.0,Darkside v3.0,1081767,2023-06-24T08:35:52.000Z
+43,b2a396646ad578a5215c849fad7965b9,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1469700,2023-06-24T08:05:06.000Z
+44,e09796643739bf0b651454bb3e2fb815,Snoopa,False,NuclearWinterR,Nuclear Winter Bar 1.4,1941900,2023-06-24T07:14:40.000Z
+45,e090966411e171e9b5aa477b6d7aeef2,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1288700,2023-06-24T06:44:48.000Z
+46,ab8b966432745b132a2a492dcb05f9c9,Snoopa,False,hotlips_remake_v3.1,Hotlips Remake v3.1,786833,2023-06-24T06:22:35.000Z
+47,a785966482462abb47845a5a42cfffd2,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,947833,2023-06-24T05:56:55.000Z
+48,ed399664c7f34c46d9e09d5d26a74cdb,Snoopa,False,dsdr_4.1,DSDR 4.1,1818567,2023-06-24T00:33:49.000Z
+49,13349664c33fda8a62c6cb76b2149b22,Snoopa,False,dsdr_4.1,DSDR 4.1,889600,2023-06-24T00:08:51.000Z
+50,9a9a9564bb3766d08686649c2a1f1b19,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1076800,2023-06-23T13:14:02.000Z
+51,15929564c8a449e2498445102f7a201c,Snoopa,True,forge_v1.4,Forge v1.4,1510933,2023-06-23T12:37:41.000Z
+52,58419564cc68eb574c2e1f163833d128,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,1047700,2023-06-23T06:53:12.000Z
+53,f0379564890aba9d3e114d3294d11803,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2020567,2023-06-23T06:13:04.000Z
+54,1b3195646ca9b694d38cd217280ccbb4,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1436067,2023-06-23T05:43:55.000Z
+55,8b0a9564a4bfd0f1e47467cc2b92fd76,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,1029267,2023-06-23T02:59:23.000Z
+56,47049564a7fbf727d09b47178f9ea1f7,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1142500,2023-06-23T02:32:39.000Z
+57,e73394642a149a840e24b22b3c81fe01,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,952867,2023-06-22T11:43:35.000Z
+58,812a94646b1b4e2ef6cd3a08c48f378e,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1645967,2023-06-22T11:03:29.000Z
+59,052494646ca67fa95b0e5e1d1a22d9d7,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1190633,2023-06-22T10:35:49.000Z
+60,db1f94645e8b846a6b8c5654003d2ede,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,734433,2023-06-22T10:18:03.000Z
+61,1c199464429e27d71314803a4dd50c44,Snoopa,False,pawn_retreat_1.2,Pawn Retreat 1.2,1312933,2023-06-22T09:49:16.000Z
+62,dc1194641ae00ca88a7d3a0231bef461,Snoopa,True,angel_crossing_1.5,Angel Crossing 1.5,1324633,2023-06-22T09:18:20.000Z
+63,4e0c946413b126f92c68afbd732038b3,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,676133,2023-06-22T08:54:38.000Z
+64,10df92643c040f33c2f699e29d84bae3,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,3168867,2023-06-21T11:29:20.000Z
+65,7ccc9264e1744b047b7ec329bfa5e08c,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1092833,2023-06-21T10:10:04.000Z
+66,c1c39264ef48610e38ddcd48c160eec7,Snoopa,False,ascendancy_v2.0,Ascendancy v2.0,1798500,2023-06-21T09:32:49.000Z
+67,4fba926440398fe009cfc2e82351747e,Snoopa,False,ice_scream_v2.5,Ice Scream v2.5,1762467,2023-06-21T08:52:31.000Z
+68,12b0926451534f50d9ba5e026c2edef0,Snoopa,True,Sunderance V1.3,Sunderance V1.3,2156767,2023-06-21T08:08:50.000Z
+69,ab5f92647e441daa37217e491f921da7,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,2956233,2023-06-21T02:25:47.000Z
+70,7d9c9164f4df31cb6dfb00901ac43cba,Snoopa,False,sulphur_springs_v1.1,Sulphur Springs v1.1,988767,2023-06-20T12:33:01.000Z
+71,db95916460861f5f7140f2a0eec0ea58,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1301533,2023-06-20T12:04:43.000Z
+72,c02d9064f149e8b381479dec9012fa16,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1567900,2023-06-19T10:28:16.000Z
+73,571f90647105729ad6f6cbbf0b9e4be1,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,3184700,2023-06-19T09:26:47.000Z
+74,dd1590642c1bce68a7bcd8e81162ccf5,Snoopa,True,Rosetta1.4,Rosetta 1.4,1295767,2023-06-19T08:46:21.000Z
+75,50119064945ae0b68cd47fe00efbf48e,Snoopa,True,Tau12,Tau12,651567,2023-06-19T08:26:56.000Z
+76,0f079064a5ff5ac937c68c3c1efd8191,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1020633,2023-06-19T07:43:11.000Z
+77,18dc8f64e9c88b979bae085b680a8ecb,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,1535500,2023-06-19T04:39:52.000Z
+78,99da8e64a8d5e4706a7f41d3d0a71369,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1413867,2023-06-18T10:21:13.000Z
+79,73ce8e64e27db4c57873b7bed0a6c9a2,Snoopa,True,Rosetta1.4,Rosetta 1.4,2506967,2023-06-18T09:29:23.000Z
+80,aec18e648858fd84eac4f52aaa918424,Snoopa,True,starwatcher_1.0,Starwatcher 1.0,2738000,2023-06-18T08:34:54.000Z
+81,7aba8e64fceb8eb37bd429e0de8d191e,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,839667,2023-06-18T08:04:10.000Z
+82,65b28e64d18b01bfd0212f5924bbe521,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1604333,2023-06-18T07:29:41.000Z
+83,9fac8e645c5942a9c90378a6e8e01a6c,Snoopa,False,forge_v1.4,Forge v1.4,991833,2023-06-18T07:05:03.000Z
+84,eaac8d64304da0cee7cd32a06bb88d5d,Snoopa,True,sertagatta_v6.0,Sertagatta v6.0,1004000,2023-06-17T12:54:02.000Z
+85,92a48d64807cd0588c56f8722174ef00,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2898000,2023-06-17T12:18:26.000Z
+86,d81f8d64d63c22965472a5cad8e6cd97,Snoopa,False,forge_v1.4,Forge v1.4,2122033,2023-06-17T02:52:08.000Z
+87,60198d64af059f629488bc809a9643fd,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1222033,2023-06-17T02:24:32.000Z
+88,79098d648240f3e093dfa2a13fb37154,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1984800,2023-06-17T01:16:41.000Z
+89,ec008d64ecadfc1da9ab52043c0ea3f4,Snoopa,False,dsdr_4.1,DSDR 4.1,1804467,2023-06-17T00:40:12.000Z
+90,41f48c648887ea6944c09c1a0946b6b3,Snoopa,True,forge_v1.4,Forge v1.4,2712533,2023-06-16T23:46:09.000Z
+91,6b398c64f4be1d5b1657d5522b76a04d,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1348800,2023-06-16T10:28:59.000Z
+92,3f2f8c64ba98dfaebaa6c2f13aa8c605,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1719567,2023-06-16T09:45:35.000Z
+93,99288c641562db6aadd2504d34b639ac,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,885667,2023-06-16T09:17:13.000Z
+94,8c1d8c648dd68c1dec5f8ef1bdb6ca67,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1930000,2023-06-16T08:30:04.000Z
+95,cdf08a645878c4d59626955674341be5,Snoopa,True,Rosetta1.4,Rosetta 1.4,1911667,2023-06-15T11:06:53.000Z
+96,1adf8a6471120dad635f254d3646d674,Snoopa,False,forge_v1.4,Forge v1.4,1238733,2023-06-15T09:51:22.000Z
+97,06d28a6402c7bc16c206bae661f4d49c,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,2272733,2023-06-15T08:55:34.000Z
+98,0d448864f8328cfedec5597f1c731690,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2014667,2023-06-13T10:25:17.000Z
+99,dc3c886432675c27979ae43e3b2f6a7e,Snoopa,True,pawn_retreat_1.2,Pawn Retreat 1.2,1390833,2023-06-13T09:54:36.000Z
+100,b037886499df91d760ea270832b615d0,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,890600,2023-06-13T09:32:32.000Z
+101,773188646435067c64905d25acf44cf2,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1119833,2023-06-13T09:05:59.000Z
+102,be2b8864cad167637447fbe699b4c80d,Snoopa,True,ascendancy_v1.1,Ascendancy v1.1,1012633,2023-06-13T08:41:34.000Z
+103,dc1b8864acdd2d0c70f80e13f53e7e2e,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,3102300,2023-06-13T07:33:48.000Z
+104,800d8864d99d9e00c9efb152fd99d408,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,3201700,2023-06-13T06:32:32.000Z
+105,4ce587643b03b08329ed14dc92de521a,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1328433,2023-06-13T03:41:00.000Z
+106,5ddb8764f634002ecec50f561e539e10,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,2229533,2023-06-13T02:58:37.000Z
+107,d4fb866415a5b69986fef664938adf3f,Snoopa,True,ascendancy_v1.1,Ascendancy v1.1,826600,2023-06-12T11:04:52.000Z
+108,9bf28664865d697ad950bffae3bf69a8,Snoopa,True,dsdr_4.1,DSDR 4.1,2019733,2023-06-12T10:25:31.000Z
+109,a9cd8664df1f0a9c0728de645772a767,Snoopa,True,Rosetta1.4,Rosetta 1.4,1288433,2023-06-12T07:47:53.000Z
+110,2dc586644dabf1eb98c1884c3c3f8549,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1752700,2023-06-12T07:11:41.000Z
+111,d5b68664a66b3be6b6edad62cccdb84d,Snoopa,False,dsdr_4.1,DSDR 4.1,2779867,2023-06-12T06:10:29.000Z
+112,29b186643c2b7f1ce718035aa40cde04,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,779833,2023-06-12T05:46:17.000Z
+113,cca78664a8fd302dbefa7770b9fd6fbe,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1930667,2023-06-12T05:06:20.000Z
+114,5b90866416342ca1ec95afe21069b10d,Snoopa,False,forge_v1.4,Forge v1.4,737533,2023-06-12T03:26:19.000Z
+115,5c87866487a89f7fd5123be6945cbee7,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1649933,2023-06-12T02:47:56.000Z
+116,47818664a2043ea16997d0f7277e5895,Snoopa,True,Rosetta1.4,Rosetta 1.4,1036600,2023-06-12T02:21:59.000Z
+117,287c8664645f574b461d343908128c5c,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,781300,2023-06-12T02:00:08.000Z
+118,cf748664f04a4b38898c46a498b57d49,Snoopa,False,forge_v1.4,Forge v1.4,1378333,2023-06-12T01:28:47.000Z
+119,2c9885642118238b1acde7dfe171571d,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,3177300,2023-06-11T09:47:24.000Z
+120,d68f8564bfa3f80152b547bd274b931f,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1584800,2023-06-11T09:11:50.000Z
+121,f3888564f65bedebbf542e2783f01241,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1435733,2023-06-11T08:42:27.000Z
+122,d9818564b39acaf87b478626ee9a33a0,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1478867,2023-06-11T08:12:09.000Z
+123,b6538564afdfc6ac27e3fd2e49a13b48,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2184367,2023-06-11T04:55:18.000Z
+124,ac4c8564d1579ebe0aa08917e419b85f,Snoopa,True,forge_v1.4,Forge v1.4,1251967,2023-06-11T04:25:16.000Z
+125,bd42856417ef57b3f0f61021a6c850e3,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,2030933,2023-06-11T03:42:53.000Z
+126,92338564c2fee458fa1dca07f68b4f35,Snoopa,False,ascendancy_v1.1,Ascendancy v1.1,3323300,2023-06-11T02:38:10.000Z
+127,972a85644db62c25c61a252a5497df6b,Snoopa,True,ascendancy_v1.1,Ascendancy v1.1,1664967,2023-06-11T01:59:51.000Z
+128,ef1d856440f7fc4f608e18aafea4d137,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2579500,2023-06-11T01:05:51.000Z
+129,d91485645ef9e189063cc550f8e7532a,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1862833,2023-06-11T00:27:05.000Z
+130,5b5c8464d82bc41c2510e90894696ac6,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2492300,2023-06-10T11:19:55.000Z
+131,ed528464fdf335adda44894ba3b1b140,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,2109167,2023-06-10T10:39:41.000Z
+132,794a8464f4c51c69559df39b19ec0d6c,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1467033,2023-06-10T10:03:37.000Z
+133,a62b8464bbdb2c904886cc13efc687c5,Snoopa,True,starwatcher_1.0,Starwatcher 1.0,2996367,2023-06-10T07:52:06.000Z
+134,4c108464a939416f5485a3c6f82836ae,Snoopa,False,Rosetta1.4,Rosetta 1.4,1993633,2023-06-10T05:55:24.000Z
+135,57068464548e8f0882ea941d38ff977b,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,1992633,2023-06-10T05:12:55.000Z
+136,3aff8364f478c52561a6d1a2ad93cbdd,Snoopa,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1197400,2023-06-10T04:42:34.000Z
+137,7af98364242ab2a51607955183ab3ac9,Snoopa,False,forge_v1.4,Forge v1.4,936633,2023-06-10T04:18:02.000Z
+138,94f383646e4210abbcdfbacfa48dd50b,Snoopa,False,starwatcher_1.0,Starwatcher 1.0,1059133,2023-06-10T03:52:52.000Z
+139,ceec8364005e95ec7f592e983ee70ea7,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1241567,2023-06-10T03:23:58.000Z
+140,e513836467cfe2478f3a569f07d62124,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1414733,2023-06-09T11:58:29.000Z
+141,060c83642e7c4b0a7c94e81d72ea2aa9,Snoopa,True,Tau12,Tau12,1413233,2023-06-09T11:24:54.000Z
+142,22058364e85a686fa482b931d95e3530,Snoopa,True,forge_v1.4,Forge v1.4,1013067,2023-06-09T10:55:30.000Z
+143,51fb826484efa5b77c0b2d1e781c6cb9,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,2048900,2023-06-09T10:13:37.000Z
+144,91ed82645875e4b01a98ba4cf2d2e620,Snoopa,False,ascendancy_v1.0,Ascendancy v1.0,2124867,2023-06-09T09:14:57.000Z
+145,99e282646c5aa2d2d1169782afadc74f,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,2221267,2023-06-09T08:28:09.000Z
+146,e1ba81640097a4fcfeb0f4407ec5efad,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,2116367,2023-06-08T11:26:25.000Z
+147,6aaf8164bc3f9e594d8a0627773ac99b,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2480500,2023-06-08T10:37:30.000Z
+148,f4a781640543e0f40ee9f2b324a97f34,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1137600,2023-06-08T10:05:40.000Z
+149,2f9f8164397f8832778d1249e33d7a30,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1638700,2023-06-08T09:28:15.000Z
+150,e19081647d64afca962be83a13c88d82,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1296633,2023-06-08T08:27:13.000Z
+151,de658064907d69ddd1bc9bd97a86a676,Snoopa,False,Tempest_V3,Tempest_V3,1685833,2023-06-07T11:11:26.000Z
+152,ab5c8064215cfe41abdc333b223806cc,Snoopa,True,Rosetta1.4,Rosetta 1.4,1743300,2023-06-07T10:32:11.000Z
+153,98538064ffe6f6a6a95d32b3af15a4ea,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1715433,2023-06-07T09:53:28.000Z
+154,ec448064c76c285a3fc380da8313cc66,Snoopa,True,pawn_retreat_1.2,Pawn Retreat 1.2,2052000,2023-06-07T08:50:52.000Z
+155,2d167f6499ffaa06240287aa1018175b,Snoopa,True,dsdr_4.1,DSDR 4.1,2393833,2023-06-06T11:19:09.000Z
+156,35107f643bbf7cbb4215537da252f76a,Snoopa,False,Rosetta1.4,Rosetta 1.4,1132667,2023-06-06T10:53:41.000Z
+157,6c0b7f64e2361b0c58723eb3f7855664,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,835433,2023-06-06T10:33:16.000Z
+158,87027f64a491c8f810687119be71e317,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,1537833,2023-06-06T09:55:19.000Z
+159,c5f67e645aade455633f34d7a2899c9c,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2581067,2023-06-06T09:05:09.000Z
+160,74f27e64f575a720ff11c0d1503985ac,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1787200,2023-06-06T08:46:44.000Z
+161,57c47d64d1f5c392366bef57dfeba86c,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1594667,2023-06-05T11:17:43.000Z
+162,0ebb7d64ab9de1f0c2b332fd59bf8769,Snoopa,False,dsdr_4.1,DSDR 4.1,1457167,2023-06-05T10:38:06.000Z
+163,77b07d64170c5c5ce167f4de78714883,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2343433,2023-06-05T09:52:55.000Z
+164,bca57d642f7d09b400bdec46c1dd3f86,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1877600,2023-06-05T09:07:08.000Z
+165,469d7d6424356e951ea01d0819884cca,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1446567,2023-06-05T08:31:02.000Z
+166,5d827c64de94a75d08fa6aa43a479acd,Snoopa,True,dsdr_4.1,DSDR 4.1,1337933,2023-06-04T12:23:57.000Z
+167,b27b7c64cbbf644617d2a4a2ef99c4f4,Snoopa,True,NuclearWinterR,Nuclear Winter Bar 1.4,929567,2023-06-04T11:55:30.000Z
+168,bc767c647fe5339b391ff2770b9bb83f,Snoopa,True,Tau12,Tau12,790467,2023-06-04T11:34:20.000Z
+169,00617c64e352a5c6473b4b95e10ecbf2,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2517133,2023-06-04T10:01:36.000Z
+170,06517c64ae2402b1e536b9bb700fe4de,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2161867,2023-06-04T08:53:26.000Z
+171,04427c648bd646f81468ed16e2e9b2a9,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,3213733,2023-06-04T07:49:24.000Z
+172,a00e7c64088dba08e29f8768afc28bac,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2979567,2023-06-04T04:10:08.000Z
+173,4efa7b64a7ecc4d256abf7a7f635d3ed,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1645433,2023-06-04T02:43:26.000Z
+174,9cea7b64fdb75b9334fa718f9e149832,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,3445200,2023-06-04T01:36:28.000Z
+175,f5307b64d62500ec08f8d3ed18ab07ba,Snoopa,True,Rosetta1.4,Rosetta 1.4,1605833,2023-06-03T12:24:21.000Z
+176,fe2a7b6461a75c35f2827ab7d2070011,Snoopa,True,Rosetta1.4,Rosetta 1.4,1106800,2023-06-03T11:58:54.000Z
+177,73257b6437f4c4599e71ba105e3149d0,Snoopa,True,NuclearWinterR,Nuclear Winter Bar 1.4,1021967,2023-06-03T11:35:15.000Z
+178,fc167b64823a4497e15838f251aaa029,Snoopa,True,starwatcher_1.0,Starwatcher 1.0,2813800,2023-06-03T10:33:32.000Z
+179,180f7b64ea5e6484c25e6f2b4b2699d9,Snoopa,False,dsdr_4.1,DSDR 4.1,1604833,2023-06-03T09:59:52.000Z
+180,04097b64c421fc0d068e03cc6fc4f24b,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1108467,2023-06-03T09:33:56.000Z
+181,59fd7a6439715b8171079290707e01cf,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1937533,2023-06-03T08:44:09.000Z
+182,5ef67a649a5236fccaafd6da67c9c2be,Snoopa,False,starwatcher_1.0,Starwatcher 1.0,1451833,2023-06-03T08:14:22.000Z
+183,b0e07a64054c693096181f4c22629b5a,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2452900,2023-06-03T06:41:52.000Z
+184,8bda7a64a6fbf6b3deea0b291887d1c1,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1223467,2023-06-03T06:15:39.000Z
+185,7ecd7a64396ec4f7445bdb6246ee2282,Snoopa,True,thermal_shock_v1.1,Thermal Shock v1.1,2645867,2023-06-03T05:19:58.000Z
+186,52be7a6449080878af8a03c1dbac32e4,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,2817333,2023-06-03T04:15:14.000Z
+187,eeb17a6482e3a2e6cbffed98e4c8bdbf,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,2610833,2023-06-03T03:22:22.000Z
+188,e9a37a642cdf91f9a24f13e0573e3366,Snoopa,False,dsdr_4.1,DSDR 4.1,2816700,2023-06-03T02:22:33.000Z
+189,b5997a6450d2f3b6f55cfa4e7fbf8a2b,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2240133,2023-06-03T01:39:01.000Z
+190,4d767a64c29dec9359875063387429eb,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2902767,2023-06-02T23:07:57.000Z
+191,f0d57964cb7fb0b83e8cdcc82b24a617,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2442800,2023-06-02T11:43:44.000Z
+192,3ccf7964cea1fc1745451bd93a0e3610,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1323967,2023-06-02T11:15:08.000Z
+193,1fc97964d99b9ab087b896baf447d1cd,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,980200,2023-06-02T10:49:03.000Z
+194,b3ba79645bae2a23e16e06b1cb825eee,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1637133,2023-06-02T09:47:31.000Z
+195,0aa97964eef5d9ab3cbb985250eeda94,Snoopa,True,starwatcher_1.0,Starwatcher 1.0,3734967,2023-06-02T08:32:10.000Z
+196,61667864984c345f4d9dd171e682c837,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2203700,2023-06-01T09:35:29.000Z
+197,ce5d7864bd8bcc1c8891a4087dca0e43,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1743933,2023-06-01T08:58:54.000Z
+198,46547864736f616905346f89ad065f65,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1575400,2023-06-01T08:18:14.000Z
+199,782977644ee60b7e2fca380b51aac3d3,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1138667,2023-05-31T11:03:20.000Z
+200,a021776403d7fda2466ecb3632318c0a,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1666033,2023-05-31T10:29:52.000Z
+201,741677648b00bfe1d1c7495015363d18,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1992367,2023-05-31T09:42:12.000Z
+202,770977643811c9af857a4ff05473f59e,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2838600,2023-05-31T08:46:47.000Z
+203,4ede7564925940c67c030fc8c2c9e5c3,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1639967,2023-05-30T11:30:22.000Z
+204,f2ce7564108e7aedc89751c9a01c1160,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2316900,2023-05-30T10:24:50.000Z
+205,e0ca75641eeb71f4a148adab51cd7deb,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,638900,2023-05-30T10:07:28.000Z
+206,d9c27564a17e5fa0e0840be8d042b72b,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1532567,2023-05-30T09:33:13.000Z
+207,dab57564dc7fab011c913286a8309c6a,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,2906600,2023-05-30T08:37:46.000Z
+208,5a9a746421d16c204179224254253261,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,3014500,2023-05-29T12:28:10.000Z
+209,bb897464d0e79846fec86e468eae034a,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1999433,2023-05-29T11:17:15.000Z
+210,fd8174649f784fa7815cdf45c22bee0f,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1554700,2023-05-29T10:44:13.000Z
+211,09787464cfacc802032253c107ddac2d,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,2186700,2023-05-29T10:01:45.000Z
+212,7d6674647368174ee4201704dda375a0,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,3456400,2023-05-29T08:46:53.000Z
+213,d44e7364af45b0607cce7e2a5be3c8d6,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1961800,2023-05-28T12:53:40.000Z
+214,62467364dc832ac39511357bffb56e1d,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1818833,2023-05-28T12:17:38.000Z
+215,0d3d73649b31c2e12054defc08767d19,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2176533,2023-05-28T11:37:49.000Z
+216,9d37736404b7ba8c12984a77d35c5492,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1157800,2023-05-28T11:14:37.000Z
+217,d02a73648e9b105580313a7818e7b4b6,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2330400,2023-05-28T10:20:00.000Z
+218,e220736413aa80b99452ff5ba8b14b5c,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2084633,2023-05-28T09:37:38.000Z
+219,f41473645d63895c17d0412f0a9ff0f7,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2561700,2023-05-28T08:46:44.000Z
+220,370a7364ee68473df7dd68eba792c20f,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2287600,2023-05-28T08:00:55.000Z
+221,3cfe7264643ef5c8a1cde7db256e9c19,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2238933,2023-05-28T07:09:48.000Z
+222,63ea7264644c18abf91de731f003eba1,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,4734800,2023-05-28T05:45:07.000Z
+223,86e1726455949531af7f9f4f8d9912f0,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1989600,2023-05-28T05:07:18.000Z
+224,bbd97264769a6386589f188cc2f1e98a,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1640467,2023-05-28T04:34:03.000Z
+225,55cb726441e6747c498cc764951099c9,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,3420600,2023-05-28T03:32:37.000Z
+226,d4c17264abab69047b8f239d93b36141,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2111333,2023-05-28T02:52:04.000Z
+227,94fc71644e57ef678baadffea7620083,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1627700,2023-05-27T12:50:28.000Z
+228,62f47164ff0820d1e55e55f31f3913a5,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,1487533,2023-05-27T12:15:30.000Z
+229,74f0716475f0a26198acaad388d0f563,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,599600,2023-05-27T11:58:44.000Z
+230,59e471648a9fe7362050a473cefc63b2,Snoopa,False,dsdr_4.1,DSDR 4.1,2385933,2023-05-27T11:07:05.000Z
+231,7fdf71644ea874bff76ce794a9086f6b,Snoopa,False,dsdr_4.1,DSDR 4.1,439533,2023-05-27T10:46:23.000Z
+232,81d67164fda820ce3620d96776ba78f0,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1904633,2023-05-27T10:08:01.000Z
+233,749271642e55c376cf564e9a439bcb6f,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2751800,2023-05-27T05:17:40.000Z
+234,db857164d20e3443bfd08ac075f66abe,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1852600,2023-05-27T04:23:55.000Z
+235,4a7c71648809891801704ca7cc1577e0,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,1889633,2023-05-27T03:43:06.000Z
+236,7a71716482fcf2bbd3c4f69f2c7d3329,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,2127833,2023-05-27T02:56:58.000Z
+237,e26271645537c7e9ef0da301c2daabd6,Snoopa,True,thermal_shock_v1.1,Thermal Shock v1.1,3188633,2023-05-27T01:54:42.000Z
+238,fa5b7164bbcb3213bf45153a08c1aab2,Snoopa,True,NuclearWinterR,Nuclear Winter Bar 1.4,1285900,2023-05-27T01:25:14.000Z
+239,319f706409bf56cf1e74787089d1cf4b,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2441733,2023-05-26T11:59:45.000Z
+240,4a947064c8f02834f055d9b12236825d,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2055233,2023-05-26T11:13:14.000Z
+241,9d8b7064fc1da031e4fe965424c7e4d8,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1641233,2023-05-26T10:36:13.000Z
+242,6c777064d23c7e7f315dd2eecbff8818,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1626533,2023-05-26T09:10:04.000Z
+243,266e7064bb20b6e3e08fbb864e79a109,Snoopa,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1156267,2023-05-26T08:30:30.000Z
+244,f166706434247d693b4c1c5ba50eac78,Snoopa,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1341933,2023-05-26T07:59:45.000Z
+245,c6617064073890fcc43c37fab83003d7,Snoopa,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1010367,2023-05-26T07:37:42.000Z
+246,365a7064aa7ea98c0023f659edef8f34,Snoopa,True,mithril_mountain_v2,Mithril Mountain v2,1073767,2023-05-26T07:05:26.000Z
+247,475870647d780b6313f898b50ce57e7a,Snoopa,True,mithril_mountain_v2,Mithril Mountain v2,360867,2023-05-26T06:57:11.000Z
+248,9d5470648aaeafbb8d03b367ccb3bfca,Snoopa,True,mithril_mountain_v2,Mithril Mountain v2,830300,2023-05-26T06:41:33.000Z
+249,fc2970649a2a884f15875f1705ca3401,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1172200,2023-05-26T03:39:40.000Z
+250,093f6f645898b7d49d63bb73e9d39e22,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2996800,2023-05-25T10:57:13.000Z
+251,8e386f640163ffa9ed40eaa3c89d82e8,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1312600,2023-05-25T10:29:34.000Z
+252,9a2e6f64b137d448e8020c16b4f74d7b,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1946667,2023-05-25T09:47:06.000Z
+253,c8236f6478d4348a31e0fb9682c5a656,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2290167,2023-05-25T09:00:56.000Z
+254,e2ff6d6452f7fe0f68a880229c88bd0b,Snoopa,True,hades_ponds_0.7,Hades Ponds 0.7,2686567,2023-05-24T12:15:30.000Z
+255,8ee66d6486efd71bc14695360a7d6ea8,Snoopa,False,carrot_mountains_v1.0,Carrot Mountains v1.0,2239033,2023-05-24T10:27:26.000Z
+256,abde6d6428e578e958d136f48b9b82fc,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1549700,2023-05-24T09:53:47.000Z
+257,f0d66d64a0c1616c8290eead11217aff,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1518533,2023-05-24T09:20:48.000Z
+258,eecc6d6497cc7d94f04dea4be9c651ff,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2239300,2023-05-24T08:38:06.000Z
+259,14c76d6433aad31fccd8cbf5cc3c7ed7,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1080167,2023-05-24T08:13:08.000Z
+260,f49c6c64d28d4062c27c5bf8c3165da5,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1573233,2023-05-23T11:01:08.000Z
+261,ae926c64260811202c942e8eb6d8a801,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2159733,2023-05-23T10:17:18.000Z
+262,a5896c64e96d73ad6194f69f06a1a138,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1785867,2023-05-23T09:38:45.000Z
+263,d27f6c64172cbab7a4dc554a472c8379,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2082000,2023-05-23T08:56:50.000Z
+264,24756c648c21511c57e0b7ea9f4c83cc,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2156867,2023-05-23T08:11:16.000Z
+265,16496b64e73fce801da6a6ad2ac17346,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,3034000,2023-05-22T10:51:02.000Z
+266,763c6b64f6db8f3135691e6e0bddb63c,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2831667,2023-05-22T09:57:10.000Z
+267,a2096a64e2a5ac7d2bdfd4fd9ba48ccd,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2112834,2023-05-21T12:08:02.000Z
+268,05fb6964b7ce9a255bbc7a39bb42ea8b,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2928433,2023-05-21T11:05:41.000Z
+269,c2ef696409676708b335108aad5d32f1,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2386367,2023-05-21T10:17:38.000Z
+270,6de069642e54d9c10a428f458004b80c,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,256900,2023-05-21T09:12:13.000Z
+271,a9c769641558715b05fc3fd5df985431,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2978533,2023-05-21T07:26:33.000Z
+272,09bf6964a5294836cb69b59ffeafb031,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1873833,2023-05-21T06:49:45.000Z
+273,96b369643ea8921231219b534d11c576,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,409733,2023-05-21T06:00:54.000Z
+274,9bb169641a858cb2537a2aaedd1bd601,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,412000,2023-05-21T05:52:27.000Z
+275,f3aa6964a8ed31369c8ab7690d27bbcb,Snoopa,False,red_comet_remake_1.8,Red Comet Remake 1.8,1472700,2023-05-21T05:24:03.000Z
+276,a0a8696453ab62a1dc17d19c02092080,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,417800,2023-05-21T05:14:08.000Z
+277,a5a46964ba2fb6b41cef336810cff010,Snoopa,False,red_comet_remake_1.8,Red Comet Remake 1.8,859033,2023-05-21T04:57:09.000Z
+278,27a2696463756f1a301566d4893930bb,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,504200,2023-05-21T04:46:31.000Z
+279,8d9e6964bcbcc2d2181e270a473d38b6,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,753667,2023-05-21T04:31:09.000Z
+280,ca916964736b80802def25c587d937be,Snoopa,False,red_comet_remake_1.8,Red Comet Remake 1.8,795033,2023-05-21T03:36:42.000Z
+281,5f8d6964e0c89d3229f684fb29b2df73,Snoopa,False,red_comet_remake_1.8,Red Comet Remake 1.8,1034167,2023-05-21T03:17:51.000Z
+282,fe82696498cf53e946321555bc86f540,Snoopa,False,tundra_v2,Tundra_V2,511900,2023-05-21T02:33:34.000Z
+283,ab7a696413880edd09ed9db98197266c,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,1632600,2023-05-21T01:58:03.000Z
+284,12ba68646ae1228ab168474bb969f142,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,4504634,2023-05-20T12:16:18.000Z
+285,93af6864d046666bef64b7c7900b654f,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,1460633,2023-05-20T11:31:31.000Z
+286,a4a66864724a801adbe9aa152b0811eb,Snoopa,True,all_that_glitters_v2.1,All That Glitters v2.1,1829467,2023-05-20T10:53:24.000Z
+287,169f68648e339ac751aa023aaa8ad3cc,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1551533,2023-05-20T10:21:10.000Z
+288,059668642633aab895edb9d6efec30cf,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1671700,2023-05-20T09:42:29.000Z
+289,4f89686433b4ad3218a6be3a88fb3853,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1050433,2023-05-20T08:48:15.000Z
+290,3c77686411e1e73dd525bc10e568ee61,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,2572567,2023-05-20T07:31:08.000Z
+291,036f68645c70ba7f48b5ca4892f28d83,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1225733,2023-05-20T06:56:03.000Z
+292,58676864c2ae416f3e41cc45af9ab957,Snoopa,True,thermal_shock_v1.1,Thermal Shock v1.1,1399867,2023-05-20T06:23:20.000Z
+293,83616864784977820a1a3af301b4d204,Snoopa,False,forge_v1.4,Forge v1.4,1234400,2023-05-20T05:58:27.000Z
+294,ea5c68642f88bd56b8e638e3c127a2c1,Snoopa,True,avalanche_3.4,Avalanche 3.4,706133,2023-05-20T05:38:50.000Z
+295,37556864f661089683204983fbef2c7e,Snoopa,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1498067,2023-05-20T05:05:59.000Z
+296,45396864061cccc726043c5b156347d5,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2239533,2023-05-20T03:06:45.000Z
+297,e232686418c04e41cb72640c65273d0c,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1289433,2023-05-20T02:39:30.000Z
+298,862b686404f153eb8e5e6723f0b54989,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1555333,2023-05-20T02:08:06.000Z
+299,ce18686437f2cad82b7ff15fcefdbe50,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1820467,2023-05-20T00:48:14.000Z
+300,185f67647dcc60f3cc64c846edb7a730,Snoopa,False,sulphur_springs_v1.1,Sulphur Springs v1.1,2359133,2023-05-19T11:35:52.000Z
+301,a7516764b2fe2fbf2e493b97ac0c5199,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2898800,2023-05-19T10:38:31.000Z
+302,fa476764c8bd25030778f5aee91eac80,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2040967,2023-05-19T09:57:14.000Z
+303,2f3f6764ec1ae5ee77b838d9309b552a,Snoopa,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1476233,2023-05-19T09:19:43.000Z
+304,82356764beb2cf3d9ca592d5d4e1d4d6,Snoopa,True,darkside_v3.0,Darkside v3.0,2041400,2023-05-19T08:38:26.000Z
+305,a90466640bdb0d52f24b2df4dd93bc2d,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1262867,2023-05-18T10:57:45.000Z
+306,12fb65644b1a5ea5d0305428258ae90f,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1975667,2023-05-18T10:16:50.000Z
+307,3df465641001f0c217d3b3acd7b14986,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1227633,2023-05-18T09:47:41.000Z
+308,99ed6564e95cedbd5bceffd4b3e73755,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1324700,2023-05-18T09:19:21.000Z
+309,17e6656420bf535c89ee6da8810c4da4,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1478900,2023-05-18T08:47:19.000Z
+310,f4b2646451e71dddc817942cc39721b8,Snoopa,False,all_that_glitters_v2.1,All That Glitters v2.1,1683267,2023-05-17T10:56:52.000Z
+311,81a764642d2c4b4b9ba2ce03fd816e88,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2331233,2023-05-17T10:08:01.000Z
+312,5ba164643f8084b73e0859d2be965bd4,Snoopa,False,tabula_remake_1.5,Tabula_Remake 1.5,1788033,2023-05-17T09:41:47.000Z
+313,a06e6364bf9d35786def238dbcf9df8e,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1778333,2023-05-16T11:53:04.000Z
+314,f103626498d5add46d11288fc4c8697e,Snoopa,False,forge_v1.4,Forge v1.4,1417900,2023-05-15T10:05:37.000Z
+315,69fd61644704816ebf337d2a52ee1122,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1171767,2023-05-15T09:37:45.000Z
+316,3bf561645c179e003cd7dabc10eeb2fd,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1490667,2023-05-15T09:02:51.000Z
+317,3fe96164d83b68ff4a71160466d84ead,Snoopa,False,dsdr_4.1,DSDR 4.1,2392033,2023-05-15T08:11:43.000Z
+318,f4da6164fba26ae7cec7508cc0a8567d,Snoopa,False,sertagatta_v6.0,Sertagatta v6.0,992100,2023-05-15T07:10:44.000Z
+319,64c56164711befe6313ddc0475bfa374,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1875600,2023-05-15T05:38:44.000Z
+320,ffb96164fd65c7822ecbc7ef00eb4dcf,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2364667,2023-05-15T04:50:07.000Z
+321,25a361645fffe093d20a29e45eb4288d,Snoopa,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1681133,2023-05-15T03:12:37.000Z
+322,cd9b6164f950151b456756bdc4008e7d,Snoopa,False,forge_v1.4,Forge v1.4,1452833,2023-05-15T02:41:17.000Z
+323,48956164c74aa7ffb8b9699a449124f3,Snoopa,False,Rosetta1.4,Rosetta 1.4,1303467,2023-05-15T02:13:28.000Z
+324,3e8e6164a5f8859de8dd1dc399fc544f,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1332600,2023-05-15T01:43:26.000Z
+325,bc846164784de136ffd0240a0a3c17a3,Snoopa,False,starwatcher_0.9,Starwatcher 0.9,1752633,2023-05-15T01:02:52.000Z
+326,3c7c6164ae6c125c2407d262b82d0f95,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,1684633,2023-05-15T00:26:36.000Z
+327,bb726164f57e7902289761fb7921a936,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,1928500,2023-05-14T23:46:03.000Z
+328,0ec76064df531f597f978a37b5dc61da,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,1357633,2023-05-14T11:33:34.000Z
+329,86bd6064fdab01408e0b05fa3bdaae4a,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1885800,2023-05-14T10:52:54.000Z
+330,a5b76064978a2083f0a1a7d6d351d26b,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1083567,2023-05-14T10:27:49.000Z
+331,81ae60643402c2b4eeec59385bbf46ab,Snoopa,True,dsdr_4.1,DSDR 4.1,1830467,2023-05-14T09:48:49.000Z
+332,b2a9606471c18a942da361392821156f,Snoopa,False,forge_v1.4,Forge v1.4,801433,2023-05-14T09:28:18.000Z
+333,3e946064ea852d47709ae05c6904c070,Snoopa,False,red_comet_remake_1.8,Red Comet Remake 1.8,651400,2023-05-14T07:56:46.000Z
+334,2b9160648f3bd631ed7200d8c2c40e92,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,673500,2023-05-14T07:43:39.000Z
+335,908e60640ba03ef29b89f22cddff2500,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,580667,2023-05-14T07:32:32.000Z
+336,0e8c60649bdf03393f7b859c1849cf7d,Snoopa,True,red_comet_remake_1.8,Red Comet Remake 1.8,550000,2023-05-14T07:21:50.000Z
+337,f88960647d63b2ffc148845c82684882,Snoopa,False,flooded_valley_v5,Flooded_Valley_V5,375700,2023-05-14T07:12:56.000Z
+338,cc8360649718abfa934c5d0a5f8a45ef,Snoopa,True,eye_of_horus_1.7,Eye Of Horus 1.7,1072467,2023-05-14T06:46:36.000Z
+339,2d816064be3860e391805822d3b27058,Snoopa,False,eye_of_horus_1.7,Eye Of Horus 1.7,561800,2023-05-14T06:35:25.000Z
+340,bc7d606406eb11a8e50e66d9e33a0eae,Snoopa,True,eye_of_horus_1.7,Eye Of Horus 1.7,669700,2023-05-14T06:20:44.000Z
+341,a1616064afbbf4c51c38ffce52affdba,Snoopa,False,carrot_mountains_v1.0,Carrot Mountains v1.0,2017200,2023-05-14T04:20:49.000Z
+342,5855606481090d09dc95c11fa8280b93,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2877667,2023-05-14T03:28:24.000Z
+343,e34a6064c06e4c0cd72baac0180a53be,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1749500,2023-05-14T02:43:47.000Z
+344,f4436064e3cd4b57cf28de463475d528,Snoopa,False,starwatcher_0.9,Starwatcher 0.9,1460667,2023-05-14T02:14:12.000Z
+345,22396064c33eaea31fc2486983bb8e8f,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2279767,2023-05-14T01:28:02.000Z
+346,71326064d279eec73fe288e42534a89c,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1399567,2023-05-14T00:59:29.000Z
+347,fa26606424d44036aff3b36a59d2eb8b,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,2463500,2023-05-14T00:10:34.000Z
+348,d91e6064964e00f3f880f911641c7f89,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1713067,2023-05-13T23:35:53.000Z
+349,ee1e5f64bd57d751796575c121e7f279,Snoopa,True,darkside_v3.0,Darkside v3.0,5658367,2023-05-13T05:23:58.000Z
+350,58175f64cb00b16fabf6d9698d9609b6,Snoopa,False,carrot_mountains_v1.0,Carrot Mountains v1.0,1429733,2023-05-13T04:51:36.000Z
+351,9c045f6401113faee447a02d14bed2ef,Snoopa,False,ice_scream_v2.5,Ice Scream v2.5,3935300,2023-05-13T03:31:40.000Z
+352,5ece5e641efee5d828b1356c3989199c,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,3549167,2023-05-12T23:40:14.000Z
+353,64c55e644a93d1987cace4a91574f227,Snoopa,True,forge_v1.4,Forge v1.4,1882767,2023-05-12T23:01:56.000Z
+354,7ebc5e6480ef558cbacb5bbf24f4ae03,Snoopa,True,forge_v1.4,Forge v1.4,1644367,2023-05-12T22:23:58.000Z
+355,d1bb5d6445b48d69632892c7f7312224,Snoopa,True,darkside_v3.0,Darkside v3.0,807700,2023-05-12T04:08:49.000Z
+356,8ab75d6493bf6c85e83dfbea6588bd5a,Snoopa,True,NuclearWinterR,Nuclear Winter Bar 1.4,552667,2023-05-12T03:50:34.000Z
+357,78a05d648862bf734980987190b8fe50,Snoopa,True,Riverrun_V1,Riverrun_V1,2045600,2023-05-12T02:12:08.000Z
+358,74965d644ee1d3dff5befe20bec94f96,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2160633,2023-05-12T01:29:24.000Z
+359,9e895d643b3a280fda6ef3f3acabe2be,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,2846567,2023-05-12T00:34:38.000Z
+360,8f855d647fe60fd7b14c75a6c27ccb9d,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,687333,2023-05-12T00:17:19.000Z
+361,7f805d64ad123980a7f9556bc227a929,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,682600,2023-05-11T23:55:43.000Z
+362,4f755d640f218d5186e9995ddbf73ef7,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,2370667,2023-05-11T23:07:59.000Z
+363,496a5d6446bd6d2cea1d89b17d4b32ca,Snoopa,False,dsdr_4.1,DSDR 4.1,2453600,2023-05-11T22:20:57.000Z
+364,5e605d644899e41095e7fd7edbdc3a21,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1980400,2023-05-11T21:38:38.000Z
+365,435b5d64c830aee744d8a2e3df38b202,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,921267,2023-05-11T21:16:51.000Z
+366,22535d64e0a676de423c62ae0de24314,Snoopa,False,dsdr_4.1,DSDR 4.1,1671000,2023-05-11T20:42:10.000Z
+367,6a9b5c64f03ea5ce011cf08a35df0e9b,Snoopa,True,carrot_mountains_v1.0,Carrot Mountains v1.0,4843533,2023-05-11T07:38:18.000Z
+368,3b955c640057ff872392c7a0c95b5bb7,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1059100,2023-05-11T07:11:55.000Z
+369,158c5c64b3e996e0083238d9acc093e5,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,2011200,2023-05-11T06:32:53.000Z
+370,36855c644559178e31fd83e8759fcd3b,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1479900,2023-05-11T06:03:34.000Z
+371,20665c644dd057b9a31076dd55bc6394,Snoopa,False,pawn_retreat_1.2,Pawn Retreat 1.2,1760900,2023-05-11T03:50:56.000Z
+372,0b5f5c643f5046d3a2074e8e92812634,Snoopa,False,pawn_retreat_1.2,Pawn Retreat 1.2,1498167,2023-05-11T03:20:43.000Z
+373,22575c649ee67c1d4d7828db3fee7a01,Snoopa,False,Tau12,Tau12,1613800,2023-05-11T02:46:58.000Z
+374,27525c64879eac8a7b2dedb36ad6f17b,Snoopa,True,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,729900,2023-05-11T02:25:43.000Z
+375,68495c64645bc1849a3c4538bb30273b,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1591600,2023-05-11T01:48:24.000Z
+376,693c5c64c07558fd995402de0582a059,Snoopa,True,colorado_v2_1.1,Colorado_V2 1.1,2744700,2023-05-11T00:52:57.000Z
+377,ab335c64355a7692afe576aa9bcfe4ff,Snoopa,True,cape_violet_v1,Cape_Violet_V1,1811367,2023-05-11T00:15:39.000Z
+378,2b2b5c64e71deb82380650d6bc0ccef8,Snoopa,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,829233,2023-05-10T23:39:23.000Z
+379,f71a5c6427a5db58c198570a27538167,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2380833,2023-05-10T22:30:15.000Z
+380,a42b5b644bff0537e1782b2d96d9a859,Snoopa,False,dsdr_4.1,DSDR 4.1,1996567,2023-05-10T05:29:08.000Z
+381,e71f5b64fdab62a52e73dc408268a71b,Snoopa,True,darkside_v3.0,Darkside v3.0,2392967,2023-05-10T04:39:03.000Z
+382,81195b646e27c469de343e764ec76c60,Snoopa,True,darkside_v3.0,Darkside v3.0,1242967,2023-05-10T04:11:45.000Z
+383,070b5b641d503f9a39d58cea617ce25c,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,3110633,2023-05-10T03:09:59.000Z
+384,a8005b644b7ee878c92332d36c355d28,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1607367,2023-05-10T02:25:44.000Z
+385,9efa5a6401931db49e833d6270b45d0c,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1245767,2023-05-10T01:59:58.000Z
+386,7eee5a640fb4df8280e883b02db9c30c,Snoopa,False,forge_v1.4,Forge v1.4,2121800,2023-05-10T01:08:14.000Z
+387,29e35a64510333fa0788e675c8ddbb02,Snoopa,True,starwatcher_0.9,Starwatcher 0.9,2106767,2023-05-10T00:19:53.000Z
+388,80d25a64d82aa59baff4a98129571852,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,1871767,2023-05-09T23:08:48.000Z
+389,b1c85a64b0b9f0162931712725dd5d28,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,2063634,2023-05-09T22:26:57.000Z
+390,22c05a6467f97113b7bd07752ed891ff,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1283867,2023-05-09T21:50:26.000Z
+391,77b85a64824ca8c7d8826ca114db7d0b,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,1625567,2023-05-09T21:17:43.000Z
+392,23af5a64eed42fc04131051a1206ac72,Snoopa,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1986367,2023-05-09T20:37:55.000Z
+393,e4a75a64d21f74cde82a7d051024c9aa,Snoopa,False,hades_ponds_0.7,Hades Ponds 0.7,1352800,2023-05-09T20:07:00.000Z
+394,96a25a64a5aa3f300104e1caebb4e83a,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,996367,2023-05-09T19:44:22.000Z
+395,86ca5964dbc1e15484f9af549da26465,Snoopa,True,starwatcher_0.9,Starwatcher 0.9,3890367,2023-05-09T04:22:30.000Z
+396,36c059649f08288a209ff7fda9971a30,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,2216567,2023-05-09T03:38:30.000Z
+397,97b859645e77d62acb76a5bd5fd15c23,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1524633,2023-05-09T03:05:59.000Z
+398,7fb459645298f5b90fe31f9f56b171fb,Snoopa,False,dsdr_4.1,DSDR 4.1,1293733,2023-05-09T02:48:31.000Z
+399,3a9a59649680d6f45d6c87d181b4ee9c,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,2686067,2023-05-09T00:56:26.000Z
+400,2d855964c8634f50db1eb2a3fe0056c9,Snoopa,False,koom_valley_3_3.1,Koom Valley 3 3.1,4646833,2023-05-08T23:26:37.000Z
+401,1f7b5964cfea166dfdd0d85449b7e620,Snoopa,True,darkside_v3.0,Darkside v3.0,2099367,2023-05-08T22:43:43.000Z
+402,f2735964e775bf5777a4ea743a11c9d3,Snoopa,True,darkside_v3.0,Darkside v3.0,1472533,2023-05-08T22:13:06.000Z
+403,c66c596465bf6a24a4528465046dd594,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1453267,2023-05-08T21:42:30.000Z
+404,7ab05864e568402a80882bd802781b4c,Snoopa,True,dsdr_4.1,DSDR 4.1,4339700,2023-05-08T08:19:06.000Z
+405,15aa5864f5412d4b9e5cf3a25b16d8d2,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,1244433,2023-05-08T07:51:49.000Z
+406,37a258642f0440a33ce286fca093ed8f,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1614667,2023-05-08T07:18:15.000Z
+407,119958648e1f95793d54a07d97e3498b,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1740900,2023-05-08T06:39:13.000Z
+408,a18e58640fcda1598ed613ed9f45b477,Snoopa,False,Rosetta1.4,Rosetta 1.4,2017867,2023-05-08T05:54:41.000Z
+409,727c5864351e4480266b57cb02d93016,Snoopa,True,darkside_v3.0,Darkside v3.0,1669733,2023-05-08T04:37:06.000Z
+410,d66e5864f44a1f6e42044b2470bb7f9e,Snoopa,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1248033,2023-05-08T03:39:02.000Z
+411,7f615864f2ee672853b7e996a4f5ab7f,Snoopa,True,Riverrun_V1,Riverrun_V1,2605300,2023-05-08T02:42:07.000Z
+412,6a5258648f2efdad098edea9f8290cdc,Snoopa,True,koom_valley_3_3.1,Koom Valley 3 3.1,3383500,2023-05-08T01:37:46.000Z
+413,344b5864d6b2211282c6466ff3bb5745,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,1121533,2023-05-08T01:07:00.000Z
+414,8d435864c0e6d9be129f29a69111df29,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1606533,2023-05-08T00:34:21.000Z
+415,803d58647ad280794781991a72ff4d15,Snoopa,False,eight_horses_1.2,Eight Horses 1.2,979767,2023-05-08T00:08:32.000Z
+416,89385864e809c9ebfa9ddef334cb7b22,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,1005467,2023-05-07T23:47:21.000Z
+417,062e5864a217d58432718ceab347fee8,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,2192700,2023-05-07T23:02:30.000Z
+418,35245864bc102b632474bafba630ffca,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2054667,2023-05-07T22:20:37.000Z
+419,361d5864d519a9011797c041b5b953a4,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1455167,2023-05-07T21:50:46.000Z
+420,e41658646435d478efed25269c00a992,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,1393167,2023-05-07T21:23:48.000Z
+421,bd0a5864a9e53254234904073cca2b65,Snoopa,False,starwatcher_0.9,Starwatcher 0.9,2191533,2023-05-07T20:31:57.000Z
+422,1903586479ef536b0d7a5288b113a941,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1428500,2023-05-07T19:59:21.000Z
+423,48f85764aff221c2f01885f3a863a2a6,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2435533,2023-05-07T19:13:12.000Z
+424,c3155764b33aa4b86e3796f9d447e903,Snoopa,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1336700,2023-05-07T03:06:43.000Z
+425,010e5764bebe6f14f041b712c26b7482,Snoopa,False,starwatcher_0.9,Starwatcher 0.9,1485233,2023-05-07T02:33:37.000Z
+426,420357642b8f52fb761b23c85bd4cdb6,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,2239633,2023-05-07T01:47:46.000Z
+427,51c45664a439f67b4728584e2b2549be,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,4085300,2023-05-06T21:19:13.000Z
+428,ccb95664ca0a47975477aa38928c6abd,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1975033,2023-05-06T20:34:20.000Z
+429,c6b15664b73644163f9b3c303f46733f,Snoopa,False,forge_v1.4,Forge v1.4,1640633,2023-05-06T20:00:06.000Z
+430,a55456647845e1dc5fe5d35bca6feb9b,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2392633,2023-05-06T13:22:45.000Z
+431,cb2e5664ae71db79d5e7e8d5dfd771b4,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,2144300,2023-05-06T10:41:15.000Z
+432,5b235664dd45ca20878adbcf28009b30,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1755733,2023-05-06T09:52:27.000Z
+433,3b61556436ace396efa2ec31cbdcf5c6,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1029500,2023-05-05T20:04:11.000Z
+434,47575564655f37b2d9b25cec98037c9f,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2096767,2023-05-05T19:21:43.000Z
+435,355155645d2b8bebea33f4c80f07ef72,Snoopa,False,flats_and_forests_v2.1,Flats and Forests v2.1,1145600,2023-05-05T18:55:49.000Z
+436,db4a5564fd8a8d56830149b02e2fce6a,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1299667,2023-05-05T18:28:43.000Z
+437,ac42556448fe288cbdf9db5764b6ed53,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1703600,2023-05-05T17:53:48.000Z
+438,0e095564f40970c51b886b736cf20f57,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,2911767,2023-05-05T13:47:58.000Z
+439,efad5464d01b2bafc3f7692cdc860680,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,908600,2023-05-05T07:19:11.000Z
+440,37a454646735d97b5b98915eb541a91a,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2041067,2023-05-05T06:37:43.000Z
+441,a79854643b10a96b1da83a910a22448e,Snoopa,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2411900,2023-05-05T05:48:23.000Z
+442,75e753642349239fa4f81a9a7e9bfb46,Snoopa,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2493067,2023-05-04T17:12:21.000Z
+443,2fbd536416c0d7a9b1d8eb0101e3e2d0,Snoopa,False,dsdr_4.1,DSDR 4.1,2134667,2023-05-04T14:11:59.000Z
+444,9fb8536478f4b8b90267c9530b158596,Snoopa,True,dsdr_4.1,DSDR 4.1,804300,2023-05-04T13:52:31.000Z
+445,aab25364b267311896d11e2b765e72b8,Snoopa,False,forge_v1.4,Forge v1.4,1130833,2023-05-04T13:27:06.000Z
+446,3ca953648e395903c7f6b6e7d7cdb1af,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,1829667,2023-05-04T12:46:52.000Z
+447,13a453640c1ea8309158ef9dd3f8259c,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,1021367,2023-05-04T12:24:51.000Z
+448,269a53645533f4647f6fd8ec4e413d87,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,2297533,2023-05-04T11:42:30.000Z
+449,e632536423279cc006b86ebb41092444,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,2993967,2023-05-04T04:21:58.000Z
+450,baae5264be2a36cda34a5010e94c4318,Snoopa,False,starwatcher_0.9,Starwatcher 0.9,2130500,2023-05-03T18:58:02.000Z
+451,9ca85264d72ee554cbc987da1ac999f1,Snoopa,True,starwatcher_0.9,Starwatcher 0.9,1113433,2023-05-03T18:31:56.000Z
+452,42805264850c762b3f1bbc43b1ff13e7,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,2803167,2023-05-03T15:39:46.000Z
+453,a871526446cce171574b055893346e07,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,3367733,2023-05-03T14:37:28.000Z
+454,f06752643c1407b745b50a80458078f6,Snoopa,False,all_that_glitters_v2.0,All That Glitters v2.0,1604033,2023-05-03T13:56:00.000Z
+455,af575264b75dfdbe57e85f60fdbe1176,Snoopa,True,carrot_mountains_v1.0,Carrot Mountains v1.0,3734067,2023-05-03T12:46:39.000Z
+456,714f52649ee93ae5225031e72534fe04,Snoopa,False,hades_ponds_0.7,Hades Ponds 0.7,1577667,2023-05-03T12:11:29.000Z
+457,684352646ea89d00122484281ee0694c,Snoopa,False,hades_ponds_0.7,Hades Ponds 0.7,2343767,2023-05-03T11:20:08.000Z
+458,be29526432da5aa122db36381bb19e43,Snoopa,False,forge_v1.4,Forge v1.4,2057467,2023-05-03T09:30:38.000Z
+459,a71d52645a0189d21c81f3d945b07d50,Snoopa,True,darkside_v3.0,Darkside v3.0,2028067,2023-05-03T08:39:03.000Z
+460,db14526466aa656a5fadd3d8a987105e,Snoopa,True,flats_and_forests_v2.1,Flats and Forests v2.1,1593900,2023-05-03T08:01:31.000Z
+461,3e0a526476617f41c91cfc2a54789f07,Snoopa,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2238400,2023-05-03T07:16:14.000Z
+462,0d025264084d4a8198a38e1f5230d494,Snoopa,True,eight_horses_1.2,Eight Horses 1.2,1777667,2023-05-03T06:41:17.000Z
+463,7d4c5164ffc13ef23392d7d7c2588a9c,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,2661800,2023-05-02T17:46:37.000Z
+464,a641516490a122a7b8bac6cfdac9fcdd,Snoopa,False,Riverrun_V1,Riverrun_V1,1996100,2023-05-02T17:00:22.000Z
+465,cb2051643293d9e40197873415ba3e69,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,1681533,2023-05-02T14:40:11.000Z
+466,38fd50646a3609f19b93babbb061582b,Snoopa,True,starwatcher_0.9,Starwatcher 0.9,3555200,2023-05-02T12:08:24.000Z
+467,11f0506414c03856618cd52b60058a92,Snoopa,True,ice_scream_v2.5,Ice Scream v2.5,2673433,2023-05-02T11:12:17.000Z
+468,c0e750642cf6db517adb055637091af0,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,1774567,2023-05-02T10:36:48.000Z
+469,32dc5064b172601d6df6d876c81ed29e,Snoopa,True,sulphur_springs_v1.1,Sulphur Springs v1.1,2559767,2023-05-02T09:47:30.000Z
+470,6dd25064bfcbddca600903a55711c623,Snoopa,False,sulphur_springs_v1.1,Sulphur Springs v1.1,1893667,2023-05-02T09:05:49.000Z
+471,51c2506483bb41cdc730db070a4f76fd,Snoopa,True,forge_v1.4,Forge v1.4,1035833,2023-05-02T07:57:05.000Z
+472,37b85064ab93345f682d41d2e9dd8000,Snoopa,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2002267,2023-05-02T07:13:59.000Z
+473,ad0b5064c4354c5c9454e032867075a4,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,2166967,2023-05-01T18:57:49.000Z
+474,f8ff4f6444e846a7df8ed41a395efe0b,Snoopa,False,starwatcher_0.9,Starwatcher 0.9,2578933,2023-05-01T18:07:52.000Z
+475,ebf64f644e4a208294e2b2c1d83e319a,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2070567,2023-05-01T17:29:15.000Z
+476,26ed4f6441e1c5bb4a9ddae0be45422c,Snoopa,True,Riverrun_V1,Riverrun_V1,2176767,2023-05-01T16:47:34.000Z
+477,fbe04f64a872d2db0a925db4599ba479,Snoopa,True,Riverrun_V1,Riverrun_V1,2258567,2023-05-01T15:55:39.000Z
+478,cecd4f647bb7c3bce469d9604c1124e7,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,2005767,2023-05-01T14:33:50.000Z
+479,5dc54f646505d6e74c5da1faf29088d9,Snoopa,True,all_that_glitters_v2.0,All That Glitters v2.0,1875800,2023-05-01T13:57:49.000Z
+480,33784f641cf4c795b878bd2fb1dd0411,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2258900,2023-05-01T08:28:35.000Z
+481,276c4f64ae0815a7f549c402304a52b7,Snoopa,True,supreme_strait_v1.4,Supreme Strait v1.4,2561733,2023-05-01T07:37:11.000Z
+482,b8624f64afe93d7fb0f169a78d49aa9e,Snoopa,False,all_that_glitters_1.2,All That Glitters v1.2,2086367,2023-05-01T06:56:56.000Z
+483,22b04e641bc59a5f394565b545f4b200,Snoopa,True,hotlips_remake_v3.1,Hotlips Remake v3.1,4078933,2023-04-30T18:14:58.000Z
+484,d9a24e6468f82359e8f7700358898f7b,Snoopa,True,all_that_glitters_1.2,All That Glitters v1.2,3032567,2023-04-30T17:18:17.000Z
+485,fc554e649c83449cf349dd604ef8cca8,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,2315967,2023-04-30T11:50:20.000Z
+486,464d4e6493291abcb13fc52f6d7e59eb,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,1916167,2023-04-30T11:13:10.000Z
+487,a33f4e64f636d65e1bd3f7be710cc7ba,Snoopa,False,supreme_strait_v1.4,Supreme Strait v1.4,3013833,2023-04-30T10:14:59.000Z

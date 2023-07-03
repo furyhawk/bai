@@ -1,0 +1,63 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,cf19a26443a0fd7113bedce379686b4c,[LOB]Choice,True,supreme_strait_v1.4,Supreme Strait v1.4,1674033,2023-07-03T00:43:59.000Z
+1,d709a2643b67a3e82def68e6c416ab78,[LOB]Choice,True,shore_to_shore_v3,Shore_to_Shore_V3,520433,2023-07-02T23:35:51.000Z
+2,f7e1a1644759a2a4966e9f88a39bd2e3,[LOB]Choice,True,koom_valley_3_3.1,Koom Valley 3 3.1,1164867,2023-07-02T20:45:43.000Z
+3,b8d9a164f6942def11574ea3566afb5f,[LOB]Choice,True,white_fire_remake_1.3,White Fire Remake 1.3,1284767,2023-07-02T20:10:32.000Z
+4,cdb1a164fb109fa3cb5fc14c51a5facc,[LOB]Choice,True,koom_valley_3_3.1,Koom Valley 3 3.1,2130834,2023-07-02T17:20:13.000Z
+5,02a8a164f835682e814518cde188355d,[LOB]Choice,False,flats_and_forests_v2.1,Flats and Forests v2.1,2002067,2023-07-02T16:38:26.000Z
+6,c485a16417be1a4e50c9a3b1b4609765,[LOB]Choice,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2537667,2023-07-02T14:12:20.000Z
+7,def1a064eaa0e776b5a9522b920d70d2,[LOB]Choice,True,dsdr_4.1,DSDR 4.1,1456400,2023-07-02T03:41:18.000Z
+8,45eaa06429d55b6844101ecfb58af9c6,[LOB]Choice,False,ice_scream_v2.5,Ice Scream v2.5,1393700,2023-07-02T03:08:53.000Z
+9,9ee6a06407ae80e24ed61f2d5caef7a4,[LOB]Choice,False,koom_valley_3_3.1,Koom Valley 3 3.1,346300,2023-07-02T02:53:18.000Z
+10,2ddba064272bb2999331ae9156d67396,[LOB]Choice,True,ascendancy_v2.0,Ascendancy v2.0,1184533,2023-07-02T02:04:29.000Z
+11,61d7a06499268431f053c455a76b7c76,[LOB]Choice,False,dsdr_4.1,DSDR 4.1,569900,2023-07-02T01:48:17.000Z
+12,81c8a0647e824195bdda9a29c28e04f0,[LOB]Choice,False,hotlips_remake_v3.1,Hotlips Remake v3.1,2785700,2023-07-02T00:44:49.000Z
+13,84c1a06496416244130739e3964034af,[LOB]Choice,False,Rosetta1.4,Rosetta 1.4,1276133,2023-07-02T00:15:00.000Z
+14,faa2a0641089ea5ce5d080a025139269,[LOB]Choice,True,dsdr_4.1,DSDR 4.1,2521067,2023-07-01T22:04:42.000Z
+15,0490a064eb296cffe355df2caa22c6cf,[LOB]Choice,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1186400,2023-07-01T20:43:48.000Z
+16,a989a064b9df73235fdbb8074c2ba057,[LOB]Choice,True,dsdr_4.1,DSDR 4.1,1103733,2023-07-01T20:16:41.000Z
+17,5a5da064df969de999ce623a51956f34,[LOB]Choice,True,ascendancy_v2.0,Ascendancy v2.0,1440767,2023-07-01T17:07:38.000Z
+18,3e56a064671f770c12c3b1a72f719371,[LOB]Choice,True,flats_and_forests_v2.1,Flats and Forests v2.1,1170767,2023-07-01T16:37:18.000Z
+19,464fa06405e4833340e2471e1999f2c8,[LOB]Choice,False,white_fire_remake_1.2,White Fire Remake 1.2,1153933,2023-07-01T16:07:34.000Z
+20,bf46a064d5a60c5e4c2375b4b18e799a,[LOB]Choice,False,darkside_v3.0,Darkside v3.0,1339900,2023-07-01T15:31:11.000Z
+21,973ea064e8fcf1a97fbaab475fd560e9,[LOB]Choice,False,NuclearWinterR,Nuclear Winter Bar 1.4,1558900,2023-07-01T14:56:23.000Z
+22,be33a064ea0feacc3ad9180d2b941bfb,[LOB]Choice,True,eight_horses_1.2,Eight Horses 1.2,2232367,2023-07-01T14:10:06.000Z
+23,7719a064a8b9b3cc73fc0570a5e05071,[LOB]Choice,True,forge_v1.4,Forge v1.4,2797867,2023-07-01T12:17:59.000Z
+24,4813a064cfa9d03d99db8a092b76d8a3,[LOB]Choice,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1299867,2023-07-01T11:51:36.000Z
+25,77f29e64288bfd11917c52b91b85533b,[LOB]Choice,False,dsdr_4.1,DSDR 4.1,2058333,2023-06-30T15:19:19.000Z
+26,9fd29e64533177cf11ded3c82eb01479,[LOB]Choice,True,faster_than_light_1.1,Faster Than Light 1.1,1253767,2023-06-30T13:03:27.000Z
+27,c2c99e640eb1743ebd323f6829ce0f77,[LOB]Choice,False,great_divide_v1,Great Divide V1,1351600,2023-06-30T12:25:38.000Z
+28,90b49e64bba6277265e26f9e1a948f72,[LOB]Choice,True,white_fire_remake_1.2,White Fire Remake 1.2,699900,2023-06-30T10:55:12.000Z
+29,4faf9e64c38dce5ec609179f3a7bf7d0,[LOB]Choice,False,koom_valley_3_3.1,Koom Valley 3 3.1,749600,2023-06-30T10:32:47.000Z
+30,5f0e9e64f5b85c880ccd989105aa827c,[LOB]Choice,True,angel_crossing_1.5,Angel Crossing 1.5,775000,2023-06-29T23:06:07.000Z
+31,45fc9d64d6fc9390496e349793479797,[LOB]Choice,True,to_kill_the_middle_v1.0,To Kill The Middle v1.0,1336067,2023-06-29T21:48:53.000Z
+32,aaf19d64680a2362345f097377e129be,[LOB]Choice,False,white_fire_remake_1.2,White Fire Remake 1.2,2048233,2023-06-29T21:03:38.000Z
+33,56c69d6404e9a6bd5266055c78eac7d4,[LOB]Choice,True,dsdr_4.1,DSDR 4.1,1681433,2023-06-29T17:58:46.000Z
+34,06bf9d643631d28b0e6bee746ae9b3ee,[LOB]Choice,False,starwatcher_1.0,Starwatcher 1.0,1428600,2023-06-29T17:27:34.000Z
+35,e5b99d64226b3c29af2ba246cec58e99,[LOB]Choice,False,thermal_shock_v1.1,Thermal Shock v1.1,928700,2023-06-29T17:05:41.000Z
+36,f9a69d649529cff695bbabb862d559bb,[LOB]Choice,True,Rosetta1.4,Rosetta 1.4,713900,2023-06-29T15:44:57.000Z
+37,1d619d648027d00660c46958e6268f54,[LOB]Choice,True,koom_valley_3_3.1,Koom Valley 3 3.1,2436967,2023-06-29T10:46:53.000Z
+38,09549d64a209676d41cca4bf8612d630,[LOB]Choice,False,white_fire_remake_1.2,White Fire Remake 1.2,2653467,2023-06-29T09:51:05.000Z
+39,6c4e9d643a44834a36071149327b4411,[LOB]Choice,True,eight_horses_1.2,Eight Horses 1.2,893833,2023-06-29T09:27:08.000Z
+40,e5479d648afcebd807ab8994cb686230,[LOB]Choice,False,thermal_shock_v1.1,Thermal Shock v1.1,1252433,2023-06-29T08:59:17.000Z
+41,69b29c646a4c6548961c3ff3566304e9,[LOB]Choice,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,997300,2023-06-28T22:21:29.000Z
+42,e1a89c64c39ede9504a4ebdf8863d2b0,[LOB]Choice,False,sulphur_springs_v1.1,Sulphur Springs v1.1,1333400,2023-06-28T21:40:49.000Z
+43,2ca19c64b17af43e2c630dcf49f00148,[LOB]Choice,False,white_fire_remake_1.2,White Fire Remake 1.2,1330833,2023-06-28T21:07:56.000Z
+44,3a9c9c64ba856c6875a34c8187b23d9d,[LOB]Choice,False,angel_crossing_1.5,Angel Crossing 1.5,792900,2023-06-28T20:46:50.000Z
+45,d4889c64aa30351efc9b71b704d76cef,[LOB]Choice,True,dsdr_4.1,DSDR 4.1,1907500,2023-06-28T19:24:04.000Z
+46,b2839c6480949d2fe60c17e7ff6318d3,[LOB]Choice,False,ascendancy_v2.0,Ascendancy v2.0,928433,2023-06-28T19:02:10.000Z
+47,a8619c644e604394dafd4a5f228abc2c,[LOB]Choice,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2300400,2023-06-28T16:36:56.000Z
+48,d5599c641b92ef3e45dbde474cb270c6,[LOB]Choice,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1543033,2023-06-28T16:03:33.000Z
+49,f7419c64c9ccb52ec1af8821a8eb92a4,[LOB]Choice,True,white_fire_remake_1.2,White Fire Remake 1.2,1382733,2023-06-28T14:21:43.000Z
+50,e0399c6487fea7582459f2ba2fcf0c3f,[LOB]Choice,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1273033,2023-06-28T13:47:12.000Z
+51,c82d9c6453a186e1a35f66164fb6c9fa,[LOB]Choice,True,starwatcher_1.0,Starwatcher 1.0,2274600,2023-06-28T12:55:36.000Z
+52,b9189c64163d5657f9f111508a64fb04,[LOB]Choice,False,all_that_glitters_v2.1,All That Glitters v2.1,989400,2023-06-28T11:25:45.000Z
+53,654c9b64186671de8b8b3334e9cc8a5e,[LOB]Choice,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1099500,2023-06-27T20:53:57.000Z
+54,da459b64ee116eafed494f38a35911ca,[LOB]Choice,False,ascendancy_v2.0,Ascendancy v2.0,1213633,2023-06-27T20:26:02.000Z
+55,2c249b64c50d757635f8d96acb356af3,[LOB]Choice,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1611167,2023-06-27T18:02:20.000Z
+56,52199b64dee1034899e002629518bf22,[LOB]Choice,False,Rosetta1.4,Rosetta 1.4,2310634,2023-06-27T17:16:02.000Z
+57,17149b645d815d6ff77d0f477d94f91e,[LOB]Choice,False,Rosetta1.4,Rosetta 1.4,1019600,2023-06-27T16:53:43.000Z
+58,f8089b64bcd24c60232ec5624efcc85d,[LOB]Choice,False,dsdr_4.1,DSDR 4.1,1971633,2023-06-27T16:06:16.000Z
+59,e8f19a64abfc8509dc036d31a20f4b6c,[LOB]Choice,True,supreme_strait_v1.4,Supreme Strait v1.4,3228300,2023-06-27T14:27:52.000Z
+60,8be59a64ded8732fe8a5abd16f9598de,[LOB]Choice,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1371267,2023-06-27T13:35:07.000Z
+61,38de9a64c63d60a5a079011908ef6f68,[LOB]Choice,True,dsdr_4.1,DSDR 4.1,1456833,2023-06-27T13:03:52.000Z

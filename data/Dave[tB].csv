@@ -1,0 +1,593 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,9719a16435b72616c79335b1706460e3,Dave[tB],False,dworld_v4,DWorld_V4,1901267,2023-07-02T06:30:47.000Z
+1,3a01a164f0f3da6cb478fc6dbe932cf9,Dave[tB],False,theta_crystals_1.0,Theta Crystals 1.0,745200,2023-07-02T04:46:50.000Z
+2,6bfea0646c3aa1c3ddccaf3d3b84b13e,Dave[tB],False,shallow_straits_v1,Shallow Straits v1,475600,2023-07-02T04:34:51.000Z
+3,1dfca064832ec6a6e253c40c190a3087,Dave[tB],False,shallow_straits_v1,Shallow Straits v1,368700,2023-07-02T04:25:01.000Z
+4,51f8a064ec332ccb402854346b9e2522,Dave[tB],False,theta_crystals_1.0,Theta Crystals 1.0,725900,2023-07-02T04:08:49.000Z
+5,09f2a0643030cd6cd5e110cd2c1de5b2,Dave[tB],True,altair_crossing_v4.1,Altair_Crossing_V4.1,649167,2023-07-02T03:42:01.000Z
+6,45eaa06429d55b6844101ecfb58af9c6,Dave[tB],False,ice_scream_v2.5,Ice Scream v2.5,1393700,2023-07-02T03:08:53.000Z
+7,2ddba064272bb2999331ae9156d67396,Dave[tB],True,ascendancy_v2.0,Ascendancy v2.0,1184533,2023-07-02T02:04:29.000Z
+8,b9689f64eb9c90835cdfb1fdd5564112,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,657667,2023-06-30T23:43:53.000Z
+9,ab659f6427a7f31e84b5035fff0f353b,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,305333,2023-06-30T23:30:51.000Z
+10,8d639f644b67c05ddc662b097af3213c,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,200833,2023-06-30T23:21:49.000Z
+11,17609f64107c6fd3aa14eddbd2bdd0e4,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,765867,2023-06-30T23:07:03.000Z
+12,76409f64b4aecafb920eb20613b86f13,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,273000,2023-06-30T20:52:06.000Z
+13,473e9f647c3903f75ca58588432ed2b7,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,396467,2023-06-30T20:42:47.000Z
+14,c0369f6428114c22ba68625da6464c1c,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,621000,2023-06-30T20:10:40.000Z
+15,3c359f643aae8456928f60c8f03234cc,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,295967,2023-06-30T20:04:12.000Z
+16,c3319f64fd125364b030c7078e9b0229,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,757833,2023-06-30T19:49:23.000Z
+17,8a039f649a8681305cdb2e393fcb60f5,Dave[tB],True,forge_v1.4,Forge v1.4,981567,2023-06-30T16:32:10.000Z
+18,05729e64007dccafcc733ff48da4c645,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,953800,2023-06-30T06:11:17.000Z
+19,b86d9e64f888dc1eb8aa49d41be26aff,Dave[tB],True,forge_v1.4,Forge v1.4,705633,2023-06-30T05:52:56.000Z
+20,62599e64b9c503c89f3b75c29afe187a,Dave[tB],True,dsdr_4.1,DSDR 4.1,2497633,2023-06-30T04:26:10.000Z
+21,37469e6456e1ccc3d8d2ee202f620320,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,436633,2023-06-30T03:04:23.000Z
+22,68419e6474e758daf199681ab1d89dd7,Dave[tB],True,kolmogorov_remake_3.0,Kolmogorov Remake 3.0,872400,2023-06-30T02:43:52.000Z
+23,d6139664215b17f0637db03417050de4,Dave[tB],False,Mediterraneum_V1,Mediterraneum_V1,3653633,2023-06-23T21:51:18.000Z
+24,360896642ddb4108dd57c493e666cfbb,Dave[tB],False,throne_v8,Throne_V8,2474134,2023-06-23T21:01:42.000Z
+25,d9fc95645e9790f0a6a4a9e8d2539708,Dave[tB],False,dworld_v4,DWorld_V4,2155933,2023-06-23T20:13:13.000Z
+26,e5f59564adddf27136533aa48d3d3782,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,650400,2023-06-23T19:43:33.000Z
+27,c1f09564cbecb2a35a697f621fe5a161,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,860367,2023-06-23T19:21:37.000Z
+28,10e89564a78cd25e747b1364c2a53f30,Dave[tB],False,tabula_remake_1.5,Tabula_Remake 1.5,1700533,2023-06-23T18:44:32.000Z
+29,e6da95647fbc4fe3ac180f3b6c3725e3,Dave[tB],False,tundra_v2,Tundra_V2,812400,2023-06-23T17:48:22.000Z
+30,721a956473b00e676657addbc03fa215,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,2079667,2023-06-23T04:07:14.000Z
+31,9c139564f9550a406143ab3a3552f40a,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1034767,2023-06-23T03:38:04.000Z
+32,450995649d9ded4310eeb38c28a9a0ec,Dave[tB],True,forge_v1.4,Forge v1.4,990067,2023-06-23T02:53:57.000Z
+33,b001956422b597efd479a97975515590,Dave[tB],False,dsdr_4.1,DSDR 4.1,1401733,2023-06-23T02:21:36.000Z
+34,4bf79464f573e5f75736bae2c1432865,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,2084833,2023-06-23T01:37:15.000Z
+35,b3d69464f10c2dcf5cd12a71b79dd8f8,Dave[tB],False,Mediterraneum_V1,Mediterraneum_V1,5652500,2023-06-22T23:18:11.000Z
+36,2dc89464ea5a2ceab2b07ccebfb02a9c,Dave[tB],True,ice_scream_v2.5,Ice Scream v2.5,2327700,2023-06-22T22:16:13.000Z
+37,d87d946461b57a6156c4ba8a66c0887c,Dave[tB],False,throne_v8,Throne_V8,3811533,2023-06-22T16:59:04.000Z
+38,07d19364421cf4d30570623e81542c0a,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,2365833,2023-06-22T04:41:43.000Z
+39,0bcc936410aab17d386439dd9f1213d4,Dave[tB],False,starwatcher_1.0,Starwatcher 1.0,686800,2023-06-22T04:20:27.000Z
+40,78b89364b7abfc3715f56dfdd6fdf3ab,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,863633,2023-06-22T02:56:56.000Z
+41,1e9d93645ecd4f0503d0117605c29e03,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,1279733,2023-06-22T01:00:14.000Z
+42,6a8b9364b0ed8ae14edf7c385b93c4ac,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,2111600,2023-06-21T23:44:42.000Z
+43,a8859364e7a488f389ab5cbd42d09582,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1179267,2023-06-21T23:20:08.000Z
+44,a97f9364ffbb64c35a85fef9d43bd9be,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1048433,2023-06-21T22:54:33.000Z
+45,e87493643788d9370cbebb0d53e79d26,Dave[tB],True,dsdr_4.1,DSDR 4.1,1003333,2023-06-21T22:08:40.000Z
+46,9612936416b7f830ebbb92219445ed95,Dave[tB],False,theta_crystals_1.0,Theta Crystals 1.0,855967,2023-06-21T15:09:10.000Z
+47,bf7292644ba6b5bfcfd811dd64b47f55,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,1036233,2023-06-21T03:47:11.000Z
+48,796f9264b962ffebda1ba72524de3502,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,642867,2023-06-21T03:33:13.000Z
+49,0a649264005387d891cbe81fdd2b510f,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,398567,2023-06-21T02:44:26.000Z
+50,665f9264e6ca62920a0df59aef68cb88,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,359433,2023-06-21T02:24:38.000Z
+51,565c9264eab09d0852fabf81d40312da,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,579033,2023-06-21T02:11:34.000Z
+52,655a92645d332dabdc94d0da7c6dccee,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,387467,2023-06-21T02:03:17.000Z
+53,c215926472463dbb6ab469085d56b18c,Dave[tB],False,dsdr_4.1,DSDR 4.1,551700,2023-06-20T21:10:26.000Z
+54,630f9264d3c49ba18a190d85df6753bf,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,893133,2023-06-20T20:43:15.000Z
+55,d0b991648d3f80dfbbf7412b433c48a2,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,2670967,2023-06-20T14:38:08.000Z
+56,e0d48f642fdc71cbdf2b866ff5772c93,Dave[tB],True,starwatcher_1.0,Starwatcher 1.0,2788700,2023-06-19T04:09:04.000Z
+57,17a78f64b5a765bd90b6c7efa071ff2a,Dave[tB],True,throne_v8,Throne_V8,1882500,2023-06-19T00:53:43.000Z
+58,ab818f64bc168d91a5e8f995ae66227e,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,350467,2023-06-18T22:14:03.000Z
+59,3b4f8f6453e9ffad0ae86605f84fe0f3,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,918600,2023-06-18T18:38:51.000Z
+60,e04b8f6414b6fe220aafb3e6e6ccf229,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,727933,2023-06-18T18:24:32.000Z
+61,dc448f64cc741594f1c66a7a9282f865,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,453067,2023-06-18T17:54:36.000Z
+62,bc4d8e64022fbaae4d1de241711231ab,Dave[tB],False,Mediterraneum_V1,Mediterraneum_V1,3371967,2023-06-18T00:20:12.000Z
+63,4d3e8e6415045ccc45c4da8866188281,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1370267,2023-06-17T23:14:21.000Z
+64,233b8e64c54586778a0ae43c92a99fd0,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,439067,2023-06-17T23:00:51.000Z
+65,142c8d640cdf2c36a9fdf5c70fc14c7d,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,827767,2023-06-17T03:44:20.000Z
+66,c5298d64a15ae224e7e02b7bc1700410,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,446733,2023-06-17T03:34:29.000Z
+67,4e268d64d673986980019bb144a864ed,Dave[tB],False,flooded_valley_v5,Flooded_Valley_V5,533833,2023-06-17T03:19:42.000Z
+68,a4238d64b06ff1d93521d08549a03f91,Dave[tB],False,flooded_valley_v5,Flooded_Valley_V5,436533,2023-06-17T03:08:20.000Z
+69,301e8d645ba59f27e9783b5c80eedf8e,Dave[tB],True,heartbreak_hill_v4,Heartbreak Hill v4,1030800,2023-06-17T02:45:04.000Z
+70,ae198d64c886a068b4ec7ac5e6287570,Dave[tB],False,center_command_bar_v1.0,Center Command BAR v1.0,635233,2023-06-17T02:25:50.000Z
+71,0a138d6438a8116a4ba24ffa43c1ae5b,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1046933,2023-06-17T01:57:30.000Z
+72,c4f68c64827817c6b185a8612fa58f82,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,414700,2023-06-16T23:56:52.000Z
+73,76f28c646716a1a987835332b453bfaf,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,818067,2023-06-16T23:38:30.000Z
+74,69ef8c64fa2ccd3f8d560dc807f6c72e,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,550300,2023-06-16T23:25:29.000Z
+75,1bec8b64eaa04e0a6b92b60d3db45b76,Dave[tB],False,dworld_v4,DWorld_V4,4008700,2023-06-16T04:59:07.000Z
+76,eacb8b648b2f63f362bd854dba08618d,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1768500,2023-06-16T02:41:46.000Z
+77,d59d8b6416f15d69087e9b3db8bb5148,Dave[tB],True,sertagatta_v6.0,Sertagatta v6.0,710333,2023-06-15T23:25:09.000Z
+78,d69a8b643368a4623a52f06fcbafd53b,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,610400,2023-06-15T23:12:22.000Z
+79,e1938b64685dbae177d2b2448c7293fa,Dave[tB],False,Riverrun_V1,Riverrun_V1,1235700,2023-06-15T22:42:41.000Z
+80,7e888b64a69ccb3443aff94fac3d6853,Dave[tB],False,starwatcher_1.0,Starwatcher 1.0,1787500,2023-06-15T21:54:06.000Z
+81,89868a64fc9e4367b60dd5f6131aa7af,Dave[tB],True,Rosetta1.4,Rosetta 1.4,1906267,2023-06-15T03:33:29.000Z
+82,b8798a64cb833effc97d7f7e465a9aac,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1293867,2023-06-15T02:38:48.000Z
+83,0b738a64efc91506028de1646df23925,Dave[tB],True,ascendancy_v1.1,Ascendancy v1.1,1136800,2023-06-15T02:10:19.000Z
+84,26668a64756d55b9c824caae949ed189,Dave[tB],True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,737133,2023-06-15T01:15:18.000Z
+85,e84f8a647a37bd07940c9d32a122a03b,Dave[tB],True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1631600,2023-06-14T23:40:24.000Z
+86,8f438a644f17f3970698e4ed55a41daf,Dave[tB],True,ascendancy_v1.1,Ascendancy v1.1,2211967,2023-06-14T22:47:43.000Z
+87,4f158a64888ff00dd8d7d02890b7d75d,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1552633,2023-06-14T19:30:23.000Z
+88,8f0d8a64cb2e60b1ea6283456c5f94a9,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,1457500,2023-06-14T18:57:19.000Z
+89,e14c89647bb641ec92f4fb581b358db4,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1037233,2023-06-14T05:15:13.000Z
+90,b84789645d286ef96abda36049b3c5d8,Dave[tB],False,dsdr_4.1,DSDR 4.1,727900,2023-06-14T04:53:12.000Z
+91,853a8964bdc2728f171a38b50d00d7a6,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,778567,2023-06-14T03:56:53.000Z
+92,7f358964bbd3c56ed6c939a16fa2ea70,Dave[tB],False,ice_scream_v2.5,Ice Scream v2.5,891700,2023-06-14T03:35:27.000Z
+93,b42f89643cae84f066b972cf44eee8df,Dave[tB],True,NuclearWinterR,Nuclear Winter Bar 1.4,1148833,2023-06-14T03:10:44.000Z
+94,7007896409584eb49b871526225a8d75,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,1805033,2023-06-14T00:18:56.000Z
+95,75f48864114a4087a60487783e93fc6e,Dave[tB],False,ascendancy_v1.1,Ascendancy v1.1,1762533,2023-06-13T22:57:57.000Z
+96,48ee8864a2f243e38059961348dc24cd,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1088467,2023-06-13T22:31:36.000Z
+97,5bde88647d3e8ad4fc46e7b2a3d57df7,Dave[tB],False,dsdr_4.1,DSDR 4.1,3110533,2023-06-13T21:23:39.000Z
+98,f8d088640aafafa7ebc914af2b3e2782,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,2656067,2023-06-13T20:26:32.000Z
+99,fbc88864b650231b47aba4ab0e80e361,Dave[tB],False,pawn_retreat_1.2,Pawn Retreat 1.2,1355600,2023-06-13T19:52:27.000Z
+100,3db888649bef4cff8807a7df74fc137f,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,768000,2023-06-13T18:41:01.000Z
+101,a7ae8864503e8fe3df4a4085c8c3c9e0,Dave[tB],False,dworld_v4,DWorld_V4,1753667,2023-06-13T18:00:07.000Z
+102,48a188646f9e65a0f15378b8c5d9a90a,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,2995367,2023-06-13T17:03:04.000Z
+103,40798864b54ac9e92c6c0b3c134cd6ad,Dave[tB],True,Rosetta1.4,Rosetta 1.4,2036533,2023-06-13T14:12:16.000Z
+104,4cf0876446543d7a37d22e36ba04cd8d,Dave[tB],True,ascendancy_v1.1,Ascendancy v1.1,1869233,2023-06-13T04:27:56.000Z
+105,ffd4876461d516516e3261a82e87e50d,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1902633,2023-06-13T02:31:27.000Z
+106,7ec88764056f0a6d361c7c52a363ae4a,Dave[tB],False,theta_crystals_1.0,Theta Crystals 1.0,1291533,2023-06-13T01:38:06.000Z
+107,e1bd8764d2ea10f56c2e2abe13d61446,Dave[tB],False,Riverrun_V1,Riverrun_V1,2254633,2023-06-13T00:52:49.000Z
+108,3d8c87646e2523b28ad936c26a34665f,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,791300,2023-06-12T21:21:01.000Z
+109,824c8764fd0fdbcd6fccf824227c8c19,Dave[tB],True,thermal_shock_v1.1,Thermal Shock v1.1,1541167,2023-06-12T16:49:06.000Z
+110,7b4287645a2201922df9b12b9fe4123c,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1985400,2023-06-12T16:06:19.000Z
+111,723d8764b677d2f2d00c5a7082c785c1,Dave[tB],True,ascendancy_v1.1,Ascendancy v1.1,5967,2023-06-12T15:44:50.000Z
+112,8d3c8764b04cd519f85156ee47dfb8a9,Dave[tB],True,ascendancy_v1.1,Ascendancy v1.1,6033,2023-06-12T15:41:01.000Z
+113,5c87866487a89f7fd5123be6945cbee7,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1649933,2023-06-12T02:47:56.000Z
+114,a24686649029aa0e10d4156b027e1157,Dave[tB],True,ascendancy_v1.1,Ascendancy v1.1,2129967,2023-06-11T22:11:46.000Z
+115,f43f866418dbd405758f10da4f1b15fc,Dave[tB],False,Mediterraneum_V1,Mediterraneum_V1,4624267,2023-06-11T21:43:16.000Z
+116,65298664554c22b85ecd81677de5a698,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,3450767,2023-06-11T20:07:01.000Z
+117,c83a856419ccf83da06d1172191d482c,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,517600,2023-06-11T03:08:56.000Z
+118,fc388564e2b6107c345330334e37c2af,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,324900,2023-06-11T03:01:16.000Z
+119,2237856401424843640dd9fe0ff44e11,Dave[tB],False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,307867,2023-06-11T02:53:22.000Z
+120,972a85644db62c25c61a252a5497df6b,Dave[tB],False,ascendancy_v1.1,Ascendancy v1.1,1664967,2023-06-11T01:59:51.000Z
+121,ef1d856440f7fc4f608e18aafea4d137,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,2579500,2023-06-11T01:05:51.000Z
+122,111285644367128bbb1fcb9d57a9df15,Dave[tB],False,dsdr_4.1,DSDR 4.1,2054233,2023-06-11T00:15:13.000Z
+123,78ea83641753c2a3c9bbebdb2798b483,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,2014567,2023-06-10T03:14:00.000Z
+124,17e483642c8d78e013295b9d8a05af9e,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,899600,2023-06-10T02:46:47.000Z
+125,90de8364f26753e15c01d8f0ddb50a8b,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,486533,2023-06-10T02:23:12.000Z
+126,a8d98364167d84431e2bdb458d0db31a,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,1077400,2023-06-10T02:02:16.000Z
+127,4ac8836429a5589970989da1cebad55b,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,2244667,2023-06-10T00:48:10.000Z
+128,499e8364120a6686cfb718718b98a6eb,Dave[tB],True,Tau12,Tau12,583533,2023-06-09T21:48:57.000Z
+129,178c83644323eb987cf7d8d209855aae,Dave[tB],True,ascendancy_v1.0,Ascendancy v1.0,3027667,2023-06-09T20:31:19.000Z
+130,f88583642040a578eea049cfcb33bfde,Dave[tB],True,ascendancy_v1.0,Ascendancy v1.0,1235600,2023-06-09T20:05:12.000Z
+131,7c648364df64a03acd664b6941acc524,Dave[tB],False,ascendancy_v1.0,Ascendancy v1.0,2561767,2023-06-09T17:42:20.000Z
+132,039d826407e7e0d3858d595e37813fb4,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,592267,2023-06-09T03:31:15.000Z
+133,f99a826472877758e1e49230d5db8495,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,390433,2023-06-09T03:22:33.000Z
+134,6b9782644191b8fd885f737adb6bb73d,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,335433,2023-06-09T03:07:23.000Z
+135,74968264cc4daf5aaeb735956e53c796,Dave[tB],False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,113567,2023-06-09T03:03:16.000Z
+136,e69382649ab833b7f07518309bb6461b,Dave[tB],True,paradise_lost_v4,Paradise_Lost_V4,188033,2023-06-09T02:52:22.000Z
+137,7f8e8264262b45dba14e2c3e415b5f3d,Dave[tB],True,paradise_lost_v4,Paradise_Lost_V4,975433,2023-06-09T02:29:19.000Z
+138,ee8882640e3804d4efe9637ea78c8464,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1021000,2023-06-09T02:05:34.000Z
+139,e75182642ae9def25faf6c2d6ee76b50,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,919767,2023-06-08T22:10:47.000Z
+140,800382643cc05a2c0cc5bb045540fb71,Dave[tB],True,throne_v8,Throne_V8,3010933,2023-06-08T16:36:16.000Z
+141,d4f781648ec131d35dd94797988a00ca,Dave[tB],False,dworld_v4,DWorld_V4,2010200,2023-06-08T15:46:28.000Z
+142,25578164a6b62027006d40e4b49934ca,Dave[tB],True,ascendancy_v1.0,Ascendancy v1.0,1231700,2023-06-08T04:20:53.000Z
+143,c73c816407402867b173de879589bdd5,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1584367,2023-06-08T02:28:23.000Z
+144,e83581646d3b15dfefd3dcb826620c77,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1323700,2023-06-08T01:59:04.000Z
+145,c8308164bf84cf8596f124c53a74d380,Dave[tB],False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,733700,2023-06-08T01:37:12.000Z
+146,181c8164057d642713caafe03fc4219d,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,2183833,2023-06-08T00:08:56.000Z
+147,3ae280644c277a29c39a363caa329342,Dave[tB],True,barr_1.1,BarR 1.1,748267,2023-06-07T20:02:02.000Z
+148,01bb8064e9012afe1e21a14f4e797362,Dave[tB],False,dworld_v4,DWorld_V4,2859600,2023-06-07T17:14:41.000Z
+149,b0ad8064ef5723f4d009363b3eafa037,Dave[tB],False,dworld_v4,DWorld_V4,2778567,2023-06-07T16:17:52.000Z
+150,eb208064944e3555fa9233c6caa1439f,Dave[tB],False,starwatcher_1.0,Starwatcher 1.0,2667033,2023-06-07T06:17:15.000Z
+151,f4fe7f6487aef62c03d1b5218042d56c,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,4751667,2023-06-07T03:52:20.000Z
+152,69f97f64f8708b0b6de03e147f26818c,Dave[tB],False,forge_v1.4,Forge v1.4,892167,2023-06-07T03:28:41.000Z
+153,d9f47f64b67d1a4213db7bfdfa3c7059,Dave[tB],False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,395600,2023-06-07T03:09:13.000Z
+154,7cf17f64339c8421d9d1f308e941dba1,Dave[tB],False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,692700,2023-06-07T02:54:52.000Z
+155,4cef7f6439a41d337fbef44eb33575d2,Dave[tB],False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,433867,2023-06-07T02:45:32.000Z
+156,a1da7f64769f6029f24ead9bb9dfc712,Dave[tB],True,sertagatta_v6.0,Sertagatta v6.0,807400,2023-06-07T01:17:21.000Z
+157,dad37f64568a1d2d0102a0b066ca66bf,Dave[tB],False,sertagatta_v6.0,Sertagatta v6.0,1565233,2023-06-07T00:48:26.000Z
+158,54b87f64cedfe871739ec012002d9f55,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1960933,2023-06-06T22:51:00.000Z
+159,1a677f649f6215c711fb8eaaec70b39f,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,590167,2023-06-06T17:04:26.000Z
+160,f1627f6443bedbd3244ae56c63c552fd,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,876233,2023-06-06T16:46:41.000Z
+161,0e5f7e642078a545e9235248114cb955,Dave[tB],True,titanduel_v3,TitanDuel_V3,571700,2023-06-05T22:17:50.000Z
+162,385c7e64863017033bc04d059990da59,Dave[tB],True,titanduel_v3,TitanDuel_V3,633833,2023-06-05T22:05:44.000Z
+163,21117e64991adedd76649a5db9bd3da7,Dave[tB],True,emainmacha_remake_2.1,EmainMacha Remake 2.1,4031300,2023-06-05T16:45:21.000Z
+164,9c047e6490470f997af1049a58b8bfca,Dave[tB],False,dsdr_4.1,DSDR 4.1,2735700,2023-06-05T15:51:56.000Z
+165,e63b7d647c44d29e1ec71fe7e1bbefd8,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,913500,2023-06-05T01:35:34.000Z
+166,8d317d64a56d7da96caf32bcdb393ab4,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1018000,2023-06-05T00:51:25.000Z
+167,671e7d642b38e7d56b9e3861e8dad222,Dave[tB],True,forge_v1.4,Forge v1.4,2121433,2023-06-04T23:29:43.000Z
+168,48167d6455e74bd3c3851f596af6228a,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1427500,2023-06-04T22:55:04.000Z
+169,862b7c64869795102132c9a0d52f9263,Dave[tB],True,forge_v1.4,Forge v1.4,1392800,2023-06-04T06:13:26.000Z
+170,ae177c64cf15d317a7bcb2dc60c2c28b,Dave[tB],True,speedmetal_bar_v2,SpeedMetal BAR V2,422267,2023-06-04T04:48:46.000Z
+171,86117c64c991b605263bf349cf70532a,Dave[tB],False,speedmetal_bar_v2,SpeedMetal BAR V2,1435500,2023-06-04T04:22:30.000Z
+172,cc0b7c64d9c11381049520c38dbeacf6,Dave[tB],True,speedmetal_bar_v2,SpeedMetal BAR V2,253500,2023-06-04T03:58:04.000Z
+173,22f57b644e6822326261d086be9f2008,Dave[tB],True,dworld_v4,DWorld_V4,2852033,2023-06-04T02:21:22.000Z
+174,1df17b64e24dd9dc35ae25cbaa80ebdb,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,749733,2023-06-04T02:04:13.000Z
+175,c3e47b64641d57c24a303e0e6bbb23eb,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,523600,2023-06-04T01:11:31.000Z
+176,dde17b64e41a95449b1a101760213e7f,Dave[tB],False,hooked_1.1,Hooked 1.1,534500,2023-06-04T00:59:09.000Z
+177,8de07b643f236bc3d084388e647c2157,Dave[tB],True,hooked_1.1,Hooked 1.1,165500,2023-06-04T00:53:33.000Z
+178,f0de7b64c9e6957fe7d7734bf68dfdc4,Dave[tB],False,hooked_1.1,Hooked 1.1,273067,2023-06-04T00:46:40.000Z
+179,47dc7b6492727b1ee82da867838a5274,Dave[tB],False,hooked_1.1,Hooked 1.1,336333,2023-06-04T00:35:19.000Z
+180,b5da7b641f36c4f9473f4666c5da78e2,Dave[tB],False,hooked_1.1,Hooked 1.1,98233,2023-06-04T00:28:37.000Z
+181,4fd77b6405b1a8080b046aeee067d22a,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,599600,2023-06-04T00:14:07.000Z
+182,78c97b6441ee76d0df60e36388cf68b1,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1115633,2023-06-03T23:15:04.000Z
+183,e9a37a642cdf91f9a24f13e0573e3366,Dave[tB],True,dsdr_4.1,DSDR 4.1,2816700,2023-06-03T02:22:33.000Z
+184,b5997a6450d2f3b6f55cfa4e7fbf8a2b,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,2240133,2023-06-03T01:39:01.000Z
+185,3b857a64ae4b23feccf7c07b6f327dbd,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1858500,2023-06-03T00:11:39.000Z
+186,93597a64dd0cfd95e1d78bc600c584a3,Dave[tB],False,dsdr_4.1,DSDR 4.1,2873567,2023-06-02T21:05:23.000Z
+187,dd527a6401dccdbcfc9992a2f3a6edbf,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1358600,2023-06-02T20:36:45.000Z
+188,854a7a64aac0dde9536e095f0be33acf,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1886433,2023-06-02T20:01:09.000Z
+189,b4337a64e0c56c11205e853dd91c5faa,Dave[tB],False,dworld_v4,DWorld_V4,4402200,2023-06-02T18:23:48.000Z
+190,1b0a7a6466a780d960e4e7defad63582,Dave[tB],False,throne_v8,Throne_V8,3040500,2023-06-02T15:26:19.000Z
+191,67407964434b6841224b7422dfc04578,Dave[tB],True,all_that_glitters_v2.1,All That Glitters v2.1,2137733,2023-06-02T01:05:43.000Z
+192,0b367964594d500bd2046b2ee15925fb,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,2169100,2023-06-02T00:21:31.000Z
+193,d3307964d4c690bc4c459d496c4851bc,Dave[tB],False,dsdr_4.1,DSDR 4.1,858567,2023-06-01T23:59:15.000Z
+194,9b1a796477b09cd26b5117ac0427e204,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,2555533,2023-06-01T22:24:27.000Z
+195,82f67864dc85636599d4470fb8fbe757,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,2870000,2023-06-01T19:50:26.000Z
+196,49ec78649e8201fc4aceeb8706569934,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,874967,2023-06-01T19:06:49.000Z
+197,c4e078643b9f340847f0535ad7ca7b19,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,831033,2023-06-01T18:17:40.000Z
+198,c9dd7864d9aa7e3226e84ba3f1f3975f,Dave[tB],True,titanduel_v3,TitanDuel_V3,540667,2023-06-01T18:04:57.000Z
+199,c1d37864673de43c3a898bff7e9ac3d0,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1881400,2023-06-01T17:22:09.000Z
+200,f7b97864a93ca4a90e0fd22723fcaf51,Dave[tB],True,darkside_v3.0,Darkside v3.0,1950600,2023-06-01T15:32:07.000Z
+201,90af78642213f96faa5100c899d92647,Dave[tB],True,dsdr_4.1,DSDR 4.1,900100,2023-06-01T14:47:44.000Z
+202,f8a078645bf9052f321730f4c979bcea,Dave[tB],False,dsdr_4.1,DSDR 4.1,3506033,2023-06-01T13:45:28.000Z
+203,03ee7764090aaac6082ddc24b5cf801e,Dave[tB],False,all_that_glitters_v2.1,All That Glitters v2.1,2587633,2023-06-01T01:01:55.000Z
+204,78ce77643c2bcdd310a023b24cd014e6,Dave[tB],True,TheRock_V3,TheRock_V3,1318033,2023-05-31T22:47:20.000Z
+205,94c8776410fd7a7f274060e162673d1f,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1133133,2023-05-31T22:22:12.000Z
+206,84ba776411c70c74ff9990471414da86,Dave[tB],True,all_that_glitters_v2.1,All That Glitters v2.1,2484600,2023-05-31T21:22:12.000Z
+207,e2b07764083a4368ba52d5ff0a665358,Dave[tB],False,dsdr_4.1,DSDR 4.1,2022767,2023-05-31T20:41:06.000Z
+208,8fa87764e862607fee90e7df8f4d982b,Dave[tB],True,titanduel_v3,TitanDuel_V3,276700,2023-05-31T20:05:35.000Z
+209,78a277646b009744b1ac4029148f1599,Dave[tB],True,sertaleina_v9.1,Sertaleina_v9.1,617000,2023-05-31T19:39:36.000Z
+210,dc9f7764aa0493db8c35ac01e76845bb,Dave[tB],True,sertaleina_v9.1,Sertaleina_v9.1,500467,2023-05-31T19:28:28.000Z
+211,619d7764d0c44fd9d586f751dc840283,Dave[tB],False,sertaleina_v9.1,Sertaleina_v9.1,460633,2023-05-31T19:17:53.000Z
+212,8a9a7764a21989fad56264e597589a41,Dave[tB],False,sertaleina_v9.1,Sertaleina_v9.1,604633,2023-05-31T19:05:46.000Z
+213,8a987764e527177e08c729479ec2c547,Dave[tB],True,sertaleina_v9.1,Sertaleina_v9.1,417733,2023-05-31T18:57:14.000Z
+214,459377644d602e62d0c6abad389f70a4,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,512467,2023-05-31T18:34:45.000Z
+215,868d7764974a43dc0f10d188ca2c2b2d,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,832667,2023-05-31T18:10:14.000Z
+216,798a7764d58368c3c725819dfeefec7a,Dave[tB],False,eye_of_horus_1.7,Eye Of Horus 1.7,470000,2023-05-31T17:57:13.000Z
+217,b37d77649e2c5169f439e3ea9dfc1a96,Dave[tB],True,darkside_v3.0,Darkside v3.0,1144933,2023-05-31T17:02:43.000Z
+218,ef707764d1802802b3e6a9beeb6c90c4,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,2749134,2023-05-31T16:08:15.000Z
+219,65677764410e822eb71727cc55206d3b,Dave[tB],True,NuclearWinterR,Nuclear Winter Bar 1.4,2054200,2023-05-31T15:27:33.000Z
+220,a5637764ecc8235f22a26397f2f47cc8,Dave[tB],False,ghenna_rising_4.0,Ghenna Rising 4.0,623667,2023-05-31T15:11:33.000Z
+221,fc04776447c792b88791df282e219c2f,Dave[tB],False,darkside_v3.0,Darkside v3.0,1348667,2023-05-31T08:27:40.000Z
+222,cffb766446a7836b1ae106f9aefd9ffb,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1943667,2023-05-31T07:48:31.000Z
+223,b6f476643a7afe1eca214dbfa5997ba2,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1251667,2023-05-31T07:18:14.000Z
+224,3fef7664a2914ff4ec90da70b543d247,Dave[tB],False,forge_v1.4,Forge v1.4,635400,2023-05-31T06:54:55.000Z
+225,a0e876642f06db1d53dcd9235d0ce5fc,Dave[tB],False,tropical_assault_v3.0,Tropical Assault v3.0,1193633,2023-05-31T06:26:40.000Z
+226,14e076640ef13153664eb696434712c1,Dave[tB],True,NuclearWinterR,Nuclear Winter Bar 1.4,1278367,2023-05-31T05:50:12.000Z
+227,d1d37664469f533103619215f981121a,Dave[tB],False,dsdr_4.1,DSDR 4.1,2638133,2023-05-31T04:57:53.000Z
+228,9fcb7664fd92b83c8265af564e81d91f,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1786733,2023-05-31T04:22:55.000Z
+229,bba67664c1a8d283ff4fb93b702ac2aa,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1546267,2023-05-31T01:45:31.000Z
+230,c57e76645be18aa1dea392bc2eb3d802,Dave[tB],True,all_that_glitters_v2.1,All That Glitters v2.1,2118567,2023-05-30T22:55:01.000Z
+231,16737664dac2a5ac3be41b634d513675,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,2400633,2023-05-30T22:05:10.000Z
+232,495d7664762ee8095751a7f769365bff,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,230933,2023-05-30T20:32:09.000Z
+233,e05b766452ac5a90af117e3096db3c9d,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,251867,2023-05-30T20:26:08.000Z
+234,91507664132979a182d848e6d43d57cf,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,713567,2023-05-30T19:37:53.000Z
+235,274e76646d339c1ec9c4a3291195fbd9,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,486533,2023-05-30T19:27:35.000Z
+236,bf4b7664f69d53d2e74a600689bf034d,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,412000,2023-05-30T19:17:19.000Z
+237,79487664a5b59b3f277171a06c93b0eb,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,514933,2023-05-30T19:03:21.000Z
+238,80397664310ca77421f60fa1cd3e96c4,Dave[tB],True,theta_crystals_1.0,Theta Crystals 1.0,1725967,2023-05-30T17:59:28.000Z
+239,fa0f76645aa71d5946f99687a721bc64,Dave[tB],True,greenest_fields_1.3,Greenest Fields 1.3,3139200,2023-05-30T15:02:18.000Z
+240,b20a7664b5f57a7769b860c780be8f69,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,781600,2023-05-30T14:39:46.000Z
+241,70667564cb0d2a468c3b81b37dfb897d,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,1715567,2023-05-30T02:58:56.000Z
+242,793f7564a1778d29aca76ee0dd55facf,Dave[tB],True,theta_crystals_1.0,Theta Crystals 1.0,669367,2023-05-30T00:12:41.000Z
+243,7a3b7564b7305e6d7a4460f34533b32a,Dave[tB],True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,829700,2023-05-29T23:55:38.000Z
+244,1ae57464c2b6670aecd037bc623556ed,Dave[tB],True,desolation,Desolation v1,1242833,2023-05-29T17:47:06.000Z
+245,c6e1746464601647426b569d9b5559d3,Dave[tB],True,kolmogorov_remake_3.0,Kolmogorov Remake 3.0,589333,2023-05-29T17:32:54.000Z
+246,02dd74647e2a9132096f8b0c49a5afb5,Dave[tB],True,titanduel_v3,TitanDuel_V3,814033,2023-05-29T17:12:34.000Z
+247,08db74640e888f33d365d6be38398c07,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,320433,2023-05-29T17:04:08.000Z
+248,d7257464cf8930ed73baf71a5cdddfc9,Dave[tB],True,fallendell_v4,Fallendell_V4,1409867,2023-05-29T04:11:03.000Z
+249,8d2274642c045a405cff64f5aa27d86c,Dave[tB],False,sertaleina_v9.0,Sertaleina_v9.0,449067,2023-05-29T03:57:01.000Z
+250,cf1d74640ba4d1dc472d47b4ec74dd72,Dave[tB],False,sertaleina_v9.0,Sertaleina_v9.0,977800,2023-05-29T03:36:47.000Z
+251,161574644c564542d82e9806f41ef223,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1701733,2023-05-29T02:59:34.000Z
+252,f0dc73647727ebbcf1bc6aff89acf4c0,Dave[tB],True,neurope_remake_4.2,Neurope_Remake 4.2,2810833,2023-05-28T23:00:00.000Z
+253,74cc7364788074678e8376fbbff84dea,Dave[tB],True,dworld_v4,DWorld_V4,3588800,2023-05-28T21:49:40.000Z
+254,5eb67364760a898645db97274a3b8ed5,Dave[tB],True,dworld_v4,DWorld_V4,2270300,2023-05-28T20:15:26.000Z
+255,4a7c71648809891801704ca7cc1577e0,Dave[tB],True,all_that_glitters_v2.1,All That Glitters v2.1,1889633,2023-05-27T03:43:06.000Z
+256,e26271645537c7e9ef0da301c2daabd6,Dave[tB],True,thermal_shock_v1.1,Thermal Shock v1.1,3188633,2023-05-27T01:54:42.000Z
+257,552771647fa6ff4771e385dc442734dc,Dave[tB],True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,2528933,2023-05-26T21:40:37.000Z
+258,49177164ec3150d0f8883c59a936d754,Dave[tB],True,darkside_v3.0,Darkside v3.0,1196533,2023-05-26T20:32:09.000Z
+259,1a067164708304b26e70ed8f298ed29b,Dave[tB],True,dsdr_4.1,DSDR 4.1,1666533,2023-05-26T19:18:50.000Z
+260,55ff7064504ad328341678276cd8b8c4,Dave[tB],False,hotlips_remake_v3.1,Hotlips Remake v3.1,1337467,2023-05-26T18:49:57.000Z
+261,aced7064c297cacf6133d85d6316809e,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,795767,2023-05-26T17:34:36.000Z
+262,30e67064a15eca8f2a95c7900d878d77,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1125733,2023-05-26T17:02:40.000Z
+263,dedd70642e03e313caf6e3c8c4de57f6,Dave[tB],True,flooded_valley_v5,Flooded_Valley_V5,264267,2023-05-26T16:27:10.000Z
+264,04d7706449190de9c6e7cb36a71acc69,Dave[tB],True,hooked_1.1,Hooked 1.1,312533,2023-05-26T15:57:56.000Z
+265,d20b7064da9dfd0ab788eadfe5909d71,Dave[tB],True,dworld_v4,DWorld_V4,3687633,2023-05-26T01:30:58.000Z
+266,edfd6f64328992e59febc06f9ee1d7d5,Dave[tB],False,neurope_remake_4.2,Neurope_Remake 4.2,2994067,2023-05-26T00:31:41.000Z
+267,c5ec6f6497756720b69a4279e2a14a38,Dave[tB],False,throne_v8,Throne_V8,3776367,2023-05-25T23:18:29.000Z
+268,57896f64fcde53c02693b107bbe1d68a,Dave[tB],True,avalanche_3.4,Avalanche 3.4,580333,2023-05-25T16:14:15.000Z
+269,b1866f6470438891cf787849fcdfc6f5,Dave[tB],True,avalanche_3.4,Avalanche 3.4,530100,2023-05-25T16:02:57.000Z
+270,827f6f64f1fd098bccbfdc84b2afbd8e,Dave[tB],False,dworld_v4,DWorld_V4,1966433,2023-05-25T15:32:18.000Z
+271,15e96e64a4281b91fa07fb0e169dbc01,Dave[tB],True,darkside_v3.0,Darkside v3.0,2191367,2023-05-25T04:50:29.000Z
+272,35dd6e640dd8a73c114560280fd69397,Dave[tB],False,darkside_v3.0,Darkside v3.0,2203033,2023-05-25T03:59:49.000Z
+273,04c36e64766517a9803b9e19cd51cae9,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,3384333,2023-05-25T02:08:04.000Z
+274,49b66e647a2d32ac61649a7161d2c902,Dave[tB],False,dsdr_4.1,DSDR 4.1,2770400,2023-05-25T01:13:45.000Z
+275,b2926e642e336b5a999231d4aadf23a0,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1094433,2023-05-24T22:41:54.000Z
+276,4d896e64684f50687c9c5a52fe8e5504,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,1794667,2023-05-24T22:01:49.000Z
+277,975f6e641dc6ec368addba04602ab4d5,Dave[tB],True,NuclearWinterR,Nuclear Winter Bar 1.4,1265233,2023-05-24T19:03:51.000Z
+278,b93b6e648fc020ecdb3857f07e9fd253,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,2258433,2023-05-24T16:30:49.000Z
+279,80346e64d61626a2893f4ffc31d5fe42,Dave[tB],True,hades_ponds_0.7,Hades Ponds 0.7,1392167,2023-05-24T16:00:00.000Z
+280,a1a76d64fbbf3b4bb8dbfdd26103cb04,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,462067,2023-05-24T05:58:57.000Z
+281,b3966d64187c5943a6f62bccffdafd51,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,3492267,2023-05-24T04:46:43.000Z
+282,a5896d6412a0c921d002967085ed852c,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1327833,2023-05-24T03:51:01.000Z
+283,c97d6d64eeac4413a11d2ac5f31ead31,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,2249733,2023-05-24T03:00:25.000Z
+284,43146d6412e6a70d18b6bf210047e5a1,Dave[tB],True,dsdr_4.1,DSDR 4.1,2218800,2023-05-23T19:30:11.000Z
+285,c1606c640bf9cac26aa62152891a9321,Dave[tB],True,dsdr_4.1,DSDR 4.1,855933,2023-05-23T06:44:17.000Z
+286,0a566c647882b4aa03541c36fd2c6197,Dave[tB],True,Rosetta1.4,Rosetta 1.4,1480900,2023-05-23T05:58:34.000Z
+287,e4426c6467646eaec12bef31b124fce2,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,3870967,2023-05-23T04:36:52.000Z
+288,c83d6c64a8a9fb9ad0105a007952e463,Dave[tB],False,dsdr_4.1,DSDR 4.1,813400,2023-05-23T04:15:04.000Z
+289,75356c64e2e02b638d2413ec76c6cae5,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,1773700,2023-05-23T03:39:33.000Z
+290,512c6c64f3e9032a54686cd3e7dec5ca,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,1823567,2023-05-23T03:00:33.000Z
+291,4a246c644e009662d5eaf8fabb5553cf,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1382667,2023-05-23T02:26:18.000Z
+292,531f6c64d98afda0b7438be4baba106f,Dave[tB],False,dworld_v4,DWorld_V4,960033,2023-05-23T02:05:07.000Z
+293,011c6c64f70a0da61d40c43c6fa7bac9,Dave[tB],True,avalanche_3.4,Avalanche 3.4,415800,2023-05-23T01:50:57.000Z
+294,d8136c644ea3dade4870446271c35427,Dave[tB],False,dsdr_4.1,DSDR 4.1,1664500,2023-05-23T01:16:08.000Z
+295,db0b6c64867afb07749604e3ad6ca9f2,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1532933,2023-05-23T00:42:03.000Z
+296,46ff6b6409fd3f5e43d20cdd6182e0b6,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1892167,2023-05-22T23:48:22.000Z
+297,0acb6b642d41cc5f43c7fb4b58bdc7c7,Dave[tB],False,zed_remake_3.3,Zed Remake 3.3,312567,2023-05-22T20:05:30.000Z
+298,dbc86b64dd31710250aa0ff6495db8ef,Dave[tB],True,zed_remake_3.3,Zed Remake 3.3,324900,2023-05-22T19:56:11.000Z
+299,05c76b64615c080cb3d1ed73a0af37c1,Dave[tB],False,zed_remake_3.3,Zed Remake 3.3,351467,2023-05-22T19:48:21.000Z
+300,e1bd6b6450eaf1a615cb6dad0af3a667,Dave[tB],True,titanduel_v3,TitanDuel_V3,853833,2023-05-22T19:09:21.000Z
+301,9cb56b64062a865137c53adfb9961c01,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,350867,2023-05-22T18:34:04.000Z
+302,b8b06b6400528f81c7a0343a24a17b86,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,1070967,2023-05-22T18:13:12.000Z
+303,28aa6b646f20130b1efab9d185b3dcd2,Dave[tB],True,paradise_lost_v4,Paradise_Lost_V4,1467767,2023-05-22T17:45:12.000Z
+304,a19a6b647cae431e49542c61bbea4e80,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,3296967,2023-05-22T16:38:57.000Z
+305,90936b64b183fd16edfa79e94cb093cc,Dave[tB],False,all_that_glitters_v2.1,All That Glitters v2.1,1434967,2023-05-22T16:08:48.000Z
+306,d6006b64bd3c5ffc968c7ea14508b3c0,Dave[tB],True,avalanche_3.4,Avalanche 3.4,765900,2023-05-22T05:42:46.000Z
+307,c7f46a641486a9626d7229bcda4a075c,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,2035567,2023-05-22T04:51:19.000Z
+308,cde76a646118f907f00de3792b2a5c33,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,2630500,2023-05-22T03:55:57.000Z
+309,0be26a64277fe8830f8a38a5926fd13b,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1031567,2023-05-22T03:31:23.000Z
+310,ddc36a64846f51c926141eb6aa5a8b1b,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,390533,2023-05-22T01:22:37.000Z
+311,d0c06a64936bd8310d53f7f5a6506286,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,675200,2023-05-22T01:09:36.000Z
+312,23bf6a64bff2e8464b81557b66a3fce7,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,289133,2023-05-22T01:02:27.000Z
+313,18776a6470e92894b886aa893f137b68,Dave[tB],False,ice_scream_v2.5,Ice Scream v2.5,2025800,2023-05-21T19:55:04.000Z
+314,47716a641e494c641b19c47eb6125383,Dave[tB],True,NuclearWinterR,Nuclear Winter Bar 1.4,828500,2023-05-21T19:30:15.000Z
+315,a5a46964ba2fb6b41cef336810cff010,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,859033,2023-05-21T04:57:09.000Z
+316,27a2696463756f1a301566d4893930bb,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,504200,2023-05-21T04:46:31.000Z
+317,b98e69649a6d0f7a642cc02d429f4b33,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,636267,2023-05-21T03:23:37.000Z
+318,8d8c6964af683506d13ed347bcd402c3,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,216833,2023-05-21T03:14:21.000Z
+319,eb876964fece9e61462d514ddd1f36f2,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,756233,2023-05-21T02:54:35.000Z
+320,2f8369644651f4129c4642e83b0bb9c5,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,830600,2023-05-21T02:34:23.000Z
+321,0a6e6964b4800c4fe2a2056d2ad79d9d,Dave[tB],True,darkside_v3.0,Darkside v3.0,1081667,2023-05-21T01:04:10.000Z
+322,e767696444eada3c86d5881f08f2d776,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,509633,2023-05-21T00:37:59.000Z
+323,2c646964b2140dc7782efea456adc66c,Dave[tB],False,center_command_bar_v1.0,Center Command BAR v1.0,833367,2023-05-21T00:22:04.000Z
+324,12606964110f67de33cdb18c1ad982ff,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,662500,2023-05-21T00:04:34.000Z
+325,6239686487f6b24f22ca530327e6c521,Dave[tB],False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2426833,2023-05-20T03:07:14.000Z
+326,85ff6764cfde276318d492415381d013,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1301400,2023-05-19T23:00:21.000Z
+327,9bcb67640117439deb626ac07c67f134,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,2273633,2023-05-19T19:18:51.000Z
+328,8dc167648756376fbac8e51874ee481c,Dave[tB],True,dsdr_4.1,DSDR 4.1,1653900,2023-05-19T18:35:57.000Z
+329,c0f166648a9377f86965b519fde44052,Dave[tB],True,sulphur_springs_v1.1,Sulphur Springs v1.1,1492200,2023-05-19T03:49:20.000Z
+330,50dc6664cb236577a79ffdac3862a142,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1412867,2023-05-19T02:17:52.000Z
+331,d4d4666454606c6dbc13c308c5c5e6a6,Dave[tB],False,Rosetta1.4,Rosetta 1.4,1539600,2023-05-19T01:45:56.000Z
+332,1dae6664a15633aae12f0929762e957d,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,2556634,2023-05-18T23:00:45.000Z
+333,9da66664390bb82f717cd14cd40bc403,Dave[tB],True,Riverrun_V1,Riverrun_V1,999933,2023-05-18T22:28:45.000Z
+334,759d6664f1a69e803abe1c8bcc768487,Dave[tB],False,dsdr_4.1,DSDR 4.1,1503867,2023-05-18T21:49:41.000Z
+335,a2966664c6ee3b2f12479ca4f1d80d1c,Dave[tB],False,koom_valley_3_3.1,Koom Valley 3 3.1,1338633,2023-05-18T21:20:34.000Z
+336,308c66646696f9d910cf7a38ac0a04f8,Dave[tB],False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2184767,2023-05-18T20:36:00.000Z
+337,568566649f927a913eef03bcbf22798a,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1199767,2023-05-18T20:06:46.000Z
+338,6362666410c5f135d4e0000bf83dc29f,Dave[tB],True,Rosetta1.4,Rosetta 1.4,1764733,2023-05-18T17:37:39.000Z
+339,5e5b66643a62cd2673ed63488e03afab,Dave[tB],False,dsdr_4.1,DSDR 4.1,1261967,2023-05-18T17:07:42.000Z
+340,549e6564ce5bcddc70fd8d8536639637,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,2055667,2023-05-18T03:41:08.000Z
+341,ba5b65646797fc996d9675de5faeaba6,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,3513800,2023-05-17T22:56:58.000Z
+342,a252656448d2d0dd9ad62bfc6bda604a,Dave[tB],False,all_that_glitters_v2.1,All That Glitters v2.1,1470467,2023-05-17T22:18:10.000Z
+343,eb4765649f2cfd0b79a6c7b2bbcf01e3,Dave[tB],False,forge_v1.4,Forge v1.4,1895000,2023-05-17T21:32:27.000Z
+344,25436564bdf7bac45c9c5617bfec0786,Dave[tB],False,hotlips_remake_v3.1,Hotlips Remake v3.1,750400,2023-05-17T21:12:05.000Z
+345,ca2865646a8e51d406f1d5fb4506c806,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1249100,2023-05-17T19:19:38.000Z
+346,791e65648d56675a0b238b88e1a491f9,Dave[tB],False,dsdr_4.1,DSDR 4.1,2136467,2023-05-17T18:35:37.000Z
+347,84126564dc1a202832f656653e35c59d,Dave[tB],False,hades_ponds_0.7,Hades Ponds 0.7,2530767,2023-05-17T17:44:36.000Z
+348,acea6464358efebb0aae8fe3f35c859e,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,1501033,2023-05-17T14:54:36.000Z
+349,ace264641a02df7a0f034ab40fb14aea,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1548867,2023-05-17T14:20:28.000Z
+350,3c4b64645ec0dd515ec2100024086f5e,Dave[tB],True,forge_v1.4,Forge v1.4,988133,2023-05-17T03:34:20.000Z
+351,503e6464257b486b5b315f1ae4f20bdd,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1647867,2023-05-17T02:39:12.000Z
+352,96366464560df5726ef825ac0962b611,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1700367,2023-05-17T02:06:14.000Z
+353,5230646410ef344aed169def85865d64,Dave[tB],True,center_command_bar_v1.0,Center Command BAR v1.0,694400,2023-05-17T01:39:30.000Z
+354,94266464d5bf8d9ecc379e8163796c8c,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1727867,2023-05-17T00:57:56.000Z
+355,9f0a6464ec3d23fe3622b9308110faaa,Dave[tB],False,carrot_mountains_v1.0,Carrot Mountains v1.0,3816400,2023-05-16T22:58:39.000Z
+356,8306646431f221dae23ff99d87a6586c,Dave[tB],False,hades_ponds_0.7,Hades Ponds 0.7,744433,2023-05-16T22:41:07.000Z
+357,34fa6364a7f8159e8599c0b596a0ac52,Dave[tB],False,dsdr_4.1,DSDR 4.1,2470833,2023-05-16T21:48:36.000Z
+358,02f16364da2abf5800787b87fcbcee1b,Dave[tB],False,all_that_glitters_v2.1,All That Glitters v2.1,1685667,2023-05-16T21:09:22.000Z
+359,71ea63644817e30a9a240073ca0870d3,Dave[tB],False,koom_valley_3_3.1,Koom Valley 3 3.1,1153567,2023-05-16T20:41:21.000Z
+360,66e46364e422d26403d7e64bc03ccf31,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,884533,2023-05-16T20:15:34.000Z
+361,4ee06364abf1c072425216899e5701a5,Dave[tB],False,forge_v1.4,Forge v1.4,625067,2023-05-16T19:58:06.000Z
+362,a6ca63647c3be01b9023b8f06856587c,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1936467,2023-05-16T18:25:42.000Z
+363,43c46364fb2d252deac51bb26c97b1d3,Dave[tB],False,carrot_mountains_v1.0,Carrot Mountains v1.0,4442667,2023-05-16T17:58:27.000Z
+364,c99b6364395d35cbb1a988f0e391d2c7,Dave[tB],True,tabula_remake_1.5,Tabula_Remake 1.5,1432667,2023-05-16T15:05:45.000Z
+365,8a946364816ffb4cb2688b735596ace9,Dave[tB],False,valles_marineris_2.6,Valles Marineris 2.6,1075767,2023-05-16T14:34:50.000Z
+366,d29063641517bb1665e45925e6537fd0,Dave[tB],True,theta_crystals_1.0,Theta Crystals 1.0,627200,2023-05-16T14:18:58.000Z
+367,dc146364d8907ac85ba16ab2b9fd129d,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1690200,2023-05-16T05:30:04.000Z
+368,d49e6264074909ce925b4070d963b457,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1698600,2023-05-15T21:06:28.000Z
+369,629a6264b1c09f9aaa080ef808614ada,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,554933,2023-05-15T20:47:30.000Z
+370,f1c06164653b1b3bfbf8cd515d46f890,Dave[tB],True,dsdr_4.1,DSDR 4.1,3469733,2023-05-15T05:19:45.000Z
+371,a6b761644b6f0b52d58e87cf8f0c80a7,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1877733,2023-05-15T04:40:06.000Z
+372,25a361645fffe093d20a29e45eb4288d,Dave[tB],False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1681133,2023-05-15T03:12:37.000Z
+373,cd9b6164f950151b456756bdc4008e7d,Dave[tB],True,forge_v1.4,Forge v1.4,1452833,2023-05-15T02:41:17.000Z
+374,b4596064008e1c376094c9071c4a2c84,Dave[tB],True,Riverrun_V1,Riverrun_V1,1154267,2023-05-14T03:47:00.000Z
+375,c74a606400f94964cc712ca5b9ddcb5d,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1644733,2023-05-14T02:43:19.000Z
+376,2a406064f2a07a0cb55200bba9cd42f6,Dave[tB],False,Krakatoa_v1,Krakatoa_V1,3272967,2023-05-14T01:58:02.000Z
+377,e1eb5e644371665cb0962aedbabebf6d,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1182667,2023-05-13T01:46:09.000Z
+378,a3e45e64e0325215f3aed7470370b208,Dave[tB],False,all_that_glitters_v2.0,All That Glitters v2.0,1301533,2023-05-13T01:15:15.000Z
+379,b7de5e64c8c2c7493b5e189b1e2b65e5,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,919167,2023-05-13T00:49:59.000Z
+380,a8d65e64a3a02cb0d366a347b3643f63,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1372000,2023-05-13T00:15:36.000Z
+381,f1d15e642dd515bbf145f50bdf948cf0,Dave[tB],True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,950867,2023-05-12T23:55:29.000Z
+382,bcb85e6481e2ab9c2faa4517e6681033,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1001200,2023-05-12T22:07:56.000Z
+383,0aac5e64e41502c4b63756dd9bea7167,Dave[tB],True,darkside_v3.0,Darkside v3.0,1258433,2023-05-12T21:13:46.000Z
+384,83995e649ec7d08ada090e4d6fa7353c,Dave[tB],False,tabula_remake_1.5,Tabula_Remake 1.5,2188733,2023-05-12T19:54:43.000Z
+385,3b565e6414a05aace6cac546638cf526,Dave[tB],True,darkside_v3.0,Darkside v3.0,1817633,2023-05-12T15:07:39.000Z
+386,27515e6479a22771e9e911556a0ba942,Dave[tB],False,hades_ponds_0.7,Hades Ponds 0.7,726067,2023-05-12T14:45:59.000Z
+387,03cd5d644e628ad4fe6b3dad170732d7,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,1739567,2023-05-12T05:22:11.000Z
+388,d1bb5d6445b48d69632892c7f7312224,Dave[tB],True,darkside_v3.0,Darkside v3.0,807700,2023-05-12T04:08:49.000Z
+389,8ab75d6493bf6c85e83dfbea6588bd5a,Dave[tB],False,NuclearWinterR,Nuclear Winter Bar 1.4,552667,2023-05-12T03:50:34.000Z
+390,08ab5d645da6cd879c93cea02f586396,Dave[tB],False,all_that_glitters_v2.0,All That Glitters v2.0,2419867,2023-05-12T02:57:12.000Z
+391,78a05d648862bf734980987190b8fe50,Dave[tB],False,Riverrun_V1,Riverrun_V1,2045600,2023-05-12T02:12:08.000Z
+392,c4975d646a54dde454f19163acf5cba7,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,1628733,2023-05-12T01:35:00.000Z
+393,c7955d645c0f6d5987d9a74a9dd0ff4d,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,402067,2023-05-12T01:26:31.000Z
+394,ef935d64c53723336c491686fc899a52,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,341000,2023-05-12T01:18:39.000Z
+395,42905d645d2ceb702491d4814b109f86,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,731700,2023-05-12T01:02:58.000Z
+396,866e5d645dfcce23d047bfb25fd6c89d,Dave[tB],True,forge_v1.4,Forge v1.4,849233,2023-05-11T22:39:02.000Z
+397,22535d64e0a676de423c62ae0de24314,Dave[tB],True,dsdr_4.1,DSDR 4.1,1671000,2023-05-11T20:42:10.000Z
+398,2b415d64972be989f1425b3d73a4fd5f,Dave[tB],False,starwatcher_0.9,Starwatcher 0.9,1577200,2023-05-11T19:25:31.000Z
+399,b2375d6432315ce369d0c34a4b456afb,Dave[tB],True,all_that_glitters_v2.0,All That Glitters v2.0,1825733,2023-05-11T18:45:06.000Z
+400,fc1c5d64e7043931201222ce9361a17d,Dave[tB],True,darkside_v3.0,Darkside v3.0,1483667,2023-05-11T16:51:08.000Z
+401,63165d64fed87b9da820794c07628acb,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,490567,2023-05-11T16:22:59.000Z
+402,5f135d64be1d07a5e1bdaa45e9acbe01,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,644867,2023-05-11T16:10:07.000Z
+403,1b0e5d647d739a53c2e9f9eba04542b5,Dave[tB],True,eye_of_horus_1.7,Eye Of Horus 1.7,642167,2023-05-11T15:47:39.000Z
+404,2e0b5d64d1eec097f09ea17ddbdf742e,Dave[tB],True,the_halite_maze_v1.4,The Halite Maze v1.4,576867,2023-05-11T15:35:10.000Z
+405,93075d6417d4f9d6a9d64f90cbcaa402,Dave[tB],True,avalanche_3.4,Avalanche 3.4,693167,2023-05-11T15:19:47.000Z
+406,99725c64c7c2decb9ec704d9b11cb191,Dave[tB],False,starwatcher_0.9,Starwatcher 0.9,2544667,2023-05-11T04:44:09.000Z
+407,77655c6463dcbc8fc7ae7645d461076f,Dave[tB],True,ice_scream_v2.5,Ice Scream v2.5,2855933,2023-05-11T03:48:07.000Z
+408,86615c64e2ad57ece985371e5fbed12f,Dave[tB],False,NuclearWinterR,Nuclear Winter Bar 1.4,356400,2023-05-11T03:31:18.000Z
+409,a45b5c6483dfdf77dcbd439fe4f9597b,Dave[tB],True,dsdr_4.1,DSDR 4.1,1040800,2023-05-11T03:06:12.000Z
+410,9e565c645c88f184a859a10fc2bd1577,Dave[tB],False,darkside_v3.0,Darkside v3.0,1018367,2023-05-11T02:44:46.000Z
+411,1a4f5c64d21c9c33cbf01cc23da9839d,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,1547300,2023-05-11T02:12:42.000Z
+412,fa325c641a1215dbf0cebb1fad6b3afc,Dave[tB],True,carrot_mountains_v1.0,Carrot Mountains v1.0,3504767,2023-05-11T00:12:42.000Z
+413,f4155c64770c772c82b69a138b4cedf2,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,3113134,2023-05-10T22:08:52.000Z
+414,640e5c64f3cf987026dfbe66f37603d0,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,809400,2023-05-10T21:36:36.000Z
+415,940a5c64f81fdfe3c4c67afe5fc52959,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,304633,2023-05-10T21:20:20.000Z
+416,26c85b64b19e49202b37444f270b4ef3,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,999933,2023-05-10T16:36:54.000Z
+417,c7125b64960f068297747fd7da1a641b,Dave[tB],True,all_that_glitters_v2.0,All That Glitters v2.0,2599667,2023-05-10T03:43:03.000Z
+418,cb0a5b64ea9aadf1693234eda0c5b50e,Dave[tB],False,starwatcher_0.9,Starwatcher 0.9,1055267,2023-05-10T03:08:59.000Z
+419,c5b259642fb5e7f5867601b1a82cc1a9,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,2516067,2023-05-09T02:41:09.000Z
+420,1c985964c2b8f530001e86c48feb19ab,Dave[tB],True,ice_scream_v2.5,Ice Scream v2.5,4137767,2023-05-09T00:47:24.000Z
+421,e79159649364a4ff245884767d1925f0,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1137633,2023-05-09T00:20:55.000Z
+422,f96e59644c9d754f04dff2f4b695b121,Dave[tB],True,all_that_glitters_v2.0,All That Glitters v2.0,2203000,2023-05-08T21:51:53.000Z
+423,295b59649f3ed724ed7e2469e4b693bb,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,721133,2023-05-08T20:27:21.000Z
+424,7957596468a22e9894896a09fa9b62fd,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,773467,2023-05-08T20:11:37.000Z
+425,5b38596466db75fc29d7442407b4f57e,Dave[tB],True,forge_v1.4,Forge v1.4,857733,2023-05-08T17:58:51.000Z
+426,3f2e5964325b958db5f24acfe107d995,Dave[tB],False,all_that_glitters_v2.0,All That Glitters v2.0,1962833,2023-05-08T17:15:43.000Z
+427,5d875864fb2c44e6ef9fff84d60fe6a4,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,415400,2023-05-08T05:23:41.000Z
+428,028258643d1c4abc23ef64624d06c985,Dave[tB],False,faster_than_light_1.1,Faster Than Light 1.1,541167,2023-05-08T05:00:50.000Z
+429,7c3d58644884317ce0a2664ac6d4f79b,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,2575767,2023-05-08T00:08:28.000Z
+430,7f045764dc45f80e6288f7678fd5219d,Dave[tB],True,forge_v1.4,Forge v1.4,1644900,2023-05-07T01:53:03.000Z
+431,63f95564304cf54a38ac8ca4a464fdf4,Dave[tB],False,supreme_strait_v1.4,Supreme Strait v1.4,2782400,2023-05-06T06:53:23.000Z
+432,ddf155649a348971197eeafe26d992a8,Dave[tB],False,Entrenched_Plains_V2,Entrenched_Plains_V2,1388533,2023-05-06T06:21:17.000Z
+433,a9c85564441d7b9afed4132377bb789a,Dave[tB],True,hades_ponds_0.7,Hades Ponds 0.7,1953567,2023-05-06T03:25:29.000Z
+434,1ea7556445ffc542bda930c59fb0e4a2,Dave[tB],False,archsimkats_valley_v1,Archsimkats_Valley_V1,1052533,2023-05-06T01:02:22.000Z
+435,ed90556489f8fefada0701016c744069,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,3051767,2023-05-05T23:27:41.000Z
+436,b66e556480069c911f8bd06df10ca0e7,Dave[tB],True,dsdr_4.1,DSDR 4.1,2024467,2023-05-05T21:01:42.000Z
+437,b85b5564140db4d181880c507425a158,Dave[tB],True,forge_v1.4,Forge v1.4,2078933,2023-05-05T19:40:40.000Z
+438,173755645530173317eddc33fc11cabf,Dave[tB],True,carrot_mountains_v1.0,Carrot Mountains v1.0,1626200,2023-05-05T17:04:23.000Z
+439,b81e5564f5c848fbee8da6e1dbf66e04,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,2216500,2023-05-05T15:20:24.000Z
+440,531a5564464884b094d0411ab783d697,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,825033,2023-05-05T15:01:39.000Z
+441,6c6d546428086b5d90991f9b1b4a1496,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1322267,2023-05-05T02:43:56.000Z
+442,e2645464601003edf2fafe95e00cbbf3,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1834267,2023-05-05T02:07:30.000Z
+443,72465464bd501ad28ee654f804ffae73,Dave[tB],False,dsdr_4.1,DSDR 4.1,1305300,2023-05-04T23:57:38.000Z
+444,b8365464471100725d40bedb41887efa,Dave[tB],True,forge_v1.4,Forge v1.4,1255667,2023-05-04T22:50:32.000Z
+445,052e5464d81c56cec8386b28361e15cf,Dave[tB],False,Riverrun_V1,Riverrun_V1,1536433,2023-05-04T22:13:25.000Z
+446,391a5364d42c71455da114d5f8b2d8d7,Dave[tB],True,faster_than_light_1.1,Faster Than Light 1.1,1859767,2023-05-04T02:36:41.000Z
+447,cefc52647c7754e1316f6e37e7cb38c5,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,2031567,2023-05-04T00:31:10.000Z
+448,6fc55264a37429fd0d837b4f4d10ac51,Dave[tB],True,dsdr_4.1,DSDR 4.1,2824733,2023-05-03T20:34:55.000Z
+449,c4bd5264f602c23ef7f30d4192f3fb0f,Dave[tB],False,dsdr_4.1,DSDR 4.1,1396700,2023-05-03T20:02:12.000Z
+450,8aaa52641e0b52c3d7e02c52a9baad65,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1938533,2023-05-03T18:40:10.000Z
+451,76a45264479f3586b9ac5ff4bcf35b55,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1185533,2023-05-03T18:14:14.000Z
+452,227d5264488a1d5298e0f0cd8cac7948,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,1655167,2023-05-03T15:26:26.000Z
+453,15d351643fdd6a72f9bfdf216ad550ed,Dave[tB],True,ice_scream_v2.5,Ice Scream v2.5,1698967,2023-05-03T03:20:53.000Z
+454,9e7550640b9608f11fb1e15b6560d162,Dave[tB],True,starwatcher_0.9,Starwatcher 0.9,1689667,2023-05-02T02:29:50.000Z
+455,5a6e50644432a304ae0e1cf20b2db4b4,Dave[tB],True,altair_crossing_V4,Altair_Crossing_V4,401667,2023-05-02T01:58:50.000Z
+456,1d3750641781f3847fbf0d0ab6775f99,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,928867,2023-05-01T22:03:09.000Z
+457,f41d5064036fa944c1290d62fe3a23a0,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,774600,2023-05-01T20:15:48.000Z
+458,2f1b5064485653f84295ef4d22684110,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,546567,2023-05-01T20:03:59.000Z
+459,631850644f83f02b511d0836a2f974e0,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,620500,2023-05-01T19:52:03.000Z
+460,44155064ca212954b222e94f1649c175,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,681167,2023-05-01T19:38:44.000Z
+461,431150642c69b198a8f591e9a1a02119,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,654633,2023-05-01T19:21:39.000Z
+462,940f5064b0d3e05f9f3bbbac7dd85c5b,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,344300,2023-05-01T19:14:28.000Z
+463,0d0b5064acde1f7a62312e961967ed6d,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1031367,2023-05-01T18:55:09.000Z
+464,d7065064c7efc785f210d51d96677d2b,Dave[tB],False,red_comet_remake_1.8,Red Comet Remake 1.8,700367,2023-05-01T18:37:11.000Z
+465,41024f6489fbf4f0a7623c4f0872e050,Dave[tB],True,tundra_v2,Tundra_V2,739033,2023-05-01T00:05:21.000Z
+466,43b74e6460ef4573d6450125eb2bdebf,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1923067,2023-04-30T18:45:23.000Z
+467,00d74d64b464b9f1045cb64bbd558788,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,422333,2023-04-30T02:48:32.000Z
+468,37a74d64a53bec6bb66e8912ed0b556a,Dave[tB],True,darkside_v3.0,Darkside v3.0,1511667,2023-04-29T23:24:39.000Z
+469,98104c64b82ed174ab333b32c6dfbeb0,Dave[tB],True,tabula_remake_1.5,Tabula_Remake 1.5,1138767,2023-04-28T18:29:44.000Z
+470,54e24b64a15de944e42c6b103310e85b,Dave[tB],False,hotstepper_5_1.2,Hotstepper 5 1.2,1025767,2023-04-28T15:12:20.000Z
+471,b9374b64fd89cfbb9f6ba93559c67315,Dave[tB],True,eight_horses_1.2,Eight Horses 1.2,2360633,2023-04-28T03:04:25.000Z
+472,38184b64a6d629e5b3683176c390107f,Dave[tB],True,Ditched_V1,Ditched_V1,1875833,2023-04-28T00:50:00.000Z
+473,f60e4b642172caee0bff5a8746627cf4,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1999533,2023-04-28T00:10:30.000Z
+474,7ef14a646e9f7e2ad8f782c91f00f2a1,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,785633,2023-04-27T22:04:46.000Z
+475,09ed4a647b9108dc0186d04f1b4e03e7,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,786500,2023-04-27T21:45:45.000Z
+476,47ea4a64be0db3f89f6fd80e42925779,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,582667,2023-04-27T21:33:59.000Z
+477,5ddd4a6480deefefac43190d7ad22806,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,706767,2023-04-27T20:38:53.000Z
+478,b7da4a64d3336855a925d660b24af975,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,536133,2023-04-27T20:27:35.000Z
+479,b2b94a64e2f6d54bb50b6376d341675f,Dave[tB],True,Cirolata 1.02,Cirolata 1.02,455967,2023-04-27T18:06:42.000Z
+480,8db54a64b4b4dcd47d7913e0878d51e7,Dave[tB],False,Cirolata 1.02,Cirolata 1.02,834000,2023-04-27T17:49:01.000Z
+481,73a04a644f3aa6be4d4d30513893d08b,Dave[tB],True,carrot_mountains_v1.0,Carrot Mountains v1.0,985867,2023-04-27T16:18:59.000Z
+482,c6d749641d89bc969374e4c7a547dc9c,Dave[tB],True,Oort_Cloud_V2,Oort_Cloud_V2,2736700,2023-04-27T02:02:46.000Z
+483,a8a0496494ad21d66b7013926ee4cf0b,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1714133,2023-04-26T22:07:36.000Z
+484,4992496409d6db340fb88d295eb0c077,Dave[tB],True,Rosetta1.4,Rosetta 1.4,1059400,2023-04-26T21:06:17.000Z
+485,0786496490889464c9734728adf22fe1,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,790067,2023-04-26T20:13:59.000Z
+486,70824964f4a3db91625431275a35ab9d,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,762067,2023-04-26T19:58:40.000Z
+487,22804964cf36b8e7875876cc8a475ae3,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,437533,2023-04-26T19:48:50.000Z
+488,cf7b49643b5c59d5ac4f1d248a973756,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,982467,2023-04-26T19:30:23.000Z
+489,706d496449b6d98e89f0d056cff99df2,Dave[tB],False,starwatcher_0.9,Starwatcher 0.9,1575000,2023-04-26T18:29:04.000Z
+490,7d9d4864c8a717179b107eea94d8d5fe,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,634967,2023-04-26T03:41:49.000Z
+491,569948648497fead0e30ad7d5364c2e9,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,943733,2023-04-26T03:24:06.000Z
+492,4f58486472fedb0f2468273081295204,Dave[tB],True,Cirolata 1.02,Cirolata 1.02,1542667,2023-04-25T22:46:39.000Z
+493,6f2d476481b65317166bdf2fff9f433d,Dave[tB],False,koom_valley_3_3.1,Koom Valley 3 3.1,1255000,2023-04-25T01:31:27.000Z
+494,f72047645e6e9f697e4e0cfb4242d4be,Dave[tB],True,fallendell_v4,Fallendell_V4,718167,2023-04-25T00:38:15.000Z
+495,911d4764e01f3fca706e81bd32490838,Dave[tB],True,ravaged_remake_v1.2,Ravaged Remake v1.2,748133,2023-04-25T00:23:45.000Z
+496,fa15476442ad408fb7bb2f2912558c67,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,1426967,2023-04-24T23:51:22.000Z
+497,7e0e47647292ec2b479b8e59b067b7dd,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,687533,2023-04-24T23:19:26.000Z
+498,3c0b47643ef7f41e07e59a4c0d708810,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,714267,2023-04-24T23:05:32.000Z
+499,3db5466494e4e7a68e78a163bc698341,Dave[tB],True,Tempest_V3,Tempest_V3,736500,2023-04-24T16:58:37.000Z
+500,a6f74564480059757203b02b7151b25a,Dave[tB],True,mithril_mountain_v2,Mithril Mountain v2,751700,2023-04-24T03:29:42.000Z
+501,6db0456464be8496c56e3a68187f27c9,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1097000,2023-04-23T22:25:49.000Z
+502,09b04464800cdca5800807a554d2f0b2,Dave[tB],True,altair_crossing_V4,Altair_Crossing_V4,1112933,2023-04-23T04:11:53.000Z
+503,eda1446487af84aca613958b69c70ead,Dave[tB],False,hades_ponds_0.7,Hades Ponds 0.7,1246333,2023-04-23T03:11:41.000Z
+504,d47944641c6848a6103310c48707f62e,Dave[tB],True,dsdr_4.1,DSDR 4.1,1871700,2023-04-23T00:20:36.000Z
+505,8cc142642d359ebf4de8d9905c566159,Dave[tB],True,theta_crystals_1.0,Theta Crystals 1.0,1603067,2023-04-21T17:02:04.000Z
+506,23af41641babe45b5f842a8ec7665213,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,1787733,2023-04-20T21:31:15.000Z
+507,c0aa416444e6bec6f99be940119dba77,Dave[tB],False,tabula_remake_1.5,Tabula_Remake 1.5,661667,2023-04-20T21:12:32.000Z
+508,568d41640b1c3e09ad818eaa4575d081,Dave[tB],False,Entrenched_Plains_V2,Entrenched_Plains_V2,3108033,2023-04-20T19:07:02.000Z
+509,c48341645f3b8c208cb4cffb797c7f28,Dave[tB],False,FolsomdamR_1.16,FolsomDamR 1.16,521200,2023-04-20T18:26:12.000Z
+510,dd6a416475037829875f8055c01c9ef1,Dave[tB],False,sulphur_springs_v1.1,Sulphur Springs v1.1,2466500,2023-04-20T16:39:57.000Z
+511,11b840641a76b26e46f28f4350f51370,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,907833,2023-04-20T03:57:05.000Z
+512,fdb5406452e4745e902a3a485cda7d83,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,420633,2023-04-20T03:48:13.000Z
+513,8cb24064f297b7ee5d59b77202e9169b,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,745233,2023-04-20T03:33:32.000Z
+514,69ab40646f682401ea33d048b4607187,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1160167,2023-04-20T03:03:05.000Z
+515,15a54064fab262650b2c71d6f343f531,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,985300,2023-04-20T02:36:05.000Z
+516,479e4064e2a4dcd440a3f4bf847bfedb,Dave[tB],True,angel_crossing_1.5,Angel Crossing 1.5,1272067,2023-04-20T02:07:03.000Z
+517,d3613f649941fbc4a6367d6e1699189c,Dave[tB],False,carrot_mountains_v1.0,Carrot Mountains v1.0,893500,2023-04-19T03:36:51.000Z
+518,84583f64cf94164a527851583c4bcc65,Dave[tB],True,carrot_mountains_v1.0,Carrot Mountains v1.0,1798567,2023-04-19T02:57:08.000Z
+519,854e3f6494299f3a0569af0c1815b9a2,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1194833,2023-04-19T02:14:29.000Z
+520,254b3f649a7501b8d3d38ba3a63d83ec,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,561833,2023-04-19T02:00:05.000Z
+521,0b6d3b64b7de79ccdf0793beffeb3afb,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,711267,2023-04-16T03:35:39.000Z
+522,3c6a3b644189d6d812e767e6aaebb932,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,494033,2023-04-16T03:23:40.000Z
+523,ad673b64cb3721b4204d516f6288b9c8,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,544633,2023-04-16T03:12:45.000Z
+524,a9623b6451cabd36e98dd513c7e6b7c7,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1004933,2023-04-16T02:51:21.000Z
+525,64593b64832352b5576b3da7cac91ffe,Dave[tB],False,bismuth_valley_v2.2,Bismuth Valley v2.2,1479300,2023-04-16T02:11:48.000Z
+526,44403b64b6a00eed7682c27429b1158f,Dave[tB],False,center_command_bar_v1.0,Center Command BAR v1.0,705033,2023-04-16T00:24:36.000Z
+527,653d3b640f69d8471baf6de3964de295,Dave[tB],True,Crystallized Plains 1.01,Crystallized Plains 1.01,578600,2023-04-16T00:12:21.000Z
+528,88273a64ee7750956e4f6c5275f392d0,Dave[tB],False,ice_scream_v2.4,Ice Scream v2.4,1911900,2023-04-15T04:26:48.000Z
+529,56203a6450e9a2cf287c972870f8a813,Dave[tB],False,tabula_remake_1.5,Tabula_Remake 1.5,1044367,2023-04-15T03:56:06.000Z
+530,63133a64f8cfcc2bd88dcb6f48be56a4,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,653833,2023-04-15T03:00:51.000Z
+531,ce113a643b1a2a6af1e1fce85ae4c618,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,221100,2023-04-15T02:54:06.000Z
+532,c7e83864a72198580538a5713f549deb,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,1920500,2023-04-14T05:46:47.000Z
+533,28e13864a2107830251cf2ad80dfd5a1,Dave[tB],False,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1378300,2023-04-14T05:14:16.000Z
+534,51dc3864164e883b2c0040e867bf5dfa,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,950733,2023-04-14T04:53:37.000Z
+535,25d63864aff93918206fa8854afa1d2a,Dave[tB],False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,922533,2023-04-14T04:27:17.000Z
+536,f0d13864e72efb08dd2cbe6260481e3a,Dave[tB],True,Pinewood_Derby_V1,Pinewood_Derby_V1,534900,2023-04-14T04:09:20.000Z
+537,2dc53864ffd0295603f5d03ad25d81ba,Dave[tB],True,koom_valley_3_3.1,Koom Valley 3 3.1,1379333,2023-04-14T03:14:53.000Z
+538,905f376447f21f82832a01def7ee25db,Dave[tB],False,all_that_glitters_1.2,All That Glitters v1.2,2180733,2023-04-13T01:49:04.000Z
+539,4f5837646e1db72829d8445ecaaf1c5b,Dave[tB],True,ravaged_remake_v1.1,Ravaged Remake v1.1,1054667,2023-04-13T01:18:07.000Z
+540,df3b37649d5797bdcb81004dcb8e5189,Dave[tB],True,ravaged_remake_v1.1,Ravaged Remake v1.1,512433,2023-04-12T23:16:47.000Z
+541,9f23366422c29e6dd2b0e172a73b12f5,Dave[tB],False,starwatcher_0.9,Starwatcher 0.9,3815000,2023-04-12T03:21:03.000Z
+542,721036643015a6668881c4b64e7d881c,Dave[tB],True,death_valley_v1,Death Valley v1,1238267,2023-04-12T01:59:14.000Z
+543,5de7346473a63f3197481b39d595c78e,Dave[tB],False,fallendell_v4,Fallendell_V4,246867,2023-04-11T04:51:41.000Z
+544,10e4346482e57cf58edad397e30c2e8e,Dave[tB],False,fallendell_v4,Fallendell_V4,326433,2023-04-11T04:37:36.000Z
+545,c6e03464c034088a191de4668d306439,Dave[tB],False,sphagnum_bog_v1.1,Sphagnum Bog v1.1,707667,2023-04-11T04:23:34.000Z
+546,bbd734649c4924b7ac4c13d982070348,Dave[tB],False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,849533,2023-04-11T03:44:59.000Z
+547,d8393464ec0218451ce359e020250e85,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,2155600,2023-04-10T16:31:20.000Z
+548,229233648f594645ba31121571c91e33,Dave[tB],True,pawn_retreat_1.2,Pawn Retreat 1.2,1296433,2023-04-10T04:35:46.000Z
+549,88d2306487423ae4dca7a9feab3fd9ca,Dave[tB],True,all_that_glitters_1.2,All That Glitters v1.2,2149200,2023-04-08T02:33:44.000Z
+550,34ca3064c7233396e721bf88394eeca2,Dave[tB],False,ravaged_remake_v1.1,Ravaged Remake v1.1,517800,2023-04-08T01:58:12.000Z
+551,5ec73064980dda434ba764912fdaf042,Dave[tB],True,ravaged_remake_v1.1,Ravaged Remake v1.1,591833,2023-04-08T01:46:06.000Z
+552,00c63064c5f237f5422ecad0837bb75c,Dave[tB],True,ravaged_remake_v1.1,Ravaged Remake v1.1,254533,2023-04-08T01:40:16.000Z
+553,f5c43064a07e69e2cd74e343e71b5e76,Dave[tB],False,ravaged_remake_v1.1,Ravaged Remake v1.1,136267,2023-04-08T01:35:49.000Z
+554,60bb3064ecb0ad529af6e8fc334ee5d9,Dave[tB],True,supreme_strait_v1.4,Supreme Strait v1.4,1336033,2023-04-08T00:54:56.000Z
+555,74963064f82c80edfb66ee424b0a6dfb,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,2142400,2023-04-07T22:17:24.000Z
+556,2d823064bd13081a2f4ef727a9c2ea5c,Dave[tB],False,ravaged_remake_v1.1,Ravaged Remake v1.1,800500,2023-04-07T20:50:53.000Z
+557,357a3064f44b00f0d0dc25b82d8229b2,Dave[tB],False,ravaged_remake_v1.1,Ravaged Remake v1.1,841233,2023-04-07T20:16:53.000Z
+558,0d912f6465aeb15282a653377a406aac,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,425167,2023-04-07T03:42:05.000Z
+559,ed7c2f6459fdf6a3f3b811a218538e75,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,961667,2023-04-07T02:16:13.000Z
+560,67612f6488ca4aaddef40061ae0dcebf,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,851400,2023-04-07T00:18:47.000Z
+561,3a5e2f646575d1807c07d642f2abdd3d,Dave[tB],False,into_battle_redux_v3,Into Battle Redux v3,666167,2023-04-07T00:05:14.000Z
+562,4e5c2f64b0a3962ed4959ced2cf846d9,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,407533,2023-04-06T23:57:02.000Z
+563,d7592f6479fe3f82785c11a2de0b498b,Dave[tB],False,into_battle_redux_v3,Into Battle Redux v3,476867,2023-04-06T23:46:31.000Z
+564,4c232e64ff236bbd94f3620b48c18077,Dave[tB],True,bismuth_valley_v2.2,Bismuth Valley v2.2,1547567,2023-04-06T01:41:32.000Z
+565,42ed2d64e875dc696dd122e4b9492e05,Dave[tB],True,taldarim_v3,Taldarim_V3,2246167,2023-04-05T21:50:58.000Z
+566,e3e82d640f7d6cb71f060b6acf1b300d,Dave[tB],False,dsdr_4.1,DSDR 4.1,2595433,2023-04-05T21:32:19.000Z
+567,a0e62c64abf7906acd218ac23ebd0c4f,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1131133,2023-04-05T03:10:24.000Z
+568,decd2c64e40296b538a5f470663f9922,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,446767,2023-04-05T01:24:46.000Z
+569,aeb82c647b1949619a74098a8c343f75,Dave[tB],True,into_battle_redux_v3,Into Battle Redux v3,696300,2023-04-04T23:54:22.000Z
+570,8c842b6466e38564ca2bdb82242b81d1,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,639933,2023-04-04T01:59:40.000Z
+571,3f7a2b649a10b88b27a8bcb449f97192,Dave[tB],True,flats_and_forests_v2.1,Flats and Forests v2.1,1858967,2023-04-04T01:15:43.000Z
+572,b9702b64cc15f02b76ae276ec7e5d5c3,Dave[tB],True,red_rock_desert_v1,Red Rock Desert v1,1011267,2023-04-04T00:35:05.000Z
+573,8f662b643a9874e360a528cc394e87c8,Dave[tB],True,all_that_glitters_1.2,All That Glitters v1.2,1754367,2023-04-03T23:51:43.000Z
+574,df3d2b649caf71e0b79e269824dae723,Dave[tB],True,carrot_mountains_v1.0,Carrot Mountains v1.0,2792733,2023-04-03T20:58:07.000Z
+575,81de2964b977908e862c51891efedd68,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,761333,2023-04-02T19:58:57.000Z
+576,81d928644eb298bd0399e7d624cc8f33,Dave[tB],False,great_divide_v1,Great Divide V1,157700,2023-04-02T01:25:21.000Z
+577,32c628649530ee495c6200cd75d67086,Dave[tB],False,all_that_glitters_1.2,All That Glitters v1.2,2537033,2023-04-02T00:02:58.000Z
+578,62bf286425fd38eb1535de8a0db21bfa,Dave[tB],True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1267100,2023-04-01T23:33:54.000Z
+579,fc8c27643904116a57ef20676d44fc94,Dave[tB],False,Mediterraneum_V1,Mediterraneum_V1,3005067,2023-04-01T01:46:36.000Z
+580,50882764dbf6b8003807f1648f8ed623,Dave[tB],False,titanduel_v3,TitanDuel_V3,147000,2023-04-01T01:26:40.000Z
+581,d58527641ba2a886f3c66de07c28637b,Dave[tB],False,sertaleina_v8,Sertaleina_V8,460100,2023-04-01T01:16:05.000Z
+582,5a822764193de411a5710d896709f216,Dave[tB],True,red_comet_remake_1.8,Red Comet Remake 1.8,604100,2023-04-01T01:01:14.000Z
+583,92d91c64ffb6434a62400d8e4db09396,Dave[tB],True,ice_scream_v2.4,Ice Scream v2.4,3008800,2023-03-23T22:58:26.000Z
+584,493f1b64202050efb048c716f20f7723,Dave[tB],False,flats_and_forests_v2.1,Flats and Forests v2.1,2338400,2023-03-22T17:47:53.000Z
+585,ce341b64b05bff10ebdcd304c0a512fd,Dave[tB],True,archsimkats_valley_v1,Archsimkats_Valley_V1,1638667,2023-03-22T17:03:10.000Z
+586,4b271b64ddce33ee5fab65dceff57ba6,Dave[tB],False,eight_horses_1.2,Eight Horses 1.2,1912767,2023-03-22T16:05:31.000Z
+587,5a9b1864342a909752423ec9839bb395,Dave[tB],True,eye_of_horus_1.7,Eye Of Horus 1.7,1231200,2023-03-20T17:43:54.000Z
+588,83400f64d827dd2b091fec5061aa5ee2,Dave[tB],False,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,573433,2023-03-13T15:25:55.000Z
+589,dc3d0f64641de21a109e7a75e2e75a7b,Dave[tB],True,great_divide_v1,Great Divide V1,294233,2023-03-13T15:14:36.000Z
+590,7f4c056404328a7ac866e5fe5d8f238f,Dave[tB],False,Rosetta1.4,Rosetta 1.4,2395967,2023-03-06T02:14:23.000Z
+591,14450564be132b03a528bf7737b60d52,Dave[tB],True,pawn_retreat_1.2,Pawn Retreat 1.2,1533267,2023-03-06T01:42:44.000Z

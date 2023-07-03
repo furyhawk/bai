@@ -1,0 +1,233 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,7a78a164304cb0b510669e40bdb467ee,HellsHound,False,Rosetta1.4,Rosetta 1.4,1379567,2023-07-02T13:15:38.000Z
+1,fd6ba16486c8e8b7a61c856f41e3763d,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,1102467,2023-07-02T12:22:21.000Z
+2,0901a164053f745a1bd0a1ec2f3bf894,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,658367,2023-07-02T04:46:01.000Z
+3,8ef9a064c5c03c1eb2cb993da9d073df,HellsHound,False,Rosetta1.4,Rosetta 1.4,1467800,2023-07-02T04:14:06.000Z
+4,def1a064eaa0e776b5a9522b920d70d2,HellsHound,False,dsdr_4.1,DSDR 4.1,1456400,2023-07-02T03:41:18.000Z
+5,9ee6a06407ae80e24ed61f2d5caef7a4,HellsHound,True,koom_valley_3_3.1,Koom Valley 3 3.1,346300,2023-07-02T02:53:18.000Z
+6,73e1a0643fb1bcad90644a576c3a9405,HellsHound,False,eight_horses_1.2,Eight Horses 1.2,803933,2023-07-02T02:31:15.000Z
+7,be33a064ea0feacc3ad9180d2b941bfb,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,2232367,2023-07-01T14:10:06.000Z
+8,6c2da064f1c9b6fcf6b56bc10c6d31bf,HellsHound,False,dsdr_4.1,DSDR 4.1,1045867,2023-07-01T13:43:08.000Z
+9,1827a0644b5b91ecc40a4a32e2ed4efe,HellsHound,False,koom_valley_3_3.1,Koom Valley 3 3.1,697767,2023-07-01T13:16:08.000Z
+10,7719a064a8b9b3cc73fc0570a5e05071,HellsHound,False,forge_v1.4,Forge v1.4,2797867,2023-07-01T12:17:59.000Z
+11,4813a064cfa9d03d99db8a092b76d8a3,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1299867,2023-07-01T11:51:36.000Z
+12,7efc9f64d2bfc1c98e4fdd32b182a672,HellsHound,True,white_fire_remake_1.2,White Fire Remake 1.2,1599333,2023-07-01T10:14:22.000Z
+13,6bf39f64db3e124c75d74fe904cdbccb,HellsHound,False,ascendancy_v2.0,Ascendancy v2.0,1735967,2023-07-01T09:35:39.000Z
+14,fdee9f646f55590b5f4b351b2e4ccea9,HellsHound,True,ascendancy_v2.0,Ascendancy v2.0,765100,2023-07-01T09:16:45.000Z
+15,eeea9f64cd02d71f0fc92a8eab2ada3c,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,616667,2023-07-01T08:59:26.000Z
+16,77f29e64288bfd11917c52b91b85533b,HellsHound,True,dsdr_4.1,DSDR 4.1,2058333,2023-06-30T15:19:19.000Z
+17,49e29e64f77aa4e8e5faf054124d74d2,HellsHound,False,ice_scream_v2.5,Ice Scream v2.5,3308000,2023-06-30T14:10:17.000Z
+18,b6d39e64c46d320db76ab302493326ce,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2566033,2023-06-30T13:08:06.000Z
+19,14bd9e6476a5c8778c995d2881393fb6,HellsHound,False,dsdr_4.1,DSDR 4.1,2427033,2023-06-30T11:31:32.000Z
+20,fab89e64bd2cba27edeb8edd1306aa73,HellsHound,False,dsdr_4.1,DSDR 4.1,522300,2023-06-30T11:14:02.000Z
+21,90b49e64bba6277265e26f9e1a948f72,HellsHound,False,white_fire_remake_1.2,White Fire Remake 1.2,699900,2023-06-30T10:55:12.000Z
+22,4faf9e64c38dce5ec609179f3a7bf7d0,HellsHound,False,koom_valley_3_3.1,Koom Valley 3 3.1,749600,2023-06-30T10:32:47.000Z
+23,769f9e64cd2f697b4fa5955b88e76d99,HellsHound,True,Rosetta1.4,Rosetta 1.4,1214467,2023-06-30T09:25:10.000Z
+24,a99b9e64658feb39af26bc8f5edbed59,HellsHound,True,white_fire_remake_1.2,White Fire Remake 1.2,569967,2023-06-30T09:08:57.000Z
+25,49739d64f035006ac76a7ebc65c26d5a,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1179667,2023-06-29T12:04:25.000Z
+26,626e9d6472deb6abe2d77739fe59b71b,HellsHound,True,dsdr_4.1,DSDR 4.1,726433,2023-06-29T11:43:30.000Z
+27,09549d64a209676d41cca4bf8612d630,HellsHound,True,white_fire_remake_1.2,White Fire Remake 1.2,2653467,2023-06-29T09:51:05.000Z
+28,6c4e9d643a44834a36071149327b4411,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,893833,2023-06-29T09:27:08.000Z
+29,e5479d648afcebd807ab8994cb686230,HellsHound,True,thermal_shock_v1.1,Thermal Shock v1.1,1252433,2023-06-29T08:59:17.000Z
+30,c82d9c6453a186e1a35f66164fb6c9fa,HellsHound,True,starwatcher_1.0,Starwatcher 1.0,2274600,2023-06-28T12:55:36.000Z
+31,41239c64de6db3cab1403617b941db6e,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2013267,2023-06-28T12:10:41.000Z
+32,c11e9c64e55e9c2b6d1b981e12c1e844,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,749467,2023-06-28T11:51:29.000Z
+33,160d9c6439badce4faa09051de833151,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,2658967,2023-06-28T10:36:06.000Z
+34,b5fb9b64725cde1b517840fb3b56f568,HellsHound,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,2122600,2023-06-28T09:21:57.000Z
+35,b5f19b64ddc4c2063140e0b569b4999a,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1866533,2023-06-28T08:39:17.000Z
+36,60d19a640dfce51d0c86c499833fca92,HellsHound,True,dsdr_4.1,DSDR 4.1,2722600,2023-06-27T12:09:04.000Z
+37,46c09a64b25e64ea58f6972685f4ac54,HellsHound,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1071100,2023-06-27T10:56:06.000Z
+38,53b89a64dd4aa124b23ec1a7c6040392,HellsHound,False,Rosetta1.4,Rosetta 1.4,1527300,2023-06-27T10:22:11.000Z
+39,d5ae9a64c76ab0dbe18acbddd47a8008,HellsHound,True,white_fire_remake_1.1,White Fire Remake 1.1,1758767,2023-06-27T09:41:41.000Z
+40,91a79a647cfa2b2ab5be2c1f23138295,HellsHound,True,white_fire_remake_1.1,White Fire Remake 1.1,1252500,2023-06-27T09:10:41.000Z
+41,288a99642806ed76599730d49f049eb0,HellsHound,True,dsdr_4.1,DSDR 4.1,1619800,2023-06-26T12:52:56.000Z
+42,068299642300e52baf8148013c5c215d,HellsHound,True,dsdr_4.1,DSDR 4.1,1464633,2023-06-26T12:18:14.000Z
+43,e37d99641b45a9bda3d9ffc64b84d6dc,HellsHound,False,dsdr_4.1,DSDR 4.1,610533,2023-06-26T12:00:35.000Z
+44,db759964d6c470ab3a6077fe6ecef686,HellsHound,False,koom_valley_3_3.1,Koom Valley 3 3.1,1304867,2023-06-26T11:26:19.000Z
+45,fc6f996414079c617758f55703197425,HellsHound,False,bismuth_valley_v2.2,Bismuth Valley v2.2,986100,2023-06-26T11:01:16.000Z
+46,1861996402cf03965f1d8b661c5b7e89,HellsHound,True,dsdr_4.1,DSDR 4.1,3172800,2023-06-26T09:57:44.000Z
+47,eb1f98643ea26ce0fa39beb994c7b7a7,HellsHound,True,koom_valley_3_3.1,Koom Valley 3 3.1,1041400,2023-06-25T11:07:23.000Z
+48,241598642891e48714caeb844de72555,HellsHound,True,ascendancy_v2.0,Ascendancy v2.0,1365933,2023-06-25T10:21:24.000Z
+49,75fe976467bc1adb6d9e876d4bddb180,HellsHound,True,ice_scream_v2.5,Ice Scream v2.5,1269167,2023-06-25T08:44:37.000Z
+50,b0f797641202a63648dd98c5f3aa3ac7,HellsHound,False,Rosetta1.4,Rosetta 1.4,885600,2023-06-25T08:15:44.000Z
+51,64f297646b79ee113627b99737e0ae7e,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,965433,2023-06-25T07:53:08.000Z
+52,84eb966465abfd1489a749eec4f8e3b4,HellsHound,True,Rosetta1.4,Rosetta 1.4,707133,2023-06-24T13:11:32.000Z
+53,03c59664928af1e8e422d3f467444d9c,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2542967,2023-06-24T10:27:15.000Z
+54,b6b9966404244722c893c7d728342cdb,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,2446200,2023-06-24T09:39:02.000Z
+55,1ab196641a248ae887cf535492e43347,HellsHound,True,forge_v1.4,Forge v1.4,1710233,2023-06-24T09:02:18.000Z
+56,9ab39564af8a5333dec072bc6830d38f,HellsHound,False,Rosetta1.4,Rosetta 1.4,1140000,2023-06-23T15:00:42.000Z
+57,e3ab956416179004ea55ca40354fdcd3,HellsHound,True,Rosetta1.4,Rosetta 1.4,1621867,2023-06-23T14:27:47.000Z
+58,83a2956494ca016e892f32d9a9287c07,HellsHound,False,ascendancy_v2.0,Ascendancy v2.0,1865167,2023-06-23T13:47:47.000Z
+59,687d9564f32faf84752b649499208157,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2255467,2023-06-23T11:09:28.000Z
+60,4b7595647030d557593db79f13d4de13,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1678567,2023-06-23T10:34:51.000Z
+61,2d4c94642cd271250e1230e9532e0736,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2355767,2023-06-22T13:27:09.000Z
+62,483c9464411c6dffc284dcd0e37154a6,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2767900,2023-06-22T12:19:20.000Z
+63,e73394642a149a840e24b22b3c81fe01,HellsHound,True,flats_and_forests_v2.1,Flats and Forests v2.1,952867,2023-06-22T11:43:35.000Z
+64,812a94646b1b4e2ef6cd3a08c48f378e,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1645967,2023-06-22T11:03:29.000Z
+65,052494646ca67fa95b0e5e1d1a22d9d7,HellsHound,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1190633,2023-06-22T10:35:49.000Z
+66,db1f94645e8b846a6b8c5654003d2ede,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,734433,2023-06-22T10:18:03.000Z
+67,78fb926432986008a520a57e81802100,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1556067,2023-06-21T13:30:32.000Z
+68,c0e59264ae1f333d2cfbaddb3e792652,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,3036100,2023-06-21T11:57:52.000Z
+69,7d9c9164f4df31cb6dfb00901ac43cba,HellsHound,True,sulphur_springs_v1.1,Sulphur Springs v1.1,988767,2023-06-20T12:33:01.000Z
+70,414a90644f4d5eb1f55c962bde111d5c,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,3038634,2023-06-19T12:29:53.000Z
+71,124190645868580432560677b5e04f80,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1949667,2023-06-19T11:50:42.000Z
+72,d135906436c8ab98b506ced9aedf5d4f,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,2466634,2023-06-19T11:02:41.000Z
+73,c02d9064f149e8b381479dec9012fa16,HellsHound,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1567900,2023-06-19T10:28:16.000Z
+74,bc948d64c94b55725fbb84d5f973339c,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1563967,2023-06-17T11:10:52.000Z
+75,a58e8d643bfe93feae4044dba85cc4a8,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1154700,2023-06-17T10:44:53.000Z
+76,15888d64b67333b5aa28717e290f556e,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,962267,2023-06-17T10:16:53.000Z
+77,77738d64bb4e886d3143e5229d9c1df0,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2837633,2023-06-17T08:48:55.000Z
+78,35698d64c03d9201038188f2a6ec278f,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2235600,2023-06-17T08:05:09.000Z
+79,4d618d642bb06bd32c35f6aa3128c946,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1352067,2023-06-17T07:31:25.000Z
+80,ee5a8d647bdfe8bd08290aa42f523990,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1124800,2023-06-17T07:04:14.000Z
+81,22508d6465845b4be739f8e173e5f2be,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2119633,2023-06-17T06:18:10.000Z
+82,1c458d64be10ca697dbc6c5a4e82c8f3,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2140433,2023-06-17T05:31:08.000Z
+83,a4668c645225886bb5d092b049a23b0b,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2295933,2023-06-16T13:41:56.000Z
+84,615d8c64c6e04c906dd73f98bf600cfe,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1954767,2023-06-16T13:02:25.000Z
+85,3f588c64367c514e5ad06a05813a1e6c,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,541467,2023-06-16T12:40:31.000Z
+86,714f8c6415061870118c5e2d69b66a82,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1821667,2023-06-16T12:02:57.000Z
+87,d2438c642fab22f3b113c3b46f98a300,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1738533,2023-06-16T11:13:22.000Z
+88,eee68a6476b00a02ec28dfabfe80107a,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2059933,2023-06-15T10:24:46.000Z
+89,1adf8a6471120dad635f254d3646d674,HellsHound,True,forge_v1.4,Forge v1.4,1238733,2023-06-15T09:51:22.000Z
+90,e29d89644edb6bd867dfabf5f6e40e12,HellsHound,True,forge_v1.4,Forge v1.4,1068500,2023-06-14T11:00:50.000Z
+91,308f89643ce053d499df6d4ebcf2b465,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1018633,2023-06-14T09:58:08.000Z
+92,3c868964aa662ec83af836289594e9c4,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1473667,2023-06-14T09:19:56.000Z
+93,a55e88646f1648afde22cad9002d1f19,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1136700,2023-06-13T12:18:45.000Z
+94,855488648279be6cf4fac97e082e3d78,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1469167,2023-06-13T11:35:33.000Z
+95,b95088649d3721158f9fff395c0fcb5c,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,676400,2023-06-13T11:19:21.000Z
+96,67428864518f88b1589540bbce74c903,HellsHound,False,forge_v1.4,Forge v1.4,3808867,2023-06-13T10:18:15.000Z
+97,dbe386647fea9b736142ec75eb4337a6,HellsHound,True,forge_v1.4,Forge v1.4,3015900,2023-06-12T09:22:35.000Z
+98,2add8664bccac136c16344f4c4aa7626,HellsHound,True,forge_v1.4,Forge v1.4,1176167,2023-06-12T08:54:02.000Z
+99,ced38564a0c39892282b59625fac95e7,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1733567,2023-06-11T14:01:50.000Z
+100,b0cb85646b1283b7814e5bb978f8b1ce,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2456800,2023-06-11T13:27:12.000Z
+101,1ec28564327cb7ab0feb77192cfd661e,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1975467,2023-06-11T12:46:22.000Z
+102,b9b48564f0974157076ecfd4b6c262da,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2933833,2023-06-11T11:49:13.000Z
+103,4eae85645f670d4117c324c632a6f155,HellsHound,False,Sunderance V1.3,Sunderance V1.3,1466700,2023-06-11T11:21:50.000Z
+104,1da5856486b083508be48ebdf9008780,HellsHound,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1863867,2023-06-11T10:42:37.000Z
+105,b59e8564b93b4d7271331f2b4dce6393,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1809500,2023-06-11T10:15:17.000Z
+106,2c9885642118238b1acde7dfe171571d,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,3177300,2023-06-11T09:47:24.000Z
+107,647085642b27ffe66db21e286d35db65,HellsHound,False,ascendancy_v1.1,Ascendancy v1.1,901700,2023-06-11T06:57:40.000Z
+108,436a856481d81b0bf9d6f9ba6fd0bee5,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1273833,2023-06-11T06:31:31.000Z
+109,ef1d856440f7fc4f608e18aafea4d137,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2579500,2023-06-11T01:05:51.000Z
+110,d91485645ef9e189063cc550f8e7532a,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1862833,2023-06-11T00:27:05.000Z
+111,fd74846423eb9968858cd6fc516ee957,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1648200,2023-06-10T13:05:01.000Z
+112,9c6b8464f52a50a5e005edd0cc04ea50,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1884300,2023-06-10T12:25:00.000Z
+113,5b5c8464d82bc41c2510e90894696ac6,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2492300,2023-06-10T11:19:55.000Z
+114,ed528464fdf335adda44894ba3b1b140,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2109167,2023-06-10T10:39:41.000Z
+115,524684647ffdfa7f6ac0b554a3e0daa7,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1511033,2023-06-10T09:45:54.000Z
+116,843a8364bac4ba0ee353cefe8fc34c40,HellsHound,True,flats_and_forests_v2.1,Flats and Forests v2.1,1596667,2023-06-09T14:43:16.000Z
+117,792f8364c408553ee4064390fd08f080,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,3057267,2023-06-09T13:56:09.000Z
+118,01278364edac1d27db454d2a423d0880,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1645633,2023-06-09T13:20:01.000Z
+119,721e8364c1a528bc686f0afb69156669,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1771433,2023-06-09T12:43:30.000Z
+120,f50d8364c251716a70ae5103246ea227,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,3779400,2023-06-09T11:33:09.000Z
+121,49d281645dcddac2a64995c154dd99f7,HellsHound,True,eight_horses_1.2,Eight Horses 1.2,1128367,2023-06-08T13:06:17.000Z
+122,8cc7816442ce49c1c952268fa3f4cb0e,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1976133,2023-06-08T12:20:28.000Z
+123,e1ba81640097a4fcfeb0f4407ec5efad,HellsHound,False,flats_and_forests_v2.1,Flats and Forests v2.1,2116367,2023-06-08T11:26:25.000Z
+124,6aaf8164bc3f9e594d8a0627773ac99b,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2480500,2023-06-08T10:37:30.000Z
+125,f4a781640543e0f40ee9f2b324a97f34,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1137600,2023-06-08T10:05:40.000Z
+126,c52f7f64d5ed070bb7fc5c375ea5711f,HellsHound,True,koom_valley_3_3.1,Koom Valley 3 3.1,1713633,2023-06-06T13:08:21.000Z
+127,70257f6459f2f45f5bb2819402291593,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2240667,2023-06-06T12:24:16.000Z
+128,ed157f6462e710a61fe6ab1c93b334d6,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,3029467,2023-06-06T11:18:05.000Z
+129,29e27d6450b5ad523cc4282c08c6ce3e,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,1893467,2023-06-05T13:24:57.000Z
+130,00a07c6464ccd7de9f9163b92833d1eb,HellsHound,False,dsdr_4.1,DSDR 4.1,1430933,2023-06-04T14:30:24.000Z
+131,eb967c6427167977fe32a6b107bd11dc,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1758067,2023-06-04T13:51:39.000Z
+132,dd8b7c64b0e5e9004c8f7de1c0a31076,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,1675133,2023-06-04T13:04:29.000Z
+133,3c827c646fb07a505dc7254120bbbbea,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2176200,2023-06-04T12:23:24.000Z
+134,20e27b64479381c46987db65f07a136b,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2751600,2023-06-04T01:00:16.000Z
+135,37d17b64246f6b5a022874ac354481cc,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,682100,2023-06-03T23:48:07.000Z
+136,2ced7a647e3be39ab976fe2d7bb4ca21,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1414867,2023-06-03T07:35:08.000Z
+137,1cf9796446b2b699c232ecb43e432763,HellsHound,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2027100,2023-06-02T14:13:48.000Z
+138,e4ef796441368fb530c0d6b6873eb910,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1860933,2023-06-02T13:34:28.000Z
+139,24e379647d9675feb558a4a096034d18,HellsHound,False,starwatcher_1.0,Starwatcher 1.0,1390800,2023-06-02T12:40:03.000Z
+140,bddb796410a49fb976f8a90f56bca993,HellsHound,False,starwatcher_1.0,Starwatcher 1.0,1542300,2023-06-02T12:08:29.000Z
+141,c2d379644330a897786c20e5b5b5821e,HellsHound,True,dsdr_4.1,DSDR 4.1,788367,2023-06-02T11:34:26.000Z
+142,1fc97964d99b9ab087b896baf447d1cd,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,980200,2023-06-02T10:49:03.000Z
+143,f8a078645bf9052f321730f4c979bcea,HellsHound,True,dsdr_4.1,DSDR 4.1,3506033,2023-06-01T13:45:28.000Z
+144,b0957864d8e05c4d69e531a9de871764,HellsHound,False,koom_valley_3_3.1,Koom Valley 3 3.1,1459700,2023-06-01T12:57:20.000Z
+145,a850776421008654eb68e79047b6397c,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,2273633,2023-05-31T13:50:32.000Z
+146,f44877647b23976bb6bee401f0e675a1,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1775767,2023-05-31T13:17:40.000Z
+147,533a7764704b8e1c998e67c3f4925b92,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,3293533,2023-05-31T12:15:15.000Z
+148,782977644ee60b7e2fca380b51aac3d3,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1138667,2023-05-31T11:03:20.000Z
+149,a021776403d7fda2466ecb3632318c0a,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1666033,2023-05-31T10:29:52.000Z
+150,3002766435ae0908ad66723ab3ec76fd,HellsHound,True,ice_scream_v2.5,Ice Scream v2.5,2159167,2023-05-30T14:03:28.000Z
+151,6af87564604d42a70cd77bcd0859cb82,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1977533,2023-05-30T13:21:46.000Z
+152,32e6756431dcf6cc13ec16a1423c6e87,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,963067,2023-05-30T12:04:02.000Z
+153,5a9a746421d16c204179224254253261,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,3014500,2023-05-29T12:28:10.000Z
+154,c29374645cc09b6bf7a24a29b2a8b6d7,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1338033,2023-05-29T12:00:02.000Z
+155,bb897464d0e79846fec86e468eae034a,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1999433,2023-05-29T11:17:15.000Z
+156,fd8174649f784fa7815cdf45c22bee0f,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1554700,2023-05-29T10:44:13.000Z
+157,09787464cfacc802032253c107ddac2d,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,2186700,2023-05-29T10:01:45.000Z
+158,d2577364a5079865bdc6d3760e09e743,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1407867,2023-05-28T13:32:02.000Z
+159,d44e7364af45b0607cce7e2a5be3c8d6,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1961800,2023-05-28T12:53:40.000Z
+160,62467364dc832ac39511357bffb56e1d,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1818833,2023-05-28T12:17:38.000Z
+161,0d3d73649b31c2e12054defc08767d19,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2176533,2023-05-28T11:37:49.000Z
+162,9d37736404b7ba8c12984a77d35c5492,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1157800,2023-05-28T11:14:37.000Z
+163,d02a73648e9b105580313a7818e7b4b6,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2330400,2023-05-28T10:20:00.000Z
+164,e220736413aa80b99452ff5ba8b14b5c,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2084633,2023-05-28T09:37:38.000Z
+165,bbd97264769a6386589f188cc2f1e98a,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1640467,2023-05-28T04:34:03.000Z
+166,55cb726441e6747c498cc764951099c9,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,3420600,2023-05-28T03:32:37.000Z
+167,f3127264e8e9a4d4baeba5c48601f682,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2727967,2023-05-27T14:25:55.000Z
+168,a9f371648aec4fddc26b98939e2ef6d6,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,2327100,2023-05-27T12:12:25.000Z
+169,8de57164d4656407e365c85f66bea0ff,HellsHound,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2434667,2023-05-27T11:12:13.000Z
+170,05de7164db269cb399ba54963ff8a430,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,1464033,2023-05-27T10:40:05.000Z
+171,67b8706443b1b17b35e9e0216fd5a84f,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1060833,2023-05-26T13:47:19.000Z
+172,8ba77064b24805303bb87ea8937fa20a,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,3768933,2023-05-26T12:35:23.000Z
+173,2d9a706494e02338a804c47af114bd26,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,2645400,2023-05-26T11:38:21.000Z
+174,cb4e6f642f66d988645772d3cd9e8080,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,3705400,2023-05-25T12:04:27.000Z
+175,093f6f645898b7d49d63bb73e9d39e22,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2996800,2023-05-25T10:57:13.000Z
+176,8e386f640163ffa9ed40eaa3c89d82e8,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1312600,2023-05-25T10:29:34.000Z
+177,5ef36d64c82cbb72d3493519a0e2577d,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,2558833,2023-05-24T11:22:06.000Z
+178,23b76c642fd14d47dea8a777858b93dc,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,3654633,2023-05-23T12:52:51.000Z
+179,d6b26c6445c316752fff61280a908464,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,793567,2023-05-23T12:34:30.000Z
+180,75a46c6455cdafbaaa424a00538063cf,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,3121767,2023-05-23T11:33:09.000Z
+181,3a6d6b64963b873383d295b873e0e566,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,2648134,2023-05-22T13:25:14.000Z
+182,3c656b6422ef4db19a80a094f821e5cf,HellsHound,False,all_that_glitters_v2.1,All That Glitters v2.1,1626733,2023-05-22T12:51:08.000Z
+183,5e606b64462223555a7baad7a8068fea,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,845400,2023-05-22T12:30:22.000Z
+184,cc566b64f5eeea228a01eb414b7f1d33,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1993533,2023-05-22T11:49:32.000Z
+185,16496b64e73fce801da6a6ad2ac17346,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,3034000,2023-05-22T10:51:02.000Z
+186,a2096a64e2a5ac7d2bdfd4fd9ba48ccd,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2112834,2023-05-21T12:08:02.000Z
+187,05fb6964b7ce9a255bbc7a39bb42ea8b,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2928433,2023-05-21T11:05:41.000Z
+188,c2ef696409676708b335108aad5d32f1,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2386367,2023-05-21T10:17:38.000Z
+189,13e4696448b73e49a4685bc7c68db8ea,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,2049733,2023-05-21T09:27:47.000Z
+190,47d56964c8d5343decc8838921a6a92b,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,592233,2023-05-21T08:24:39.000Z
+191,a9c769641558715b05fc3fd5df985431,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2978533,2023-05-21T07:26:33.000Z
+192,12ba68646ae1228ab168474bb969f142,HellsHound,True,koom_valley_3_3.1,Koom Valley 3 3.1,4504634,2023-05-20T12:16:18.000Z
+193,93af6864d046666bef64b7c7900b654f,HellsHound,True,koom_valley_3_3.1,Koom Valley 3 3.1,1460633,2023-05-20T11:31:31.000Z
+194,a4a66864724a801adbe9aa152b0811eb,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,1829467,2023-05-20T10:53:24.000Z
+195,169f68648e339ac751aa023aaa8ad3cc,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1551533,2023-05-20T10:21:10.000Z
+196,185f67647dcc60f3cc64c846edb7a730,HellsHound,True,sulphur_springs_v1.1,Sulphur Springs v1.1,2359133,2023-05-19T11:35:52.000Z
+197,a7516764b2fe2fbf2e493b97ac0c5199,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,2898800,2023-05-19T10:38:31.000Z
+198,3b086664d519d9530effac709487fd3c,HellsHound,True,all_that_glitters_v2.1,All That Glitters v2.1,3295400,2023-05-18T11:12:59.000Z
+199,d8726364cfa1b4c264a467453fb470e0,HellsHound,True,Ditched_V1,Ditched_V1,2468800,2023-05-16T12:11:04.000Z
+200,41de6064a94f352cf8e382f1653fea24,HellsHound,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1822333,2023-05-14T13:12:33.000Z
+201,08d06064a50c5c9b683f0cd9f83929b6,HellsHound,True,tropical-v2,Tropical-v2,1159767,2023-05-14T12:11:52.000Z
+202,70735e64aef304627919c67281de58da,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1603700,2023-05-12T17:12:16.000Z
+203,664d5e64b36013a5214e0c58cfd4a4b9,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1638633,2023-05-12T14:29:58.000Z
+204,a4f05c64faa7b12691b3c0ba5431d187,HellsHound,True,flats_and_forests_v2.1,Flats and Forests v2.1,1927933,2023-05-11T13:41:56.000Z
+205,9ee85c64dd811c95fc810400ee351721,HellsHound,False,all_that_glitters_v2.0,All That Glitters v2.0,1716933,2023-05-11T13:07:42.000Z
+206,b6db5c64f86df1d5ee1e12541f2d39a5,HellsHound,False,all_that_glitters_v2.0,All That Glitters v2.0,2910233,2023-05-11T12:12:38.000Z
+207,47a15b64817a0af189fc3f130973e10d,HellsHound,False,flats_and_forests_v2.1,Flats and Forests v2.1,2954833,2023-05-10T13:51:03.000Z
+208,aa915b6479dad7ba49e7f499f953df7b,HellsHound,False,eight_horses_1.2,Eight Horses 1.2,1794867,2023-05-10T12:44:26.000Z
+209,7a815b64d0693eebfc1e625b1d86aeaf,HellsHound,True,starwatcher_0.9,Starwatcher 0.9,2486767,2023-05-10T11:35:22.000Z
+210,a24b5a6457b7cf4b03ce8d08e9c0ec2e,HellsHound,False,all_that_glitters_v2.0,All That Glitters v2.0,3372933,2023-05-09T13:33:22.000Z
+211,c5415a640914a6b9ab45aa1d314fa4fe,HellsHound,False,eight_horses_1.2,Eight Horses 1.2,1987800,2023-05-09T12:51:17.000Z
+212,2d2e5a645793dabe7cf6b358bf96d606,HellsHound,True,all_that_glitters_v2.0,All That Glitters v2.0,2879367,2023-05-09T11:27:41.000Z
+213,b4f65864e93f8b4794689fd6d1936638,HellsHound,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1303267,2023-05-08T13:18:44.000Z
+214,38f158646effd9908f39ab557599a117,HellsHound,True,Ditched_V1,Ditched_V1,997400,2023-05-08T12:55:20.000Z
+215,a5e9586475102d493f7678b334d36bbe,HellsHound,False,supreme_strait_v1.4,Supreme Strait v1.4,1393467,2023-05-08T12:23:01.000Z
+216,aedd5864a4c2ae78ad193a26cc01f3da,HellsHound,False,all_that_glitters_v2.0,All That Glitters v2.0,2123867,2023-05-08T11:31:58.000Z
+217,2aac5764c2e83fdd77d94fd369e7064c,HellsHound,True,forge_v1.4,Forge v1.4,2766667,2023-05-07T13:48:26.000Z
+218,33a45764faeda66db68bb1702d3491fc,HellsHound,False,starwatcher_0.9,Starwatcher 0.9,1396600,2023-05-07T13:14:27.000Z
+219,c3155764b33aa4b86e3796f9d447e903,HellsHound,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1336700,2023-05-07T03:06:43.000Z
+220,32605664d0475fee439f16fde3104209,HellsHound,True,Riverrun_V1,Riverrun_V1,1402333,2023-05-06T14:12:02.000Z
+221,533a5664685c7482de598f5fb4a58c0c,HellsHound,True,all_that_glitters_v2.0,All That Glitters v2.0,2349733,2023-05-06T11:30:27.000Z
+222,542d56642d3cf895d9e37dcc5c429932,HellsHound,True,all_that_glitters_v2.0,All That Glitters v2.0,1884600,2023-05-06T10:35:00.000Z
+223,a22556645f8d2001b53d0c08585b966f,HellsHound,False,eight_horses_1.2,Eight Horses 1.2,1561300,2023-05-06T10:02:10.000Z
+224,d4075564f9359fe9b240a4bd454a97d9,HellsHound,False,dsdr_4.1,DSDR 4.1,3265367,2023-05-05T13:42:44.000Z
+225,5cbb5464cc91c8a9274771d9d915da8f,HellsHound,True,supreme_strait_v1.4,Supreme Strait v1.4,1701333,2023-05-05T08:16:28.000Z
+226,91c75364b0d82255dcdfdc6fb8d398ec,HellsHound,True,flats_and_forests_v2.1,Flats and Forests v2.1,1322033,2023-05-04T14:56:17.000Z
+227,9fb8536478f4b8b90267c9530b158596,HellsHound,False,dsdr_4.1,DSDR 4.1,804300,2023-05-04T13:52:31.000Z
+228,aab25364b267311896d11e2b765e72b8,HellsHound,True,forge_v1.4,Forge v1.4,1130833,2023-05-04T13:27:06.000Z
+229,13a453640c1ea8309158ef9dd3f8259c,HellsHound,True,all_that_glitters_v2.0,All That Glitters v2.0,1021367,2023-05-04T12:24:51.000Z
+230,af575264b75dfdbe57e85f60fdbe1176,HellsHound,True,carrot_mountains_v1.0,Carrot Mountains v1.0,3734067,2023-05-03T12:46:39.000Z
+231,714f52649ee93ae5225031e72534fe04,HellsHound,False,hades_ponds_0.7,Hades Ponds 0.7,1577667,2023-05-03T12:11:29.000Z

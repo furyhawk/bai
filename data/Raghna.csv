@@ -1,0 +1,1000 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,aa16a264941e33ce76667bc3eb7a41d5,Raghna,True,dsdr_4.1,DSDR 4.1,2207400,2023-07-03T00:30:34.000Z
+1,680da2640ab254d45e5ce0d260c8a2cf,Raghna,True,dsdr_4.1,DSDR 4.1,1508900,2023-07-02T23:51:04.000Z
+2,d709a2643b67a3e82def68e6c416ab78,Raghna,False,shore_to_shore_v3,Shore_to_Shore_V3,520433,2023-07-02T23:35:51.000Z
+3,8cd99e64b90dfab71017b777b0568729,Raghna,False,Rosetta1.4,Rosetta 1.4,1239300,2023-06-30T13:33:00.000Z
+4,9fd29e64533177cf11ded3c82eb01479,Raghna,False,faster_than_light_1.1,Faster Than Light 1.1,1253767,2023-06-30T13:03:27.000Z
+5,c2c99e640eb1743ebd323f6829ce0f77,Raghna,True,great_divide_v1,Great Divide V1,1351600,2023-06-30T12:25:38.000Z
+6,3ad99c64058bd3798d125416f18a13c4,Raghna,False,all_that_glitters_v2.1,All That Glitters v2.1,2350567,2023-06-29T01:07:06.000Z
+7,32d19c6466c265a328c4a92d95beba51,Raghna,False,all_that_glitters_v2.1,All That Glitters v2.1,1332667,2023-06-29T00:32:50.000Z
+8,c43f9b64f0d3a887a402b1cae507a74f,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,898033,2023-06-27T20:00:04.000Z
+9,31299864ff6952090bb1595fafa79fad,Raghna,True,zed_remake_3.3,Zed Remake 3.3,940633,2023-06-25T11:46:57.000Z
+10,9e2798644f4273762a1ed774b99a8d6a,Raghna,True,zed_remake_3.3,Zed Remake 3.3,318533,2023-06-25T11:40:14.000Z
+11,2426986445ee94de03974bcf241700c3,Raghna,True,zed_remake_3.3,Zed Remake 3.3,270667,2023-06-25T11:33:56.000Z
+12,2e239864da106689ca8ca9a9e0ae982c,Raghna,True,zed_remake_3.3,Zed Remake 3.3,539800,2023-06-25T11:21:18.000Z
+13,6820986435490797e2344d30151c6a32,Raghna,True,zed_remake_3.3,Zed Remake 3.3,574867,2023-06-25T11:09:28.000Z
+14,161f9864cb6e75caebd6f9b645b48f55,Raghna,True,zed_remake_3.3,Zed Remake 3.3,223800,2023-06-25T11:03:50.000Z
+15,d1e69664fb4264956e915a1308a0c518,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,1395933,2023-06-24T12:51:29.000Z
+16,00e49664af13c53f62566fa2756d8fde,Raghna,True,zed_remake_3.3,Zed Remake 3.3,626533,2023-06-24T12:39:28.000Z
+17,0ecb96641594b5381f1a3cccd12d288b,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1232133,2023-06-24T10:53:02.000Z
+18,fb199264ff0578f1fc9f8bc953ca599b,Raghna,True,dsdr_4.1,DSDR 4.1,1569367,2023-06-20T21:28:27.000Z
+19,c215926472463dbb6ab469085d56b18c,Raghna,True,dsdr_4.1,DSDR 4.1,551700,2023-06-20T21:10:26.000Z
+20,7d9c9164f4df31cb6dfb00901ac43cba,Raghna,True,sulphur_springs_v1.1,Sulphur Springs v1.1,988767,2023-06-20T12:33:01.000Z
+21,db95916460861f5f7140f2a0eec0ea58,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1301533,2023-06-20T12:04:43.000Z
+22,657b9164a071b0c0a55b8349dc974f99,Raghna,True,forge_v1.4,Forge v1.4,1646733,2023-06-20T10:11:49.000Z
+23,3fa190642f0254be2b33fe68d5fd6f34,Raghna,True,forge_v1.4,Forge v1.4,909200,2023-06-19T18:41:03.000Z
+24,691f8b64d81bd552e9e34ae92f28b84a,Raghna,True,angel_crossing_1.5,Angel Crossing 1.5,885800,2023-06-15T14:25:45.000Z
+25,63178b64debcbc265e91c51ad4121c3b,Raghna,True,Rosetta1.4,Rosetta 1.4,1016367,2023-06-15T13:51:31.000Z
+26,2d118b64861cb0f417551935fadcfb65,Raghna,True,talus_v2,Talus_v2,1042200,2023-06-15T13:25:01.000Z
+27,010a8b64b156138eccc86465d193dddd,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,1165933,2023-06-15T12:54:25.000Z
+28,e84f8a647a37bd07940c9d32a122a03b,Raghna,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1631600,2023-06-14T23:40:24.000Z
+29,8f438a644f17f3970698e4ed55a41daf,Raghna,True,ascendancy_v1.1,Ascendancy v1.1,2211967,2023-06-14T22:47:43.000Z
+30,00388a64770ec289b2e261b1e9d1cfb6,Raghna,False,starwatcher_1.0,Starwatcher 1.0,2096833,2023-06-14T21:58:24.000Z
+31,79318a642aad379310ff5446df2e7f2e,Raghna,False,NuclearWinterR,Nuclear Winter Bar 1.4,1095567,2023-06-14T21:30:33.000Z
+32,7d2a8a6409da2676147402090cd590fa,Raghna,False,hades_ponds_0.7,Hades Ponds 0.7,1371500,2023-06-14T21:00:45.000Z
+33,bc238a646b8c94a73900855aed69d2b9,Raghna,True,Rosetta1.4,Rosetta 1.4,1191367,2023-06-14T20:31:56.000Z
+34,5bde88647d3e8ad4fc46e7b2a3d57df7,Raghna,False,dsdr_4.1,DSDR 4.1,3110533,2023-06-13T21:23:39.000Z
+35,f8d088640aafafa7ebc914af2b3e2782,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,2656067,2023-06-13T20:26:32.000Z
+36,59c888648d4e39bd85c17754cd6eee4b,Raghna,False,ascendancy_v1.1,Ascendancy v1.1,1163000,2023-06-13T19:49:45.000Z
+37,62c2886495da139018280b2d9a6968e1,Raghna,True,dsdr_4.1,DSDR 4.1,1082233,2023-06-13T19:24:18.000Z
+38,3db888649bef4cff8807a7df74fc137f,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,768000,2023-06-13T18:41:01.000Z
+39,23648864415f90f53068b69b39cebfce,Raghna,True,dsdr_4.1,DSDR 4.1,1730500,2023-06-13T12:42:11.000Z
+40,615f88649c2a20f515674492fac3016b,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,798467,2023-06-13T12:21:53.000Z
+41,6459886474f2867947a5ef9e264c2cd9,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1093533,2023-06-13T11:56:20.000Z
+42,c9508864972ef3a830e3faa2ff888628,Raghna,False,tropical_assault_v3.0,Tropical Assault v3.0,1484800,2023-06-13T11:19:37.000Z
+43,3fa48764ca63e5347f8b08a0364c0088,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,990367,2023-06-12T23:03:27.000Z
+44,569c87647f14d82526dbd1e0bb8e0cb0,Raghna,True,melting_glacier_v1.1,Melting Glacier v1.1,1248967,2023-06-12T22:29:42.000Z
+45,be978764f5abe3afc58457e57f4c1b7e,Raghna,False,darkside_v3.0,Darkside v3.0,808700,2023-06-12T22:10:06.000Z
+46,15938764d030697cb2fb86a90213f6ff,Raghna,True,high_noon_remake_1.0,High Noon Remake 1.0,737900,2023-06-12T21:50:13.000Z
+47,8b8e87640e26b82b95249ddfcedcb2a7,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,671467,2023-06-12T21:30:51.000Z
+48,89888764ec3fb64f7842438a558f1394,Raghna,True,thermal_shock_v1.1,Thermal Shock v1.1,861267,2023-06-12T21:05:13.000Z
+49,da278764d920fef86bc172fb2c6ff1f6,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,696000,2023-06-12T14:12:42.000Z
+50,2d2187640927bb689b5776a0c90da051,Raghna,True,hades_ponds_0.7,Hades Ponds 0.7,886233,2023-06-12T13:44:13.000Z
+51,44128764992955eadb78f3ff241893c0,Raghna,True,eight_horses_1.2,Eight Horses 1.2,1595700,2023-06-12T12:40:36.000Z
+52,020c8764e6f35ad42edb34830da83d2e,Raghna,True,ascendancy_v1.1,Ascendancy v1.1,1183867,2023-06-12T12:13:54.000Z
+53,f20087646d120e9979660423258f15f1,Raghna,False,starwatcher_1.0,Starwatcher 1.0,1200200,2023-06-12T11:26:42.000Z
+54,d4fb866415a5b69986fef664938adf3f,Raghna,False,ascendancy_v1.1,Ascendancy v1.1,826600,2023-06-12T11:04:52.000Z
+55,b34d866487b140e89f94ed8c0295ef59,Raghna,False,darkside_v3.0,Darkside v3.0,1152500,2023-06-11T22:41:55.000Z
+56,7d41866427f8ee2c0bbf48cbefa0dd52,Raghna,True,ascendancy_v1.1,Ascendancy v1.1,2309633,2023-06-11T21:49:49.000Z
+57,be3b86640d139772ba10fab38b664553,Raghna,False,sulphur_springs_v1.1,Sulphur Springs v1.1,931800,2023-06-11T21:25:18.000Z
+58,963486644fadfee7b146d8810dce1077,Raghna,False,pawn_retreat_1.2,Pawn Retreat 1.2,1324800,2023-06-11T20:54:46.000Z
+59,db2b866421ef612a255def648f353b8d,Raghna,True,dsdr_4.1,DSDR 4.1,1836733,2023-06-11T20:17:31.000Z
+60,91258664f0132c8beacd5ac5b2429b69,Raghna,False,Tempest_V3,Tempest_V3,750800,2023-06-11T19:50:41.000Z
+61,5a1b86648c89e3814f53c89b09a6e265,Raghna,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,2135567,2023-06-11T19:07:06.000Z
+62,3f148664a9368eb9fce3612d64309acb,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,1405900,2023-06-11T18:36:47.000Z
+63,97828464e0dd015a88b263269c67a284,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,671667,2023-06-10T14:03:03.000Z
+64,e97c8464a209ba4d618171e4ed677546,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,1260733,2023-06-10T13:38:49.000Z
+65,947784648c02939a1cf00c88656147ce,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,634767,2023-06-10T13:16:04.000Z
+66,355884641435c144f193bd64448cf563,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,600767,2023-06-10T11:02:13.000Z
+67,915384648d0d3b1c6be94828659fb516,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,293833,2023-06-10T10:42:25.000Z
+68,4242846494501f386da0748f00b8d0fd,Raghna,True,zed_remake_3.3,Zed Remake 3.3,497800,2023-06-10T09:28:34.000Z
+69,673c8464ee71ffdd39d81b8b8817113d,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1311800,2023-06-10T09:03:35.000Z
+70,09388464ab6bb73b93c726efa26312dc,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,913233,2023-06-10T08:44:57.000Z
+71,a6358464229b2845a96d23cf5f5e6d95,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,515733,2023-06-10T08:34:46.000Z
+72,2d328464c54e0ca94ca6cd3642a09b1c,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,670800,2023-06-10T08:19:57.000Z
+73,e9a980642abd3e63f9b43d1357ae5b20,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,716800,2023-06-07T16:01:45.000Z
+74,2fa8806439402c1d9dab69a1039b85e0,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,356400,2023-06-07T15:54:23.000Z
+75,bca28064d4c236471a81b034b32a1334,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,923700,2023-06-07T15:31:08.000Z
+76,539e8064242c5ead39a822a5ec15d779,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,661133,2023-06-07T15:12:19.000Z
+77,d09b80649963153c5bd6f72ce457fffb,Raghna,True,sertagatta_v6.0,Sertagatta v6.0,476633,2023-06-07T15:01:36.000Z
+78,58928064100b227dd96107a7dec8d795,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,551767,2023-06-07T14:21:12.000Z
+79,318f806414194905a2a5c237e1decbef,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,684167,2023-06-07T14:07:45.000Z
+80,d58d8064deb60768b6d55da1ef30dde8,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,211467,2023-06-07T14:01:57.000Z
+81,36898064a910d66a4f2c19d890e08b53,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,973800,2023-06-07T13:42:14.000Z
+82,5eb07f64594c5e61c9bd80ca37a2cd06,Raghna,False,red_river_remake_v1.2,Red River Remake v1.2,2080933,2023-06-06T22:17:02.000Z
+83,31a27f645a51d7303a55d088e490f54e,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2954767,2023-06-06T21:16:33.000Z
+84,489d7f64c98de5cabe73870bd6177954,Raghna,False,tropical_assault_v3.0,Tropical Assault v3.0,776433,2023-06-06T20:55:36.000Z
+85,4b937f64e40ff91a7118e5fddc5db03d,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1936233,2023-06-06T20:12:59.000Z
+86,e8897f647f12e238b5b1d74262861b26,Raghna,False,Rosetta1.4,Rosetta 1.4,1961400,2023-06-06T19:32:56.000Z
+87,2a837f645b3921eed57ccc24fa39f3f9,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,1131800,2023-06-06T19:04:10.000Z
+88,c27d7f649dba0046447b81722f33eed0,Raghna,True,hades_ponds_0.7,Hades Ponds 0.7,819333,2023-06-06T18:41:06.000Z
+89,32137f647057ede473bbdba16cc19a23,Raghna,True,eight_horses_1.2,Eight Horses 1.2,1417667,2023-06-06T11:06:26.000Z
+90,c5087f64d13a07091a42e5cef0e17bac,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1602733,2023-06-06T10:21:57.000Z
+91,09717e641ca94dd6093d3a1c197c67ce,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1578700,2023-06-05T23:34:33.000Z
+92,ee6c7e64d4ace7edf2a430a09b7fe2f6,Raghna,False,dsdr_4.1,DSDR 4.1,609900,2023-06-05T23:17:02.000Z
+93,bd5f7e642e9f12c5a9cd1a644a314f12,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,2872367,2023-06-05T22:20:45.000Z
+94,e3547e641599220ed8b6fb0885ee7d02,Raghna,False,all_that_glitters_v2.1,All That Glitters v2.1,2045833,2023-06-05T21:34:27.000Z
+95,13037e640d7e9d83c0e4f20729e6821a,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,2342733,2023-06-05T15:45:23.000Z
+96,03fe7d640447ddb180356ff5f08bc955,Raghna,False,supreme_strait_v1.4,Supreme Strait v1.4,823667,2023-06-05T15:23:47.000Z
+97,32f67d642d6089e26216480c329a974e,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,1532000,2023-06-05T14:50:26.000Z
+98,c6ee7d64541d9342371576e761f2f98a,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,1402333,2023-06-05T14:18:46.000Z
+99,e5db7d646ad405b24248b9279ce2b3a7,Raghna,True,industrial_revolution_v2,Industrial_Revolution_V2,1736967,2023-06-05T12:58:13.000Z
+100,fcd57d6431194b56860346002016acee,Raghna,False,Rosetta1.4,Rosetta 1.4,1030567,2023-06-05T12:33:00.000Z
+101,7bb87d6430eb5c27970a14dedfd01187,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1843600,2023-06-05T10:27:07.000Z
+102,b0b37d645ad25c6cddae09a6aa293401,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,756500,2023-06-05T10:06:40.000Z
+103,b2ab7d6489d6373c07d79df9360d3a5d,Raghna,True,starwatcher_1.0,Starwatcher 1.0,1361500,2023-06-05T09:32:34.000Z
+104,3ef07c641e894ff91466b0ddca3951de,Raghna,True,Crescent_Bay_V2,Crescent_Bay_V2,3709833,2023-06-04T20:12:46.000Z
+105,72e37c644dc5713f3dcf5b8e12a18867,Raghna,False,deeploria_fields_v1.5,Deeploria Fields v1.5,2474600,2023-06-04T19:18:10.000Z
+106,4bb77c6456657bcd2b5ae81f2206950d,Raghna,False,serene_caldera_v1.3,Serene Caldera v1.3,2741067,2023-06-04T16:09:47.000Z
+107,798d7c64db89cb5c42a7b10a2de4c0c9,Raghna,True,red_river_remake_v1.2,Red River Remake v1.2,2197700,2023-06-04T13:11:21.000Z
+108,1d7f7c64f308b6c7123636ace48acf3e,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,700700,2023-06-04T12:10:05.000Z
+109,ae797c64a0766ea5c7fa69d912c97e4c,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1122733,2023-06-04T11:46:54.000Z
+110,ed767c643f5c57ca5e34a7b1556a47e4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,545033,2023-06-04T11:35:09.000Z
+111,1a6f7c640b19ba7fded654bfa878eb0e,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,645100,2023-06-04T11:01:46.000Z
+112,0f6b7c645186fb0ecd7f0770216a1dae,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,755900,2023-06-04T10:44:31.000Z
+113,75677c6436915bde5684168b737e942b,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,737033,2023-06-04T10:29:09.000Z
+114,1c657c64da6a1ec85617dd11fa22f916,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,510567,2023-06-04T10:19:08.000Z
+115,b1627c646d366afdc92fad3aea2e5081,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,529267,2023-06-04T10:08:49.000Z
+116,e3ab7b64eb9630fbde66a805a152ec90,Raghna,True,forge_v1.4,Forge v1.4,1659967,2023-06-03T21:08:51.000Z
+117,a5a37b645bc699231367cfb9b9b0dd69,Raghna,True,eight_horses_1.2,Eight Horses 1.2,1544867,2023-06-03T20:33:41.000Z
+118,1e9d7b64988d4932a81da315add654e7,Raghna,True,red_river_remake_v1.2,Red River Remake v1.2,1178567,2023-06-03T20:05:50.000Z
+119,2b937b646d6657ef056a1fdba03097d8,Raghna,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1838600,2023-06-03T19:23:23.000Z
+120,9b8b7b64aff29c527024a8c3c2e120ef,Raghna,True,pawn_retreat_1.2,Pawn Retreat 1.2,1385533,2023-06-03T18:51:07.000Z
+121,ad5d7b64dce4cb126a29c0bdfffc1ef9,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1162133,2023-06-03T15:35:09.000Z
+122,235c7b64500438af3a861bed966afaa0,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,316433,2023-06-03T15:28:35.000Z
+123,265a7b648133d57a5bfd6de5ceea1954,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,407633,2023-06-03T15:20:06.000Z
+124,7b567b64ddbb5717b492c181a3d1ba90,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,831100,2023-06-03T15:04:27.000Z
+125,d5547b646e8e52bae831d5855aacee9f,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,333833,2023-06-03T14:57:25.000Z
+126,66507b64c7aa9c5fa95a2aa1f8d526a7,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1046000,2023-06-03T14:38:30.000Z
+127,ad4b7b64bdec6754cc5b8abec207cd8b,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,792000,2023-06-03T14:18:21.000Z
+128,e8477b64bd78c0aa673b30314f7e1894,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,856400,2023-06-03T14:02:16.000Z
+129,cf447b643e4c54e24e3762d0d2574eb6,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,635267,2023-06-03T13:49:03.000Z
+130,db407b648e590d2a3a83390b4e75bf0e,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,895900,2023-06-03T13:32:11.000Z
+131,ab3a7b645b168723bd7a460d6615b8b4,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1331567,2023-06-03T13:05:47.000Z
+132,45377b641f8dc1b412e2f495ce0d8e93,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,746600,2023-06-03T12:51:17.000Z
+133,a2327b642e2c185b8f195359ea11d06d,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1097900,2023-06-03T12:31:30.000Z
+134,6d317b648968bc21e35910351983d78a,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,202667,2023-06-03T12:26:21.000Z
+135,792e7b6473c6df1717faff2b0f54543f,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,638800,2023-06-03T12:13:45.000Z
+136,ec2b7b64a4d97312e68420f6bd2abfb0,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,518633,2023-06-03T12:02:52.000Z
+137,18267b6453fea189bb3203857aeb28c9,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1263167,2023-06-03T11:38:00.000Z
+138,19247b648659c5645f207a1f71c1dea3,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,426633,2023-06-03T11:29:29.000Z
+139,39217b643f154c9eedeb7f0b20be7722,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,669600,2023-06-03T11:17:13.000Z
+140,9b1f7b6442c1794ca05655eda484ca9d,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,316333,2023-06-03T11:10:19.000Z
+141,b5997a6450d2f3b6f55cfa4e7fbf8a2b,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,2240133,2023-06-03T01:39:01.000Z
+142,46907a6412a2f0a310a4eb9d42bdfcad,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,1958133,2023-06-03T00:58:46.000Z
+143,d6877a64929328d4e8b5a3dd09ee6a56,Raghna,False,Riverrun_V1,Riverrun_V1,1591467,2023-06-03T00:22:46.000Z
+144,df6e7a64900c5e167b5185ea7d187aba,Raghna,True,Rosetta1.4,Rosetta 1.4,2553033,2023-06-02T22:36:15.000Z
+145,8a677a646d9e5bd61dbc6670b6dec276,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,1178533,2023-06-02T22:04:57.000Z
+146,38487a644e5022231068f876f89d8dfa,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,829933,2023-06-02T19:51:20.000Z
+147,b4337a64e0c56c11205e853dd91c5faa,Raghna,False,dworld_v4,DWorld_V4,4402200,2023-06-02T18:23:48.000Z
+148,e91a7964018bbfced728005e15d8322c,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,617167,2023-06-01T22:25:45.000Z
+149,d3187964e7a93c76045fb4c0a2376798,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,357700,2023-06-01T22:16:51.000Z
+150,24157964a110d3ebf19c23737b7a3424,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,858433,2023-06-01T22:01:08.000Z
+151,ec1279646e3cdeae9c44978dc5e563cf,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,321133,2023-06-01T21:51:40.000Z
+152,120a796414d02e40fc09726b4a053f4d,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,780933,2023-06-01T21:13:54.000Z
+153,81dc7864c7ce9b288ac7002d5f2be3a4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,460200,2023-06-01T17:59:29.000Z
+154,89d8786472d45b3d6954624e490de001,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,873667,2023-06-01T17:42:33.000Z
+155,56d67864c24b0895fb42c21aa0fcda14,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,438500,2023-06-01T17:33:10.000Z
+156,9ad17864082e5f7e049631433eabe8a5,Raghna,False,zed_remake_3.3,Zed Remake 3.3,1056367,2023-06-01T17:12:58.000Z
+157,bdce786447521b07477b96ad016da0be,Raghna,True,sertaleina_v9.1,Sertaleina_v9.1,545600,2023-06-01T17:00:45.000Z
+158,cccb78644acb0b6619a8a94e74f4a553,Raghna,True,sertaleina_v9.1,Sertaleina_v9.1,594133,2023-06-01T16:48:12.000Z
+159,2bc878640cf258a13f94546dab07dc61,Raghna,True,sertaleina_v9.1,Sertaleina_v9.1,491267,2023-06-01T16:32:43.000Z
+160,5ec37864698669c17149897b9fde951a,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,820000,2023-06-01T16:12:14.000Z
+161,debb786483edaf2cbd1c88bc47f349df,Raghna,True,speedmetal_bar_v2,SpeedMetal BAR V2,515000,2023-06-01T15:40:14.000Z
+162,5cb87864722f234cad42d3cecbe3eacd,Raghna,True,speedmetal_bar_v2,SpeedMetal BAR V2,648433,2023-06-01T15:25:16.000Z
+163,3c947864975818f90d5ec1dc6bbeedc7,Raghna,True,Rosetta1.4,Rosetta 1.4,562133,2023-06-01T12:51:08.000Z
+164,0dbb7064eebb51ea98591657838876ca,Raghna,True,heartbreak_hill_v4,Heartbreak Hill v4,409033,2023-05-26T13:58:37.000Z
+165,0bb8706492b5d53e856ddfc1d35e26b4,Raghna,True,heartbreak_hill_v4,Heartbreak Hill v4,622267,2023-05-26T13:45:47.000Z
+166,61b57064fc128854c6f374e5b79b77df,Raghna,True,heartbreak_hill_v4,Heartbreak Hill v4,463200,2023-05-26T13:34:25.000Z
+167,ffa070649740961aaea6350c45673897,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,539600,2023-05-26T12:07:27.000Z
+168,2b9e7064398fef18da51102cdf2b8460,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,625200,2023-05-26T11:55:23.000Z
+169,d39b70642a497264a16461e805455ef8,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,475533,2023-05-26T11:45:23.000Z
+170,cd98706447bfd463ccb0d8bcf7cb8075,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,656633,2023-05-26T11:32:29.000Z
+171,dac16f64f3292147e382d1e3514b1fac,Raghna,False,theta_crystals_1.0,Theta Crystals 1.0,1135400,2023-05-25T20:15:22.000Z
+172,53bd6f645e61c51aef39db25facd2bc0,Raghna,False,theta_crystals_1.0,Theta Crystals 1.0,924667,2023-05-25T19:56:03.000Z
+173,07b76f64510fb7f41835ecc6f9473c9d,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,1448000,2023-05-25T19:29:11.000Z
+174,d4b16f643b639611611ca0eafcaf2939,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,520900,2023-05-25T19:07:00.000Z
+175,34b06f649aad0e2e70a3a11e80fb901f,Raghna,True,titanduel_v3,TitanDuel_V3,330867,2023-05-25T19:00:04.000Z
+176,26ae6f64b0a4133c233a51cc992477ed,Raghna,True,titanduel_v3,TitanDuel_V3,406167,2023-05-25T18:51:18.000Z
+177,17ad6f647e2967ca6a06a12b2570cb12,Raghna,True,titanduel_v3,TitanDuel_V3,158067,2023-05-25T18:46:47.000Z
+178,d3ab6f64ca29814c5815b5a71cdc97b4,Raghna,True,titanduel_v3,TitanDuel_V3,222367,2023-05-25T18:41:23.000Z
+179,27aa6f64bbb921db5df72f2df4429edf,Raghna,True,titanduel_v3,TitanDuel_V3,248800,2023-05-25T18:34:15.000Z
+180,8ca56f649316e8d301d540b8a0e89eb3,Raghna,False,titanduel_v3,TitanDuel_V3,897000,2023-05-25T18:14:36.000Z
+181,a4a26f643e0eba5538a4a595bc3bbfc0,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,461700,2023-05-25T18:02:12.000Z
+182,2a9f6f64b9960d19c2f8d73cdcef9daa,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,674733,2023-05-25T17:47:22.000Z
+183,d4b76e64fd40843dbd8163fb138a1557,Raghna,True,faster_than_light_1.1,Faster Than Light 1.1,569367,2023-05-25T01:20:20.000Z
+184,ccb36e64e7985bbc96fd50f0a7ae5099,Raghna,True,Rosetta1.4,Rosetta 1.4,720000,2023-05-25T01:03:08.000Z
+185,b1b06e64b7ea8fa9941e993c6bdf03ca,Raghna,True,pawn_retreat_1.2,Pawn Retreat 1.2,636367,2023-05-25T00:49:53.000Z
+186,d5ad6e643de8825a3a20251f74ed682d,Raghna,True,kolmogorov_remake_3.0,Kolmogorov Remake 3.0,606700,2023-05-25T00:37:41.000Z
+187,7cab6e64c95f0139fec673bb913312bd,Raghna,True,barr_1.1,BarR 1.1,411100,2023-05-25T00:27:40.000Z
+188,25326e642e3df6883f6b95c1f17d79ef,Raghna,True,titanduel_v3,TitanDuel_V3,728433,2023-05-24T15:49:57.000Z
+189,7b166e64a27419473e5fa5396931b4a0,Raghna,True,ravaged_remake_v1.2,Ravaged Remake v1.2,428933,2023-05-24T13:51:55.000Z
+190,bf326d64627c16af0e649a31ff94dbeb,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,1370367,2023-05-23T21:40:15.000Z
+191,2e306d64079eb78fb1bba8c20dffe087,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,481833,2023-05-23T21:29:18.000Z
+192,1c2e6d64b1c8e1d426b2dd5fd9c468a5,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,407967,2023-05-23T21:20:28.000Z
+193,b9e96c6414f3c25c9b0ae56dcaf8dcf8,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,612833,2023-05-23T16:28:41.000Z
+194,b3e66c64e9aa3e569f7dc337fce8f1de,Raghna,True,sky_isle_v1.1,Sky Isle v1.1,598300,2023-05-23T16:15:47.000Z
+195,5f126a64d510f3fc5caefc53074ca545,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,668067,2023-05-21T12:45:19.000Z
+196,6df56964d348bf7028f7caf9c1ce7dbc,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,771933,2023-05-21T10:41:49.000Z
+197,fc5c6964a071af52bfba2dc2db32aa6b,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,1027333,2023-05-20T23:51:24.000Z
+198,4e5a69643176919f91d06d26b597add7,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,558967,2023-05-20T23:39:58.000Z
+199,e05469641b8ae50b17ac1eb3b93c57b6,Raghna,True,paradise_lost_v4,Paradise_Lost_V4,1229767,2023-05-20T23:16:48.000Z
+200,c44a6964ddda67d41bf7aa74cc743b61,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,223633,2023-05-20T22:33:40.000Z
+201,7a42696434e363e0899331f77cdf3c32,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,878100,2023-05-20T21:58:18.000Z
+202,5d31696413f88cf4c84c8b1a8db9cf53,Raghna,True,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,1434400,2023-05-20T20:45:17.000Z
+203,4d2d6964c424aa5a9d3cb516d76f8af2,Raghna,False,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,869767,2023-05-20T20:27:57.000Z
+204,71276964e683a27a9ba27102260fd292,Raghna,False,copper_hill_v1,Copper Hill v1,1340400,2023-05-20T20:02:57.000Z
+205,5a216964d62065c7f8197fda71aa98e7,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,686333,2023-05-20T19:36:58.000Z
+206,181d696472eb88fdb407026241192751,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1010600,2023-05-20T19:18:48.000Z
+207,fd1a6964bd28a1b9b02c4bac9197d924,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,464867,2023-05-20T19:09:49.000Z
+208,ef1669645c1e2d86d2d0e95be33dac7d,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,931067,2023-05-20T18:52:31.000Z
+209,efff6864b62a4fb07c9172d7bb90c998,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,651733,2023-05-20T17:14:23.000Z
+210,38fe68647f6d93b66cacea80595863df,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,324067,2023-05-20T17:07:04.000Z
+211,74af566404a8ccbb4f6ea39aee50676a,Raghna,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,944600,2023-05-06T19:50:12.000Z
+212,57a85664c2d963f2fdc1c6c1ead452b8,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1292933,2023-05-06T19:19:51.000Z
+213,9a9956647bc5ee6519530e3aad79923b,Raghna,True,tundra_v2,Tundra_V2,760767,2023-05-06T18:16:58.000Z
+214,e0905664deefa5f215a80c2a26d5641f,Raghna,True,forge_v1.4,Forge v1.4,683133,2023-05-06T17:39:44.000Z
+215,45845664a8948a132cb0a876e86f79fd,Raghna,True,FolsomdamR_1.16,FolsomDamR 1.16,1190100,2023-05-06T16:45:57.000Z
+216,0b785664fe6b2a77a5205fee51ce588e,Raghna,True,colorado_v2_1.1,Colorado_V2 1.1,915100,2023-05-06T15:53:47.000Z
+217,b07056647d2f2fd631c277a71ec241ac,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,948500,2023-05-06T15:22:24.000Z
+218,91605664c80fc9cfe5a3e1a1d723255a,Raghna,True,valles_marineris_2.6,Valles Marineris 2.6,684567,2023-05-06T14:13:37.000Z
+219,1d4956646e0d8c38a89d4d69007864a6,Raghna,False,faster_than_light_1.1,Faster Than Light 1.1,1006967,2023-05-06T12:33:33.000Z
+220,c446566458e055d29a2ebd7327128ddf,Raghna,True,faster_than_light_1.1,Faster Than Light 1.1,397433,2023-05-06T12:23:32.000Z
+221,ef5c5564464bd22110f94e76b3b58884,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,931133,2023-05-05T19:45:51.000Z
+222,9d5455642400c5f370050bc8c8216ef2,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1446167,2023-05-05T19:10:21.000Z
+223,b74e5564b424fdc04f6600493ee765cd,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1097467,2023-05-05T18:45:11.000Z
+224,7b485564d20fd9b6f86a3294bebaea73,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,1193933,2023-05-05T18:18:35.000Z
+225,47435564aa0925fc710c1736e8d84e76,Raghna,False,tundra_v2,Tundra_V2,922467,2023-05-05T17:56:23.000Z
+226,293f55649d1ff23ac643b2fe7f455094,Raghna,True,tundra_v2,Tundra_V2,497500,2023-05-05T17:38:49.000Z
+227,2b2e5564040509e405d60d19810e0ae0,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,930967,2023-05-05T16:26:19.000Z
+228,e3f45464ea985cca7634872d1bd905c0,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,674633,2023-05-05T12:21:55.000Z
+229,0c7f5364529593e6545514f719f04f9d,Raghna,True,Cirolata 1.02,Cirolata 1.02,934867,2023-05-04T09:46:52.000Z
+230,d37b5364735345016acaa81a9a7ac542,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,335600,2023-05-04T09:33:07.000Z
+231,0e755364320317742f9da7faf520a1f9,Raghna,True,tundra_v2,Tundra_V2,859167,2023-05-04T09:04:14.000Z
+232,72705364fd2f1067b8db39e051116067,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,781400,2023-05-04T08:44:34.000Z
+233,95b852641d91109edbd5fd0645e9fd9c,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,344267,2023-05-03T19:40:05.000Z
+234,84b652640dee1c1c7ee23ca4755695cb,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,418767,2023-05-03T19:31:16.000Z
+235,c3b3526488bb4e6c51f23aa4032d3dae,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,612000,2023-05-03T19:19:31.000Z
+236,c9b1526487b358b261ff92ff3238939c,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,436100,2023-05-03T19:11:05.000Z
+237,94a45264718134b4924409d6f86f86b5,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,728000,2023-05-03T18:14:44.000Z
+238,17a152641026d08f68bb0f31c0e76be3,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,761433,2023-05-03T17:59:51.000Z
+239,679d5264d70f21547f2000f249b23017,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,822233,2023-05-03T17:44:07.000Z
+240,af98526440cfaae7e3f11c75b02837fd,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1061967,2023-05-03T17:23:59.000Z
+241,cc955264a02780905ada2dc0360fb7f0,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,642833,2023-05-03T17:11:40.000Z
+242,8c345064d17073372d407c6e8165de1e,Raghna,True,starwatcher_0.9,Starwatcher 0.9,2458867,2023-05-01T21:52:12.000Z
+243,f8504c64154fff311301e975eca4b12c,Raghna,True,FolsomdamR_1.16,FolsomDamR 1.16,971900,2023-04-28T23:04:24.000Z
+244,e3444c6462ae8e42304116abbf79f47b,Raghna,True,colorado_v2_1.1,Colorado_V2 1.1,1475300,2023-04-28T22:12:51.000Z
+245,933d4c64d85fe9804153a494f58fa42e,Raghna,True,colorado_v2_1.1,Colorado_V2 1.1,1021200,2023-04-28T21:41:39.000Z
+246,ed384c64cabbcadccd7f4f1315586f12,Raghna,True,tumult_remake_v1.0,Tumult Remake v1.0,657000,2023-04-28T21:21:49.000Z
+247,9d2a4c64240983bd25b4a25cbfab6a4f,Raghna,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,2740500,2023-04-28T20:20:45.000Z
+248,c1234c64b3549f2a4de648eb0788d32d,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,908700,2023-04-28T19:51:29.000Z
+249,21f24a6441f19700788431c157a91c87,Raghna,False,Riverrun_V1,Riverrun_V1,2103433,2023-04-27T22:07:29.000Z
+250,0ce94a64179b3e8a2d6517cc7df923dd,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,1821167,2023-04-27T21:28:44.000Z
+251,b1e14a64c2ca15ee98ff921fecf61df3,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,741767,2023-04-27T20:57:21.000Z
+252,82dc4a646fcf8d19e107b1e2d91506b6,Raghna,False,heartbreak_hill_v4,Heartbreak Hill v4,1173100,2023-04-27T20:35:14.000Z
+253,33d94a64dd1049924e5c370157ba520b,Raghna,False,heartbreak_hill_v4,Heartbreak Hill v4,731700,2023-04-27T20:21:07.000Z
+254,41d64a64f95e9e50092d52cfa0364dd5,Raghna,False,heartbreak_hill_v4,Heartbreak Hill v4,656633,2023-04-27T20:08:33.000Z
+255,95d04a64ef212709f85c54b28d784008,Raghna,False,heartbreak_hill_v4,Heartbreak Hill v4,1174367,2023-04-27T19:44:21.000Z
+256,3fc94a6411d75038fedd71a3a4705d10,Raghna,True,Rosetta1.4,Rosetta 1.4,1320733,2023-04-27T19:13:03.000Z
+257,f2c34a6417063b366fc978edb9b93745,Raghna,True,dsdr_4.1,DSDR 4.1,833400,2023-04-27T18:50:26.000Z
+258,ceb84a64779c4e8d0341ee7ebd9e8f9e,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,2365500,2023-04-27T18:02:54.000Z
+259,11ae4a64195d842d7cba071fcedb5835,Raghna,False,Rosetta1.4,Rosetta 1.4,1867233,2023-04-27T17:17:05.000Z
+260,eda24a64c2e434410e8b9d972be9e8e4,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2173500,2023-04-27T16:29:33.000Z
+261,499d4a64a7610de87e9f03fce3b3d293,Raghna,False,dsdr_4.1,DSDR 4.1,1055533,2023-04-27T16:05:29.000Z
+262,87984a64d5fa7f919b5e3e2c9ed22b2f,Raghna,True,dsdr_4.1,DSDR 4.1,783000,2023-04-27T15:45:11.000Z
+263,138f4a64629ee3a7afd7816ca1e8f7bb,Raghna,True,forge_v1.4,Forge v1.4,2008600,2023-04-27T15:04:51.000Z
+264,3a864a64a07a7093bbdd5a834abb2e84,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,1687400,2023-04-27T14:27:06.000Z
+265,23754a64680756d0974f10b33352870c,Raghna,False,eight_horses_1.2,Eight Horses 1.2,1587067,2023-04-27T13:14:11.000Z
+266,53714a64aef9b31e1b249e74936a673a,Raghna,False,,Thermal Shock v1.0,600700,2023-04-27T12:57:55.000Z
+267,205c4a640561cc4a4e3bd9d4f7d0ef3b,Raghna,True,darkside_v3.0,Darkside v3.0,1404167,2023-04-27T11:27:28.000Z
+268,a3584a64196eab56b8e41f841616e7e5,Raghna,False,,Thermal Shock v1.0,569600,2023-04-27T11:12:35.000Z
+269,bca74964da7959479abf88a34b240e8b,Raghna,True,dsdr_4.1,DSDR 4.1,3172667,2023-04-26T22:37:48.000Z
+270,338d49646bae3ec63d930ea2d9b1f7f4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,748633,2023-04-26T20:44:35.000Z
+271,2c8a49646e50bd570b0af1fffd9f71c2,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,593033,2023-04-26T20:31:40.000Z
+272,f53a48646a4fcd5c8bd3c02a49fe7154,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,1362300,2023-04-25T20:41:25.000Z
+273,893348648ec62a03ce46837a3cab2f3c,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,1279533,2023-04-25T20:09:45.000Z
+274,e82e48641f319c924714699e5be6ba73,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,662500,2023-04-25T19:50:00.000Z
+275,5d2a4864b6d3aac4e469937404eb21d6,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,765833,2023-04-25T19:30:37.000Z
+276,80254864ee1309c6c2a507d72798d35f,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,783700,2023-04-25T19:09:52.000Z
+277,a4f446648b59c556aeb115531f34d93b,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,917767,2023-04-24T21:29:08.000Z
+278,24ee4664db620f3d978ecfc0663a5de3,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,940533,2023-04-24T21:01:24.000Z
+279,8ee7466429bca370c55189b7eaed0ce6,Raghna,True,forge_v1.4,Forge v1.4,919100,2023-04-24T20:33:18.000Z
+280,05e14664ae6b81c27a13fecb8b6e439c,Raghna,True,forge_v1.4,Forge v1.4,943900,2023-04-24T20:05:25.000Z
+281,29a046640f67996a01efd1d89f57e249,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,683700,2023-04-24T15:28:41.000Z
+282,4e9d4664f58e50a375ed15fc23c62cc8,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,494800,2023-04-24T15:16:30.000Z
+283,27994664cbbe803fde4309c3a41c89f4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,839700,2023-04-24T14:58:47.000Z
+284,878546644b8e3f2dc727df2399634305,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1164700,2023-04-24T13:35:03.000Z
+285,0e7d4664deba9e5916068f7630e57916,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1089467,2023-04-24T12:58:54.000Z
+286,c978466496617571b69626f1af0e80ea,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,982467,2023-04-24T12:40:41.000Z
+287,cb7446646ba1e29c60684c82d1b9bbb3,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,834967,2023-04-24T12:23:39.000Z
+288,827146640a5e4e4f46812cf696b7db05,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,743900,2023-04-24T12:09:38.000Z
+289,266e46643d7a60a57bd10eb5485ae790,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,722667,2023-04-24T11:55:18.000Z
+290,896b4664af742d643f80af97855fa256,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,564067,2023-04-24T11:44:09.000Z
+291,11694664ab170bacf2e4e4b35bbb67b7,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,548367,2023-04-24T11:33:37.000Z
+292,f4674664fbeab04974ab062b06804256,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,204733,2023-04-24T11:28:52.000Z
+293,00ac45649a422b3b9b7e81aeadfa93b9,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,537700,2023-04-23T22:06:56.000Z
+294,1ea84564b5dbd0aa11498f04e602a364,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,792633,2023-04-23T21:50:22.000Z
+295,70a1456473bd683fd6b75eacbf5c9d67,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1499533,2023-04-23T21:21:52.000Z
+296,2f9d4564a6f4342392537f3580b197b9,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,921600,2023-04-23T21:03:43.000Z
+297,26994564419c8199679914a688c3d085,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,875333,2023-04-23T20:46:30.000Z
+298,cc954564ca25654f9776fd67c66cb2d8,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,729733,2023-04-23T20:32:12.000Z
+299,91924564e8c3d06113fefaf299ed0af4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,712867,2023-04-23T20:18:25.000Z
+300,e38e4564174877cf86ee52e46faa7125,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,845967,2023-04-23T20:02:43.000Z
+301,956f4564ae2b1ac99715adac0b09dd98,Raghna,True,ice_scream_v2.5,Ice Scream v2.5,2275600,2023-04-23T17:49:09.000Z
+302,27644564304675356af208ea8dac52a9,Raghna,False,ice_scream_v2.5,Ice Scream v2.5,1464600,2023-04-23T17:00:23.000Z
+303,ce58456411eeb51e4539dc180bf06db3,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,889933,2023-04-23T16:11:58.000Z
+304,67554564c1f9644267ba6d3ae93de267,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,669867,2023-04-23T15:57:27.000Z
+305,391e4364afedc5b64d4366ff945c01bd,Raghna,False,Sunderance V1.3,Sunderance V1.3,2271933,2023-04-21T23:37:29.000Z
+306,42174364ae9cae95d26028507204b9ec,Raghna,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1247733,2023-04-21T23:07:46.000Z
+307,8d114364460a1f420f777708daf75b95,Raghna,True,stronghold_v4,Stronghold V4,885600,2023-04-21T22:43:25.000Z
+308,310843643773c12e9ec8f06a3b94b013,Raghna,False,starwatcher_0.9,Starwatcher 0.9,1818633,2023-04-21T22:03:29.000Z
+309,4603436444553bf3bc15d870a8d8a9af,Raghna,False,theta_crystals_1.0,Theta Crystals 1.0,769900,2023-04-21T21:42:30.000Z
+310,b2f54264dcff81f46fcdabca73bf4957,Raghna,False,tundra_v2,Tundra_V2,856767,2023-04-21T20:44:34.000Z
+311,8357426407984b4445238cf012c59eb2,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,687600,2023-04-21T09:29:39.000Z
+312,31554264e196c9d00c6e743c95b10dc9,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,469300,2023-04-21T09:19:45.000Z
+313,f774416426a43e0dbd56c6f99ca8c69b,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1317267,2023-04-20T17:23:03.000Z
+314,ea6f41641ad118562479f63782ff7c77,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1102467,2023-04-20T17:01:30.000Z
+315,cd6c416419f1c13027a18b2f6fd3058c,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,523600,2023-04-20T16:48:13.000Z
+316,7a6a416459f6d46f6793c37f8423d260,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,438867,2023-04-20T16:38:18.000Z
+317,5061416444e192dbfa8839c1243aa412,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1852867,2023-04-20T15:59:12.000Z
+318,855e4164bca0dbb847f666123bb84a26,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,585967,2023-04-20T15:47:17.000Z
+319,6b454164701360cfc6cbe4d826fd26cf,Raghna,False,eight_horses_1.2,Eight Horses 1.2,1768500,2023-04-20T14:00:11.000Z
+320,a0044164aa1d989a2f3ad2ea1c47ff73,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1136800,2023-04-20T09:23:44.000Z
+321,476240646e83b1d8cf73d092e777a965,Raghna,True,tundra_v2,Tundra_V2,1053167,2023-04-19T21:51:03.000Z
+322,8e5a40640647af64c1d16093fcdcd5fd,Raghna,True,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,719167,2023-04-19T21:18:06.000Z
+323,935040646cfdc647a75de08e102c25a8,Raghna,True,theta_crystals_1.0,Theta Crystals 1.0,1194900,2023-04-19T20:35:31.000Z
+324,084d4064956a42310b2c868bd669cb64,Raghna,True,FolsomdamR_1.16,FolsomDamR 1.16,471533,2023-04-19T20:20:24.000Z
+325,f64440648ec1cd7358d532e0c27a1190,Raghna,False,colorado_v2_1.1,Colorado_V2 1.1,1601767,2023-04-19T19:45:58.000Z
+326,2c1d3f64d5911c0dabfff87be6bad931,Raghna,True,mescaline_v2,Mescaline_V2,890333,2023-04-18T22:43:56.000Z
+327,22113f643cb4053d7ee139eb6a2b1b34,Raghna,True,dsdr_4.1,DSDR 4.1,2237567,2023-04-18T21:52:34.000Z
+328,b1093f645c1a877c92f579f7c715b655,Raghna,False,eight_horses_1.2,Eight Horses 1.2,1377267,2023-04-18T21:20:49.000Z
+329,d2023f648002a4e2f3a581ebe83b60fa,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,1395600,2023-04-18T20:51:30.000Z
+330,a3fc3e64af997b80260980ea427303da,Raghna,False,hades_ponds_0.7,Hades Ponds 0.7,1160267,2023-04-18T20:25:07.000Z
+331,10e33e642d7f108833df2dd4afc1e931,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,587967,2023-04-18T18:36:00.000Z
+332,52dd3e64b23246bb67dad1faca191e5e,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,1284733,2023-04-18T18:11:30.000Z
+333,81db3e64dca76c4b6a1cd83bee990ede,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,344767,2023-04-18T18:03:45.000Z
+334,6fd83e64351f039c1ca485c0ab45e111,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,463767,2023-04-18T17:50:39.000Z
+335,71b83e645172267696ed3b611abd7ee7,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,811700,2023-04-18T15:34:09.000Z
+336,f0b53d64dbb6843442a67544233875e7,Raghna,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,878933,2023-04-17T21:11:12.000Z
+337,c0b23d644b5822e6b08d6b95c3284716,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,718067,2023-04-17T20:57:36.000Z
+338,1daf3d6497a19aa0e48134ddc092a22a,Raghna,False,ravaged_remake_v1.1,Ravaged Remake v1.1,734467,2023-04-17T20:42:05.000Z
+339,f4ab3d6475111b1c46052252178fd5ea,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,670733,2023-04-17T20:28:36.000Z
+340,e7a83d64741f7d4ace4620fd19b52303,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,697167,2023-04-17T20:15:35.000Z
+341,36a43d64891535605d6302454747bf37,Raghna,False,ravaged_remake_v1.1,Ravaged Remake v1.1,1104067,2023-04-17T19:55:34.000Z
+342,b1a03d6432da818d6b85534696bdcef2,Raghna,False,ravaged_remake_v1.1,Ravaged Remake v1.1,798700,2023-04-17T19:40:33.000Z
+343,06503d643b9ea0b5d9c0a469eef29647,Raghna,True,eight_horses_1.2,Eight Horses 1.2,1191867,2023-04-17T13:56:22.000Z
+344,a13d3d644465a7460a685c6d9a502c40,Raghna,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1034500,2023-04-17T12:37:53.000Z
+345,b1313d64ed8b5fe60ecf10436299e773,Raghna,True,supreme_strait_v1.4,Supreme Strait v1.4,2272667,2023-04-17T11:46:57.000Z
+346,513d3c640020c4ad3a33a118da09bb22,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,800667,2023-04-16T18:24:17.000Z
+347,2d3a3c647ced69ead688d33710b5af17,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,674400,2023-04-16T18:10:53.000Z
+348,ce363c641b64038309d16d12fea50918,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,772967,2023-04-16T17:56:30.000Z
+349,9e333c647d15c23874554c6b41e6802e,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,650500,2023-04-16T17:42:54.000Z
+350,fd2b3c64ee05cded1fac400a43cc2f8b,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,499067,2023-04-16T17:10:21.000Z
+351,6a293c64f34646ae5a4b9486861f51bb,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,524500,2023-04-16T16:59:22.000Z
+352,7f273c64cf6755ca5980075baae03312,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,375867,2023-04-16T16:51:11.000Z
+353,c0243c648dc2b826a33ae3540ab83bdb,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,343833,2023-04-16T16:39:28.000Z
+354,6c213c645d1da0f4472ef56f67acfc76,Raghna,True,ravaged_remake_v1.1,Ravaged Remake v1.1,721533,2023-04-16T16:25:16.000Z
+355,ef263b64139f2652d95735cd23aeadb4,Raghna,True,high_noon_remake_1.0,High Noon Remake 1.0,423600,2023-04-15T22:36:31.000Z
+356,17233b64969d8210c55d5c8b3d31449e,Raghna,True,high_noon_remake_1.0,High Noon Remake 1.0,587400,2023-04-15T22:20:07.000Z
+357,35203b6456c5c6ea7da2446aa8fdf059,Raghna,True,high_noon_remake_1.0,High Noon Remake 1.0,478833,2023-04-15T22:07:49.000Z
+358,6b1b3b643cb43459135fc6e09bc11a64,Raghna,True,high_noon_remake_1.0,High Noon Remake 1.0,957200,2023-04-15T21:47:23.000Z
+359,8c143b642a6d566f3ec9d4b36154c902,Raghna,False,high_noon_remake_1.0,High Noon Remake 1.0,1092833,2023-04-15T21:18:04.000Z
+360,04f03a64b73f09fde7baabe26baa15ac,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,477600,2023-04-15T18:42:12.000Z
+361,62ee3a6478bd898d13a14e91d7a80650,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,312833,2023-04-15T18:35:14.000Z
+362,b2eb3a64c43dbca72ea2f808657f01a5,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,460200,2023-04-15T18:23:46.000Z
+363,42e83a64646b5fed3278f781e13b8034,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,724300,2023-04-15T18:09:06.000Z
+364,2ce23a64752ac5c8be2dc58391e7d9e8,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1153900,2023-04-15T17:43:08.000Z
+365,848439644ab2b720bc94cfe1326a12a3,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1059133,2023-04-14T16:51:16.000Z
+366,417d3964fc21b4147adae469d23beed6,Raghna,False,center_command_bar_v1.0,Center Command BAR v1.0,795700,2023-04-14T16:20:17.000Z
+367,992838642dc60e46547bf51aba758cd2,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1122200,2023-04-13T16:06:49.000Z
+368,3c263864d3ae6c89600ec658f5f39957,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,479967,2023-04-13T15:56:44.000Z
+369,791f3864c12a13e806654d85e9387ba1,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1339400,2023-04-13T15:27:53.000Z
+370,ea1a38646f13e6efd68c9b19a2303ee6,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1039967,2023-04-13T15:08:26.000Z
+371,f84333648fb964399ed743f725ee5650,Raghna,False,sphagnum_bog_v1.1,Sphagnum Bog v1.1,642333,2023-04-09T23:02:16.000Z
+372,0340336499714127a6e3c85141a5c7fd,Raghna,True,sphagnum_bog_v1.1,Sphagnum Bog v1.1,614667,2023-04-09T22:45:23.000Z
+373,6f40f263b6e42c3ffabc6101662190b8,Raghna,True,throne_v8,Throne_V8,2339867,2023-02-19T15:29:51.000Z
+374,1892f163b7047795cbda392397438f40,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1560967,2023-02-19T03:06:00.000Z
+375,2803f163a8bc6e65cc177714ed8ba66e,Raghna,False,knockoutr_1.5,KnockoutR 1.5,2757133,2023-02-18T16:56:08.000Z
+376,34eaf0639540e0f0f0a9d126fa7f2d75,Raghna,False,serene_caldera_v1.1,Serene Caldera v1.1,2033667,2023-02-18T15:09:40.000Z
+377,5edaf063e7fc7dffd936ad64ab142a9e,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,3398767,2023-02-18T14:02:06.000Z
+378,79c4ef63011017e58800eaf981460ba1,Raghna,True,red_river_remake_v1.1,Red River Remake v1.1,1423667,2023-02-17T18:16:25.000Z
+379,38bdef636754591ea90b477ee149e028,Raghna,False,lightside_darkside_v2.0,Lightside Darkside v2.0,874667,2023-02-17T17:45:28.000Z
+380,3ab3ef63a1b791c9e2e9b15cbef6f11e,Raghna,False,forge_v1.4,Forge v1.4,1269467,2023-02-17T17:02:50.000Z
+381,8ab8ee63f6a2827ef93adae3311ec0a0,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2850667,2023-02-16T23:13:14.000Z
+382,b0abee635ab5eac4aafe65c0db0d71db,Raghna,False,red_river_remake_v1.1,Red River Remake v1.1,2624567,2023-02-16T22:18:24.000Z
+383,6499ee6308eb569b0445a3d2e416aca0,Raghna,False,theta_crystals_0.8,Theta Crystals 0.8,3681667,2023-02-16T21:00:20.000Z
+384,4492ee6351f09de84aa956167e5f8b75,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,1513167,2023-02-16T20:29:56.000Z
+385,1f73ee63afab4ec6814ccfc8da808886,Raghna,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1384500,2023-02-16T18:17:03.000Z
+386,d46eee63a868a84b5175788a7aca3093,Raghna,True,dsdr_4.1,DSDR 4.1,655833,2023-02-16T17:58:44.000Z
+387,6b66ee6365b7a4713540c4c5bbe2b87d,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,1580433,2023-02-16T17:22:51.000Z
+388,1b5dee63dd8acb5ce086170d211205ed,Raghna,False,Rosetta1.4,Rosetta 1.4,1886900,2023-02-16T16:43:07.000Z
+389,8b52ee636db4df844cc1dc67eb709cb6,Raghna,True,red_river_remake_v1.1,Red River Remake v1.1,2186667,2023-02-16T15:58:03.000Z
+390,f348ee63b5cad3a2c1c434bf59f77e13,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1991633,2023-02-16T15:17:07.000Z
+391,cc3bee63bd6f7620814777eff9626fc3,Raghna,False,dsdr_4.1,DSDR 4.1,2676933,2023-02-16T14:21:00.000Z
+392,7634ee632c756f4ff23cd2a6fd50ec0d,Raghna,True,red_river_remake_v1.1,Red River Remake v1.1,1216833,2023-02-16T13:49:42.000Z
+393,e77eed633262297804cb28070dce7af6,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,1436800,2023-02-16T00:55:03.000Z
+394,697aed63c9247a92bf81a53241da8002,Raghna,True,theta_crystals_0.8,Theta Crystals 0.8,827200,2023-02-16T00:35:53.000Z
+395,3d71ed631634e4ff858f6e18810f6e03,Raghna,False,NuclearWinterR,Nuclear Winter Bar 1.4,1133900,2023-02-15T23:56:45.000Z
+396,7a67ed63a080f1bd96a1dffd8b39f179,Raghna,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1865600,2023-02-15T23:15:06.000Z
+397,565bed6385cbca095aefc6c4bf3e22ce,Raghna,False,dsdr_4.1,DSDR 4.1,2682533,2023-02-15T22:23:17.000Z
+398,b154ed636db70134110c1d56cbdebbf9,Raghna,True,tropical-v2,Tropical-v2,957567,2023-02-15T21:54:57.000Z
+399,e947ed6336680d9cfe81295da80cfae8,Raghna,False,tangerine_remake_1.0,Tangerine_Remake 1.0,2120800,2023-02-15T21:00:25.000Z
+400,7502ed63abf244dd135ac76083bdbc32,Raghna,True,dsdr_4.1,DSDR 4.1,1619633,2023-02-15T16:04:05.000Z
+401,fef1ec632c906ef16a9b306c0f68e7ff,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,3693433,2023-02-15T14:53:50.000Z
+402,f7e7ec633ad7ca9a59a97b62ff955d55,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,2015067,2023-02-15T14:11:03.000Z
+403,d8e3ec6386ade71a55898ec99fe37b74,Raghna,True,supreme_strait_v1.3,Supreme Strait v1.3,630333,2023-02-15T13:53:28.000Z
+404,5adcec6359333e0bff39f4da27b95d00,Raghna,False,supreme_strait_v1.3,Supreme Strait v1.3,1414233,2023-02-15T13:21:30.000Z
+405,14d4ec6323b743578467463c4afb7a5f,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,1606667,2023-02-15T12:46:12.000Z
+406,e7cbec633563cda44c7b8d4e13835b70,Raghna,False,dsdr_4.1,DSDR 4.1,1440667,2023-02-15T12:11:19.000Z
+407,442fec63ae55fda78c987e7635909b64,Raghna,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1022667,2023-02-15T01:03:00.000Z
+408,8128ec63fb5eccb67e310db4da927082,Raghna,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1286667,2023-02-15T00:34:09.000Z
+409,ec23ec639b79c000214c67d28dae1f99,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,546067,2023-02-15T00:14:36.000Z
+410,771fec63a54bc11463f22ecc300fc840,Raghna,False,forge_v1.4,Forge v1.4,657500,2023-02-14T23:55:35.000Z
+411,0714ec63c5ee5749c6d15397a8df3009,Raghna,False,flats_and_forests_v2.1,Flats and Forests v2.1,1962800,2023-02-14T23:06:47.000Z
+412,2307ec6394d80314477d9b73d790fd02,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,2429200,2023-02-14T22:11:47.000Z
+413,b402ec63e2b51ec151819fc33629aaa1,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,534533,2023-02-14T21:52:52.000Z
+414,caaeeb637bc8f6527b8d2b1e6eade00c,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,3339634,2023-02-14T15:54:50.000Z
+415,d5a2eb638757cc6326b4d42d78f77fca,Raghna,False,Rosetta1.4,Rosetta 1.4,2285567,2023-02-14T15:03:49.000Z
+416,cd17eb6346d4c166f87b6f003da83a35,Raghna,True,neurope_remake_4.2,Neurope_Remake 4.2,4339666,2023-02-14T05:10:37.000Z
+417,8ffbea63fd3ac71ae1a8509589f480b1,Raghna,False,dsdr_4.1,DSDR 4.1,1651300,2023-02-14T03:10:07.000Z
+418,97f4ea6391bd311990fefacbb499543f,Raghna,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1154500,2023-02-14T02:40:23.000Z
+419,89eeea637d9e0d627b20c3166b850d94,Raghna,True,taldarim_v3,Taldarim_V3,1162867,2023-02-14T02:14:33.000Z
+420,cae8ea63cdf5a55751a26f46473c646a,Raghna,True,industrial_revolution_v2,Industrial_Revolution_V2,913433,2023-02-14T01:50:02.000Z
+421,ff62ea6371c9e08bc99c92b5ba2d9856,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,2544633,2023-02-13T16:19:11.000Z
+422,b759ea6338b480b20d928fe7256fbc94,Raghna,False,dsdr_4.1,DSDR 4.1,1846700,2023-02-13T15:39:35.000Z
+423,8e4dea63a43ffc7015ec3951564ee992,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,2607567,2023-02-13T14:47:42.000Z
+424,a690e9632e1dc38a3e3b5865a27c3f74,Raghna,True,hotlips_remake_v3.1,Hotlips Remake v3.1,798267,2023-02-13T01:21:42.000Z
+425,0f7fe9634d5e19d3dca9b780eea05353,Raghna,False,dsdr_4.1,DSDR 4.1,3293767,2023-02-13T00:06:39.000Z
+426,fe77e963efcb48f0b12f97869b48d7a0,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,992600,2023-02-12T23:36:30.000Z
+427,bb68e9637c6f6bb22839859d4b953bce,Raghna,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,3298600,2023-02-12T22:31:23.000Z
+428,f462e96366cd18edd4492166614b1cd4,Raghna,False,forge_v1.4,Forge v1.4,1151767,2023-02-12T22:06:44.000Z
+429,d355e963b08ab6d61ba67e78e1075fb7,Raghna,True,dsdr_4.1,DSDR 4.1,2751367,2023-02-12T21:10:43.000Z
+430,184ee963365c1b6974ab7f6c9e2c0aee,Raghna,False,supreme_crossing_2.2,Supreme_Crossing 2.2,1385767,2023-02-12T20:37:44.000Z
+431,9542e96358887f0b6be5e2d29e31f221,Raghna,False,Rosetta1.4,Rosetta 1.4,2257667,2023-02-12T19:48:37.000Z
+432,c038e9632c48d9f245714b28d4cf2ff1,Raghna,True,dsdr_4.1,DSDR 4.1,1941133,2023-02-12T19:06:40.000Z
+433,7e2ee963e129d92ae328e963edafd070,Raghna,True,dsdr_4.1,DSDR 4.1,2122133,2023-02-12T18:22:54.000Z
+434,d126e9631934bfab58711b1ea49ef209,Raghna,False,dsdr_4.1,DSDR 4.1,1474467,2023-02-12T17:50:09.000Z
+435,7a1ce963a2a4b74a804d2a491e05454b,Raghna,True,dsdr_4.1,DSDR 4.1,1964600,2023-02-12T17:06:02.000Z
+436,ae14e96391e07d27070b4b35ef8ac8d4,Raghna,False,dsdr_4.1,DSDR 4.1,1543667,2023-02-12T16:32:46.000Z
+437,a10ce9634a0f5a4c9bbfe83ba323ad7b,Raghna,False,dsdr_4.1,DSDR 4.1,1052933,2023-02-12T15:58:25.000Z
+438,1506e963bf966e0bcb19757a9d2ba7f3,Raghna,True,dsdr_4.1,DSDR 4.1,1275300,2023-02-12T15:30:29.000Z
+439,66fce86327bc938376d5240aa4cdde33,Raghna,True,supreme_strait_v1.3,Supreme Strait v1.3,1974767,2023-02-12T14:49:10.000Z
+440,467be8638d3b198eabef293feae12e61,Raghna,True,Riverrun_V1,Riverrun_V1,2798667,2023-02-12T05:38:14.000Z
+441,9d73e863e84cd4ea3a0be2a98e135247,Raghna,True,Tempest_V3,Tempest_V3,1205300,2023-02-12T05:05:33.000Z
+442,db65e863edbd76a1e3396c826b31476c,Raghna,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,2998600,2023-02-12T04:06:51.000Z
+443,455fe8637344b3a9a9f36344a2d98c20,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,1129500,2023-02-12T03:38:45.000Z
+444,a958e86322774c98b9b524267f3d143b,Raghna,False,cervino_v1,Cervino v1,1159800,2023-02-12T03:10:33.000Z
+445,7252e863862f457237220bc4664ab052,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,931167,2023-02-12T02:44:02.000Z
+446,ea49e863c68ec44f2510f46b00ca17a0,Raghna,True,dsdr_4.1,DSDR 4.1,1854067,2023-02-12T02:07:38.000Z
+447,8132e8636f93e07db5c16774ef64c72f,Raghna,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,3173533,2023-02-12T00:27:45.000Z
+448,0c29e86337a9b43422200b82f755ef78,Raghna,False,Rosetta1.4,Rosetta 1.4,1833000,2023-02-11T23:47:24.000Z
+449,bc1fe863dd18f12df0ab7fbdde11f74d,Raghna,True,Riverrun_V1,Riverrun_V1,1709633,2023-02-11T23:07:40.000Z
+450,cec7e663840d1eb6a21eb24a0f71636e,Raghna,True,NuclearWinterR,Nuclear Winter Bar 1.4,2189267,2023-02-10T22:40:14.000Z
+451,fbc1e663bb2a408858d4a7c3aa6cf533,Raghna,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1041300,2023-02-10T22:15:23.000Z
+452,18bae663463bc24eca6bb3625380c48e,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1381600,2023-02-10T21:41:44.000Z
+453,c6aee6633f7f7742ad15afe6d191ddf8,Raghna,False,Rosetta1.4,Rosetta 1.4,1810500,2023-02-10T20:53:26.000Z
+454,7ba0e663ed5da031a05f00e0f6bf9022,Raghna,True,dsdr_4.1,DSDR 4.1,2976733,2023-02-10T19:52:27.000Z
+455,0f97e663fe7fc948ce3aec4da8355625,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,1792600,2023-02-10T19:12:15.000Z
+456,277ae56389d988dbbfafd68a5a9bb485,Raghna,True,dsdr_4.1,DSDR 4.1,2286467,2023-02-09T22:56:39.000Z
+457,1770e563006c8fa0df88d3f4c371a618,Raghna,True,forge_v1.4,Forge v1.4,1477967,2023-02-09T22:13:43.000Z
+458,fe63e563a1d98ea27892b1c88dd9eddc,Raghna,False,flats_and_forests_v2.1,Flats and Forests v2.1,2613500,2023-02-09T21:22:06.000Z
+459,965de5637b3d4561ccbf39b31c7991dd,Raghna,True,Frozen_Ford_V2,Frozen_Ford_V2,1079467,2023-02-09T20:54:46.000Z
+460,ae50e5636c6e97a866d16ea401ff4dc5,Raghna,True,Rosetta1.4,Rosetta 1.4,2499633,2023-02-09T19:59:42.000Z
+461,f93ae56309863f17779cd7bbfbda77aa,Raghna,False,eye_of_horus_1.7,Eye Of Horus 1.7,1160567,2023-02-09T18:27:05.000Z
+462,1436e563c037db7b9e652f7fb83dd5ed,Raghna,True,kolmogorov_remake_3.0,Kolmogorov Remake 3.0,692633,2023-02-09T18:06:12.000Z
+463,2830e56382bd54f884e035391f4c8bdd,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,830367,2023-02-09T17:40:56.000Z
+464,bb2ae563f0058c1e236ebae81388c94b,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,952400,2023-02-09T17:17:47.000Z
+465,9322e5632ef4f095617eb73362dc0418,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1073033,2023-02-09T16:42:59.000Z
+466,55e1e4639a7145fa3211e5161fa33261,Raghna,False,avalanche_3.4,Avalanche 3.4,766500,2023-02-09T12:04:37.000Z
+467,28dfe463448143fe68b3baa44ad75dfd,Raghna,False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,470433,2023-02-09T11:55:20.000Z
+468,09dae463bcc81d95d73c0d861995bd7e,Raghna,True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,1160933,2023-02-09T11:33:29.000Z
+469,2838e4639baa23e9241209edd7035a75,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1302133,2023-02-09T00:02:48.000Z
+470,f132e463046532923a8546aa566a1d24,Raghna,True,supreme_strait_v1.3,Supreme Strait v1.3,823533,2023-02-08T23:40:33.000Z
+471,0f21e4631a675c38fa10e202004d7315,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,3515667,2023-02-08T22:24:15.000Z
+472,a012e46310d7eca66f2663ef4b2017a8,Raghna,True,Rosetta1.4,Rosetta 1.4,2955933,2023-02-08T21:22:40.000Z
+473,4f07e463f8db5c7c1d6712f2f68c371d,Raghna,True,titanduel_v3,TitanDuel_V3,214400,2023-02-08T20:34:23.000Z
+474,4903e4633c43df4e49e3f89eeccd603a,Raghna,False,titanduel_v3,TitanDuel_V3,647867,2023-02-08T20:17:13.000Z
+475,eb00e463e8c69761b00a0b17bd408225,Raghna,False,titanduel_v3,TitanDuel_V3,504000,2023-02-08T20:07:07.000Z
+476,c6f8e36359d55c706e0893fd8f5ae264,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1600767,2023-02-08T19:32:22.000Z
+477,78b4e363a447deea08c73fee72e08392,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,2190300,2023-02-08T14:40:56.000Z
+478,59abe3639b27b64c0f687904262988a2,Raghna,True,Downs_of_Destruction_V2,Downs_of_Destruction_V2,1852567,2023-02-08T14:02:00.000Z
+479,0917e3638245332ed6ec1ff704713de0,Raghna,True,titan_v3.1,Titan v3.1,883033,2023-02-08T03:29:13.000Z
+480,0713e36371b3c1b9cc051181273b117b,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,545133,2023-02-08T03:12:07.000Z
+481,8707e363e742eec31ea266d58121e273,Raghna,True,angel_crossing_1.5,Angel Crossing 1.5,2083400,2023-02-08T02:23:03.000Z
+482,b9ffe263cecba126062eb04a5fae7a5b,Raghna,True,dsdr_4.1,DSDR 4.1,1324567,2023-02-08T01:49:45.000Z
+483,75f6e2634a777ffa84d90054a1263490,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,1737533,2023-02-08T01:10:13.000Z
+484,78ede263f4399f331fcbb81618cfa0fe,Raghna,False,Riverrun_V1,Riverrun_V1,1821600,2023-02-08T00:31:52.000Z
+485,f789e263c55ad862a1451cbecef13ae4,Raghna,True,Rosetta1.4,Rosetta 1.4,2428333,2023-02-07T17:27:19.000Z
+486,f77ce263c50b64f4c73794e10eedac31,Raghna,True,dsdr_4.1,DSDR 4.1,2873667,2023-02-07T16:31:51.000Z
+487,2d6fe26353989afe462a798535c1cee7,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1512700,2023-02-07T15:33:01.000Z
+488,373ce263d17d508870be636a6c5d1dbb,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1494933,2023-02-07T11:55:35.000Z
+489,8f35e263384a3685c1c678ee27391f0c,Raghna,True,supreme_strait_v1.3,Supreme Strait v1.3,1232067,2023-02-07T11:27:11.000Z
+490,7582e16321662b2ced145d2481718aab,Raghna,True,,The Halite Maze v1.2,1538933,2023-02-06T22:43:01.000Z
+491,657ce16390ee12410603ca742963f227,Raghna,True,,The Halite Maze v1.2,462267,2023-02-06T22:17:09.000Z
+492,8877e163a5e959e13352a82a9b024851,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1009967,2023-02-06T21:56:24.000Z
+493,e874e163db91b3238ce63830f1cbcc65,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,566867,2023-02-06T21:45:12.000Z
+494,c372e163af729307098aa67c6e257282,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,434667,2023-02-06T21:36:03.000Z
+495,0e37e0638bf3b9e46f28f48df7d19697,Raghna,True,desolation,Desolation v1,1043400,2023-02-05T23:09:02.000Z
+496,e533e063f2526492dd3452b5e29e4ebe,Raghna,False,desolation,Desolation v1,713367,2023-02-05T22:55:33.000Z
+497,6630e0635c36956296baaa1bedd11f63,Raghna,True,desolation,Desolation v1,794167,2023-02-05T22:40:38.000Z
+498,542de0636cef040e6ae2cd06c4d04efd,Raghna,True,desolation,Desolation v1,697067,2023-02-05T22:27:32.000Z
+499,7029e063f26a4cfe4ad4b217f96b1244,Raghna,True,desolation,Desolation v1,839967,2023-02-05T22:10:56.000Z
+500,ee25e0637f244fea1c0ec2fcbc8dd15a,Raghna,True,desolation,Desolation v1,642567,2023-02-05T21:55:58.000Z
+501,3322e06360cf1f6372cea56daafeaf1b,Raghna,True,desolation,Desolation v1,844867,2023-02-05T21:40:03.000Z
+502,590ee0631389e38e85fb320a2b0ce10a,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,399900,2023-02-05T20:15:21.000Z
+503,7e0ce063e76ed03ed0bdf6624db172f4,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,369467,2023-02-05T20:07:26.000Z
+504,6a05e063731afb5675f012d726c6fd35,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,1196000,2023-02-05T19:37:14.000Z
+505,8ef6df6303ac37bc8e16b418c480f6aa,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,2082767,2023-02-05T18:33:50.000Z
+506,93eadf6384ca1143433c74b93fc04abd,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,2551100,2023-02-05T17:42:43.000Z
+507,271adf63d925bd4057c614fe9d24e69b,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,2000300,2023-02-05T02:53:27.000Z
+508,2a14df63af2327b1f3426c3379711afe,Raghna,False,hotlips_remake_v3.1,Hotlips Remake v3.1,847800,2023-02-05T02:27:54.000Z
+509,d108df63e864c8243d4e94841ca1ca91,Raghna,True,ice_scream_v2.1,Ice Scream v2.1,1936033,2023-02-05T01:39:29.000Z
+510,78f8de636c518af936607af901b1c163,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,3008867,2023-02-05T00:29:44.000Z
+511,b2e8de634245a428c91259b3f8885e83,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,752400,2023-02-04T23:22:26.000Z
+512,b942dc635e81bfa852526ae00c60753f,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,932800,2023-02-02T23:09:45.000Z
+513,453ddc635736bac45f72065bafd65107,Raghna,True,,Pawn Retreat 1.0,1052400,2023-02-02T22:46:29.000Z
+514,fc0edc636d63ac2081a21290683de8c8,Raghna,True,talus_v2,Talus_v2,1098900,2023-02-02T19:29:00.000Z
+515,3ca9db63ce1334679dddbb7fc663e034,Raghna,False,death_valley_v1,Death Valley v1,860967,2023-02-02T12:14:52.000Z
+516,ada6db630d945856f8ebfd304853aa21,Raghna,False,fallendell_v4,Fallendell_V4,544067,2023-02-02T12:03:57.000Z
+517,3ba3db63939222fc8a1d53299bb43b1d,Raghna,False,fallendell_v4,Fallendell_V4,791767,2023-02-02T11:49:15.000Z
+518,1e9fdb63dc2e7cd895df18fb8e374385,Raghna,True,fallendell_v4,Fallendell_V4,918900,2023-02-02T11:31:42.000Z
+519,580adb634e2bcb525eb212ed055c13ca,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1928133,2023-02-02T00:56:56.000Z
+520,1debda635ef0749743842985ee4d96de,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2467600,2023-02-01T22:43:41.000Z
+521,02e3da63f9d49fedeff2adf7fec40967,Raghna,False,supreme_strait_v1.3,Supreme Strait v1.3,1486733,2023-02-01T22:09:06.000Z
+522,dfdbda63037c66b058fbf1822754eacb,Raghna,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1050600,2023-02-01T21:38:39.000Z
+523,048cda63539915e770115ff8fd41ae8b,Raghna,True,dsdr_4.1,DSDR 4.1,2488767,2023-02-01T15:57:56.000Z
+524,3a7ada637737e5f5dcd821c4d1b4b699,Raghna,True,Mediterraneum_V1,Mediterraneum_V1,4145900,2023-02-01T14:42:02.000Z
+525,db61da630d3f1891d7aa8294a92c49b6,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,2097500,2023-02-01T12:58:03.000Z
+526,54a8d963da3bf4d8336196a08743e6d1,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,1246167,2023-01-31T23:46:28.000Z
+527,3c9fd963d370d2bc419f9468ffc67646,Raghna,False,hotlips_remake_v3.1,Hotlips Remake v3.1,1822800,2023-01-31T23:07:40.000Z
+528,9799d9634447ea42d21ad11d95ef880e,Raghna,False,silveridge_v1,Silveridge v1,1056300,2023-01-31T22:43:35.000Z
+529,bc8fd96302576b2ccb226887b18329b7,Raghna,True,Rosetta1.4,Rosetta 1.4,1864600,2023-01-31T22:01:32.000Z
+530,5883d96311dec581cbaec470d6bdc1de,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,683233,2023-01-31T21:08:40.000Z
+531,1e81d96339914215c45e6805ecc233a4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,400233,2023-01-31T20:59:10.000Z
+532,017ed96391baf0f00bb5f6d574018c1a,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,604700,2023-01-31T20:45:53.000Z
+533,f87bd963a1e7b9f6ef2d13249457fd21,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,395733,2023-01-31T20:37:12.000Z
+534,255cd963dbd76a394c74c9305351637b,Raghna,True,talus_v2,Talus_v2,630800,2023-01-31T18:21:25.000Z
+535,af55d963997b46bb718e786e275842ed,Raghna,True,incandescence_remake_3.3,Incandescence Remake 3.3,623800,2023-01-31T17:53:51.000Z
+536,3850d8637821a24b34486b7b28be8432,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1672833,2023-01-30T23:18:16.000Z
+537,754ed8637a7603a5ba9d1579aaac8737,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,76467,2023-01-30T23:10:45.000Z
+538,d947d8635441fea484a7587641b51ff8,Raghna,True,Tempest_V3,Tempest_V3,933467,2023-01-30T22:42:33.000Z
+539,d640d863bb2d1f070b586deb8f27a297,Raghna,True,dsdr_4.1,DSDR 4.1,1094533,2023-01-30T22:12:38.000Z
+540,9b37d86330bc5abec06f587650904544,Raghna,True,Riverrun_V1,Riverrun_V1,1860400,2023-01-30T21:33:15.000Z
+541,eb31d86371ff88b9dfcff24a400dbd71,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,597700,2023-01-30T21:08:59.000Z
+542,960dd863f06d057691cd1cd239224beb,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,640833,2023-01-30T18:33:58.000Z
+543,f407d863489666671c4a8b0133a38870,Raghna,True,avalanche_3.4,Avalanche 3.4,333900,2023-01-30T18:09:56.000Z
+544,4e01d863d4ed2985f9a0799bcad14607,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,624033,2023-01-30T17:41:34.000Z
+545,f5fed76368077acb5841b1352dbafde4,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,404400,2023-01-30T17:31:33.000Z
+546,d5e8d76308e3f76f48cdf916c6a9216d,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,547300,2023-01-30T15:57:09.000Z
+547,c5e6d763fc7aa04cf4787f2acb2a761f,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,368833,2023-01-30T15:48:21.000Z
+548,6ae3d76368c2529f2508b1464c750dbd,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,607500,2023-01-30T15:34:02.000Z
+549,97e1d763c2f1f6b449f2e666115576cf,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,382833,2023-01-30T15:26:15.000Z
+550,1bccd76395fc0df2de793f0ab9bb31e7,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,2202600,2023-01-30T13:54:35.000Z
+551,66c9d7630ac8f93a6152966bcb51cbec,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,626833,2023-01-30T13:43:02.000Z
+552,25c6d763883bb0a11ba7e5de31792dcd,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,733833,2023-01-30T13:29:09.000Z
+553,f2c1d7639e9bf9c2646542f45963838c,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,631833,2023-01-30T13:11:14.000Z
+554,6dbdd763ba777c7a40dff067cf16ebf3,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,874800,2023-01-30T12:51:57.000Z
+555,8ffcd663b1dd6084c6abf8674616c6a0,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,411867,2023-01-29T23:09:03.000Z
+556,d3e8d663cd1cbc5e710f381e02797a62,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,601900,2023-01-29T21:44:51.000Z
+557,aee4d66386a6dea61f842d6ebd17a65c,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,942067,2023-01-29T21:27:10.000Z
+558,91e2d663d6bbc1baea211ae737898a0e,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,468700,2023-01-29T21:18:09.000Z
+559,9ee0d66368393d5548eb2daaaa6a9986,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,390767,2023-01-29T21:09:50.000Z
+560,d6dbd663d9bfe5ffe8acb083182013af,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,1046133,2023-01-29T20:49:26.000Z
+561,3b40d5636dafde1c8fccb248831c5d81,Raghna,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1583833,2023-01-28T15:33:15.000Z
+562,f73ad5632872ffa1fe824318eabd7277,Raghna,False,Rosetta1.4,Rosetta 1.4,760833,2023-01-28T15:10:47.000Z
+563,6b30d56362494b1cf6d386d82e7fd398,Raghna,True,FolsomdamR_1.16,FolsomDamR 1.16,1284200,2023-01-28T14:25:47.000Z
+564,c827d563bdf8845b9669ecd4ab360a77,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1714433,2023-01-28T13:48:56.000Z
+565,2523d5633a23ab06ae434984593504a2,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,838100,2023-01-28T13:29:09.000Z
+566,e01dd563b05fa19e120c656bf0610996,Raghna,False,Cirolata 1.02,Cirolata 1.02,932700,2023-01-28T13:06:40.000Z
+567,9617d463ad1f3a6885b6f29200507451,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,195133,2023-01-27T18:27:34.000Z
+568,5510d463a8b30bef31736d562eb40421,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,475067,2023-01-27T17:56:37.000Z
+569,bc0dd463272814ef04bb673d1855249f,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,531267,2023-01-27T17:45:32.000Z
+570,cd04d4634176843c946b753721940e24,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,1365600,2023-01-27T17:07:25.000Z
+571,19fdd3632cbfda50f52f526d4e051547,Raghna,False,shallow_straits_v1,Shallow Straits v1,997067,2023-01-27T16:34:33.000Z
+572,7cfad3639a6038ec3c46cd0a552137bc,Raghna,False,shallow_straits_v1,Shallow Straits v1,591567,2023-01-27T16:23:24.000Z
+573,c5f7d3634ca6c73401aac4ff73ce9222,Raghna,True,shallow_straits_v1,Shallow Straits v1,510933,2023-01-27T16:11:49.000Z
+574,c6f4d36355be75d6eba74d435589a381,Raghna,True,shallow_straits_v1,Shallow Straits v1,630267,2023-01-27T15:59:02.000Z
+575,9df2d363846d89c79080411e7dc6d132,Raghna,True,shallow_straits_v1,Shallow Straits v1,371267,2023-01-27T15:49:49.000Z
+576,31f0d363d9bb55fd0ee1678762ccc709,Raghna,True,shallow_straits_v1,Shallow Straits v1,419900,2023-01-27T15:39:29.000Z
+577,60eed363c8658e9bb72857c20b38a29d,Raghna,True,shallow_straits_v1,Shallow Straits v1,376433,2023-01-27T15:31:44.000Z
+578,deecd36391ea687edf1fb16fb3d3d06e,Raghna,False,shallow_straits_v1,Shallow Straits v1,251100,2023-01-27T15:25:18.000Z
+579,f5e7d36318e791498572225199f4c56e,Raghna,False,red_rock_desert_v1,Red Rock Desert v1,642933,2023-01-27T15:04:21.000Z
+580,ebe3d36312a53321c6f17478c588d266,Raghna,False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,634767,2023-01-27T14:47:07.000Z
+581,2eddd3634c33debe8df2c5f9aff50ff2,Raghna,False,Cirolata 1.02,Cirolata 1.02,700067,2023-01-27T14:18:22.000Z
+582,47d0d363774c31d13da5bc2561b7ce48,Raghna,True,hooked_1.1,Hooked 1.1,330633,2023-01-27T13:23:19.000Z
+583,ab75d163910bd2d44b3e64ebbda12292,Raghna,False,desolation,Desolation v1,1349900,2023-01-25T18:32:11.000Z
+584,3d70d163df5795c62c067a465ba598dd,Raghna,False,tundra_v2,Tundra_V2,890633,2023-01-25T18:09:01.000Z
+585,e265d163d2c5a0b43cb54d12122a4c64,Raghna,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1452000,2023-01-25T17:24:50.000Z
+586,108ad063bbe0bbd32c50ee6a2309a067,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,1525267,2023-01-25T01:46:56.000Z
+587,e07ed06397208bec0784724517d97fbd,Raghna,True,dsdr_4.1,DSDR 4.1,2483800,2023-01-25T00:59:12.000Z
+588,3775d0633750860dcb465f5a4ebf96e7,Raghna,False,Sunderance V1.3,Sunderance V1.3,1883633,2023-01-25T00:17:59.000Z
+589,ce6cd06304ddaa498ae5e74bb073192e,Raghna,False,emainmacha_remake_2.1,EmainMacha Remake 2.1,1291600,2023-01-24T23:42:06.000Z
+590,5355d0636390d8f32145a82428f53a3c,Raghna,True,supreme_strait_v1.1,Supreme Strait v1.1,1443667,2023-01-24T22:01:55.000Z
+591,c64fd063eabea6e3b4595effb4eb4752,Raghna,False,dsdr_4.1,DSDR 4.1,903133,2023-01-24T21:38:14.000Z
+592,7649d063b5790962f35aa55ff6cfb59e,Raghna,False,Rosetta1.4,Rosetta 1.4,1156633,2023-01-24T21:11:18.000Z
+593,9fbecd6311cdd451bf8200778a876ad2,Raghna,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1431567,2023-01-22T22:54:23.000Z
+594,b3b6cd63682b211e4ccb9905e91cadd7,Raghna,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1436633,2023-01-22T22:20:35.000Z
+595,39b2cd63ca63669c886de37056202fe0,Raghna,False,Tau12,Tau12,599900,2023-01-22T22:01:29.000Z
+596,c9a7cd638552b0c33e54f23685e20e34,Raghna,False,silveridge_v1,Silveridge v1,1412600,2023-01-22T21:16:57.000Z
+597,4184cc639b36a17b28ce51172e95e114,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,1254500,2023-01-22T00:33:05.000Z
+598,427ccc6305cb2f277e11fa38d51f2300,Raghna,False,dsdr_4.1,DSDR 4.1,1363200,2023-01-21T23:58:58.000Z
+599,8c76cc637b860d6c909a7a4472e1681d,Raghna,False,Twin Lakes Park Redux 1.1,Twin Lakes Park Redux 1.1,1081233,2023-01-21T23:34:36.000Z
+600,ce65cc638412487c3e66e2b224021f91,Raghna,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2994633,2023-01-21T22:23:10.000Z
+601,314ccc63d6558cd5bf20caf1069fbe03,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1057967,2023-01-21T20:33:53.000Z
+602,760fcc6328e5383d1ca8c9c55fbd44ec,Raghna,True,dsdr_4.1,DSDR 4.1,3714567,2023-01-21T16:14:46.000Z
+603,96f1cb63e525948066df493f3b0e0f07,Raghna,True,mariposa_island_v2.4,Mariposa Island v2.4,172867,2023-01-21T14:07:18.000Z
+604,c4e5cb63eac5885f4a3b98bc665971b2,Raghna,True,mariposa_island_v2.4,Mariposa Island v2.4,534900,2023-01-21T13:16:52.000Z
+605,40d7ca63e7d1db9622d73474f8c25ce8,Raghna,True,great_divide_v1,Great Divide V1,464300,2023-01-20T18:02:40.000Z
+606,95d4ca6302525685e52865dc8140c3c3,Raghna,True,great_divide_v1,Great Divide V1,559867,2023-01-20T17:51:17.000Z
+607,13abca63d26514e4435c0b4b52eef90b,Raghna,True,Rosetta1.4,Rosetta 1.4,1466433,2023-01-20T14:54:11.000Z
+608,779fca63314199f9db1446a09651017e,Raghna,True,TheRock_V3,TheRock_V3,2654767,2023-01-20T14:04:39.000Z
+609,019aca634f025af989ef93345a64f518,Raghna,True,supreme_strait_v1.1,Supreme Strait v1.1,815733,2023-01-20T13:41:21.000Z
+610,5c95ca633c376ca5a8cad76f8b4c11ef,Raghna,True,stronghold_v4,Stronghold V4,679633,2023-01-20T13:21:32.000Z
+611,ed8dca63db4d92078cb959446a907166,Raghna,True,titan_v3.1,Titan v3.1,1172200,2023-01-20T12:49:49.000Z
+612,59b7c9635514fac79ee9568e98b454bf,Raghna,True,lightside_darkside_v2.0,Lightside Darkside v2.0,1996100,2023-01-19T21:34:17.000Z
+613,9fa9c9634c8b0aa2603559a0b139f14b,Raghna,True,hotlips_remake_v3.1,Hotlips Remake v3.1,2938333,2023-01-19T20:35:43.000Z
+614,689ec963eaf8d3a2ca065cfc42edede9,Raghna,False,dsdr_4.1,DSDR 4.1,1311733,2023-01-19T19:47:52.000Z
+615,b996c963d5e767a76066747592693aeb,Raghna,True,FolsomdamR_1.16,FolsomDamR 1.16,1567767,2023-01-19T19:15:05.000Z
+616,6f8fc9632e729d080232dd0b1c5b9a8f,Raghna,False,dsdr_4.1,DSDR 4.1,1238033,2023-01-19T18:43:59.000Z
+617,907bc8637459c05f33ad1f27f7faf3c6,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,1518933,2023-01-18T23:06:56.000Z
+618,1377c8638db39dad1c79233630d01edb,Raghna,True,NuclearWinterR,Nuclear Winter Bar 1.4,729033,2023-01-18T22:47:47.000Z
+619,e170c86351c88176857b5766f8cc1996,Raghna,True,forge_v1.4,Forge v1.4,1116267,2023-01-18T22:21:21.000Z
+620,5a5bc863fc9fa8021baf4cb0045447e1,Raghna,True,altair_crossing_V4,Altair_Crossing_V4,623433,2023-01-18T20:49:30.000Z
+621,fb52c8635a3fb4e76b41cde0ef9142ee,Raghna,True,barr_1.1,BarR 1.1,453633,2023-01-18T20:13:47.000Z
+622,4a50c863b7192ec98e5409e3b6ab0152,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,372067,2023-01-18T20:02:18.000Z
+623,3f4bc86388007c3b30160764c1c10bcb,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,571200,2023-01-18T19:40:47.000Z
+624,91ffc763cf959016846ad15cbd4afe5c,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,833933,2023-01-18T14:17:53.000Z
+625,27f9c763dbe15df6d2159fdf3abd73d2,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1126700,2023-01-18T13:50:31.000Z
+626,dd2fc7637a0d695a2845e4f44f1c6f30,Raghna,True,NuclearWinterR,Nuclear Winter Bar 1.4,1713633,2023-01-17T23:31:41.000Z
+627,ae1dc7633461f660e14a090b96aa532d,Raghna,True,sertagatta_v5,Sertagatta_V5,680867,2023-01-17T22:14:06.000Z
+628,a51bc76370561b80af77ef00c0b2f3ea,Raghna,True,sertagatta_v5,Sertagatta_V5,393233,2023-01-17T22:05:25.000Z
+629,5f18c763782dac432b877a3b3f1f1137,Raghna,True,barr_1.1,BarR 1.1,741533,2023-01-17T21:51:27.000Z
+630,9115c76314b6c93df1b8b2a71cf7208e,Raghna,True,barr_1.1,BarR 1.1,628767,2023-01-17T21:39:29.000Z
+631,b511c76330ddd33d6c2062ad842e351e,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,805967,2023-01-17T21:23:01.000Z
+632,29c7c663b7e31071f5a9652863313abe,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,857233,2023-01-17T16:04:57.000Z
+633,0ec5c6634f8de13118d2f67b3a13469a,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,411133,2023-01-17T15:55:58.000Z
+634,b3c2c663fea6c6f3f4c22ff1be85ead3,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,526667,2023-01-17T15:45:55.000Z
+635,55afc6638eb7c2c111d1ca219afcf450,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,837833,2023-01-17T14:23:17.000Z
+636,e4a8c66308289a6ae1c1e806cbbc7b0e,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,758433,2023-01-17T13:55:48.000Z
+637,57a2c66300d9c663f93efc43cee19fc2,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,1424000,2023-01-17T13:27:51.000Z
+638,d09fc663724ce90604c2015f16809a13,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,507233,2023-01-17T13:17:04.000Z
+639,a69dc66334d1940823663b3c4fde6b34,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,392800,2023-01-17T13:07:50.000Z
+640,bb9bc66386a4f0822ea991806e9bf641,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,390267,2023-01-17T12:59:39.000Z
+641,3a94c66345f47cf2c4e3753631ff5c0e,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,419333,2023-01-17T12:27:38.000Z
+642,0292c6635de8a2824cd9d89d819f9040,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,450667,2023-01-17T12:18:10.000Z
+643,1290c6638344da822ac4cb163188e7e1,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,361533,2023-01-17T12:09:54.000Z
+644,d98dc663b8ed7a14b78e5aa55ec3a1b0,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,413633,2023-01-17T12:00:25.000Z
+645,b086c663df621e2a4e9e18b1c2d543ad,Raghna,False,eye_of_horus_1.7,Eye Of Horus 1.7,674233,2023-01-17T11:29:52.000Z
+646,cd81c663a0c1232ebb5f00b473586d7c,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1099767,2023-01-17T11:09:01.000Z
+647,687ec66353afda0a61546c0139bca5d8,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,699500,2023-01-17T10:54:32.000Z
+648,8a7bc663d7820c8b5f4dd2e01574c98e,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,605800,2023-01-17T10:42:18.000Z
+649,0879c6636c743b0a8720f21e0adb27bc,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,433000,2023-01-17T10:31:36.000Z
+650,8675c663826ec131ef088ced41e61f50,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,808367,2023-01-17T10:16:38.000Z
+651,4673c6635e06ce0cea68c1db32599ebe,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,460500,2023-01-17T10:07:02.000Z
+652,1edac563681b6e51969a08af5d930a14,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1622267,2023-01-16T23:13:34.000Z
+653,b1d6c563fee1ea14fd093f7e0cbe8026,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,764000,2023-01-16T22:58:57.000Z
+654,57c9c56358f35f3ceb27d0af02e6f0b2,Raghna,False,eye_of_horus_1.7,Eye Of Horus 1.7,1556233,2023-01-16T22:01:59.000Z
+655,9fc7c563845954b205ad061bd4bc590d,Raghna,False,eye_of_horus_1.7,Eye Of Horus 1.7,369633,2023-01-16T21:54:39.000Z
+656,a7c4c56312fcc4a7671003b9a3e28c1a,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,682333,2023-01-16T21:41:59.000Z
+657,5ec2c56355215d4ec6c35e1171eecd04,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,490633,2023-01-16T21:32:14.000Z
+658,3bbfc563c133d5523fddcb489651fc11,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,697533,2023-01-16T21:18:51.000Z
+659,81bcc563b4be37cf1b45e7fc8c6ffcdb,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,492700,2023-01-16T21:07:13.000Z
+660,62b8c5634d55f8d2fab35d02737c4837,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,922833,2023-01-16T20:49:38.000Z
+661,f0b4c5637f8756323b8705f1836ebf35,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,791667,2023-01-16T20:34:56.000Z
+662,df79c563483d561cf02b04804de53c19,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,383000,2023-01-16T16:22:55.000Z
+663,2f78c5636303dc8af635aebe65264fa6,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,323733,2023-01-16T16:15:43.000Z
+664,9475c5639478cb35d4141c204d0e849d,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,442800,2023-01-16T16:04:36.000Z
+665,0272c563249649ba44fc90ca735fc73f,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,547867,2023-01-16T15:49:22.000Z
+666,726cc5636d69b888583b1e72e56f49e6,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,393533,2023-01-16T15:25:38.000Z
+667,ab5ac5631825187dfac64a1fd84efeeb,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,581600,2023-01-16T14:09:47.000Z
+668,1158c56321ec0e62f8643cf1c27697c0,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,384700,2023-01-16T13:58:41.000Z
+669,ee55c5633c79b2a7b9c485e1f747a3b9,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,376900,2023-01-16T13:49:34.000Z
+670,3c53c563fdbab34fc3365c7ea8eeef64,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,333633,2023-01-16T13:38:04.000Z
+671,ec50c5635541d7f97e38a516165445eb,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,435800,2023-01-16T13:28:12.000Z
+672,e978c463bb4361ab1f014b2b3a3ac4a2,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,792900,2023-01-15T22:06:33.000Z
+673,0575c463fe0d0c4696301ae6d3e52ba3,Raghna,True,ravaged_v2,Ravaged_v2,696300,2023-01-15T21:49:57.000Z
+674,c472c463180e60289d9d5ae27e355cb4,Raghna,False,ravaged_v2,Ravaged_v2,479333,2023-01-15T21:40:20.000Z
+675,fb6bc463c209ebaa57fe16eaaaea348a,Raghna,True,ravaged_v2,Ravaged_v2,1515333,2023-01-15T21:11:23.000Z
+676,9f65c4631faabd5cd443bf6631b631e0,Raghna,True,FolsomdamR_1.16,FolsomDamR 1.16,1338400,2023-01-15T20:44:15.000Z
+677,f618c46329a7a34ee09c65df23c69e56,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,387267,2023-01-15T15:17:10.000Z
+678,0217c463326a023f0df5a3d7625b965d,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,392233,2023-01-15T15:08:50.000Z
+679,2614c4631974a4b65deb7e21091b71cd,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,635433,2023-01-15T14:56:38.000Z
+680,9810c463c5473cc5354c7c6728d57eba,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,801500,2023-01-15T14:41:28.000Z
+681,6e0ec463ec0d0d51bf36da3e8b51b098,Raghna,True,barr_1.1,BarR 1.1,346267,2023-01-15T14:32:14.000Z
+682,4f0cc4639041325582bba2b0d1e06bbc,Raghna,True,barr_1.1,BarR 1.1,436000,2023-01-15T14:23:11.000Z
+683,c109c463b7b7547f26e85ba5a1988a88,Raghna,True,barr_1.1,BarR 1.1,359833,2023-01-15T14:12:17.000Z
+684,cf06c463f3a9a83393981549116d32c7,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,500800,2023-01-15T13:59:43.000Z
+685,8d04c4633cdcac55b81d076997e8ce6f,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,400367,2023-01-15T13:50:05.000Z
+686,4e01c463935204876aaa914272adfd6e,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,661600,2023-01-15T13:36:14.000Z
+687,92fcc363f982f18b3c631cbff2a0bb12,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,460000,2023-01-15T13:16:02.000Z
+688,cff6c3632513deea6268e32307cb41bc,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,841967,2023-01-15T12:51:27.000Z
+689,34f2c3639d1bffd50efa26e022f717f9,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,1043300,2023-01-15T12:31:48.000Z
+690,49eec3634a0e7b7cdd0eef2f075e25af,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,839100,2023-01-15T12:15:05.000Z
+691,f5eac363010307fb2072728730005a31,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,754700,2023-01-15T12:00:53.000Z
+692,42e9c363803184f130c3f37b4594a1cb,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,349767,2023-01-15T11:53:38.000Z
+693,53e6c36365f6cd3c0f98eb066aeccf5c,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,660667,2023-01-15T11:41:07.000Z
+694,8548c363588e55835c5e025122561d6c,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,3518500,2023-01-15T00:27:49.000Z
+695,0440c363cb9399e86bd6c5584b0d4d80,Raghna,False,forge_v1.4,Forge v1.4,1626867,2023-01-14T23:51:32.000Z
+696,9e37c363879f9d4d0864cc684a3f6290,Raghna,False,supreme_strait_v1.1,Supreme Strait v1.1,1445500,2023-01-14T23:15:42.000Z
+697,6531c36355ff4373940a846e57120860,Raghna,False,Rosetta1.4,Rosetta 1.4,1098500,2023-01-14T22:49:09.000Z
+698,a6edc2634409ad8217a7c6f302b2b39b,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,1302567,2023-01-14T18:00:06.000Z
+699,c7ebc263605ba62c8ceef535eff46a6f,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,51033,2023-01-14T17:52:07.000Z
+700,fedac263901440049660d593fd3cb879,Raghna,False,cervino_v1,Cervino v1,732033,2023-01-14T16:40:30.000Z
+701,58d5c263d229d60f7e2ba6db1cebfe97,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,454467,2023-01-14T16:16:24.000Z
+702,a9cfc26341d6fd336eb62308fef950c3,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,308500,2023-01-14T15:52:09.000Z
+703,94b8c26305b804b25428a0f6e832899c,Raghna,True,tundra_v2,Tundra_V2,875067,2023-01-14T14:13:40.000Z
+704,66b6c2635532365ae7be038e2836ca85,Raghna,True,tundra_v2,Tundra_V2,439200,2023-01-14T14:04:22.000Z
+705,02b4c2634ba187c393caadae6aff21b8,Raghna,True,tundra_v2,Tundra_V2,488067,2023-01-14T13:54:10.000Z
+706,e4aec26357e722b137bcefd8d524cc73,Raghna,True,cervino_v1,Cervino v1,1056033,2023-01-14T13:32:20.000Z
+707,deadc163e7d526989050b3436f97c66a,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,797667,2023-01-13T19:15:42.000Z
+708,6294c16362fa00dd14682e1cdd3c88be,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,371367,2023-01-13T17:26:58.000Z
+709,5191c1631cf37aead52dea511937327f,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,674967,2023-01-13T17:13:53.000Z
+710,c476c163d98c76513edada0d7cc7dd77,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,736000,2023-01-13T15:20:36.000Z
+711,8774c163325cc5dcd52e82f11801d373,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,456533,2023-01-13T15:11:03.000Z
+712,786bc163a9223ef8e7543679e050b9ed,Raghna,True,altair_crossing_V4,Altair_Crossing_V4,400700,2023-01-13T14:32:24.000Z
+713,468bc0634506c3412680521ca88d46b4,Raghna,True,barr_1.1,BarR 1.1,346033,2023-01-12T22:35:50.000Z
+714,0f88c063e070f841edcc671fcaf690fd,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,695400,2023-01-12T22:22:07.000Z
+715,c282c06366f4e0d63074b2f07fef8999,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1243300,2023-01-12T21:59:30.000Z
+716,0c81c06392d1ae393a827f1877bd256b,Raghna,True,silveridge_v1,Silveridge v1,328233,2023-01-12T21:52:12.000Z
+717,dd7ec0637485b9371c4f5553d686c84f,Raghna,True,silveridge_v1,Silveridge v1,482967,2023-01-12T21:42:53.000Z
+718,3a7bc063672c3ae1863d0d5d4b9176d4,Raghna,True,silveridge_v1,Silveridge v1,798333,2023-01-12T21:27:22.000Z
+719,cb76c0635ae6bdd8b1b3758a0646f710,Raghna,True,ravaged_v2,Ravaged_v2,1019900,2023-01-12T21:08:27.000Z
+720,b961c063913ee180c302b887bc38f024,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,893900,2023-01-12T19:38:33.000Z
+721,df33c06333ee952f28c3decd531a875b,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,505467,2023-01-12T16:22:55.000Z
+722,8d31c06343518f296d580d220e34aad3,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,488533,2023-01-12T16:13:01.000Z
+723,892ec0634aca613c6bf783d49208df79,Raghna,True,shallow_straits_v1,Shallow Straits v1,685000,2023-01-12T16:00:09.000Z
+724,4d2dc06314a62d35267d5c6695c15659,Raghna,True,shallow_straits_v1,Shallow Straits v1,194600,2023-01-12T15:54:53.000Z
+725,5f27c06356661c5b552e4a0dee9461e5,Raghna,False,shallow_straits_v1,Shallow Straits v1,1394133,2023-01-12T15:29:35.000Z
+726,5e20c063809be95fa9ad6226989846e6,Raghna,True,Riverrun_V1,Riverrun_V1,1164433,2023-01-12T14:59:42.000Z
+727,3b19c06300e12f264743c1e9de41f80c,Raghna,False,supreme_strait_v1.1,Supreme Strait v1.1,1227733,2023-01-12T14:29:15.000Z
+728,21f5bf6388d3e8118c673b2d9d11f921,Raghna,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,711933,2023-01-12T11:55:13.000Z
+729,cff1bf638dde41bcd3a8e624cf45106f,Raghna,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,687700,2023-01-12T11:41:03.000Z
+730,4a4abf639d331d8ed4fb085de89539f1,Raghna,True,Mediterraneum_V1,Mediterraneum_V1,6243466,2023-01-11T23:46:18.000Z
+731,7337bf63b657ef03c19fd750be1defa9,Raghna,False,emainmacha_remake_2.1,EmainMacha Remake 2.1,2475767,2023-01-11T22:25:55.000Z
+732,da33bf6376fd2af6a0bee93c00e7f71f,Raghna,False,emainmacha_remake_2.1,EmainMacha Remake 2.1,758567,2023-01-11T22:10:34.000Z
+733,a330bf63c98198d4324f1a837ea04049,Raghna,True,zed_remake_3.3,Zed Remake 3.3,593867,2023-01-11T21:56:51.000Z
+734,f32cbf635ab5a0816175a56db01148f5,Raghna,True,zed_remake_3.3,Zed Remake 3.3,848900,2023-01-11T21:41:07.000Z
+735,0129bf63293379504cd8891b893e1770,Raghna,False,zed_remake_3.3,Zed Remake 3.3,916333,2023-01-11T21:24:17.000Z
+736,2525bf6329839c5e2a6517749a27e868,Raghna,False,into_battle_redux_v3,Into Battle Redux v3,821800,2023-01-11T21:07:49.000Z
+737,a023bf6390d32d60d7b07ed60fb457df,Raghna,False,into_battle_redux_v3,Into Battle Redux v3,318100,2023-01-11T21:01:20.000Z
+738,d821bf636aad82ffa19905964a716f91,Raghna,False,into_battle_redux_v3,Into Battle Redux v3,347067,2023-01-11T20:53:44.000Z
+739,f1b7be63700758fc0ec744feeeab3ea6,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,757000,2023-01-11T13:21:53.000Z
+740,dda5be6316f7a0bf00c644ee69abda95,Raghna,True,dsdr_4.1,DSDR 4.1,1862000,2023-01-11T12:04:45.000Z
+741,eb99be6315e87364a215f3dbc3ab2148,Raghna,False,Entrenched_Plains_V2,Entrenched_Plains_V2,2422833,2023-01-11T11:13:47.000Z
+742,1612be636ea648a62a3667da0197cfb6,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1560800,2023-01-11T01:34:14.000Z
+743,5c07be63c3ceece0005baa14e339efe9,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2234500,2023-01-11T00:48:28.000Z
+744,cc01be63cedb98c373ba1f8bdf345643,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,861533,2023-01-11T00:24:44.000Z
+745,54f2bd637c6e26a0c6dd5b569a1d98cc,Raghna,True,dsdr_4.1,DSDR 4.1,2849133,2023-01-10T23:18:44.000Z
+746,8248bd6388148a33c1e5b8b7cfb0cc40,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,1862967,2023-01-10T11:14:10.000Z
+747,1f40bd638b516f08b87810eb45cc03f7,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1582733,2023-01-10T10:38:23.000Z
+748,1536bd6393e2033b540f5e73a045b981,Raghna,True,melting_glacier_v1.1,Melting Glacier v1.1,1850167,2023-01-10T09:55:33.000Z
+749,b6abbc63708d04125779a640e22ecfd2,Raghna,True,boulder_beach_v1,Boulder_Beach_V1,665633,2023-01-10T00:05:10.000Z
+750,2ca6bc63dac0836050266f7237a40d6d,Raghna,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,649767,2023-01-09T23:41:32.000Z
+751,7ca1bc633508f63430deff18bfc8bd2a,Raghna,False,,TitanDuel,723633,2023-01-09T23:21:32.000Z
+752,27a0bc633ee1eea70faa2dbe73f86dad,Raghna,False,,TitanDuel,273533,2023-01-09T23:15:51.000Z
+753,ea9dbc63bcdda86de1d5eef8684e6229,Raghna,True,,TitanDuel,482433,2023-01-09T23:06:18.000Z
+754,f599bc63ecba4644d1cf222b9616c53d,Raghna,False,tundra_v2,Tundra_V2,701200,2023-01-09T22:49:25.000Z
+755,1196bc63da06ae69038cb0a0c5cf2585,Raghna,True,tundra_v2,Tundra_V2,907900,2023-01-09T22:32:49.000Z
+756,ea92bc636e45552457c1f32f04a12bb4,Raghna,False,ravaged_v2,Ravaged_v2,571767,2023-01-09T22:19:22.000Z
+757,4591bc635e8c01a3b368cba1cfd6c0d6,Raghna,False,ravaged_v2,Ravaged_v2,339033,2023-01-09T22:12:21.000Z
+758,3d8fbc63544cb93681169529fbfe5177,Raghna,True,ravaged_v2,Ravaged_v2,441267,2023-01-09T22:03:41.000Z
+759,e18abc6381769054c233f72cc660c1ee,Raghna,True,ravaged_v2,Ravaged_v2,1017333,2023-01-09T21:45:05.000Z
+760,1789bc630210e9259a63fd0df2230cf4,Raghna,True,hooked_1.1,Hooked 1.1,322333,2023-01-09T21:37:27.000Z
+761,ee84bc635eb1e96c436d2d6a11a1955f,Raghna,False,silveridge_v1,Silveridge v1,707133,2023-01-09T21:19:42.000Z
+762,fc80bc63e4d890bbc1c84300ec397097,Raghna,True,silveridge_v1,Silveridge v1,819667,2023-01-09T21:02:52.000Z
+763,3b7abc6313ad7d8a5fc961d05aabf5d4,Raghna,True,valles_marineris_2.6,Valles Marineris 2.6,1205167,2023-01-09T20:34:03.000Z
+764,b20ebc63ad4ccdc4ebd679e446f1d43a,Raghna,True,forge_v1.4,Forge v1.4,898133,2023-01-09T12:55:14.000Z
+765,fd09bc63fb7d65ce81f2e283a0f3853c,Raghna,False,Tau12,Tau12,861300,2023-01-09T12:35:09.000Z
+766,6301bc631fb6d1728f2c8f4e36303f15,Raghna,False,colorado_v2_1.1,Colorado_V2 1.1,1147967,2023-01-09T11:58:27.000Z
+767,8afabb6309a1a9ed875254e8d06dfd34,Raghna,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1228600,2023-01-09T11:29:14.000Z
+768,8af2bb63467f4015084db9ec46270f58,Raghna,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1089133,2023-01-09T10:55:06.000Z
+769,b54fbb638978f39c5cdc2ba9f6113e32,Raghna,True,Rosetta1.4,Rosetta 1.4,1395600,2023-01-08T23:20:21.000Z
+770,294abb63beb034655a675f27b390c057,Raghna,True,dsdr_4.1,DSDR 4.1,632700,2023-01-08T22:56:41.000Z
+771,4b3fbb63427fb41b70e28d9ccc81f291,Raghna,True,dsdr_4.1,DSDR 4.1,1986733,2023-01-08T22:10:19.000Z
+772,7339bb638c161745cbbb3dabaf0b177e,Raghna,True,Riverrun_V1,Riverrun_V1,855933,2023-01-08T21:45:23.000Z
+773,401bbb63f5cbb5c7f56815be272ae5dc,Raghna,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2279867,2023-01-08T19:36:32.000Z
+774,f513bb6317289e346be668ac014a701f,Raghna,False,Rosetta1.4,Rosetta 1.4,1023200,2023-01-08T19:05:25.000Z
+775,13f8ba63722fc2e6d489fedacbe1929f,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,522267,2023-01-08T17:06:27.000Z
+776,0ef1ba63fbd2ff61cd19399532479c31,Raghna,False,mithril_mountain_v2,Mithril Mountain v2,433900,2023-01-08T16:36:30.000Z
+777,d7e9ba631f7c044becf30d200d250ae6,Raghna,True,copper_hill_v1,Copper Hill v1,464667,2023-01-08T16:05:43.000Z
+778,a5e4ba632ef965e62cccfd62762ed5ac,Raghna,True,avalanche_3.4,Avalanche 3.4,391033,2023-01-08T15:43:33.000Z
+779,43ddba632a3122d0b8e40432ace06839,Raghna,True,mithril_mountain_v2,Mithril Mountain v2,626867,2023-01-08T15:12:03.000Z
+780,11d7ba63a10ef135ef49bcc9bac92af4,Raghna,True,copper_hill_v1,Copper Hill v1,448333,2023-01-08T14:45:37.000Z
+781,45d4ba630a5af2074126480559444cc3,Raghna,False,avalanche_3.4,Avalanche 3.4,345767,2023-01-08T14:33:41.000Z
+782,52bcba63851f61e2f44629fe5492a04f,Raghna,False,mithril_mountain_v2,Mithril Mountain v2,679533,2023-01-08T12:51:30.000Z
+783,59b7ba630f024a83482122851f4f4bcc,Raghna,True,mithril_mountain_v2,Mithril Mountain v2,1136333,2023-01-08T12:30:17.000Z
+784,df07ba6355c11e13dbd1bd114514b7bb,Raghna,False,avalanche_3.4,Avalanche 3.4,562900,2023-01-08T00:01:35.000Z
+785,7106ba632118d363d3400068ad454627,Raghna,False,avalanche_3.4,Avalanche 3.4,261000,2023-01-07T23:55:29.000Z
+786,0105ba637986ea1da7b6275c87bd5b61,Raghna,False,avalanche_3.4,Avalanche 3.4,282433,2023-01-07T23:49:21.000Z
+787,f300ba638f5b785ae307c8e706f67bb8,Raghna,False,mithril_mountain_v2,Mithril Mountain v2,906067,2023-01-07T23:32:03.000Z
+788,35fdb9637317d18abb0b40e3b0954b10,Raghna,True,mithril_mountain_v2,Mithril Mountain v2,849133,2023-01-07T23:16:05.000Z
+789,0af9b963e32ccb79d12cf595df0810e5,Raghna,False,mithril_mountain_v2,Mithril Mountain v2,943900,2023-01-07T22:58:18.000Z
+790,01f6b9633df5b40b3e3a1c5939c56667,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,505533,2023-01-07T22:45:21.000Z
+791,51f2b963e40ed6d49c419a3000085ef4,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,701067,2023-01-07T22:29:37.000Z
+792,8697b9633896293f7e48f80b894c96a7,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1538033,2023-01-07T16:02:14.000Z
+793,3090b963f414112e6568420d7c4a72e8,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1342933,2023-01-07T15:30:56.000Z
+794,358cb963aa151e87aa6558d4a25d552d,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,710167,2023-01-07T15:13:57.000Z
+795,bd38b963433c867f44c2229debf52ad4,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,2927533,2023-01-07T09:17:49.000Z
+796,5cbeb863f5db70abf58b30fa3a40cc93,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,417367,2023-01-07T00:35:40.000Z
+797,6bbcb8632d57a9fe9546917e03fe7c9c,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,370300,2023-01-07T00:27:23.000Z
+798,22b9b86339a05ae487a47bf33e706be3,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,654933,2023-01-07T00:13:22.000Z
+799,b9b5b8633735906b4bc93b0c06b2bce1,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,603600,2023-01-06T23:58:49.000Z
+800,22b3b863dc5f09c6c5fa4d4f99ea6c9c,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,536667,2023-01-06T23:47:46.000Z
+801,e1b0b86379fd53a3602323e312d67124,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,455267,2023-01-06T23:38:09.000Z
+802,5d71b8634adf23ba5f3e71ee3df00593,Raghna,False,dworld_v3,DWorld_V3,2708967,2023-01-06T19:07:09.000Z
+803,2066b8631694b191d106cd649b1b13b3,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1852733,2023-01-06T18:19:12.000Z
+804,a930b76360e030c1b498ed0925b4f3f9,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1908033,2023-01-05T20:18:49.000Z
+805,a1e5b6631f3471190241cb6353a4737f,Raghna,False,Riverrun_V1,Riverrun_V1,1977700,2023-01-05T14:58:41.000Z
+806,f8dcb663967fcdfebe57825366a7e972,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,1053667,2023-01-05T14:21:44.000Z
+807,92d5b663b40fd935fc8d91044d64d9fd,Raghna,False,dsdr_4.1,DSDR 4.1,1135667,2023-01-05T13:50:10.000Z
+808,16c7b6638dbe53b136b33721b095a2d2,Raghna,False,Riverrun_V1,Riverrun_V1,2748933,2023-01-05T12:48:22.000Z
+809,c6fdb56350d18a4054b610557e0d27aa,Raghna,True,speedmetal_bar_v2,SpeedMetal BAR V2,371267,2023-01-04T22:29:26.000Z
+810,d7f7b563bee6335c0712641dd56199e5,Raghna,True,speedmetal_bar_v2,SpeedMetal BAR V2,1151000,2023-01-04T22:04:07.000Z
+811,f68db563778a88903aa477735a3053dc,Raghna,True,dsdr_4.1,DSDR 4.1,2852467,2023-01-04T14:32:22.000Z
+812,0f86b563e264ea5beadf75311b46c45e,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,1561633,2023-01-04T13:58:39.000Z
+813,147eb5632de12dd25ecb8da8418b34d3,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1510800,2023-01-04T13:24:36.000Z
+814,c477b5631dfa28030bd10ac3ed1cfed8,Raghna,False,dsdr_4.1,DSDR 4.1,1107367,2023-01-04T12:57:40.000Z
+815,766db563578e388d70a8e44f4427e7c5,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,2247733,2023-01-04T12:13:42.000Z
+816,ba59b5633419673b66cee055002d9e27,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1082867,2023-01-04T10:49:30.000Z
+817,7655b563926387bdcbbae00d628cf5e5,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,569933,2023-01-04T10:31:18.000Z
+818,a752b5634adf7726518879aceb39306b,Raghna,False,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,508000,2023-01-04T10:19:19.000Z
+819,fd6eb4638f7aaef114a83cd81f121f7a,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,784400,2023-01-03T18:07:57.000Z
+820,036db46319a74414b6a393d5c75c393a,Raghna,True,copper_hill_v1,Copper Hill v1,371267,2023-01-03T17:59:31.000Z
+821,ad6ab463760d3dea3cdb244448c3fa58,Raghna,True,copper_hill_v1,Copper Hill v1,499533,2023-01-03T17:49:33.000Z
+822,9167b463b00af7ad157b7ca245f2a7b0,Raghna,False,copper_hill_v1,Copper Hill v1,686300,2023-01-03T17:36:17.000Z
+823,6264b4632e4fe9a85a57ceb33fdfb02a,Raghna,True,copper_hill_v1,Copper Hill v1,574767,2023-01-03T17:22:42.000Z
+824,1006b463d25578224df0ddb8b8a33bde,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,310900,2023-01-03T10:40:16.000Z
+825,4504b46397c9925b0175256bfd7bf69b,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,319800,2023-01-03T10:32:37.000Z
+826,6ffdb363d6ba2bee3e81f812b51a1d7a,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,1509100,2023-01-03T10:03:27.000Z
+827,47fab3634e600f7e9990177fb4c51e60,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,694800,2023-01-03T09:49:59.000Z
+828,2df7b363fa68e7fb3a3dd1067144f17d,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,609467,2023-01-03T09:36:45.000Z
+829,38f5b3634a4130baad7d8ecac4538a6a,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,385300,2023-01-03T09:28:24.000Z
+830,2fedb2635c00761796debe9c1972a16a,Raghna,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1541000,2023-01-02T14:41:51.000Z
+831,48bbb2630c83dedcb1ec1837cdc19e2f,Raghna,False,FolsomdamR_1.16,FolsomDamR 1.16,809667,2023-01-02T11:08:56.000Z
+832,e172ad6379fc55748d15c69e4091b3de,Raghna,True,tropical-v2,Tropical-v2,1247333,2022-12-29T10:58:41.000Z
+833,086dad63561318d10f94bca6d2b00a68,Raghna,False,dsdr_4.1,DSDR 4.1,670600,2022-12-29T10:33:44.000Z
+834,bd69ad63cc1ac7a84dc61cf9f0b8d680,Raghna,True,forge_v1.4,Forge v1.4,520400,2022-12-29T10:19:41.000Z
+835,bb65ad6319f1b3935675b1821fdd51ac,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,569467,2022-12-29T10:02:35.000Z
+836,9d8aab637e14bc74c01abc771ab968e4,Raghna,True,dsdr_4.1,DSDR 4.1,2539333,2022-12-28T00:15:25.000Z
+837,4583ab63e66db2541ffcb5104222e751,Raghna,False,NuclearWinterR,Nuclear Winter Bar 1.4,872767,2022-12-27T23:44:05.000Z
+838,127bab630ab92c4c0e07c881d546deef,Raghna,False,Riverrun_V1,Riverrun_V1,1452500,2022-12-27T23:09:06.000Z
+839,4672ab63907602d6c18b7c711a5889f0,Raghna,False,Rosetta1.4,Rosetta 1.4,1875033,2022-12-27T22:31:34.000Z
+840,5d6bab630cd27214bbc67e10c93005e8,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,743833,2022-12-27T22:02:05.000Z
+841,5c5eab63b69a2d29e7fe4bbd4efd85e1,Raghna,True,dsdr_4.1,DSDR 4.1,2347167,2022-12-27T21:06:36.000Z
+842,8756ab63088bdddcae051e78d9b176ca,Raghna,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1520867,2022-12-27T20:33:11.000Z
+843,1bf28363ce996be181b933a75cac6184,Raghna,False,Medit_v7,Medit_V7,1704533,2022-11-27T23:26:19.000Z
+844,c6e883636bb50d9bc8bf04298f6fde6c,Raghna,True,throne_v8,Throne_V8,1712967,2022-11-27T22:46:30.000Z
+845,d4e183631e4df8daed2df3e570c0df22,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,843433,2022-11-27T22:16:52.000Z
+846,cadc836373775b8d8ff6487454e7be20,Raghna,False,raghnarok_1,Raghnarok 1,783467,2022-11-27T21:55:22.000Z
+847,3da36f6333ec000aae3ceebdc01ed77e,Raghna,True,ravaged_v2,Ravaged_v2,996267,2022-11-12T13:44:29.000Z
+848,fe9f6f63372da21b29806f8692b3c7b1,Raghna,True,ravaged_v2,Ravaged_v2,572633,2022-11-12T13:30:38.000Z
+849,39eb65632ad96075d0ee888c4efe89db,Raghna,False,silent_sea_v1,Silent Sea v1,464833,2022-11-05T04:48:57.000Z
+850,afe7656363f23acd411767eb874474ad,Raghna,False,silent_sea_v1,Silent Sea v1,677033,2022-11-05T04:33:51.000Z
+851,fbdf6363f7feaa50e1bad6719aeb8cfb,Raghna,True,titanduel_v3,TitanDuel_V3,653800,2022-11-03T15:36:27.000Z
+852,98db63632302595e50437f92faaf5689,Raghna,False,titanduel_v3,TitanDuel_V3,931833,2022-11-03T15:17:44.000Z
+853,ffd7636323364eee531b99ceef0bc8dd,Raghna,False,titanduel_v3,TitanDuel_V3,693433,2022-11-03T15:02:23.000Z
+854,7cd463635f0d108fb917fce622530922,Raghna,False,titanduel_v3,TitanDuel_V3,641667,2022-11-03T14:47:24.000Z
+855,53cf636317a696e3caf33c14ef91ab2c,Raghna,False,sky_isle_v1.1,Sky Isle v1.1,1031600,2022-11-03T14:25:23.000Z
+856,d1c4636332718f8b33589b1f2c05d0c7,Raghna,False,copper_hill_v1,Copper Hill v1,880667,2022-11-03T13:40:33.000Z
+857,d0c063639731afb3e9a0c8855d48d20e,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,628300,2022-11-03T13:23:28.000Z
+858,3ebd636317d990fa4c1212b526282631,Raghna,False,shallow_straits_v1,Shallow Straits v1,717667,2022-11-03T13:08:14.000Z
+859,665d5c6341cd04e5b840933696644e07,Raghna,True,Krakatoa_v1,Krakatoa_V1,2153033,2022-10-28T22:53:26.000Z
+860,25575c63f3a13066de00762a893dd2ac,Raghna,False,dsd_8_way_1.1,DSD 8 Way 1.1,1287900,2022-10-28T22:26:45.000Z
+861,6cde5963b2838da9c4d803f917fbdad5,Raghna,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1163500,2022-10-27T01:27:08.000Z
+862,69d759631c5c3baf2c842beec78cdfc5,Raghna,True,NuclearWinterR,Nuclear Winter Bar 1.4,1184867,2022-10-27T00:57:13.000Z
+863,34cc59634aa1bc53401eafca478f7f39,Raghna,False,dsdr_4.1,DSDR 4.1,2280367,2022-10-27T00:09:24.000Z
+864,01c659639af6038eb52bd3dc757aa1ed,Raghna,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,992167,2022-10-26T23:42:57.000Z
+865,d8ba59630c9ed70c17751547a973e2ae,Raghna,True,Tau12,Tau12,2228800,2022-10-26T22:55:20.000Z
+866,54b359634e14ce25c6190f9cf86fb34e,Raghna,False,ice_scream_v2.1,Ice Scream v2.1,1362700,2022-10-26T22:23:16.000Z
+867,24a75963bd12caebf11e882a5053c341,Raghna,False,ghenna_rising_4.0,Ghenna Rising 4.0,2494833,2022-10-26T21:31:16.000Z
+868,4e425963a88eb11616322a07456484d7,Raghna,True,neurope_remake_4.2,Neurope_Remake 4.2,1507933,2022-10-26T14:21:02.000Z
+869,90345963fce4b0d1ea6e246682a5c408,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,2433933,2022-10-26T13:22:24.000Z
+870,b72a596316b3bbdc086b9be0337ac2f5,Raghna,True,dsdr_4.1,DSDR 4.1,1583533,2022-10-26T12:40:23.000Z
+871,dc2359637ad064df4e91e51f366b8527,Raghna,False,Rosetta1.4,Rosetta 1.4,1389600,2022-10-26T12:11:08.000Z
+872,8f485863946c778de37bfc983dfad63b,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,441167,2022-10-25T20:35:27.000Z
+873,13445863a35370a8bc7b3c51b9ab444e,Raghna,True,Crystallized Plains 1.01,Crystallized Plains 1.01,244733,2022-10-25T20:16:19.000Z
+874,384158633a0bd128c4109f9feb2dd5d6,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,313133,2022-10-25T20:04:08.000Z
+875,603e5863976f307e0f03f4d787c6d282,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,595067,2022-10-25T19:52:00.000Z
+876,e33b5863bd549b17037a623c8e7f0068,Raghna,False,Crystallized Plains 1.01,Crystallized Plains 1.01,420667,2022-10-25T19:41:23.000Z
+877,36385863bcdd3d87a28bc0e63766744a,Raghna,True,shallow_straits_v1,Shallow Straits v1,638967,2022-10-25T19:25:42.000Z
+878,90355863007edb885911d617ad5d05ee,Raghna,False,shallow_straits_v1,Shallow Straits v1,574267,2022-10-25T19:14:24.000Z
+879,d831586390ac0da46984a1ee9d77dd9a,Raghna,True,shallow_straits_v1,Shallow Straits v1,737367,2022-10-25T18:58:32.000Z
+880,65025863a59c4126b8a38381be03caa1,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,2463000,2022-10-25T15:36:05.000Z
+881,27f5576323388dccb87d96c3569fdbf4,Raghna,False,angel_crossing_1.5,Angel Crossing 1.5,2766867,2022-10-25T14:39:35.000Z
+882,3cd45763807aba08e201a951cbaa7a90,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,1697833,2022-10-25T12:19:08.000Z
+883,13d30b6340b90bf9fbf7f1c72b886047,Raghna,True,tundra_v2,Tundra_V2,999733,2022-08-28T20:41:55.000Z
+884,ebcd0b63daa877311b0d3f393e4149e1,Raghna,False,supreme_crossing_v1,Supreme_Crossing_V1,913600,2022-08-28T20:19:55.000Z
+885,aec30b63fb719f275c495a49de4d21bf,Raghna,True,melting_glacier_v1.1,Melting Glacier v1.1,1691333,2022-08-28T19:36:14.000Z
+886,fcbc0b63905df9e3cffa5454368c1f24,Raghna,True,valles_marineris_2.6,Valles Marineris 2.6,1118633,2022-08-28T19:07:40.000Z
+887,3b900b633335c4123e108e701280c4d8,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1192933,2022-08-28T15:56:43.000Z
+888,128b0b632e93dbb3dde8c50b9810eb7e,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,811500,2022-08-28T15:34:42.000Z
+889,19840b6349918b8c51fce7c478a53c8c,Raghna,True,death_valley_v1,Death Valley v1,697133,2022-08-28T15:04:57.000Z
+890,b1800b63d034aa80591126b18fee6d10,Raghna,True,fallendell_v4,Fallendell_V4,601100,2022-08-28T14:50:25.000Z
+891,5f370b639ba7c55c584d6631c9ff7b08,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2647767,2022-08-28T09:37:35.000Z
+892,952a0b6315f1acb25ef6e8f20f3fdaef,Raghna,False,all_that_glitters_1.2,All That Glitters v1.2,2487000,2022-08-28T08:43:01.000Z
+893,75d00863ca2f3ab7befe9b7500d056a8,Raghna,False,red_rock_desert_v1,Red Rock Desert v1,640867,2022-08-26T13:53:57.000Z
+894,74b008630655f47f477dda36a46e8440,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,879400,2022-08-26T11:37:24.000Z
+895,4aad08637f0b56415254b36f3bf83a66,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,604100,2022-08-26T11:23:54.000Z
+896,e3fc07634f86f43e88b471423cf1751e,Raghna,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1000867,2022-08-25T22:51:15.000Z
+897,baf707632bb20b6fed16253060abb6a1,Raghna,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,771500,2022-08-25T22:29:14.000Z
+898,5ff107631a3f985284d58ba1fb4d60ed,Raghna,False,forge_v1.4,Forge v1.4,1212833,2022-08-25T22:02:07.000Z
+899,2a9f0763599b332a237695b9e7d5b748,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,905067,2022-08-25T16:11:22.000Z
+900,577e0763df4c8aa118f3e2ac733e5d6a,Raghna,True,red_rock_desert_v1,Red Rock Desert v1,758100,2022-08-25T13:51:19.000Z
+901,047b07635f4a4d86607282588fa427a3,Raghna,True,red_rock_desert_v1,Red Rock Desert v1,411100,2022-08-25T13:37:08.000Z
+902,a278076342a0c8b1f2e5d7488d1dfd1a,Raghna,True,incandescence_remake_3.3,Incandescence Remake 3.3,372667,2022-08-25T13:26:58.000Z
+903,fb74076374e982ec51d3b87226b60c20,Raghna,True,eye_of_horus_1.7,Eye Of Horus 1.7,735833,2022-08-25T13:11:23.000Z
+904,f4700763ae15ff3a62789b9599564f3b,Raghna,True,death_valley_v1,Death Valley v1,683667,2022-08-25T12:54:12.000Z
+905,a46d076319a491cc65d6d26e30cce756,Raghna,True,death_valley_v1,Death Valley v1,636933,2022-08-25T12:40:04.000Z
+906,f96907631870bc7b5507421ebe22d736,Raghna,True,fallendell_v4,Fallendell_V4,595067,2022-08-25T12:24:25.000Z
+907,a04a066305fc282a420785e8434cef2f,Raghna,True,incandescence_remake_3.3,Incandescence Remake 3.3,610000,2022-08-24T15:58:24.000Z
+908,4845066310b0675d17651ae822707d1e,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,723100,2022-08-24T15:35:36.000Z
+909,c63e06638988bcf1f5b1ecb4b0a438a3,Raghna,False,reraghnarok_1,ReRaghnarok 1,989100,2022-08-24T15:07:50.000Z
+910,ce170663a1149f13dd1a58f2cb752f48,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,391667,2022-08-24T12:21:34.000Z
+911,67120663d5f27412b74e1c88bffda074,Raghna,False,red_comet_remake_1.8,Red Comet Remake 1.8,568467,2022-08-24T11:58:31.000Z
+912,d20b0663aae0ef2a6324689d1b54a6e9,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,601067,2022-08-24T11:30:26.000Z
+913,5c0d0463f9baf183b7caa247598b22ed,Raghna,True,flats_and_forests_v2.1,Flats and Forests v2.1,2534533,2022-08-22T23:12:28.000Z
+914,8afc03633ea0d8f609f3ecbc45167703,Raghna,True,Rosetta 1.3,Rosetta 1.3,3607900,2022-08-22T22:00:42.000Z
+915,13f80363fa352ee3a6045ded643d992a,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,651033,2022-08-22T21:41:39.000Z
+916,91a102632275174e9de756a98f7f24a9,Raghna,True,forge_v1.4,Forge v1.4,1361500,2022-08-21T21:20:17.000Z
+917,be9c026336f18be1374d655a0b498c8e,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,771100,2022-08-21T20:59:42.000Z
+918,9c980263a0a824600e54d2921ae32030,Raghna,True,Tau12,Tau12,770733,2022-08-21T20:42:04.000Z
+919,658b0263dfd4468dd1562e783e5c7d05,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2596633,2022-08-21T19:45:41.000Z
+920,862e0263a774b29b092a6eb4a557c32d,Raghna,True,Tempest_V3,Tempest_V3,1232433,2022-08-21T13:09:26.000Z
+921,ce7501638affec5def5b957b11955bb1,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,857700,2022-08-21T00:01:18.000Z
+922,62730163eede564cbc218438a3be690d,Raghna,True,deserttriad,DesertTriad,402467,2022-08-20T23:50:58.000Z
+923,1d720163a569b93d9e904d1d5b2e6a2a,Raghna,True,deserttriad,DesertTriad,164133,2022-08-20T23:45:33.000Z
+924,2b7001630921c774c87896d5f146beb1,Raghna,False,sky_isle_v1.1,Sky Isle v1.1,368833,2022-08-20T23:37:15.000Z
+925,eb6d0163432cc630fe98da813d739f0c,Raghna,True,sky_isle_v1.1,Sky Isle v1.1,469967,2022-08-20T23:27:39.000Z
+926,a230016366210574272500764354f7ba,Raghna,True,fallendell_v4,Fallendell_V4,473700,2022-08-20T19:06:10.000Z
+927,552c0163a4b0a906132bfc270cb6af2f,Raghna,True,titan_v3.1,Titan v3.1,763767,2022-08-20T18:47:49.000Z
+928,4d240163e5f12746f2d699b64b2c63b7,Raghna,False,titan_v3.1,Titan v3.1,1332800,2022-08-20T18:13:33.000Z
+929,851d0163b950fbe2e0585177e91f53a2,Raghna,True,taldarim_v3,Taldarim_V3,1029633,2022-08-20T17:44:37.000Z
+930,a9110063f0d8437c23d1f2c9a720b29f,Raghna,True,melting_glacier_v1.1,Melting Glacier v1.1,2058000,2022-08-19T22:41:45.000Z
+931,920c00638b6a57d82a8d0ce43d9c38f0,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,744300,2022-08-19T22:20:02.000Z
+932,39050063eafa901586edd8b90355e156,Raghna,False,forge_v1.4,Forge v1.4,935000,2022-08-19T21:48:41.000Z
+933,83feff6250f81153fb78a577a2b021ed,Raghna,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1002700,2022-08-19T21:20:03.000Z
+934,6df0ff62219739ba9c6a54bc78044333,Raghna,True,melting_glacier_v1.1,Melting Glacier v1.1,2409900,2022-08-19T20:19:57.000Z
+935,3ee8ff627d3cd0d851d55750438321b5,Raghna,False,Riverrun_V1,Riverrun_V1,1611833,2022-08-19T19:45:02.000Z
+936,68a6ff6207e45581b86533ae911c971f,Raghna,True,NuclearWinterR,Nuclear Winter Bar 1.4,1938467,2022-08-19T15:04:08.000Z
+937,95a1ff62ad9d56429c71581c38d80c94,Raghna,True,NuclearWinterR,Nuclear Winter Bar 1.4,851167,2022-08-19T14:43:33.000Z
+938,ce9aff62ce779633f5ba19a5f623fa5e,Raghna,True,Riverrun_V1,Riverrun_V1,1213633,2022-08-19T14:14:38.000Z
+939,9795ff62138a417f246f52424a6ff17c,Raghna,True,Tau12,Tau12,850700,2022-08-19T13:52:23.000Z
+940,9f8cff62fe4437086c6dab92d9803b1d,Raghna,True,riverdale_remake_2.1,Riverdale Remake 2.1,1851033,2022-08-19T13:14:07.000Z
+941,3f87ff629f6aa4edf45d13ac9cd1d577,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,769400,2022-08-19T12:51:11.000Z
+942,0483ff6203bfe13ef4dc1891068e9924,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,574300,2022-08-19T12:33:08.000Z
+943,597aff62a081934b3b72971cf7e7560e,Raghna,False,melting_glacier_v1.1,Melting Glacier v1.1,2110700,2022-08-19T11:56:09.000Z
+944,d275ff6291d83c9381478001ebb3ffc7,Raghna,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,616200,2022-08-19T11:36:50.000Z
+945,4c6cff62961c052f64a4f2034cb4a70f,Raghna,False,FolsomdamR_1.16,FolsomDamR 1.16,1750167,2022-08-19T10:56:12.000Z
+946,19a1fe621fda21cef22436433f915a22,Raghna,False,Sunderance V1.3,Sunderance V1.3,1134700,2022-08-18T20:29:13.000Z
+947,bb98fe6240faa45c069a062a76e26fe2,Raghna,False,mariposa_island_v2.4,Mariposa Island v2.4,1624133,2022-08-18T19:53:31.000Z
+948,7c8dfe624fedb7ccf82a5426d903e6e3,Raghna,True,taldarim_v3,Taldarim_V3,2324867,2022-08-18T19:05:32.000Z
+949,fa86fe6221b91f61e248c1f8a51137f1,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,956467,2022-08-18T18:37:46.000Z
+950,dd7dfe62758a1404b02b4991971ae8c0,Raghna,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1793133,2022-08-18T17:58:53.000Z
+951,0f77fe62d0a044a3e3e6cac6b1cbd500,Raghna,True,Rosetta 1.3,Rosetta 1.3,1343667,2022-08-18T17:29:51.000Z
+952,d871fe623c65cd23cb7624f7d7b3d6dd,Raghna,True,all_that_glitters_1.2,All That Glitters v1.2,585500,2022-08-18T17:07:36.000Z
+953,d66cfe6225eac7b10963e2274be45084,Raghna,False,NuclearWinterR,Nuclear Winter Bar 1.4,746167,2022-08-18T16:46:14.000Z
+954,2c64fe62195b044acc2e7b4a12cb4656,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,1302900,2022-08-18T16:09:16.000Z
+955,2b5afe62a127069e6e15216521dc42e9,Raghna,False,tangerine_remake_1.0,Tangerine_Remake 1.0,1582233,2022-08-18T15:26:35.000Z
+956,7554fe62a0df248fc64563545d45d4bb,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,957600,2022-08-18T15:02:13.000Z
+957,f347fe62ad78a6170c173f780b8536c0,Raghna,True,dsdr_4.1,DSDR 4.1,814967,2022-08-18T14:08:51.000Z
+958,0738fe623f5cfaaf9d19ba0712b1fa7e,Raghna,False,dsdr_4.1,DSDR 4.1,1948500,2022-08-18T13:00:55.000Z
+959,3931fe6275d176f0c879899ec383d290,Raghna,True,colorado_v2_1.1,Colorado_V2 1.1,1157900,2022-08-18T12:31:53.000Z
+960,bd2afe6250fb1e3c9a10efee165427fa,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1125133,2022-08-18T12:04:13.000Z
+961,0150f562ca19aa091dc4e64b13870282,Raghna,True,koom_valley_3_3.1,Koom Valley 3 3.1,1683067,2022-08-11T18:52:49.000Z
+962,c547f562d670ebb0d07e746738538c60,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1263167,2022-08-11T18:17:41.000Z
+963,fb40f5620e1349ba70a91424e1f7462b,Raghna,False,lightside_darkside_v2.0,Lightside Darkside v2.0,1157400,2022-08-11T17:48:43.000Z
+964,4b34f5621958562d5b9adb55ea29786a,Raghna,False,,Melting Glacier v1.0,2678067,2022-08-11T16:54:35.000Z
+965,f51ff5629942fe87cf5b53df98bf8f2e,Raghna,True,tabula_remake_1.5,Tabula_Remake 1.5,1038100,2022-08-11T15:27:49.000Z
+966,7117f562406a77b15af6517782fb9f12,Raghna,False,tabula_remake_1.5,Tabula_Remake 1.5,1285167,2022-08-11T14:51:29.000Z
+967,9bd4f3629590470c8bf7b400499bcfd0,Raghna,True,ravaged_v2,Ravaged_v2,489533,2022-08-10T15:54:03.000Z
+968,8eccf3624bcc13ec3adcd66dd3767e9b,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,584500,2022-08-10T15:19:42.000Z
+969,c4c6f362e0dc9435f8d162ded2a50528,Raghna,True,archsimkats_valley_v1,Archsimkats_Valley_V1,952233,2022-08-10T14:55:00.000Z
+970,49bdf36262295ee9f98d2d7850fe2051,Raghna,False,koom_valley_3_3.1,Koom Valley 3 3.1,1173467,2022-08-10T14:14:33.000Z
+971,05b6f362b94c708bbb733736cf8dc073,Raghna,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,839900,2022-08-10T13:43:33.000Z
+972,c3aff362500527acb16dc5feb023dfcc,Raghna,False,valles_marineris_2.6,Valles Marineris 2.6,722600,2022-08-10T13:16:51.000Z
+973,55a8f362852b124c4b321ee3b55f28c5,Raghna,True,valles_marineris_2.6,Valles Marineris 2.6,1045667,2022-08-10T12:45:09.000Z
+974,c7a3f36278cc165c363d33d1e36d5d19,Raghna,True,Otago Redux 1.33,Otago Redux 1.33,713167,2022-08-10T12:25:43.000Z
+975,6c00f362812fcf23828656f896b25248,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,793567,2022-08-10T00:48:44.000Z
+976,59f2f262c865e968f1f2590a0cc47740,Raghna,False,Entrenched_Plains_V2,Entrenched_Plains_V2,3203067,2022-08-09T23:48:41.000Z
+977,c777f26240073401074944c15034dcfa,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,748700,2022-08-09T15:05:43.000Z
+978,3974f262e02ae36692f72483076bfe37,Raghna,True,boulder_beach_v1,Boulder_Beach_V1,732267,2022-08-09T14:50:33.000Z
+979,726ff2624f849f15593f7c081ba0e3d3,Raghna,True,boulder_beach_v1,Boulder_Beach_V1,763367,2022-08-09T14:30:10.000Z
+980,286af2623336a6ce712027d9d32ae210,Raghna,False,boulder_beach_v1,Boulder_Beach_V1,1041867,2022-08-09T14:07:36.000Z
+981,6f66f2621c8ee7586ba3ca621c2553c7,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,631700,2022-08-09T13:51:43.000Z
+982,1d8ff162c74f421fd47976520bc3dd2e,Raghna,True,tangerine_remake_1.0,Tangerine_Remake 1.0,710100,2022-08-08T22:33:01.000Z
+983,438bf16234ba0f6f21f0ba9cd41233a6,Raghna,True,tangerine_remake_1.0,Tangerine_Remake 1.0,671867,2022-08-08T22:16:35.000Z
+984,e487f162f40cc15203690ad360f43d9d,Raghna,True,fallendell_v4,Fallendell_V4,717867,2022-08-08T22:02:12.000Z
+985,c184f162ac9bc7bd49963146eacad53c,Raghna,False,fallendell_v4,Fallendell_V4,624400,2022-08-08T21:48:49.000Z
+986,6d7cf1626a8b4344239b307b74c629e7,Raghna,False,angel_crossing_1.5,Angel Crossing 1.5,1623100,2022-08-08T21:13:17.000Z
+987,fe76f1623722f3fb1e6c0bbe3731152f,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,597000,2022-08-08T20:50:06.000Z
+988,5173f16201e4588f4764edd5974f3081,Raghna,True,red_comet_remake_1.8,Red Comet Remake 1.8,678500,2022-08-08T20:34:25.000Z
+989,316ff1621e7b56abd7f951028952c513,Raghna,True,,Ice Scream v2.0,827733,2022-08-08T20:16:49.000Z
+990,cd6af162454ad029377b6307416a7fdb,Raghna,False,,Ice Scream v2.0,888867,2022-08-08T19:58:05.000Z
+991,6b65f162d74d6df89b212c66d7d6e4a3,Raghna,True,,Ice Scream v2.0,1074200,2022-08-08T19:35:07.000Z
+992,b561f162ba21a5f10d14e06655ebf1cc,Raghna,True,Frozen_Ford_V2,Frozen_Ford_V2,502700,2022-08-08T19:19:17.000Z
+993,3c2cf16269dc3ee2af00e017a12e49be,Raghna,True,death_valley_v1,Death Valley v1,1674700,2022-08-08T15:31:08.000Z
+994,3af4f062f873ce6a834ffc70fc9e39e9,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1736067,2022-08-08T11:32:10.000Z
+995,4fe3f062483bc8e243cb75707c8c4506,Raghna,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1294333,2022-08-08T10:19:59.000Z
+996,163ff062354cd45eef7104c0e5196e48,Raghna,True,Riverrun_V1,Riverrun_V1,1490767,2022-08-07T22:39:18.000Z
+997,e139f062f5cd15dded6eb5652ff86235,Raghna,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,862433,2022-08-07T22:17:05.000Z
+998,3730f0628785e9e5de5df292e81dba1f,Raghna,False,Riverrun_V1,Riverrun_V1,2060600,2022-08-07T21:35:51.000Z

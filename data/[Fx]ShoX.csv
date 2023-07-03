@@ -1,0 +1,921 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,8aeda16460e392ae87c481f55cf0bdde,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2465333,2023-07-02T21:35:06.000Z
+1,d2a89d64b986745e7c09e8b4f83938d6,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2401133,2023-06-29T15:52:50.000Z
+2,e90a9b6441da304d5785983ce056ed67,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1817433,2023-06-27T16:14:33.000Z
+3,76039b6464194876b069ecfcc28c77a4,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1475800,2023-06-27T15:42:46.000Z
+4,b7fa9a6455522be775ce9f48d6861e9b,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1868733,2023-06-27T15:05:27.000Z
+5,47ee9a644ba68a9fe8b8d03c648514fd,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2799700,2023-06-27T14:12:23.000Z
+6,45e89a644cc788e47f3a61be20571493,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1183300,2023-06-27T13:46:45.000Z
+7,65da9964abd06e66ae27485f8059d148,[Fx]ShoX,False,ice_scream_v2.5,Ice Scream v2.5,2168633,2023-06-26T18:35:17.000Z
+8,86aa9964729ef4800acb2ea42a3149b4,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,1046500,2023-06-26T15:11:02.000Z
+9,53a59964ec729de2fd710412b889d831,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,792500,2023-06-26T14:48:51.000Z
+10,d69c9964c1070d7355b2cd5393b436f4,[Fx]ShoX,False,all_that_glitters_v2.1,All That Glitters v2.1,2089533,2023-06-26T14:12:38.000Z
+11,93929964dda9c8636e272340263fe40d,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2217367,2023-06-26T13:28:51.000Z
+12,4a879964f816570befe66aeec6ed0a3b,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1769100,2023-06-26T12:40:42.000Z
+13,40b198644d5a1fc719cf9c1c830f4e0a,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1006567,2023-06-25T21:27:28.000Z
+14,758f98644e7d1e138a1401ca54f08b9e,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,716200,2023-06-25T19:03:17.000Z
+15,ee889864c340bec0706dc04cb725f435,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1359300,2023-06-25T18:35:26.000Z
+16,8d5f98648ca7794db6fa9d13c885a56b,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2267000,2023-06-25T15:38:53.000Z
+17,6a5a9864bae8ef1d8b2bee95e0ae5eea,[Fx]ShoX,False,tropical_assault_v3.0,Tropical Assault v3.0,795667,2023-06-25T15:16:58.000Z
+18,00509864181055a5c12fa78444ea3968,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2149800,2023-06-25T14:32:32.000Z
+19,c7489864df6953e7872bf4682b74d6d4,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1437400,2023-06-25T14:01:43.000Z
+20,934398645475e61493c88af6574b7975,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,821900,2023-06-25T13:39:31.000Z
+21,4e8e97640db73fb45405d14e97c4f6ff,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,1601333,2023-06-25T00:46:06.000Z
+22,e8879764aa4829952e54dee95bd512b0,[Fx]ShoX,True,theta_crystals_1.0,Theta Crystals 1.0,1255833,2023-06-25T00:18:48.000Z
+23,2582976460258b4a2e5412b0b1f52f4f,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,1196767,2023-06-24T23:54:13.000Z
+24,cb7d976433678b0871c11e59ed0a44a3,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,802167,2023-06-24T23:35:39.000Z
+25,5579976473537547318450b41c16ca05,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,686133,2023-06-24T23:16:37.000Z
+26,fe709764e15b994ec236ffedc61167b8,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1413733,2023-06-24T22:41:02.000Z
+27,7d679764f9b1da913d268eb10d63f3fe,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2012633,2023-06-24T22:00:29.000Z
+28,48629764aaef86074e320a5454cb9c4f,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,946267,2023-06-24T21:38:16.000Z
+29,9e549764b4fb9c544b76eefe86de56a5,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2951667,2023-06-24T20:39:58.000Z
+30,694c976406846fff6db96ba0ec583a4d,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1714467,2023-06-24T20:04:57.000Z
+31,12489764604605f4fe64079a55df9f4a,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,706400,2023-06-24T19:46:26.000Z
+32,7b42976484a6e30459343b106495d2b8,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,972433,2023-06-24T19:22:35.000Z
+33,b6349764c627bb725a2c68dcc4c703ad,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,3072633,2023-06-24T18:23:50.000Z
+34,562d976456635fdeb06235cef61956c3,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1506767,2023-06-24T17:52:22.000Z
+35,6c2797642b40d68c495cfa4c847219ef,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1256000,2023-06-24T17:27:08.000Z
+36,b22297643b239a8a4d5d7f3d9f12f536,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,716067,2023-06-24T17:06:58.000Z
+37,591f976439450e969d0dd7d27fc2b9a9,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,501700,2023-06-24T16:52:41.000Z
+38,d4189764fc57511a90db4b28b8491484,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1349200,2023-06-24T16:24:52.000Z
+39,23109764600a32958aa038d7af6c1685,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1766933,2023-06-24T15:47:47.000Z
+40,e41f96648880c84312a59b6316bf9d9a,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2397767,2023-06-23T22:42:44.000Z
+41,1a19966435b6ffe2a79f7f6c3b49d22d,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1511100,2023-06-23T22:13:46.000Z
+42,03159664c4f760d6b111a187151aae7f,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,789667,2023-06-23T21:56:19.000Z
+43,4e0f9664874469db91851f46e75d6ffa,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1107267,2023-06-23T21:31:58.000Z
+44,d0069664c2680e8abdcdc56b38d107af,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1737667,2023-06-23T20:55:44.000Z
+45,9ee09564c46a701a0df71c842d5bf984,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1967700,2023-06-23T18:12:46.000Z
+46,6dd99464a4ebaa70f4dfb67533dd05cf,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1303800,2023-06-22T23:29:49.000Z
+47,2dc89464ea5a2ceab2b07ccebfb02a9c,[Fx]ShoX,False,ice_scream_v2.5,Ice Scream v2.5,2327700,2023-06-22T22:16:13.000Z
+48,3cc294645a9f08bfb75dce3697761e38,[Fx]ShoX,False,forge_v1.4,Forge v1.4,583200,2023-06-22T21:50:52.000Z
+49,dbb79464c61147f162c8776507a70017,[Fx]ShoX,True,starwatcher_1.0,Starwatcher 1.0,2228733,2023-06-22T21:06:35.000Z
+50,1b6d9464e2ae44fb7b6070db34a9bbd5,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2081333,2023-06-22T15:47:39.000Z
+51,1160946446a8f0961217bff24771da0b,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2611733,2023-06-22T14:52:01.000Z
+52,d0559464629fbf53ae3eb5bb54a5fbbe,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1681400,2023-06-22T14:08:16.000Z
+53,eca09364787520d9f76cc60bc815ed09,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,2199533,2023-06-22T01:16:28.000Z
+54,ff929364c06769d0aaeb536fa2f3775e,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2736833,2023-06-22T00:17:03.000Z
+55,6a8b9364b0ed8ae14edf7c385b93c4ac,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2111600,2023-06-21T23:44:42.000Z
+56,a8859364e7a488f389ab5cbd42d09582,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1179267,2023-06-21T23:20:08.000Z
+57,a97f9364ffbb64c35a85fef9d43bd9be,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1048433,2023-06-21T22:54:33.000Z
+58,3617936458717a6665e88e1c91f78688,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,820367,2023-06-21T15:28:54.000Z
+59,9612936416b7f830ebbb92219445ed95,[Fx]ShoX,True,theta_crystals_1.0,Theta Crystals 1.0,855967,2023-06-21T15:09:10.000Z
+60,610e9364b3bd02d371d18d5b8383c4d5,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,624200,2023-06-21T14:51:13.000Z
+61,46f5926407f22a5f0c0d3d5fe55bc182,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1269700,2023-06-21T13:04:06.000Z
+62,28e99264a782b82c6f4439ca5e65ed69,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,910600,2023-06-21T12:12:24.000Z
+63,25e39264899c7c7cd32b7c87244520e6,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,1027333,2023-06-21T11:46:45.000Z
+64,404b9264c4e3f514f5d727ab6880353f,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2444333,2023-06-21T00:58:40.000Z
+65,e53e9264400a4564365dd23fef65261b,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2051400,2023-06-21T00:05:57.000Z
+66,7535926479d4158f5f87aacc50f797a6,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1741633,2023-06-20T23:25:41.000Z
+67,c8309264581c0b67db7259257c95fcb9,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,752800,2023-06-20T23:05:44.000Z
+68,ca259264595a96d26bffc44202024da9,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2313733,2023-06-20T22:18:50.000Z
+69,af1a9264c3ebe564deb38c2a785b36f6,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2284533,2023-06-20T21:31:27.000Z
+70,23109264be721f268188071d6f5f13bb,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2252300,2023-06-20T20:46:27.000Z
+71,04079264f44c955141adbb43912d3fbc,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1825800,2023-06-20T20:07:32.000Z
+72,d1029264ee9656037f0269d74028c9bb,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,694533,2023-06-20T19:49:37.000Z
+73,dbf6916490a3eb6f8124d26b19807011,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2679533,2023-06-20T18:58:35.000Z
+74,7aed9164d82bf60ae623f409c57601e8,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1954700,2023-06-20T18:18:34.000Z
+75,29e79164ffb2e19a795450ba87fc9916,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1227467,2023-06-20T17:51:37.000Z
+76,56cf916488a5cb66585f0103de6b40bf,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,3591900,2023-06-20T16:09:58.000Z
+77,b8c591641ae168c58bf73e8afe3b1c86,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1633600,2023-06-20T15:28:56.000Z
+78,d0ba9164dba16e7aef0eaf7a94d85a92,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2396867,2023-06-20T14:42:24.000Z
+79,acb791644f2243b6619fc8eff95cdc26,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,559400,2023-06-20T14:29:00.000Z
+80,a27391644a8e555ac54687c8850d0e89,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1166267,2023-06-20T09:38:42.000Z
+81,b064916460b6b8c26e6c447c7b891924,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,3164200,2023-06-20T08:34:56.000Z
+82,7fd99064c96b25e6c34e898ace13948d,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1893733,2023-06-19T22:41:03.000Z
+83,a1c690642f9c55a549428e4c4216f842,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,4204867,2023-06-19T21:20:33.000Z
+84,82bb9064a8e86c15e6784c87fd15dfe9,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2464767,2023-06-19T20:33:06.000Z
+85,96b09064dded3858266ccd67fc6a7218,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,1998800,2023-06-19T19:46:30.000Z
+86,5e458e64a6bab31a18ef941561c63764,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1664833,2023-06-17T23:44:30.000Z
+87,eb388e64445d906652282a4c38ea011e,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2803167,2023-06-17T22:51:23.000Z
+88,9b2a8e6450a52df90b08d99af92290ef,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,3048233,2023-06-17T21:50:19.000Z
+89,350e8e648e2effa4fc6d25259412a062,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1531967,2023-06-17T19:49:09.000Z
+90,0d058e64242cf5ce85931974969d5849,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1875933,2023-06-17T19:10:05.000Z
+91,57fc8d64f07ba72ff86fa5f3ec6226aa,[Fx]ShoX,False,sulphur_springs_v1.1,Sulphur Springs v1.1,1778833,2023-06-17T18:32:55.000Z
+92,95f28d6477f124c50f928419f40ea772,[Fx]ShoX,False,sulphur_springs_v1.1,Sulphur Springs v1.1,2124367,2023-06-17T17:51:17.000Z
+93,a2bf8d64416ea3ad5c05d31cf9e11327,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1514733,2023-06-17T14:13:54.000Z
+94,45b58d64aeab4070ad26f7f68b666c0c,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2076533,2023-06-17T13:29:41.000Z
+95,c0a98d6485c1dc352ad57c357cba5a30,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2015067,2023-06-17T12:40:32.000Z
+96,3e088d646c31d06e80d112661aeec368,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2711200,2023-06-17T01:11:26.000Z
+97,59038d64078da69f65958d95cd161036,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,889533,2023-06-17T00:50:33.000Z
+98,e1f68c64cdb369848751df4b20be3c6c,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1918600,2023-06-16T23:57:21.000Z
+99,5fce8c646c3ec525edb9a8087d1d6ef4,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1108600,2023-06-16T21:04:31.000Z
+100,8dc68c64fcd8f4663eedcb778e77091e,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1672467,2023-06-16T20:31:09.000Z
+101,044d8a64588ce319dcbf5e8422e3cfb6,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,1417400,2023-06-14T23:28:04.000Z
+102,6c468a642dc17de6fce1d3914e88c7fb,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,1360700,2023-06-14T22:59:56.000Z
+103,0a228a64397231b4f00b444731016730,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,2113867,2023-06-14T20:24:42.000Z
+104,09168a64d5e6c9974e409b3be3b1f8e6,[Fx]ShoX,False,starwatcher_1.0,Starwatcher 1.0,2615467,2023-06-14T19:33:29.000Z
+105,2e0d8a64070d79d4016cb30142119be7,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1913567,2023-06-14T18:55:42.000Z
+106,55048a64539d5d3ae3162f098df2c4ea,[Fx]ShoX,True,thermal_shock_v1.1,Thermal Shock v1.1,1718200,2023-06-14T18:17:57.000Z
+107,52fd8964ea3d8381c4ee0cfc8905300e,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1272233,2023-06-14T17:48:02.000Z
+108,7edb896408c859dcf058ad7e23af818f,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1453767,2023-06-14T15:23:42.000Z
+109,5fd689645e6b377c3c4c2fb08ba32430,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,975233,2023-06-14T15:01:51.000Z
+110,9bd08964d42017dd6d18fa3d7fef88eb,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1158967,2023-06-14T14:37:15.000Z
+111,6dc08964c682d88647f4e24a5dde98e7,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,3548833,2023-06-14T13:28:13.000Z
+112,97a58864d4e21f30a7b9ad5616149f2e,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,664467,2023-06-13T17:21:27.000Z
+113,6295886454f79ff23a826cc962104562,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2842200,2023-06-13T16:12:18.000Z
+114,c68d8864045f3bbc8245a0a0823db99c,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1519233,2023-06-13T15:39:50.000Z
+115,cb8288640170373dbb0f3d960bf39122,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2384500,2023-06-13T14:52:59.000Z
+116,9c76886418d0f2c7cc02a287182d8fa9,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2599067,2023-06-13T14:01:00.000Z
+117,0b68886433118d7f6c912f4b86595f21,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,3222500,2023-06-13T12:58:51.000Z
+118,03c58464805e3e5f4ee8345cc21642cd,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1384533,2023-06-10T18:46:27.000Z
+119,79bf8464c68e6a08d59297c9a1c25370,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,687267,2023-06-10T18:22:49.000Z
+120,c0a78064298c1595b9569edfe2e34695,[Fx]ShoX,True,eight_horses_1.2,Eight Horses 1.2,1877900,2023-06-07T15:52:32.000Z
+121,47a180643f57b4b99e20766aadf569e8,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1376333,2023-06-07T15:24:55.000Z
+122,c1047e646bab538166bd1ff358010a12,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,1633867,2023-06-05T15:52:33.000Z
+123,acff7d646ca4e5c0cb64ed513077bcd9,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1159933,2023-06-05T15:30:52.000Z
+124,32f67d642d6089e26216480c329a974e,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1532000,2023-06-05T14:50:26.000Z
+125,c6ee7d64541d9342371576e761f2f98a,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1402333,2023-06-05T14:18:46.000Z
+126,e2207d6468427ea1f3ee62b757e4a09b,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,1101367,2023-06-04T23:40:18.000Z
+127,cd1d7d64321faf5ad67425d88a3cb5ae,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,575933,2023-06-04T23:27:09.000Z
+128,c5197d641cbe17c94bfcf0939ef82879,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,827300,2023-06-04T23:09:57.000Z
+129,69157d647168c18f3795a09bde7f63c4,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,801133,2023-06-04T22:51:21.000Z
+130,c90f7d646506a14ba762c765090bbd65,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,901367,2023-06-04T22:27:21.000Z
+131,85047d64decc746c1ea7793ff17af01e,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2328067,2023-06-04T21:39:17.000Z
+132,86fd7c64edd8e6bb6ad0446624a22056,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,875433,2023-06-04T21:09:26.000Z
+133,39f17c648b5867545b82852280427859,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,2343500,2023-06-04T20:16:57.000Z
+134,4be370646dc800782f04e01324165d6d,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1172867,2023-05-26T16:50:19.000Z
+135,70dc70649e32d9e0594b8f0d259aa70f,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1146700,2023-05-26T16:21:04.000Z
+136,dbd37064b00b89064e49fc18c84ffe81,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1875967,2023-05-26T15:44:27.000Z
+137,3dcf7064d5546bde305a9e019b5b1cad,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,886600,2023-05-26T15:24:45.000Z
+138,d7e86f64a1ea208f5141e26788639548,[Fx]ShoX,False,FolsomdamR_1.16,FolsomDamR 1.16,2392533,2023-05-25T23:01:43.000Z
+139,1ae26f6437185cb018904b45177ef222,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1179067,2023-05-25T22:32:58.000Z
+140,a6d26f640975e690ebb362352bd08dcf,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1898167,2023-05-25T21:27:02.000Z
+141,ff946f64dbba552cc5ee3ccceb35d9ee,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1451233,2023-05-25T17:03:59.000Z
+142,518f6f64717a4bd5fde49d982a41d2b9,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,3423867,2023-05-25T16:39:45.000Z
+143,31886f64f5a76cea9c2607f9f054baf2,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1364800,2023-05-25T16:09:21.000Z
+144,f57c6f647ab60c149006dab5a36bd53f,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2557867,2023-05-25T15:21:25.000Z
+145,2fab6e64fc03e1a679a1c6256d4c1806,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1745433,2023-05-25T00:26:23.000Z
+146,9ca26e64f3b8615cc4e2456fdef79696,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1994667,2023-05-24T23:49:48.000Z
+147,f29d6e6463a9656893353012f0917c49,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,898767,2023-05-24T23:29:54.000Z
+148,1a926e644de64fc3d62976b5cd9c17d2,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2201067,2023-05-24T22:39:22.000Z
+149,d8846e64a6d400ea926124dd98d2d745,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2941367,2023-05-24T21:42:48.000Z
+150,d25f6e64ee991b73a37b03d6669c7f9d,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2086000,2023-05-24T19:04:50.000Z
+151,c5556e641f4a5db94fb9993879ef0d1d,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1940567,2023-05-24T18:21:57.000Z
+152,2d4f6e646d66d874bea967deaf293401,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1158733,2023-05-24T17:53:49.000Z
+153,53fd6c64e9f5e8fa3b8245389535c998,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1538600,2023-05-23T17:52:19.000Z
+154,8bf96c6492a7e888a98df6e4ee5db150,[Fx]ShoX,True,forge_v1.4,Forge v1.4,749633,2023-05-23T17:36:11.000Z
+155,aff26c6430e064a9f6cc9364bd5a1f14,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1494467,2023-05-23T17:06:55.000Z
+156,acea6c64f69fcd3ff67b897381bcd44a,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1102767,2023-05-23T16:32:44.000Z
+157,dbe56c64aaaa5f44a5004ada0fab1360,[Fx]ShoX,True,forge_v1.4,Forge v1.4,897467,2023-05-23T16:12:11.000Z
+158,d3db6c648e4c4f938aff59606f75fbcb,[Fx]ShoX,False,all_that_glitters_v2.1,All That Glitters v2.1,2353100,2023-05-23T15:29:23.000Z
+159,53d36c64951f68801b03023dffe614bf,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1815567,2023-05-23T14:53:07.000Z
+160,8eca6c6415af1b55f2f7b0c53de012b2,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1493533,2023-05-23T14:15:42.000Z
+161,5df86b642c2f50458071cb9ca8fd4793,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2799267,2023-05-22T23:18:53.000Z
+162,7fef6b64d4944a25426cf49a73b5c585,[Fx]ShoX,True,all_that_glitters_v2.1,All That Glitters v2.1,1851567,2023-05-22T22:41:03.000Z
+163,12e76b6446cef8ce2b93d1244183c2b7,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1353333,2023-05-22T22:05:06.000Z
+164,b3dd6b645037a5fc055aec63dd16dd70,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,2071000,2023-05-22T21:25:07.000Z
+165,78d36b64cd50505523f440607a2ea7d8,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2218067,2023-05-22T20:41:28.000Z
+166,66606b645eaebb7492b90129782fbf47,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,2285667,2023-05-22T12:30:30.000Z
+167,2b415d64972be989f1425b3d73a4fd5f,[Fx]ShoX,False,starwatcher_0.9,Starwatcher 0.9,1577200,2023-05-11T19:25:31.000Z
+168,b2375d6432315ce369d0c34a4b456afb,[Fx]ShoX,False,all_that_glitters_v2.0,All That Glitters v2.0,1825733,2023-05-11T18:45:06.000Z
+169,acc357646340698a721d5205e40f527e,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1447900,2023-05-07T15:28:44.000Z
+170,8a9956645a3a36686a806c1c38973e2a,[Fx]ShoX,True,tundra_v2,Tundra_V2,705867,2023-05-06T18:16:42.000Z
+171,e0905664deefa5f215a80c2a26d5641f,[Fx]ShoX,False,forge_v1.4,Forge v1.4,683133,2023-05-06T17:39:44.000Z
+172,5a8356649d869d98a27ae7c9469e4604,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,369833,2023-05-06T16:42:02.000Z
+173,3e7856642effb2cf491a0181487b69cf,[Fx]ShoX,True,colorado_v2_1.1,Colorado_V2 1.1,652033,2023-05-06T15:54:38.000Z
+174,8b61566411326c7084d5840ab9f9f547,[Fx]ShoX,False,valles_marineris_2.6,Valles Marineris 2.6,818133,2023-05-06T14:17:47.000Z
+175,824056649fc182bf949f9f49adb009c0,[Fx]ShoX,True,forge_v1.4,Forge v1.4,716200,2023-05-06T11:56:50.000Z
+176,b378556444f49287e2772aa4e074abb9,[Fx]ShoX,True,theta_crystals_1.0,Theta Crystals 1.0,1288600,2023-05-05T21:44:19.000Z
+177,b773556486a2ee02004cb9ba58dcaeaf,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1043700,2023-05-05T21:23:03.000Z
+178,be6e556485744defdd588ea9d9b1a965,[Fx]ShoX,True,forge_v1.4,Forge v1.4,917233,2023-05-05T21:01:50.000Z
+179,8469556447bf0789fd7f5227641c9739,[Fx]ShoX,False,forge_v1.4,Forge v1.4,504400,2023-05-05T20:39:32.000Z
+180,fe665564db19e0bfc18820031658ddfb,[Fx]ShoX,False,forge_v1.4,Forge v1.4,430600,2023-05-05T20:28:46.000Z
+181,29625564f525e8ee1825f2ddf9793de6,[Fx]ShoX,True,colorado_v2_1.1,Colorado_V2 1.1,955100,2023-05-05T20:08:09.000Z
+182,89135464de1d494bd3c6c2c903a70580,[Fx]ShoX,True,all_that_glitters_v2.0,All That Glitters v2.0,2819634,2023-05-04T20:20:25.000Z
+183,95da4a6473a4abef7581f806dae5c482,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1469700,2023-04-27T20:27:01.000Z
+184,6ad14a6454e271a86998116993fd7196,[Fx]ShoX,True,starwatcher_0.9,Starwatcher 0.9,1886867,2023-04-27T19:47:54.000Z
+185,88ca4a64b8140e36f032f3b771c78d70,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1471967,2023-04-27T19:18:32.000Z
+186,52c14a6431dc15daabfe805feee2353a,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1959800,2023-04-27T18:39:14.000Z
+187,73a04a644f3aa6be4d4d30513893d08b,[Fx]ShoX,False,carrot_mountains_v1.0,Carrot Mountains v1.0,985867,2023-04-27T16:18:59.000Z
+188,ed964a64cc839c719149ea2a4590fc86,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1654800,2023-04-27T15:38:21.000Z
+189,27864a6418c7b39856b0f237ea4736c4,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1766167,2023-04-27T14:26:47.000Z
+190,2f584a644c7c8c87668e22598d5be5c9,[Fx]ShoX,True,starwatcher_0.9,Starwatcher 0.9,2294200,2023-04-27T11:10:39.000Z
+191,ed4e4a6410dd415b886f8018402c3791,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1596700,2023-04-27T10:31:09.000Z
+192,47464a64a67065b07b526d7c40d292a3,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1642133,2023-04-27T09:54:15.000Z
+193,80b6496496a828e5212fe5def36dc3d6,[Fx]ShoX,True,silveridge_v1,Silveridge v1,1483400,2023-04-26T23:40:48.000Z
+194,57af4964713cc4464167a8229aefd7ed,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1515033,2023-04-26T23:10:15.000Z
+195,89a84964bd0dd98b79b07c53e244df3e,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1077133,2023-04-26T22:41:13.000Z
+196,a8a0496494ad21d66b7013926ee4cf0b,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1714133,2023-04-26T22:07:36.000Z
+197,a0974964927fb3d899392675705a1804,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1488700,2023-04-26T21:29:04.000Z
+198,159149643cecbc3c7ac3f0676666d857,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1362000,2023-04-26T21:01:09.000Z
+199,4c7e4964caf179a0d6dbb5056052926b,[Fx]ShoX,True,hades_ponds_0.7,Hades Ponds 0.7,1243167,2023-04-26T19:41:00.000Z
+200,62724964b081a725f46103081caaca10,[Fx]ShoX,True,theta_crystals_1.0,Theta Crystals 1.0,559633,2023-04-26T18:50:10.000Z
+201,61394864b3e32149e681236ea1f9c9b0,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1353633,2023-04-25T20:34:41.000Z
+202,ba314864c1a1b5732c51609951c533b9,[Fx]ShoX,False,starwatcher_0.9,Starwatcher 0.9,1530733,2023-04-25T20:02:02.000Z
+203,d82a4864ea67e50f2faf4df1f3010617,[Fx]ShoX,False,supreme_strait_v1.4,Supreme Strait v1.4,1301800,2023-04-25T19:32:40.000Z
+204,9e24486459dfa3b7346846027b108262,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1304567,2023-04-25T19:06:06.000Z
+205,ea1d4864c551691cf38760655e0c96fa,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1108867,2023-04-25T18:37:30.000Z
+206,dd1848640c8f96ef6bd3ecaf1b2d4063,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1006133,2023-04-25T18:15:57.000Z
+207,a17b4764de5ceb8631f8eeb00f2b3629,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2752867,2023-04-25T07:05:05.000Z
+208,c070476448a91f878565c1789227f925,[Fx]ShoX,True,eight_horses_1.2,Eight Horses 1.2,2384634,2023-04-25T06:18:40.000Z
+209,db654764d262174cecf23d0f7b80a38e,[Fx]ShoX,True,Tempest_V3,Tempest_V3,2343000,2023-04-25T05:32:11.000Z
+210,735f4764730f19ea31bb40e0a0c4adbc,[Fx]ShoX,True,eight_horses_1.2,Eight Horses 1.2,1074667,2023-04-25T05:04:51.000Z
+211,eb554764d38827a80d5d7050b3d4c8b3,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1783067,2023-04-25T04:24:11.000Z
+212,57c646646e44de98e8b3b974604e0b8a,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1476700,2023-04-24T18:11:35.000Z
+213,03bf46649d6ba68a0c64f9fb9ef66a2e,[Fx]ShoX,True,darkside_v3.0,Darkside v3.0,1549867,2023-04-24T17:40:19.000Z
+214,49ba4664fff5166d9d4b35622e0da2e4,[Fx]ShoX,True,forge_v1.4,Forge v1.4,785567,2023-04-24T17:20:09.000Z
+215,06b2466421230ceb6339b193b29ae808,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1663167,2023-04-24T16:44:54.000Z
+216,e4a846644fcc26624e714b1860c06576,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1850400,2023-04-24T16:05:56.000Z
+217,c5a2466429a974129da51ceec49d9cdf,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1207633,2023-04-24T15:39:49.000Z
+218,079d466481812740bdfe15398428946b,[Fx]ShoX,True,ice_scream_v2.5,Ice Scream v2.5,1055767,2023-04-24T15:15:19.000Z
+219,7b954664340c32d4ec61c3a24fac658f,[Fx]ShoX,True,supreme_strait_v1.4,Supreme Strait v1.4,1163367,2023-04-24T14:43:07.000Z
+220,bc8b4664bf6570039a36c4d9a89e8906,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1836500,2023-04-24T14:01:32.000Z
+221,3881466487fa035be3ceecbd97182878,[Fx]ShoX,False,eight_horses_1.2,Eight Horses 1.2,2326367,2023-04-24T13:16:40.000Z
+222,f7774664e40f7fb80e1d9a2a345f5860,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2025333,2023-04-24T12:37:11.000Z
+223,d66e46648439260950bef0fb7f6308d9,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1761400,2023-04-24T11:58:14.000Z
+224,845a46649b365d6b1eff26ee8eb6939a,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2034933,2023-04-24T10:31:32.000Z
+225,ab834564f0a6122f52941441552e9036,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1554333,2023-04-23T19:14:51.000Z
+226,bb7e4564cbe341778f1b70a7fcb26985,[Fx]ShoX,True,forge_v1.4,Forge v1.4,997967,2023-04-23T18:53:47.000Z
+227,8ff544648fbd1d7e102ceb2347abc7e8,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1429433,2023-04-23T09:08:31.000Z
+228,7aec4464001235a238cb702b6b556f98,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2020700,2023-04-23T08:29:46.000Z
+229,31e644647698c074cc63a5b275ec78cc,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1308700,2023-04-23T08:02:57.000Z
+230,60d944645901a35d1190bbea5046df85,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,2634800,2023-04-23T07:08:16.000Z
+231,8cd144647e4298e5d892d08ad825c041,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1297167,2023-04-23T06:34:52.000Z
+232,abc5446447bb311001422ca651a6a5a3,[Fx]ShoX,False,starwatcher_0.9,Starwatcher 0.9,2621567,2023-04-23T05:44:11.000Z
+233,bcbb44646fd913e61c4604bea49181b3,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2172634,2023-04-23T05:01:48.000Z
+234,8fb644649cd6ecc2ff5baf1c738033fd,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,847433,2023-04-23T04:39:43.000Z
+235,edab4464b8df8d44598aebf2e945dbeb,[Fx]ShoX,False,carrot_mountains_v1.0,Carrot Mountains v1.0,2241933,2023-04-23T03:54:21.000Z
+236,a3a04164d6326d5fd8778e30e135a199,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,1244333,2023-04-20T20:29:23.000Z
+237,869a416435d8b5ba344cc252b72f7451,[Fx]ShoX,False,tabula_remake_1.5,Tabula_Remake 1.5,914667,2023-04-20T20:03:18.000Z
+238,7b9341640324eafc67ce93d9a0199bbb,[Fx]ShoX,True,valles_marineris_2.6,Valles Marineris 2.6,1129200,2023-04-20T19:33:15.000Z
+239,2c8741648865f7734f6a07c3ca5b2eea,[Fx]ShoX,False,valles_marineris_2.6,Valles Marineris 2.6,1482067,2023-04-20T18:40:44.000Z
+240,c48341645f3b8c208cb4cffb797c7f28,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,521200,2023-04-20T18:26:12.000Z
+241,935040646cfdc647a75de08e102c25a8,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,1194900,2023-04-19T20:35:31.000Z
+242,084d4064956a42310b2c868bd669cb64,[Fx]ShoX,False,FolsomdamR_1.16,FolsomDamR 1.16,471533,2023-04-19T20:20:24.000Z
+243,f64440648ec1cd7358d532e0c27a1190,[Fx]ShoX,True,colorado_v2_1.1,Colorado_V2 1.1,1601767,2023-04-19T19:45:58.000Z
+244,61663c64241833b097f90ed39ef94957,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1499400,2023-04-16T21:19:29.000Z
+245,51fa3564c88672a5e42c0e75e693f82b,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1582633,2023-04-12T00:24:49.000Z
+246,d7f13564c54203a43d4797b03075c0ad,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1608200,2023-04-11T23:48:39.000Z
+247,cf9331642ffe52530e1f6b402be04bbe,[Fx]ShoX,False,death_valley_v1,Death Valley v1,842433,2023-04-08T16:18:23.000Z
+248,49903164387cd1f1203fc482f38c48da,[Fx]ShoX,False,ravaged_remake_v1.1,Ravaged Remake v1.1,683100,2023-04-08T16:03:21.000Z
+249,b58231646666601b8cda822af520471b,[Fx]ShoX,True,avalanche_3.4,Avalanche 3.4,504533,2023-04-08T15:05:25.000Z
+250,647d316454a90bf8acfeca6a78aa2eb1,[Fx]ShoX,True,zed_remake_3.3,Zed Remake 3.3,744033,2023-04-08T14:42:44.000Z
+251,fead30645a48fd5b1e1cd1920131015e,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2414667,2023-04-07T23:57:50.000Z
+252,2caa3064b11219b889a5f483ab9fd060,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,615133,2023-04-07T23:41:32.000Z
+253,60a03064093feaa92ab6c59c40841aad,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1946667,2023-04-07T22:59:44.000Z
+254,8984306437903d75981cfada4e37fccb,[Fx]ShoX,True,Cirolata 1.02,Cirolata 1.02,790867,2023-04-07T21:00:57.000Z
+255,5581306434697885fe503433db7d68e7,[Fx]ShoX,True,Cirolata 1.02,Cirolata 1.02,677567,2023-04-07T20:47:17.000Z
+256,1c7e30645d9a118c1a631f0fefe3b4f7,[Fx]ShoX,True,ravaged_remake_v1.1,Ravaged Remake v1.1,617467,2023-04-07T20:33:32.000Z
+257,357a3064f44b00f0d0dc25b82d8229b2,[Fx]ShoX,True,ravaged_remake_v1.1,Ravaged Remake v1.1,841233,2023-04-07T20:16:53.000Z
+258,a077306444dc61c76e1d4cc3c36c5caa,[Fx]ShoX,True,ravaged_remake_v1.1,Ravaged Remake v1.1,497267,2023-04-07T20:05:52.000Z
+259,9d7630648fd09d370294994b39327cab,[Fx]ShoX,True,ravaged_remake_v1.1,Ravaged Remake v1.1,129600,2023-04-07T20:01:33.000Z
+260,816f30648f1a48dabc853d0bdcce6966,[Fx]ShoX,False,Cirolata 1.02,Cirolata 1.02,682367,2023-04-07T19:31:13.000Z
+261,b7183064f94c123d26cdcd2ba4f99973,[Fx]ShoX,True,forge_v1.4,Forge v1.4,2015233,2023-04-07T13:20:55.000Z
+262,cd0f3064520d44f178ef3d020022582a,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1843833,2023-04-07T12:42:53.000Z
+263,aefe2e64367203ea740e9b7b3e6683bf,[Fx]ShoX,False,supreme_strait_v1.3,Supreme Strait v1.3,1140433,2023-04-06T17:17:34.000Z
+264,20f62e64a67e805c65a1bbd6c05d3e97,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1047633,2023-04-06T16:41:04.000Z
+265,43f02e64d1a419d43af4ee16ca26f81c,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,930033,2023-04-06T16:16:03.000Z
+266,95ac2e646695395a4a09233731c899f3,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1146767,2023-04-06T11:27:17.000Z
+267,8da42e646fc18dbcea627d8a0e843c84,[Fx]ShoX,False,ice_scream_v2.4,Ice Scream v2.4,1315300,2023-04-06T10:53:01.000Z
+268,f5d02d64bddc2cb7c6093b479852c0de,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1408633,2023-04-05T19:50:13.000Z
+269,85c32d647377fe4379c5eac4923394dd,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2672667,2023-04-05T18:52:53.000Z
+270,5cbc2d643fe4edb7a67b1b509f05951f,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1311800,2023-04-05T18:22:20.000Z
+271,95872d6465926ca5a46f388a51bc2544,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2075700,2023-04-05T14:37:09.000Z
+272,95782d64bf58713d244f95b33c082133,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,2413033,2023-04-05T13:33:09.000Z
+273,746e2d640c3d0f41ad6f8e0fb92e9f84,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1984700,2023-04-05T12:49:56.000Z
+274,5e632d64439cad7cbebc0d42140b5ea4,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1957800,2023-04-05T12:02:38.000Z
+275,e7592d64cb6caecb96dd0f0e3d451da0,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1911700,2023-04-05T11:22:15.000Z
+276,59492d647687ef9df3ce43cf01f88355,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,3827567,2023-04-05T10:11:37.000Z
+277,d4462c643bc611ca6640c7b5ce173739,[Fx]ShoX,True,into_battle_redux_v3,Into Battle Redux v3,431300,2023-04-04T15:48:36.000Z
+278,5f432c64a09cc3c3312da61d59b8ba5d,[Fx]ShoX,True,into_battle_redux_v3,Into Battle Redux v3,791800,2023-04-04T15:33:51.000Z
+279,c63e2c64310e7772ba0ff29e16144265,[Fx]ShoX,True,into_battle_redux_v3,Into Battle Redux v3,856100,2023-04-04T15:14:14.000Z
+280,363b2c64a441e74e39318bcdd7c501d8,[Fx]ShoX,True,into_battle_redux_v3,Into Battle Redux v3,788633,2023-04-04T14:59:02.000Z
+281,8d362c647da316d414850988149363e1,[Fx]ShoX,True,into_battle_redux_v3,Into Battle Redux v3,782333,2023-04-04T14:39:09.000Z
+282,44322c648dac320b9679fede64cca2df,[Fx]ShoX,True,zed_remake_3.3,Zed Remake 3.3,606433,2023-04-04T14:20:52.000Z
+283,9c2c2b6473c1c5df845d360ae6298400,[Fx]ShoX,False,eight_horses_1.2,Eight Horses 1.2,2348633,2023-04-03T19:44:28.000Z
+284,991e2b64c5a9ebb5c700c5be1f2878e5,[Fx]ShoX,False,starwatcher_0.9,Starwatcher 0.9,2298900,2023-04-03T18:44:41.000Z
+285,95142b64d91269b636d38fc4206eb434,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1738067,2023-04-03T18:01:57.000Z
+286,4c1d2764bb517980e66c5afdd2bbe1cf,[Fx]ShoX,False,death_valley_v1,Death Valley v1,1490333,2023-03-31T17:50:04.000Z
+287,2c162764af2ef80a5a432bb2a0adf2b4,[Fx]ShoX,True,death_valley_v1,Death Valley v1,1216600,2023-03-31T17:19:40.000Z
+288,bd10276414f28d571d8a95c14e5ad3f7,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,894567,2023-03-31T16:56:29.000Z
+289,8c0b2764ad026b52104227d847f1bf0a,[Fx]ShoX,True,Sunderance V1.3,Sunderance V1.3,752633,2023-03-31T16:34:20.000Z
+290,df052764580da9012e4df04e8fa26f14,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,979467,2023-03-31T16:10:07.000Z
+291,e7fa25643553d090aff5ed848ce8102b,[Fx]ShoX,False,eight_horses_1.2,Eight Horses 1.2,954700,2023-03-30T21:11:03.000Z
+292,46f32564129e8ae0c890bd840669676d,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1195900,2023-03-30T20:38:30.000Z
+293,aee625641f309cb68311899c2090af2e,[Fx]ShoX,False,tabula_remake_1.5,Tabula_Remake 1.5,1873700,2023-03-30T19:44:46.000Z
+294,50dc256434a181d71934a33e1b1aa4c8,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,959200,2023-03-30T19:00:32.000Z
+295,43d62564f10864f92a0cdf174f8aa595,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,971933,2023-03-30T18:34:43.000Z
+296,aa2625645400f7547f780dce1bc98354,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1093033,2023-03-30T06:05:30.000Z
+297,42482464a26a0e896d562abab230aa5d,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,2048567,2023-03-29T14:16:34.000Z
+298,fc24246436c79a35127ebb592fbbeb29,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2479800,2023-03-29T11:46:04.000Z
+299,4f1e246477a74da7b9a17570dffdbec9,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1290733,2023-03-29T11:17:35.000Z
+300,cb0f2464939982001f456e8393bddb2d,[Fx]ShoX,True,starwatcher_0.9,Starwatcher 0.9,2902400,2023-03-29T10:15:39.000Z
+301,2e482364a5a452bf380d0f944a1df195,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,746733,2023-03-28T20:03:58.000Z
+302,f94223649fdb197bb4912319be6352b9,[Fx]ShoX,False,Ditched_V1,Ditched_V1,945267,2023-03-28T19:41:45.000Z
+303,fb3a23641ccbf9b0e5898321fcfecb70,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1209567,2023-03-28T19:07:39.000Z
+304,60352364ae2c9714582fc6e6ccf1ff99,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1007233,2023-03-28T18:43:44.000Z
+305,31302364fff9c887fae6bda300564f97,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,780900,2023-03-28T18:21:37.000Z
+306,de2823640fcc693a0596b3ce2e8d4c36,[Fx]ShoX,True,supreme_strait_v1.3,Supreme Strait v1.3,1436533,2023-03-28T17:50:22.000Z
+307,e518236433d53eccc0f448291a6d013d,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,3436467,2023-03-28T16:42:13.000Z
+308,e70e23644013abfde1601fce39c5c9f3,[Fx]ShoX,False,ice_scream_v2.4,Ice Scream v2.4,2089100,2023-03-28T15:59:35.000Z
+309,440723643247cd56ad3658a8e6c0bbc4,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1359400,2023-03-28T15:27:00.000Z
+310,b3012364974fcc46d1a96f119569f0b6,[Fx]ShoX,True,forge_v1.4,Forge v1.4,772267,2023-03-28T15:03:15.000Z
+311,deeb2264db55e48c6187b02faf730549,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1842933,2023-03-28T13:30:06.000Z
+312,1ae122645a264c9f97b6e97e3b67a1d6,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2030067,2023-03-28T12:44:10.000Z
+313,49b622644da51ca36a26e78f21955815,[Fx]ShoX,True,supreme_strait_v1.3,Supreme Strait v1.3,3831900,2023-03-28T09:41:29.000Z
+314,9dad2264a84f7ec6eb1c4888bf1137ab,[Fx]ShoX,True,supreme_strait_v1.3,Supreme Strait v1.3,1645300,2023-03-28T09:04:29.000Z
+315,d7a522640d931328684c9a2ae4a82cdc,[Fx]ShoX,True,supreme_strait_v1.3,Supreme Strait v1.3,1485600,2023-03-28T08:31:19.000Z
+316,cf9b22643269c62b7cb9eb1a72021f29,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1884367,2023-03-28T07:48:31.000Z
+317,50b82164c6752fed179affb4ac6aab23,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1473700,2023-03-27T15:37:52.000Z
+318,abb021641903810af777d5978378fb2e,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1446867,2023-03-27T15:05:15.000Z
+319,45a42164cf96a05b223d8679fc017032,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,954900,2023-03-27T14:12:21.000Z
+320,118a2164aedb34027b3a5d5a75c998e7,[Fx]ShoX,True,supreme_strait_v1.3,Supreme Strait v1.3,2122967,2023-03-27T12:20:33.000Z
+321,47782164089b5f84222b88f94d8fb1f6,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1652600,2023-03-27T11:04:39.000Z
+322,af5b21641ea7d5af9b2ed447adef6b3e,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,3563400,2023-03-27T09:02:39.000Z
+323,ef5121642bbce7f579afb8390fa20a34,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2108033,2023-03-27T08:21:03.000Z
+324,40e12064dc51cd4057a3fd5165b0caf2,[Fx]ShoX,False,eye_of_horus_1.7,Eye Of Horus 1.7,551933,2023-03-27T00:20:16.000Z
+325,1fda20640da1d95d9d1a4a8c4e576865,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1282733,2023-03-26T23:49:51.000Z
+326,6bd2206421cda9b2d3e61410f407fba3,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1198367,2023-03-26T23:16:59.000Z
+327,7ac82064f39ec9c0726c4269a3894fdf,[Fx]ShoX,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1373667,2023-03-26T22:34:34.000Z
+328,47bf20642a3dfe958f14ed0fc8e6c6cb,[Fx]ShoX,False,carrot_mountains_v1.0,Carrot Mountains v1.0,1704700,2023-03-26T21:55:19.000Z
+329,dc412064da89b067472082158f045d78,[Fx]ShoX,False,supreme_strait_v1.3,Supreme Strait v1.3,1829667,2023-03-26T13:00:12.000Z
+330,533c206400fcc2dfec81042d316ae6c0,[Fx]ShoX,False,forge_v1.4,Forge v1.4,771800,2023-03-26T12:36:35.000Z
+331,94292064ddb2ed69867a76826a9ee6ea,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,1226333,2023-03-26T11:16:36.000Z
+332,ae2120645a6c50bbec1a0e7604efa246,[Fx]ShoX,False,eight_horses_1.2,Eight Horses 1.2,1369900,2023-03-26T10:42:54.000Z
+333,c419206456bae17434f07d3d4331cb96,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1535900,2023-03-26T10:09:08.000Z
+334,4d122064c7260b4f1193a26d7df3a320,[Fx]ShoX,False,hades_ponds_0.7,Hades Ponds 0.7,1208467,2023-03-26T09:37:17.000Z
+335,da052064e02f2e950fe4bc3993ebfb42,[Fx]ShoX,True,starwatcher_0.9,Starwatcher 0.9,2772900,2023-03-26T08:44:10.000Z
+336,3f791f64ab4d2c0edb030e68f0055def,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1562633,2023-03-25T22:44:15.000Z
+337,846d1f6453fdb18e1f0d4858f26512e5,[Fx]ShoX,True,starwatcher_0.9,Starwatcher 0.9,2277400,2023-03-25T21:54:12.000Z
+338,ed5c1f643e24f2b92203de16af1b1cfb,[Fx]ShoX,True,eight_horses_1.2,Eight Horses 1.2,1545467,2023-03-25T20:43:25.000Z
+339,0e581f64d8e99661f25bc8c6d6803c34,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,921200,2023-03-25T20:22:38.000Z
+340,67511f64da3c1ff630f363e902d10250,[Fx]ShoX,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1220700,2023-03-25T19:54:15.000Z
+341,b64b1f648cb95db6b50fd74776daa039,[Fx]ShoX,True,forge_v1.4,Forge v1.4,998500,2023-03-25T19:29:58.000Z
+342,f3431f647982d51e619560642b61ea34,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1449067,2023-03-25T18:56:51.000Z
+343,53eb1c648e06eab08a787b35b3fb513f,[Fx]ShoX,True,greenest_fields_1.3,Greenest Fields 1.3,2286767,2023-03-24T00:14:11.000Z
+344,b9e31c64b291ebd9c5198c6cd95706ad,[Fx]ShoX,True,melting_glacier_v1.1,Melting Glacier v1.1,1410267,2023-03-23T23:41:45.000Z
+345,77d61c647c375c33472348a164ef68cb,[Fx]ShoX,False,theta_crystals_1.0,Theta Crystals 1.0,892667,2023-03-23T22:45:11.000Z
+346,2a891b643511b222f67c78bf14b96f4b,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1410867,2023-03-22T23:03:06.000Z
+347,0e831b64604f2c148a6647ceecd74251,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,942600,2023-03-22T22:37:02.000Z
+348,7b771b64534b341061fdecbdb20bb0d1,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2453733,2023-03-22T21:47:39.000Z
+349,6a2a1a64c99c5b2f9513d0b6ebe79fc5,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1399700,2023-03-21T22:06:34.000Z
+350,b52d19643ca9004983760345b077b3e1,[Fx]ShoX,False,lightside_darkside_v2.0,Lightside Darkside v2.0,1737833,2023-03-21T04:08:21.000Z
+351,7d211964095ba5f3c4591635dd87e275,[Fx]ShoX,True,supreme_strait_v1.3,Supreme Strait v1.3,2188133,2023-03-21T03:16:13.000Z
+352,bc1b1964b9cc15804ede531eab87b732,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1111067,2023-03-21T02:51:40.000Z
+353,0017196499faaf3c6021f0f9e17f461f,[Fx]ShoX,True,stronghold_v4,Stronghold V4,703833,2023-03-21T02:31:28.000Z
+354,f31e176408c68526b64651f088106bf1,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1272533,2023-03-19T14:40:51.000Z
+355,2a1917645ea22c0dc5383584d1064965,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1154633,2023-03-19T14:16:10.000Z
+356,580d176494622512d40cf125a5e7e8c4,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1724800,2023-03-19T13:25:44.000Z
+357,370317648dc9ddfc348f12f83348cd9b,[Fx]ShoX,True,starwatcher_0.7,Starwatcher 0.7,2050167,2023-03-19T12:42:31.000Z
+358,e6f916643abedc8d623ebfb0e428ee9c,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1664800,2023-03-19T12:02:46.000Z
+359,e0211664c3e216e6dac827dba384c05d,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,2703800,2023-03-18T20:41:04.000Z
+360,a21716646bbf09a34312445769a7354b,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1910733,2023-03-18T19:57:22.000Z
+361,600e16649a28d07a80c5d69f395c960e,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1341033,2023-03-18T19:17:52.000Z
+362,7d091664f792d9d6c815fabb760866c7,[Fx]ShoX,True,eye_of_horus_1.7,Eye Of Horus 1.7,658667,2023-03-18T18:57:01.000Z
+363,c9a7cd638552b0c33e54f23685e20e34,[Fx]ShoX,True,silveridge_v1,Silveridge v1,1412600,2023-01-22T21:16:57.000Z
+364,4b9acd63606f69ccd94fbc56ef3975b4,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2674733,2023-01-22T20:19:23.000Z
+365,1794cd63738971fb06f472eaf6ae19a6,[Fx]ShoX,False,supreme_strait_v1.3,Supreme Strait v1.3,936267,2023-01-22T19:52:55.000Z
+366,b0eec963e42be8348306b2aaf76e19fb,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1965300,2023-01-20T01:30:24.000Z
+367,a9e8c963b5a17e6bd0a27095eef26bb1,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1073600,2023-01-20T01:04:41.000Z
+368,8ce0c96343a62d2a9ccb2b11e57ed7c0,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1445133,2023-01-20T00:30:04.000Z
+369,e9b8c86316b3f64b141c6a8a2f377272,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1204500,2023-01-19T03:28:41.000Z
+370,16aec8632eb00bb97efe976da5957901,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,2416000,2023-01-19T02:42:30.000Z
+371,23a5c863bc692f396186b3f4cba9096d,[Fx]ShoX,False,supreme_strait_v1.1,Supreme Strait v1.1,1544200,2023-01-19T02:04:19.000Z
+372,9e9ec8636e137aa3ba7dceccbec9258e,[Fx]ShoX,False,tabula_remake_1.5,Tabula_Remake 1.5,1124933,2023-01-19T01:36:30.000Z
+373,4e93c86301278b4818b322438498a799,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1894267,2023-01-19T00:48:14.000Z
+374,d36ec863633fafcdeb4f8e1f84242d2d,[Fx]ShoX,True,supreme_strait_v1.1,Supreme Strait v1.1,764700,2023-01-18T22:12:35.000Z
+375,9664c8630e05ba040ca327f6e8a1bfc7,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2108033,2023-01-18T21:28:54.000Z
+376,160ec8635832fe0bf34b2b731e0c9e66,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,834200,2023-01-18T15:19:50.000Z
+377,505dc7630a95dfcec2da08dfb9163567,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1673467,2023-01-18T02:45:36.000Z
+378,884fc76393e0202c06b7096a54f67d01,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2892300,2023-01-18T01:46:48.000Z
+379,8241c7633e580f01bea223031b7d0300,[Fx]ShoX,False,supreme_strait_v1.1,Supreme Strait v1.1,2948300,2023-01-18T00:46:58.000Z
+380,a432c76345cf99c6e340290ba83838b0,[Fx]ShoX,False,TheRock_V3,TheRock_V3,1873467,2023-01-17T23:43:32.000Z
+381,7401c6639edd673265bbfce9d0e26ab1,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,3037367,2023-01-17T02:01:24.000Z
+382,f4f9c563a397244837b1517b88aff6f2,[Fx]ShoX,False,ice_scream_v2.1,Ice Scream v2.1,1400500,2023-01-17T01:29:24.000Z
+383,a9b8c563506d522941717f3ea0d0ab2e,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2120200,2023-01-16T20:50:49.000Z
+384,0bb1c5639bbdf0cee450c0df7d7c1a4a,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1593767,2023-01-16T20:18:19.000Z
+385,659fc563877e34e2916a02209abb4539,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,2208200,2023-01-16T19:03:01.000Z
+386,cc91c563178d6207661e11d028cd75ab,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,2931133,2023-01-16T18:05:00.000Z
+387,ce87c563a9ce49aab43b53a329f8085a,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2019334,2023-01-16T17:22:22.000Z
+388,1698c46361713f38dc4ded2f7b20389e,[Fx]ShoX,True,supreme_strait_v1.1,Supreme Strait v1.1,1380367,2023-01-16T00:19:34.000Z
+389,fa12c4630556bc86b55df8c4d57c8ef6,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1171133,2023-01-15T14:51:38.000Z
+390,6405c463476c01e8195eafa1da0a7ad8,[Fx]ShoX,False,supreme_strait_v1.1,Supreme Strait v1.1,2638700,2023-01-15T13:53:40.000Z
+391,dafcc363d8e5e6923cc0a0a0484060c7,[Fx]ShoX,False,supreme_strait_v1.1,Supreme Strait v1.1,1631567,2023-01-15T13:17:14.000Z
+392,8548c363588e55835c5e025122561d6c,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,3518500,2023-01-15T00:27:49.000Z
+393,4f1ac3637ea5b48ee9c47636c1bc7a7c,[Fx]ShoX,False,sertaleina_v8,Sertaleina_V8,916700,2023-01-14T21:10:39.000Z
+394,f016c36373e3f162ab4d1e588948598c,[Fx]ShoX,True,Frozen_Ford_V2,Frozen_Ford_V2,587733,2023-01-14T20:56:16.000Z
+395,c212c36376c30c5892a6f406ba889bf2,[Fx]ShoX,False,glacier_pass_1.2,Glacier Pass 1.2,696600,2023-01-14T20:38:26.000Z
+396,d3fcc263bbdfae0e286ab20ade5fe449,[Fx]ShoX,True,sertagatta_v5,Sertagatta_V5,424033,2023-01-14T19:04:51.000Z
+397,82f8c2634b4d22b3b735a665c0a0bc24,[Fx]ShoX,False,red_rock_desert_v1,Red Rock Desert v1,1008800,2023-01-14T18:46:26.000Z
+398,42f5c263c65fa43fb4985f3130ee9ab8,[Fx]ShoX,True,titanduel_v3,TitanDuel_V3,762833,2023-01-14T18:32:34.000Z
+399,2deec263b85fb5acd213ca14bbaa4cc3,[Fx]ShoX,False,death_valley_v1,Death Valley v1,777767,2023-01-14T18:02:21.000Z
+400,f6eac263853794d4f8a41467e4755905,[Fx]ShoX,False,ravaged_v2,Ravaged_v2,724933,2023-01-14T17:48:38.000Z
+401,4de7c2639e9b79c8c63b7327e3424c5a,[Fx]ShoX,True,tundra_v2,Tundra_V2,811900,2023-01-14T17:33:01.000Z
+402,0ce5c26389b7bfd961968b7e6366340e,[Fx]ShoX,True,altair_crossing_V4,Altair_Crossing_V4,331333,2023-01-14T17:23:24.000Z
+403,c5dfc263d45e761528a97a71b925ea2f,[Fx]ShoX,True,barr_1.1,BarR 1.1,1078167,2023-01-14T17:00:53.000Z
+404,58d5c263d229d60f7e2ba6db1cebfe97,[Fx]ShoX,True,red_comet_remake_1.8,Red Comet Remake 1.8,454467,2023-01-14T16:16:24.000Z
+405,5ccdc2634f0292c861b13d93a599ac04,[Fx]ShoX,True,Crystallized Plains 1.01,Crystallized Plains 1.01,326300,2023-01-14T15:42:20.000Z
+406,2ba4c263628648d5600e5fdbe8e140eb,[Fx]ShoX,True,red_comet_remake_1.8,Red Comet Remake 1.8,709233,2023-01-14T12:46:35.000Z
+407,4fa2c26364c42bd535c7dde268dba652,[Fx]ShoX,False,barr_1.1,BarR 1.1,367100,2023-01-14T12:38:39.000Z
+408,3c9fc26381299593914af28e28c316aa,[Fx]ShoX,True,barr_1.1,BarR 1.1,576867,2023-01-14T12:25:32.000Z
+409,1b9dc26304d2d09c94a1abcdf555bb29,[Fx]ShoX,False,barr_1.1,BarR 1.1,425633,2023-01-14T12:16:27.000Z
+410,db9ac263e11a8011c074d113fb85e2d6,[Fx]ShoX,True,barr_1.1,BarR 1.1,462233,2023-01-14T12:06:51.000Z
+411,b098c263d40cb64c1e827f7a7a46439c,[Fx]ShoX,False,red_comet_remake_1.8,Red Comet Remake 1.8,420433,2023-01-14T11:57:36.000Z
+412,7f96c2639b3af40e081f3027d6be4288,[Fx]ShoX,False,altair_crossing_V4,Altair_Crossing_V4,473500,2023-01-14T11:48:15.000Z
+413,b389c263365d8fbb95603ab8e3cd99ea,[Fx]ShoX,True,Crystallized Plains 1.01,Crystallized Plains 1.01,653133,2023-01-14T10:53:39.000Z
+414,a887c2635ca269987d0aa67374c426e2,[Fx]ShoX,True,Crystallized Plains 1.01,Crystallized Plains 1.01,399533,2023-01-14T10:44:56.000Z
+415,0884c263e53d96948059babc7adb1894,[Fx]ShoX,False,Crystallized Plains 1.01,Crystallized Plains 1.01,784700,2023-01-14T10:29:28.000Z
+416,4a81c2638b3f1e75d078d04783e3bd06,[Fx]ShoX,True,Crystallized Plains 1.01,Crystallized Plains 1.01,600900,2023-01-14T10:17:46.000Z
+417,1f7ec26362c25a89ace5f899f2011a70,[Fx]ShoX,False,Crystallized Plains 1.01,Crystallized Plains 1.01,623867,2023-01-14T10:04:15.000Z
+418,f7d1c1632edefe1b87141169589fbb5b,[Fx]ShoX,False,supreme_strait_v1.1,Supreme Strait v1.1,2077867,2023-01-13T21:49:43.000Z
+419,5bcbc163a747e0fa34fbca15eb71d5b5,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1039800,2023-01-13T21:21:31.000Z
+420,61c6c163c15c1546c8f152a306d9bd5d,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,799333,2023-01-13T21:00:17.000Z
+421,31bbc163b044e93d7cec6b73377f4c52,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2285900,2023-01-13T20:12:33.000Z
+422,c9b4c1635bec7e4c45486da1e50ad746,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1249233,2023-01-13T19:45:13.000Z
+423,60aac163f61a1f058399bed0381dd8d9,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2160567,2023-01-13T19:00:48.000Z
+424,8390c06384f5b91baf9494ac16f18a64,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1962833,2023-01-12T22:58:11.000Z
+425,736fc06368c6f4458d65f94b08558b14,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,614567,2023-01-12T20:37:07.000Z
+426,6131c063b82f97583571df06ef9a3865,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1435200,2023-01-12T16:12:17.000Z
+427,162bc063033253e96178244a7f5387de,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,881733,2023-01-12T15:45:26.000Z
+428,5e20c063809be95fa9ad6226989846e6,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1164433,2023-01-12T14:59:42.000Z
+429,c80ac063b8f0cd26778d47acaeaaffec,[Fx]ShoX,False,supreme_strait_v1.1,Supreme Strait v1.1,1987767,2023-01-12T13:27:36.000Z
+430,9bffbf63ae319bad7f41faa6a0488de6,[Fx]ShoX,False,archsimkats_valley_v1,Archsimkats_Valley_V1,1576700,2023-01-12T12:39:55.000Z
+431,3fc1bd633108e7bbb2b39abc73156ee6,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2753567,2023-01-10T19:49:19.000Z
+432,eb80bd63be7e4b16cd423524f2785eaa,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2516367,2023-01-10T15:14:51.000Z
+433,be79bd63d435fb80dbe54705a8597543,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1346833,2023-01-10T14:44:14.000Z
+434,6e72bd630af90397201772ed950eb3e1,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1471133,2023-01-10T14:13:02.000Z
+435,566bbd6358c9895095cfeb94fd91e167,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1488733,2023-01-10T13:42:46.000Z
+436,8a65bd63237d8fdd2e53c56c71920cf9,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1035833,2023-01-10T13:18:02.000Z
+437,dc5dbd632a3682103bdd54b65ccd6162,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1399567,2023-01-10T12:45:16.000Z
+438,6a53bd63f9351d62ef6625360a42226f,[Fx]ShoX,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1935133,2023-01-10T12:00:42.000Z
+439,8248bd6388148a33c1e5b8b7cfb0cc40,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1862967,2023-01-10T11:14:10.000Z
+440,1f40bd638b516f08b87810eb45cc03f7,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1582733,2023-01-10T10:38:23.000Z
+441,1536bd6393e2033b540f5e73a045b981,[Fx]ShoX,True,melting_glacier_v1.1,Melting Glacier v1.1,1850167,2023-01-10T09:55:33.000Z
+442,ce8abc63ab720bce58ef658e46e657a5,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,2362800,2023-01-09T21:44:46.000Z
+443,c886bc6350ca286654053e63dd02ce3d,[Fx]ShoX,True,Tempest_V3,Tempest_V3,691267,2023-01-09T21:27:36.000Z
+444,597cbc63dcf0d2ee5659f4a80927a548,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2143367,2023-01-09T20:43:05.000Z
+445,1f76bc63ec2b503b36cbd716047ab992,[Fx]ShoX,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,949567,2023-01-09T20:16:31.000Z
+446,686ebc638c8c21d09941d4ca4f5374d1,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1474867,2023-01-09T19:43:36.000Z
+447,8c66bc63499b7e0adc353d3f437b49b1,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1374967,2023-01-09T19:10:04.000Z
+448,4b43bc63f9c9d9da88f4e1890fb64fe1,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,843100,2023-01-09T16:39:39.000Z
+449,e83ebc63af1b05e0c85bd6c218247a6b,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,585967,2023-01-09T16:20:56.000Z
+450,6a36bc63e55b9625dd4771b26545d640,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1657667,2023-01-09T15:44:42.000Z
+451,6301bc631fb6d1728f2c8f4e36303f15,[Fx]ShoX,True,colorado_v2_1.1,Colorado_V2 1.1,1147967,2023-01-09T11:58:27.000Z
+452,8afabb6309a1a9ed875254e8d06dfd34,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1228600,2023-01-09T11:29:14.000Z
+453,8af2bb63467f4015084db9ec46270f58,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1089133,2023-01-09T10:55:06.000Z
+454,b4eabb630dbf8930daf1596bb5c9437a,[Fx]ShoX,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1456367,2023-01-09T10:21:40.000Z
+455,f513bb6317289e346be668ac014a701f,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1023200,2023-01-08T19:05:25.000Z
+456,a807bb637d3cba23ad096a0d970d5d32,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2361866,2023-01-08T18:12:56.000Z
+457,36fdba6306504b2e24c274ad2eb6ff30,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,2096667,2023-01-08T17:28:22.000Z
+458,aaf2ba63cd722d2c46516391404de1a3,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1885800,2023-01-08T16:43:22.000Z
+459,33c9ba631b549bb62125c70ad1d0a4b6,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,963033,2023-01-08T13:46:27.000Z
+460,e9c0ba63400d450ef9d3199f0899eb38,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1648833,2023-01-08T13:11:05.000Z
+461,59b9ba6383907eedc101efebbe7053c4,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1322100,2023-01-08T12:38:49.000Z
+462,ed9cba63b9de56ff7feb692653021e2c,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1230867,2023-01-08T10:37:33.000Z
+463,168aba6342fc042c1e9ec63d819b7f93,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1074033,2023-01-08T09:17:10.000Z
+464,d782ba630b9027df698c1a578d321e16,[Fx]ShoX,True,cervino_v1,Cervino v1,1278500,2023-01-08T08:46:15.000Z
+465,9279ba63eac11d067b8eff4783f44e7e,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1885867,2023-01-08T08:06:42.000Z
+466,e5dbb96376ec89120fe5d7a22667a138,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,2022967,2023-01-07T20:53:57.000Z
+467,44d6b9637ed54d3dd27f36e67ba51bf6,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,963800,2023-01-07T20:29:56.000Z
+468,8ad3b9639998b1548654029429f72a51,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,409000,2023-01-07T20:18:18.000Z
+469,82cab963c1caa8a4f598b496e6303999,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1763933,2023-01-07T19:39:46.000Z
+470,5bc3b96333d6c3843abcfd8a81d80904,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1413467,2023-01-07T19:09:15.000Z
+471,65bcb963c985893c906112833d714086,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1318500,2023-01-07T18:39:33.000Z
+472,28b2b9635f4f6a3059f9a61f5facd536,[Fx]ShoX,False,Tempest_V3,Tempest_V3,2118867,2023-01-07T17:55:52.000Z
+473,0ba9b9633f99774bc64353c02537df02,[Fx]ShoX,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1325067,2023-01-07T17:16:59.000Z
+474,fea1b963313131d79e1ce689d18f0120,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,631167,2023-01-07T16:46:54.000Z
+475,0d99b96384edc26fec557e3e2b23f13b,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1254267,2023-01-07T16:08:45.000Z
+476,7e8bb9631628765bf78ebea1f61b2d9e,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,2583133,2023-01-07T15:10:54.000Z
+477,2066b8631694b191d106cd649b1b13b3,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1852733,2023-01-06T18:19:12.000Z
+478,755bb863256578b622743fc1d848ef7d,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2075700,2023-01-06T17:33:41.000Z
+479,9a55b863b025c46befea568765159575,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,848467,2023-01-06T17:08:42.000Z
+480,cf4fb863e38a62b31c7e8ce5076539b7,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,878933,2023-01-06T16:43:59.000Z
+481,853bb7631c2c4dc01e65e137cebfbb49,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2847333,2023-01-05T21:05:09.000Z
+482,282cb763cb0039618ba4f0f3629790df,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2695033,2023-01-05T19:59:36.000Z
+483,0727b763509f50b4780172fb15007518,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,948600,2023-01-05T19:37:43.000Z
+484,c805b7631a0ba5b3c9404f520de81f49,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1570933,2023-01-05T17:15:52.000Z
+485,c0feb663fc3893532aa48714d5087dd4,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1385967,2023-01-05T16:45:52.000Z
+486,e8f8b66316a9c6e3af9bf53a863b25d8,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1018500,2023-01-05T16:20:56.000Z
+487,3af0b663ff4d528d983930447cd5f48e,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1524133,2023-01-05T15:43:54.000Z
+488,92d5b663b40fd935fc8d91044d64d9fd,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1135667,2023-01-05T13:50:10.000Z
+489,4d8ab663482f76cb926da9896fa892b6,[Fx]ShoX,True,cape_violet_v1,Cape_Violet_V1,1734233,2023-01-05T08:29:01.000Z
+490,ab7db66371b444d3c46c4e9f2ee4d71c,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1651933,2023-01-05T07:35:07.000Z
+491,c877b6634a2d67b12fce1c0164546163,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1085133,2023-01-05T07:10:00.000Z
+492,b273b663def94eb35664e6f1618f709f,[Fx]ShoX,True,forge_v1.4,Forge v1.4,762700,2023-01-05T06:52:34.000Z
+493,b96bb663f102e8dca6f07b2c83ac046b,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1746667,2023-01-05T06:18:33.000Z
+494,3467b663d54edc326ad5e1b98693e472,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,843933,2023-01-05T05:59:16.000Z
+495,c35db66332704cc7f88b5b4c957870d0,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,2016333,2023-01-05T05:18:59.000Z
+496,44b5b5633e184f1b76a2e9c39ce3d186,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,3710867,2023-01-04T17:20:04.000Z
+497,9193b4632c1bd2fe3dd2080add80b7bd,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1660733,2023-01-03T20:44:01.000Z
+498,0b88b46356a853a4772f77ed20f43055,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2490533,2023-01-03T19:54:51.000Z
+499,8e83b4631c37860c3ed5d270668cd056,[Fx]ShoX,False,ice_scream_v2.1,Ice Scream v2.1,843800,2023-01-03T19:35:42.000Z
+500,ca7bb46349be95ae6a6b1e3e3cb8e1fc,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1455700,2023-01-03T19:02:34.000Z
+501,ab6eb463c90cf2074041b476442aa1a1,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,2824900,2023-01-03T18:06:35.000Z
+502,ef66b463d1f7a42d382a1e6ebfa8ab2c,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1420633,2023-01-03T17:33:35.000Z
+503,7b60b4635398a5b5e3f12fce35da9e26,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1164200,2023-01-03T17:06:03.000Z
+504,6a52b463010a47ccba0ddec9a9cd1347,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1863567,2023-01-03T16:06:02.000Z
+505,6b4ab46324c56ba547d73ca26ec0e8a4,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1484967,2023-01-03T15:31:55.000Z
+506,cd42b463fa00aa25f066db1e2cd73d82,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1360333,2023-01-03T14:59:25.000Z
+507,6f35b4635a4a8e91cc5259c6e9afa9b6,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2408000,2023-01-03T14:02:23.000Z
+508,5c2bb463fe280480f0388b3a2875d778,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2015500,2023-01-03T13:19:24.000Z
+509,658db363d60687ee3b9aa70562a16070,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,977100,2023-01-03T02:05:25.000Z
+510,268ab3637efdcf76813b91a18b99a38f,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,747700,2023-01-03T01:51:34.000Z
+511,9887b36321d5520e81f9cf8f7748834e,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,528733,2023-01-03T01:40:40.000Z
+512,e4acb263d15a0bf6184f6686cedf2e5a,[Fx]ShoX,False,ice_scream_v2.1,Ice Scream v2.1,3117967,2023-01-02T10:07:32.000Z
+513,c1a0b2635c10586fbb0a6742c3dc4d01,[Fx]ShoX,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,2599833,2023-01-02T09:15:45.000Z
+514,fb98b263d4b0640eadd162a2ead74699,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,1060033,2023-01-02T08:42:35.000Z
+515,d492b263eaff49cf68aa9a0c3bdaf8d2,[Fx]ShoX,False,tangerine_remake_1.0,Tangerine_Remake 1.0,860633,2023-01-02T08:16:20.000Z
+516,e28cb2632cee3b9b6969490a0ad397cb,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,954533,2023-01-02T07:50:58.000Z
+517,437fb2639f136170851f9163e969a3aa,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2582267,2023-01-02T06:52:51.000Z
+518,8579b263606ecdc52f6252304e3edb62,[Fx]ShoX,False,mescaline_v2,Mescaline_V2,1114267,2023-01-02T06:28:21.000Z
+519,0fffb16378ef071e5d7d4a15757e4f4c,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,3038467,2023-01-01T21:45:51.000Z
+520,35f8b163cb50fe758bc46767f5d892a1,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1303367,2023-01-01T21:16:37.000Z
+521,9abab063e080675f1a8f1f4a6d86f65b,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1687667,2022-12-31T22:41:30.000Z
+522,7cb2b063f37b43b0b016d93acddc46c4,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1766000,2022-12-31T22:06:52.000Z
+523,9dacb063390672e897492568bea3799c,[Fx]ShoX,False,FolsomdamR_1.16,FolsomDamR 1.16,847767,2022-12-31T21:41:49.000Z
+524,b0a5b063e732b81d7e459189d9c14910,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1244133,2022-12-31T21:12:16.000Z
+525,5186b063cbbc36fabf886274abcf9a78,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1766667,2022-12-31T18:58:25.000Z
+526,ec7eb0630a8a85bef1bbda692c0c88a9,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1385667,2022-12-31T18:26:52.000Z
+527,1c7ab0638d6bf1ed833bded4fd46334e,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,754567,2022-12-31T18:06:20.000Z
+528,9b71b06382f1b371a0e3e7a5462d1c6d,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1625933,2022-12-31T17:30:03.000Z
+529,2a69b0637a04eb3a0ab55e4aedf5b089,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1748800,2022-12-31T16:54:02.000Z
+530,6c5eb063bb8af5a7d4cebaf539199dd5,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2323467,2022-12-31T16:08:12.000Z
+531,3d53b063f2ce36b9919ff756f0138933,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2322267,2022-12-31T15:20:29.000Z
+532,1db8af63cb672fb615397209e9ca303f,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2343267,2022-12-31T04:18:37.000Z
+533,77acaf638bfdcaf749d12f985114e505,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2574100,2022-12-31T03:28:55.000Z
+534,68a5af63b91cc05d2518534dd043ee3a,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1318567,2022-12-31T02:58:48.000Z
+535,23a0af63f8b8c57996665001a4bf7376,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1100500,2022-12-31T02:36:19.000Z
+536,be9aaf638ae30ae1be9ed7409bac4526,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,981167,2022-12-31T02:13:18.000Z
+537,5b92af637bc85fb32845834fa2f32f94,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1095033,2022-12-31T01:37:31.000Z
+538,678daf63582f221251309c394ba36688,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,912633,2022-12-31T01:16:23.000Z
+539,5687af6390e136db5a1b53377e30a843,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,961667,2022-12-31T00:50:30.000Z
+540,2053af63869b5b6421d526706cd80ee5,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1354433,2022-12-30T21:07:44.000Z
+541,7447af63cf0d4976b4dbb716c517a73d,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,2227800,2022-12-30T20:17:56.000Z
+542,de41af63371a99c02a9d8e137464f99c,[Fx]ShoX,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,987567,2022-12-30T19:54:06.000Z
+543,2b3baf6324c8a0c09930fca230ce9402,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1287833,2022-12-30T19:25:31.000Z
+544,6833af631bc7eb02761b1eb2d45bd9f1,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1380800,2022-12-30T18:52:24.000Z
+545,524dae63db8ab7123905f8f632535602,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2327267,2022-12-30T02:30:42.000Z
+546,5c47ae636c962ba4af35d8c95d11d3fc,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,884733,2022-12-30T02:05:16.000Z
+547,0d40ae63d116988c1997c858cf0519b3,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1500900,2022-12-30T01:34:05.000Z
+548,1a37ae638225f236e444829ea15e8c22,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2027667,2022-12-30T00:55:54.000Z
+549,852bae63184534d9e84c9db7169a884e,[Fx]ShoX,True,shore_to_shore_v3,Shore_to_Shore_V3,1851000,2022-12-30T00:06:29.000Z
+550,ab03ae6336c6516646ca1a1ba2a184be,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1357600,2022-12-29T21:16:27.000Z
+551,45fead635aa203ebbf3560ada8fb2d17,[Fx]ShoX,True,titan_v3.1,Titan v3.1,1134167,2022-12-29T20:53:25.000Z
+552,0cf5ad636fc058e11ce787db502d7f1f,[Fx]ShoX,False,Sunderance V1.3,Sunderance V1.3,1772833,2022-12-29T20:14:04.000Z
+553,7fe4ad63b2fa000d818d3f89165f8941,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1669633,2022-12-29T19:03:27.000Z
+554,58dbad63538665e346bc7b450cd738be,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1011967,2022-12-29T18:24:24.000Z
+555,d3baad637b3a0306a4ac3b0d73acf8c9,[Fx]ShoX,True,eye_of_horus_1.7,Eye Of Horus 1.7,425033,2022-12-29T16:05:39.000Z
+556,5cacad63a6749d78a5adee7faa31b5b1,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,911567,2022-12-29T15:03:56.000Z
+557,f9a0ad63312680a3192a1ea173731c80,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2194300,2022-12-29T14:15:21.000Z
+558,fa99ad63e8ba42b8a2d1e22fded11006,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1140700,2022-12-29T13:45:30.000Z
+559,11f0ac63ee23739a12b460fa50e0257d,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1160733,2022-12-29T01:40:33.000Z
+560,7ce7ac63a7b1388ed8890a7aea7f6941,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1858600,2022-12-29T01:03:56.000Z
+561,72e2ac63065d51bfb5ef152aeea22aaf,[Fx]ShoX,False,tabula_remake_1.5,Tabula_Remake 1.5,968933,2022-12-29T00:42:26.000Z
+562,03deac63748b46686c9e7b6bf27ad616,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,609367,2022-12-29T00:23:31.000Z
+563,fbd9ac6348d8a3db4a4a06bc9d0bf7d8,[Fx]ShoX,False,hotlips_remake_v3.1,Hotlips Remake v3.1,607733,2022-12-29T00:06:19.000Z
+564,c9afac63664104523248bd309d9aca39,[Fx]ShoX,True,greenest_fields_1.3,Greenest Fields 1.3,2761400,2022-12-28T21:06:17.000Z
+565,e57aac639edfbbd79c900cbb7c3631bd,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1534633,2022-12-28T17:20:37.000Z
+566,4975ac63fa7a8137122ea875ceb152cf,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1110600,2022-12-28T16:56:41.000Z
+567,0d6cac63ca8d27ef907f2ec8c36cf7c4,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1958267,2022-12-28T16:17:17.000Z
+568,a25aac63ea022915b364d853fe762469,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,3234733,2022-12-28T15:02:58.000Z
+569,6c61aa63a0921c383105bd7e9bb1a664,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1529767,2022-12-27T03:07:24.000Z
+570,0354aa638ed1e55fafa77b8026e8e860,[Fx]ShoX,False,throne_v8,Throne_V8,2981867,2022-12-27T02:10:11.000Z
+571,c045aa636820417ea86926529309efbc,[Fx]ShoX,False,dworld_v3,DWorld_V3,3187367,2022-12-27T01:09:20.000Z
+572,efffa963d6b6446571be412f9d6c11b3,[Fx]ShoX,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1986533,2022-12-26T20:11:27.000Z
+573,d2f3a963d29fa047ef7c7a37d80f5349,[Fx]ShoX,False,ice_scream_v2.1,Ice Scream v2.1,2697333,2022-12-26T19:19:46.000Z
+574,b5caa9636db0756a7bb1d8a2f54eaf86,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1816700,2022-12-26T16:24:21.000Z
+575,c744a963b4e0f967251e3e28bc4b939e,[Fx]ShoX,False,dworld_v3,DWorld_V3,3047033,2022-12-26T06:52:55.000Z
+576,dc38a963e689e1621cd93c23bd417e91,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2054167,2022-12-26T06:02:04.000Z
+577,e61ca9635b154f02a123de2e8a82a93a,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,2441300,2022-12-26T04:02:46.000Z
+578,1b12a963570d1b14f9711e80be68422a,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1892733,2022-12-26T03:16:43.000Z
+579,06a3a4633b9ccc8b02f71e60f8a20139,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1790533,2022-12-22T18:33:42.000Z
+580,c498a46387ab950b5957bdf84c3a1e55,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1585867,2022-12-22T17:49:56.000Z
+581,0386a463aff18b6726345b2cdebe6e37,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,3771567,2022-12-22T16:29:55.000Z
+582,2968a46349d8c569b6f31ea53330c6c5,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2446733,2022-12-22T14:22:33.000Z
+583,06a1a3639b0caaf6abcdc672504bf06f,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2603033,2022-12-22T00:12:54.000Z
+584,2f9aa36360e857eb07e40e5900392a2b,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1136833,2022-12-21T23:43:43.000Z
+585,cb8fa36309c4fd683d91093d2cf1d4c7,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2197900,2022-12-21T22:59:23.000Z
+586,ca8aa363c9e14fd5c574ff50cc75d19c,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1006633,2022-12-21T22:38:02.000Z
+587,6281a363d4ab5f81012966efdc0e235d,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1776833,2022-12-21T21:57:54.000Z
+588,3c7ba363be9eab385bb18a65b0039e87,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1198633,2022-12-21T21:31:40.000Z
+589,2e5aa363c684c2afeeef536c4e73f306,[Fx]ShoX,True,Pinewood_Derby_V1,Pinewood_Derby_V1,1080367,2022-12-21T19:10:38.000Z
+590,044ea3634ee9fdbaa518fab822e8c017,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2241600,2022-12-21T18:18:44.000Z
+591,8b42a363ea7165d731758edcba76a1be,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2431567,2022-12-21T17:29:47.000Z
+592,8b36a3633a5f60c356d5cb0cbf443d18,[Fx]ShoX,False,ghenna_rising_4.0,Ghenna Rising 4.0,2432967,2022-12-21T16:38:35.000Z
+593,8211a3639745e88101af3aa8d9256628,[Fx]ShoX,True,stronghold_v4,Stronghold V4,1486233,2022-12-21T14:00:34.000Z
+594,a958a26322172fd3510aaef93d1e564b,[Fx]ShoX,False,Pinewood_Derby_V1,Pinewood_Derby_V1,1277500,2022-12-21T00:51:53.000Z
+595,5f51a263d9b1b8f460ccf2c25902587a,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1412100,2022-12-21T00:20:47.000Z
+596,1e44a2631504ba53c69e2689485446e8,[Fx]ShoX,True,Otago Redux 1.33,Otago Redux 1.33,2227300,2022-12-20T23:24:14.000Z
+597,2e1ca26382e4047692fe22aea87602ae,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,2268067,2022-12-20T20:33:50.000Z
+598,d517a263696ad8ce0d3c0dc26beaa795,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,659867,2022-12-20T20:15:17.000Z
+599,6f04a2632137cba31ec110b9aa45a37e,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,3579400,2022-12-20T18:52:31.000Z
+600,83cfa163a500e1a8ba4a262fb83d3cb6,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2639833,2022-12-20T15:06:43.000Z
+601,07e5a0634da947c59dfd6338395ad71e,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1186600,2022-12-19T22:26:15.000Z
+602,c9dca063fd0ceb8c8d4ab9eb473ea11f,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1489367,2022-12-19T21:51:05.000Z
+603,b8d6a063d63ebccbc607530ac3b78d52,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1132700,2022-12-19T21:25:12.000Z
+604,2bd0a06337932aa0f2b1c6a99f64b7a0,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,808667,2022-12-19T20:57:15.000Z
+605,dbbda063cedadd76f03019d7ca2052f6,[Fx]ShoX,True,forge_v1.4,Forge v1.4,877100,2022-12-19T19:39:07.000Z
+606,dcb7a0638fa094c831dd8b84b2fdbcfd,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1072967,2022-12-19T19:13:32.000Z
+607,e2ada063326d73f5d0c42cfa27fd52cd,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2037967,2022-12-19T18:30:58.000Z
+608,e9979f63a1747b6d040051aff2ec89b9,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2628100,2022-12-18T22:44:57.000Z
+609,f9849f63ee9045626ab190f24a3128ce,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,4186600,2022-12-18T21:24:09.000Z
+610,54589f635c6675e7611a72c51cb985ee,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2676067,2022-12-18T18:13:40.000Z
+611,ba4e9f63fd638fadac39869af84d425a,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,1835467,2022-12-18T17:32:42.000Z
+612,4d499f6323bf19957fb115c2b2c04a88,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,712900,2022-12-18T17:09:33.000Z
+613,536f9e63e1b524f51f6277efb2646c6c,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1188467,2022-12-18T01:39:31.000Z
+614,26669e633e021b8e216926a91bcc7547,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1626733,2022-12-18T01:00:22.000Z
+615,794a9e63778a8044e60230847ed61e7b,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2888800,2022-12-17T23:02:17.000Z
+616,61469e63a153530412cea01726c86500,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,565933,2022-12-17T22:44:49.000Z
+617,f43d9e635a0766cebe03542cdc9527d9,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,1675567,2022-12-17T22:08:52.000Z
+618,10329e6390031457bf2680fcff235f8c,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2598767,2022-12-17T21:18:08.000Z
+619,d3259e638af109e3f5ffd66cbe9444c3,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,2603733,2022-12-17T20:25:55.000Z
+620,7d189e6392a75165b8231cc018fd3ebc,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,2597267,2022-12-17T19:29:01.000Z
+621,f8e19d636a2a4da3317015bf829009d9,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,1640800,2022-12-17T15:36:24.000Z
+622,f9d89d63069e9328da65c91e0be00f21,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1944900,2022-12-17T14:58:01.000Z
+623,f0c79d63d25897d3980bcafa4404b842,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,3165567,2022-12-17T13:45:20.000Z
+624,21ba9d63f9595da6a36cdab9fb54f559,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,2410600,2022-12-17T12:46:25.000Z
+625,9aae9d63fc0d46829c1bf8d04e02a3a0,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2385533,2022-12-17T11:57:14.000Z
+626,02f19c63c20f1e97a07324c9e8bbeb10,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,930300,2022-12-16T22:28:18.000Z
+627,87e79c636a7de126580164eeb1bdda83,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1767500,2022-12-16T21:47:51.000Z
+628,15dc9c63aa0e9ce70d6ad17e545243fe,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,2257634,2022-12-16T20:59:01.000Z
+629,1ed59c63a0dafa416d1210c20e5b7147,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1057300,2022-12-16T20:29:18.000Z
+630,14ce9c6354b704f5a349f807d94909f5,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1251567,2022-12-16T19:59:16.000Z
+631,98b99c63092e8dc088354a35d8e46645,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2410300,2022-12-16T18:31:52.000Z
+632,d4b29c63aa8d272565ffe58ba1785fbc,[Fx]ShoX,True,lightside_darkside_v2.0,Lightside Darkside v2.0,1188633,2022-12-16T18:03:00.000Z
+633,12879c633ffaad3d95a7447bc0ddd588,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1182533,2022-12-16T14:56:18.000Z
+634,13829c63abd59b10b193ddeb8442a9fe,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,861933,2022-12-16T14:34:59.000Z
+635,7a7f9c6324a30fac8cd78085db066833,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,548800,2022-12-16T14:23:54.000Z
+636,2d719c634b58383c4e69053618b0d817,[Fx]ShoX,True,Tempest_V3,Tempest_V3,2606567,2022-12-16T13:22:53.000Z
+637,1e6c9c63b6b0a02bbc130e1250c4365b,[Fx]ShoX,False,valles_marineris_2.6,Valles Marineris 2.6,641767,2022-12-16T13:01:18.000Z
+638,54a09b630022c6a3c63fd9744ba9621f,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1313300,2022-12-15T22:31:48.000Z
+639,da869b63810fb3386c3bc035752454cd,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1026800,2022-12-15T20:43:06.000Z
+640,eb829b638d7bc9e7b92ce0c60ca0bb6e,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,492900,2022-12-15T20:26:19.000Z
+641,b07b9b6387115e5ec766e0abd22fa551,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1113333,2022-12-15T19:55:28.000Z
+642,cd759b63e18995a05de70e73f108e201,[Fx]ShoX,False,Sunderance V1.3,Sunderance V1.3,934900,2022-12-15T19:30:21.000Z
+643,2d709b6378daf1fd4a9e4bb7c4dcace7,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,975700,2022-12-15T19:06:21.000Z
+644,595f9b63eb584947ea5599cfdb6b2f6a,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1584733,2022-12-15T17:54:33.000Z
+645,265a9b63bf66bb440197953d9a19f753,[Fx]ShoX,True,speedmetal_bar_v2,SpeedMetal BAR V2,938467,2022-12-15T17:32:22.000Z
+646,84509b6325f6d14ced5688709187d463,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,1949933,2022-12-15T16:51:16.000Z
+647,c1489b6399925690da01681aa29bdab0,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,1384600,2022-12-15T16:18:09.000Z
+648,953d9b63867f69acbb93b6aa2db0bd1d,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2020967,2022-12-15T15:30:29.000Z
+649,04149b63e9a9ec1ff49d1e787b722fa4,[Fx]ShoX,False,ice_scream_v2.1,Ice Scream v2.1,2125866,2022-12-15T12:33:08.000Z
+650,6c0c9b63dad20bdbde1efe86e6e7636c,[Fx]ShoX,True,archsimkats_valley_v1,Archsimkats_Valley_V1,932133,2022-12-15T12:00:44.000Z
+651,ec029b63f71c9a7620c3d84f345233e4,[Fx]ShoX,False,small_supreme_battlefield_v3,Small_Supreme_Battlefield_V3,1117200,2022-12-15T11:20:12.000Z
+652,32f89a630011191cff427a2b8f345233,[Fx]ShoX,False,forge_v1.4,Forge v1.4,2027033,2022-12-15T10:34:26.000Z
+653,37479a63f4fc5006d093165dcea88c45,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1640567,2022-12-14T21:59:19.000Z
+654,f9419a634e92abb82797ff72baec13b2,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,778633,2022-12-14T21:36:57.000Z
+655,523a9a639e9233c59d3a5a82015baee8,[Fx]ShoX,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1013767,2022-12-14T21:04:18.000Z
+656,a12e9a6346280f431725be2b6e2ae0f3,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,2178900,2022-12-14T20:14:25.000Z
+657,10289a6376eec41f8f7e232ec35729f3,[Fx]ShoX,False,ice_scream_v2.1,Ice Scream v2.1,1151767,2022-12-14T19:46:24.000Z
+658,a01b9a6316cd10abe6ce1ba1ba3eba99,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2309700,2022-12-14T18:53:20.000Z
+659,9a119a6324e869d1fa4f7658a0436733,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1819733,2022-12-14T18:10:34.000Z
+660,c6029a63d59c567cd846cab6735e60d7,[Fx]ShoX,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,2921000,2022-12-14T17:07:18.000Z
+661,4ceb98635bdb198a2bab9810e5d23350,[Fx]ShoX,False,forge_v1.4,Forge v1.4,3020700,2022-12-13T21:14:52.000Z
+662,b0e59863300eec4cd10a4a0a592fbd08,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1093567,2022-12-13T20:50:56.000Z
+663,9bdf9863637bf5c352ea44e900e884a5,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,1096333,2022-12-13T20:24:59.000Z
+664,76d898639326d123e44e7cd5d1ff3a45,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1441833,2022-12-13T19:54:30.000Z
+665,e5cf98632fd40605c20466f31c112a7a,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1702600,2022-12-13T19:17:57.000Z
+666,69c99863ed0c5be6ef56bfbec04bdc26,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1014700,2022-12-13T18:50:17.000Z
+667,79bd986381db07e1aad12d40a925e2e5,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2072533,2022-12-13T17:59:21.000Z
+668,08b4986386f60a95f5fa03a3441b212f,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,1634900,2022-12-13T17:19:04.000Z
+669,88ab98630634aa1d29b56dab842a8207,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1500533,2022-12-13T16:42:48.000Z
+670,d7a59863777671cb9b0b0d3d06d30feb,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,942833,2022-12-13T16:18:31.000Z
+671,179f9863ede17d141c1186e38cb4f215,[Fx]ShoX,True,red_rock_desert_v1,Red Rock Desert v1,1221600,2022-12-13T15:49:43.000Z
+672,589d97630a35525b3bd1469299e3c2de,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,2378433,2022-12-12T21:30:00.000Z
+673,739697635c18b8c967d7bf8fa308a340,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1319800,2022-12-12T21:00:35.000Z
+674,5a899763c8637ba323a667275450b99d,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,2584167,2022-12-12T20:04:42.000Z
+675,677c9763755522f872aef8981f3a39e0,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,1978933,2022-12-12T19:09:27.000Z
+676,10709763e12f37ce5daab20c8a55a09a,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2615800,2022-12-12T18:16:48.000Z
+677,7d0097630fecb58a472c1a07a8646ddd,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1808533,2022-12-12T10:20:45.000Z
+678,77f79663c54642ae99d63913fd84a14f,[Fx]ShoX,False,tabula_remake_1.5,Tabula_Remake 1.5,1727333,2022-12-12T09:42:15.000Z
+679,3fe5966319400a23fb08edfd7ad877cd,[Fx]ShoX,False,silent_sea_v1,Silent Sea v1,657700,2022-12-12T08:24:31.000Z
+680,adda9663d2badb32fb4cdb47e386aed3,[Fx]ShoX,True,forge_v1.4,Forge v1.4,2128700,2022-12-12T07:39:25.000Z
+681,4c3f9663507c84731be2e035cf2419f2,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1136867,2022-12-11T20:36:28.000Z
+682,833396630eb80d895bd4d42901ae3c44,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1720167,2022-12-11T19:46:11.000Z
+683,e92c9663dbf02f8346d42056823a864c,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1160367,2022-12-11T19:18:01.000Z
+684,dd1f96631c50badd0de5d34b786ccd6f,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2830433,2022-12-11T18:22:21.000Z
+685,3f17966392b39d1a6d77dd2912ec781c,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1812533,2022-12-11T17:45:35.000Z
+686,58fc956385c9724dfb240a817ae7eaf7,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1589400,2022-12-11T15:50:48.000Z
+687,abb59563b30a574649776be6ff8bcc98,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1642033,2022-12-11T10:49:15.000Z
+688,92b0956363a33ccdf7fd8622be5d5f74,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,926800,2022-12-11T10:27:30.000Z
+689,3fab956319b68cab40e493506a0b2cc3,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,989633,2022-12-11T10:04:47.000Z
+690,39a29563b586098f82fce167c62e770a,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1674600,2022-12-11T09:26:17.000Z
+691,8ae39463d34094f4dfe72c44e57a1ba1,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1788100,2022-12-10T19:52:42.000Z
+692,b7dd94636413332b48db6ac989e3ecb7,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1020667,2022-12-10T19:27:51.000Z
+693,97d19463a2db35cf47384b36b04beeca,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,2333633,2022-12-10T18:36:07.000Z
+694,8ec794634c1759f01cd1e9019d5a1fe5,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,2131433,2022-12-10T17:53:18.000Z
+695,19c494634bfdc650011fc0eebbfd2919,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,424533,2022-12-10T17:38:33.000Z
+696,1abb9463b114a3927d34c7210d66bcec,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1043833,2022-12-10T17:00:10.000Z
+697,df7f946372600624a09405d731892d38,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2237467,2022-12-10T12:47:27.000Z
+698,7e7894637d910207d14570bf8cfd6d68,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1444567,2022-12-10T12:15:58.000Z
+699,f4749463b2454087653d48cde3fafa24,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,544633,2022-12-10T12:00:52.000Z
+700,76689463dbd7b20704adff52bc5fee74,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2347400,2022-12-10T11:07:34.000Z
+701,3c619463df8e45a1402c8fbf57f35291,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1248433,2022-12-10T10:36:44.000Z
+702,a4579463f46ecf665fc692acd52c3f43,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2005400,2022-12-10T09:55:48.000Z
+703,07509463e906ea329a47569fbad93fa8,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1365800,2022-12-10T09:23:19.000Z
+704,1c499463c15efaccefac16447070c619,[Fx]ShoX,False,Rosetta1.4,Rosetta 1.4,1100733,2022-12-10T08:53:48.000Z
+705,fb429463e9b8dbe5a44327447af70829,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1195667,2022-12-10T08:27:39.000Z
+706,e83c9463eeebe9e53d592ebe20c90b79,[Fx]ShoX,True,mariposa_island_v2.4,Mariposa Island v2.4,1139500,2022-12-10T08:01:44.000Z
+707,133194633668ac91e614678c5791f105,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2009033,2022-12-10T07:11:15.000Z
+708,a82a9463ecd41e44421a65619ad968b3,[Fx]ShoX,True,Rosetta1.4,Rosetta 1.4,1139967,2022-12-10T06:43:52.000Z
+709,b41c9463e00880daa095c7ccde433b22,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2587867,2022-12-10T05:44:20.000Z
+710,0feb926374d5e18cddf6c13e07c98104,[Fx]ShoX,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1497433,2022-12-09T08:00:15.000Z
+711,72d9926317777558c5bfce1e7ce0e9d0,[Fx]ShoX,True,mariposa_island_v2.4,Mariposa Island v2.4,1267367,2022-12-09T06:45:06.000Z
+712,a3cf926343bff926c2d057b7a2c41ac2,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,1655667,2022-12-09T06:03:15.000Z
+713,c0aa9263ec9907659110b65df556d8c6,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,754800,2022-12-09T03:25:52.000Z
+714,74e691637c7b68f9c7e32dbb5c01f6cc,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1328900,2022-12-08T13:28:20.000Z
+715,dddc9163015425f5a6b3cd6e8b68ca5d,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,2019100,2022-12-08T12:47:25.000Z
+716,d2d6916378fcc9f25a7b9275c400c441,[Fx]ShoX,True,desolation,Desolation v1,586933,2022-12-08T12:21:38.000Z
+717,71d09163601815ae9fa3db5234cafbc7,[Fx]ShoX,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1015900,2022-12-08T11:54:25.000Z
+718,689f9163f79d6a693dfe9450dba8727f,[Fx]ShoX,True,great_divide_v1,Great Divide V1,441000,2022-12-08T08:25:12.000Z
+719,ad9c91630a8c28fcd3bd8b6def01e9a3,[Fx]ShoX,True,great_divide_v1,Great Divide V1,494733,2022-12-08T08:13:33.000Z
+720,f398916351d9bc08dec56419bd593d58,[Fx]ShoX,True,mithril_mountain_v2,Mithril Mountain v2,743100,2022-12-08T07:57:39.000Z
+721,5f959163681d40e24699cea61e8ea9fc,[Fx]ShoX,False,mithril_mountain_v2,Mithril Mountain v2,653000,2022-12-08T07:42:23.000Z
+722,80589163886aaa5b43f96095aad6e806,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2806233,2022-12-08T03:22:40.000Z
+723,1d4e916314eff557624d12d4f258ae35,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,2109300,2022-12-08T02:38:21.000Z
+724,93469163771c01d73fa3877048e9aa5b,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,982667,2022-12-08T02:06:11.000Z
+725,603b91634ba64fc9a0253c9f1ed13f16,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2208634,2022-12-08T01:18:24.000Z
+726,b22f9163f49c6f9cdda5eb498806fffc,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2634667,2022-12-08T00:28:34.000Z
+727,1e24916365e6ef2020346acea0b96c71,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2325700,2022-12-07T23:39:10.000Z
+728,925c90630cbd779faa811dda80277a11,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2319567,2022-12-07T09:27:46.000Z
+729,505490635eed899540ff6fed9cc45096,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1396733,2022-12-07T08:52:32.000Z
+730,084d906322fc9561010f4d517edd11da,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1054733,2022-12-07T08:21:28.000Z
+731,af489063f431d068d8055190f852b926,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,722600,2022-12-07T08:02:55.000Z
+732,ff409063d95477dd25865b7627dfbe0f,[Fx]ShoX,True,red_comet_remake_1.8,Red Comet Remake 1.8,1557500,2022-12-07T07:30:07.000Z
+733,b23c906340a3a41b64c7e406c5353311,[Fx]ShoX,True,red_comet_remake_1.8,Red Comet Remake 1.8,782033,2022-12-07T07:11:46.000Z
+734,2c389063ccac9151059d6512e56d50aa,[Fx]ShoX,False,great_divide_v1,Great Divide V1,693033,2022-12-07T06:52:28.000Z
+735,2a2d9063719cfbed597901341fee20de,[Fx]ShoX,True,death_valley_v1,Death Valley v1,2266367,2022-12-07T06:05:30.000Z
+736,3e2790637942052c487e7e1400d2d893,[Fx]ShoX,True,desolation,Desolation v1,1154600,2022-12-07T05:40:14.000Z
+737,6a2090638207bbb064a9463515e1acef,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1282267,2022-12-07T05:11:06.000Z
+738,c31690638363122da65cf220329e6b80,[Fx]ShoX,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1487500,2022-12-07T04:29:55.000Z
+739,b10a90634f21421d1644757f4dc4d60c,[Fx]ShoX,False,NuclearWinterR,Nuclear Winter Bar 1.4,2511900,2022-12-07T03:38:25.000Z
+740,55069063edba49ddf315a484aa87e43d,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,536333,2022-12-07T03:19:49.000Z
+741,a4ed8f630ea86e26662f4e6db2bbaa7c,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1729733,2022-12-07T01:34:28.000Z
+742,01c08e6365b5274615a555ee481ae4a1,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,3012667,2022-12-06T04:07:29.000Z
+743,27b88e634e514e67f31fd6ceb4b8804e,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1346467,2022-12-06T03:33:59.000Z
+744,00375c63f393fe10fcc79ff95be78589,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1469433,2022-10-28T20:09:36.000Z
+745,e92f5c6392b84ac852fa81de64ab6c99,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1168067,2022-10-28T19:39:21.000Z
+746,ca245c6336b94d00f8ef969f7ce50a85,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1967900,2022-10-28T18:51:54.000Z
+747,0ce25463ab9113227fb73b7e6a3e55d7,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2054200,2022-10-23T06:41:16.000Z
+748,b8231d63a1903bd61f6f57e5b65fa8fe,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1542733,2022-09-10T23:54:32.000Z
+749,451e1d63e24108fffe599e4c7a492146,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,715100,2022-09-10T23:31:17.000Z
+750,cc161d63a208af834435fd7372f9f352,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1368700,2022-09-10T22:59:24.000Z
+751,817b01634720a953ec309c47d8aa5452,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2436767,2022-08-21T00:25:37.000Z
+752,cf02fb62be8c624c94d478d2ea15e387,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2562900,2022-08-16T02:37:03.000Z
+753,59e6fa625315049dfdc8fc4b8fc3b4e2,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1461000,2022-08-16T00:35:37.000Z
+754,f192f5620b8e946dbed2c89e1e83d26a,[Fx]ShoX,True,ice_scream_v2.1,Ice Scream v2.1,2114967,2022-08-11T23:38:25.000Z
+755,0d84f56202ffd47307744f19b6d936a4,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2994700,2022-08-11T22:34:53.000Z
+756,ba76f562e6034991a74ff20c61f67d33,[Fx]ShoX,False,Crescent_Bay_V2,Crescent_Bay_V2,2767800,2022-08-11T21:38:02.000Z
+757,2e6cf5623a26c0fc39bc2b7199e2ecdd,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1885833,2022-08-11T20:53:02.000Z
+758,4364f56241e70ef1f8656ef951822264,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,1440867,2022-08-11T20:19:15.000Z
+759,3b58f562bf8dbd284cf133b4a0f66ef9,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,2628733,2022-08-11T19:27:55.000Z
+760,fb40f5620e1349ba70a91424e1f7462b,[Fx]ShoX,True,lightside_darkside_v2.0,Lightside Darkside v2.0,1157400,2022-08-11T17:48:43.000Z
+761,4b34f5621958562d5b9adb55ea29786a,[Fx]ShoX,True,,Melting Glacier v1.0,2678067,2022-08-11T16:54:35.000Z
+762,9d30f462be69786ec3872fd7457def9a,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2333133,2022-08-10T22:26:37.000Z
+763,3023f4621befef0f994d9dc9270e9a20,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,2674267,2022-08-10T21:29:20.000Z
+764,5bf9f362cf47eee8527a7084715d5769,[Fx]ShoX,True,taldarim_v3,Taldarim_V3,2694333,2022-08-10T18:30:51.000Z
+765,59f2f262c865e968f1f2590a0cc47740,[Fx]ShoX,True,Entrenched_Plains_V2,Entrenched_Plains_V2,3203067,2022-08-09T23:48:41.000Z
+766,5ae3f262cb68849e604bf37e9a3c4b94,[Fx]ShoX,False,TheRock_V3,TheRock_V3,3171667,2022-08-09T22:44:42.000Z
+767,98daf262889379cdc23ad8443edad6a4,[Fx]ShoX,False,small_supreme_battlefield_v3,Small_Supreme_Battlefield_V3,1451233,2022-08-09T22:07:20.000Z
+768,61bff262340ceca17d84e73e74f10167,[Fx]ShoX,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,784167,2022-08-09T20:11:13.000Z
+769,14b8f2627c1822738ebc3858d2fab90b,[Fx]ShoX,True,archsimkats_valley_v1,Archsimkats_Valley_V1,1143900,2022-08-09T19:40:04.000Z
+770,52a5f26245300ca43ab41b4db0866b3b,[Fx]ShoX,True,TheRock_V3,TheRock_V3,3527067,2022-08-09T18:20:02.000Z
+771,e4a6f162c4fc72b794900c48b4c4ba1e,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1190533,2022-08-09T00:14:28.000Z
+772,1d98f1624ff89a9e102de4b7eeac080d,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,3096700,2022-08-08T23:11:25.000Z
+773,6a91f16211dc191baa6865657269ac0b,[Fx]ShoX,True,Tau12,Tau12,1259967,2022-08-08T22:42:50.000Z
+774,4f8cf162252c37cdd7588da6399cd5d7,[Fx]ShoX,True,TheRock_V3,TheRock_V3,870767,2022-08-08T22:21:03.000Z
+775,da84f162a12359e2e88c21164d2c9986,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1276667,2022-08-08T21:49:14.000Z
+776,c678f162c42f5c8d594309b25d3a5cf9,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2105967,2022-08-08T20:57:42.000Z
+777,646cf162780159ba1c2684acf27703ba,[Fx]ShoX,True,lightside_darkside_v2.0,Lightside Darkside v2.0,2025633,2022-08-08T20:04:52.000Z
+778,1a47f0624a1316fd4d1767a400f1f681,[Fx]ShoX,False,Crescent_Bay_V2,Crescent_Bay_V2,3197867,2022-08-07T23:13:30.000Z
+779,163ff062354cd45eef7104c0e5196e48,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1490767,2022-08-07T22:39:18.000Z
+780,8729f0629fc266c8511834b0303841da,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2649866,2022-08-07T21:07:19.000Z
+781,4e16f0625494466e74deae12e9576417,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1136233,2022-08-07T19:45:18.000Z
+782,2409f062e0de17915b2a20c5b770ebc0,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,2621533,2022-08-07T18:49:08.000Z
+783,08f3ef625286ac47533f366b0df49a0c,[Fx]ShoX,False,Tundra_Continents_v2.3,Tundra Continents v2.3,4170666,2022-08-07T17:14:48.000Z
+784,eaecef62307d608cd289c0ab4336feab,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1058233,2022-08-07T16:48:42.000Z
+785,92dfef6229dd14218aa758490c3c50b5,[Fx]ShoX,False,,Ice Scream v2.0,2216333,2022-08-07T15:51:46.000Z
+786,ffd9ef620258ac473b14c32f2c4ff06c,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,994300,2022-08-07T15:27:59.000Z
+787,97fdee62a96c20425132ff93f77d2de4,[Fx]ShoX,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,654733,2022-08-06T23:47:35.000Z
+788,ceedee6201b659245aa94db30f964496,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,3175800,2022-08-06T22:40:14.000Z
+789,aac7ee62ac54c8629a16267c664b8d09,[Fx]ShoX,False,,Ice Scream v2.0,2486533,2022-08-06T19:57:30.000Z
+790,1ec0ee62f2951ed85eabe57038b3f93c,[Fx]ShoX,False,archsimkats_valley_v1,Archsimkats_Valley_V1,1396533,2022-08-06T19:25:18.000Z
+791,e2b6ee620ef583d50fcdc85e33d71245,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,990067,2022-08-06T18:45:54.000Z
+792,74a9ee626294a20220794a1c9917597c,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,2618300,2022-08-06T17:48:36.000Z
+793,da9aee620cf997aaf3b84c9252eb5a16,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2825867,2022-08-06T16:46:18.000Z
+794,7689ee62641add461a97953ab68e975c,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,795500,2022-08-06T15:32:06.000Z
+795,0a81ee62dd62d86bd0049655dedcc63c,[Fx]ShoX,True,neurope_remake_4.2,Neurope_Remake 4.2,1566200,2022-08-06T14:56:10.000Z
+796,bbcced62cb30d2819440e44cff84da1a,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1579867,2022-08-06T02:06:51.000Z
+797,a1c6ed626d6ff706099c3cf598b9a3d3,[Fx]ShoX,False,lightside_darkside_v2.0,Lightside Darkside v2.0,1098533,2022-08-06T01:40:49.000Z
+798,dab8ed62db6ceaeace494519705daf91,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2554000,2022-08-06T00:42:02.000Z
+799,92aded62fbbccdbf05f3d92cf5bc8052,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2281733,2022-08-05T23:53:54.000Z
+800,763eec628cc6839d4ef29425a22fa9d9,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1788533,2022-08-04T21:47:34.000Z
+801,3438ec6294b0d25e52925a060f7b9ba1,[Fx]ShoX,False,,Deeploria Fields v1.3,1166000,2022-08-04T21:20:52.000Z
+802,c726ec62f16290dc0f0b9af4b6a76b0d,[Fx]ShoX,True,forge_v1.4,Forge v1.4,1011967,2022-08-04T20:06:31.000Z
+803,ab1cec622cd99d34518b09b111582f99,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1849667,2022-08-04T19:23:23.000Z
+804,a318ec621f0cef8418ee9b872cf2c6bd,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,553933,2022-08-04T19:06:11.000Z
+805,f411ec62c4f67cb8915cb76ee807dd68,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1148767,2022-08-04T18:37:40.000Z
+806,ebe9eb6200fe11bf55da0529bd89b8c4,[Fx]ShoX,True,NuclearWinterR,Nuclear Winter Bar 1.4,1246333,2022-08-04T15:46:51.000Z
+807,19d8eb62a9828a9cdbad1dec2097389f,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,1332600,2022-08-04T14:30:49.000Z
+808,cbd0eb62b2bbe2f87ebb7487d1b4bd06,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1421767,2022-08-04T13:59:39.000Z
+809,0f91eb6282910fdb93ffa121c6e374ec,[Fx]ShoX,True,forge_v1.4,Forge v1.4,890333,2022-08-04T09:27:43.000Z
+810,538aeb62c45ab8a83ddb234db496fbbc,[Fx]ShoX,False,archsimkats_valley_v1,Archsimkats_Valley_V1,1106367,2022-08-04T08:58:59.000Z
+811,7283eb622038c63cf88a05f7d907cb49,[Fx]ShoX,False,angel_crossing_1.5,Angel Crossing 1.5,1213500,2022-08-04T08:29:38.000Z
+812,5d7ceb6212c5088ed3f7608ba7f38e8e,[Fx]ShoX,True,tropical-v2,Tropical-v2,1293767,2022-08-04T07:59:25.000Z
+813,ac70eb6202330f3893e5ca2e19c83f1c,[Fx]ShoX,True,red_rock_desert_v1,Red Rock Desert v1,1024933,2022-08-04T07:09:32.000Z
+814,aac4ea626ea155a186e6a97132646a2f,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,2806100,2022-08-03T18:55:38.000Z
+815,d6b8ea62ecdebb167d3293ec2ea86f8f,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1765200,2022-08-03T18:05:10.000Z
+816,b3adea6276f0df89ec9e161281072269,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1761500,2022-08-03T17:17:39.000Z
+817,878de9620f8cb05ce1b5e83f74387477,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1048633,2022-08-02T20:48:07.000Z
+818,be84e96280345354a4ae780083c992c2,[Fx]ShoX,False,taldarim_v3,Taldarim_V3,1791933,2022-08-02T20:10:38.000Z
+819,ac7ce962e44e15e40e2ef36639d737ac,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1654800,2022-08-02T19:36:12.000Z
+820,1e6be96245112828a5ab4c85698f92ef,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,3587133,2022-08-02T18:21:18.000Z
+821,be61e962f546f910f238f44bad2c8971,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1832733,2022-08-02T17:41:18.000Z
+822,705ae962f08d6b4b94caed142cc80943,[Fx]ShoX,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1224367,2022-08-02T17:10:08.000Z
+823,2f52e9629271da23e38dfeae22028098,[Fx]ShoX,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1277500,2022-08-02T16:34:55.000Z
+824,9842e962673550f3a9a08b6696048a6a,[Fx]ShoX,True,FolsomdamR_1.16,FolsomDamR 1.16,2934933,2022-08-02T15:28:24.000Z
+825,e93be862d6618a0ad054fbdde2902109,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,3151500,2022-08-01T20:47:37.000Z
+826,6c14e76261d7e141f51af659a19a4510,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1259067,2022-07-31T23:46:52.000Z
+827,4de2e66260a7bc66a1e005da3b1556bd,[Fx]ShoX,False,taldarim_v3,Taldarim_V3,1835600,2022-07-31T20:13:01.000Z
+828,7cdce66278988e28040f7ac678058b0e,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,763167,2022-07-31T19:48:12.000Z
+829,34d1e6621e687a9b8df3196034a0188f,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2209000,2022-07-31T19:00:04.000Z
+830,7fc6e6624b50b0c9d6d1657c3c9b488b,[Fx]ShoX,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2009867,2022-07-31T18:14:23.000Z
+831,68b9e6624946497ee035343198e1097f,[Fx]ShoX,False,TheRock_V3,TheRock_V3,1913367,2022-07-31T17:18:32.000Z
+832,14b3e662faffc850c5133c0aadd0b318,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,898700,2022-07-31T16:51:32.000Z
+833,bbace6629756b035a55eb8829719f4e8,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1103933,2022-07-31T16:24:27.000Z
+834,6ec2e56236e4cf2d80ba1c77306c3de5,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,1548733,2022-07-30T23:44:46.000Z
+835,56bce56242412eac1355a7243c2ee129,[Fx]ShoX,False,forge_v1.4,Forge v1.4,1115167,2022-07-30T23:18:46.000Z
+836,70b6e562f96683a7d63b8bc1149742fd,[Fx]ShoX,True,forge_v1.4,Forge v1.4,798633,2022-07-30T22:53:36.000Z
+837,fdafe562fa01a9a2743df412a3d89c4b,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,904633,2022-07-30T22:26:05.000Z
+838,90a1e5628dbb2ab6a2e63edf2cf5fafb,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2672067,2022-07-30T21:24:32.000Z
+839,7b9ae562794ed2fe2b103df69d7cf536,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1155600,2022-07-30T20:54:19.000Z
+840,f890e5621bc719fb8558036dde7c7228,[Fx]ShoX,False,lightside_darkside_v2.0,Lightside Darkside v2.0,1613333,2022-07-30T20:13:44.000Z
+841,6384e562b9ace8f956ea314ac0bb3ffc,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2462233,2022-07-30T19:20:03.000Z
+842,7e7be56268ed4430584b5cff150114ea,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1142667,2022-07-30T18:42:06.000Z
+843,de70e562e7135f7dd9af637c9957e8d3,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1996533,2022-07-30T17:56:46.000Z
+844,9066e562e0d3d542859f811a7276e67f,[Fx]ShoX,False,bismuth_valley_v2.1,Bismuth Valley v2.1,1532133,2022-07-30T17:12:48.000Z
+845,e95ce56211059bf54cf745275b2c6374,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1540700,2022-07-30T16:31:37.000Z
+846,9856e562c4dbfa8251971b59616c690c,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,907300,2022-07-30T16:04:40.000Z
+847,aa3be56226ca299a5f85f095b8c87d9a,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,598733,2022-07-30T14:09:46.000Z
+848,a337e5624c7f4046ab74d46280945b99,[Fx]ShoX,False,red_rock_desert_v1,Red Rock Desert v1,521033,2022-07-30T13:52:35.000Z
+849,0727e5620d0d81a7adbfad7c59bf5b50,[Fx]ShoX,False,gecko_isle_1.1,Gecko Isle 1.1,863667,2022-07-30T12:41:43.000Z
+850,2e20e5620ce3e4e323fb2fd5bfdb3f8d,[Fx]ShoX,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,953300,2022-07-30T12:12:30.000Z
+851,d974e462fce6c251341f482bb9b41753,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,2342767,2022-07-30T00:01:29.000Z
+852,de6ce4620de1378474b4648cf56106b6,[Fx]ShoX,False,Tempest_V3,Tempest_V3,1382833,2022-07-29T23:27:26.000Z
+853,cd60e46272af2093ed95d72176fac49b,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1680900,2022-07-29T22:35:57.000Z
+854,5558e46274a95e724f3788c914204269,[Fx]ShoX,True,forge_v1.3,Forge v1.3,1680800,2022-07-29T21:59:49.000Z
+855,534fe4625b1e5896df45122bd2f8418c,[Fx]ShoX,False,flats_and_forests_v2.1,Flats and Forests v2.1,1809000,2022-07-29T21:21:23.000Z
+856,7c45e46242976450c2658139b4290818,[Fx]ShoX,False,hotlips_remake_v3.1,Hotlips Remake v3.1,1991000,2022-07-29T20:39:24.000Z
+857,c53ee462784b89727171e0ffa5ccb115,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1184667,2022-07-29T20:10:45.000Z
+858,3b2de462cb9e56589d34a001915abd1e,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,898767,2022-07-29T18:55:55.000Z
+859,b124e46255ddc7a39930e9faf16ee508,[Fx]ShoX,False,bismuth_valley_v2.1,Bismuth Valley v2.1,1015467,2022-07-29T18:19:29.000Z
+860,8032e3621127aa066f94a96dd17b1984,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1428333,2022-07-29T01:06:08.000Z
+861,5d2ae3622f07bd281212d6eebbdfeadf,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1510667,2022-07-29T00:31:25.000Z
+862,7326e362aa94d7ffc20b3c9f79c7cb3e,[Fx]ShoX,True,bismuth_valley_v2.2,Bismuth Valley v2.2,726733,2022-07-29T00:14:43.000Z
+863,661ae36251416b46e50c84163d77cef7,[Fx]ShoX,True,industrial_revolution_v2,Industrial_Revolution_V2,2551167,2022-07-28T23:23:18.000Z
+864,bd0fe362ff6439d46f48c66f927e7092,[Fx]ShoX,True,tropical-v2,Tropical-v2,1493633,2022-07-28T22:37:49.000Z
+865,5b0ce362ec506c0e2799eef867568188,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,305700,2022-07-28T22:23:23.000Z
+866,6502e3625f713bd8e7606ed8463ddcea,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1242833,2022-07-28T21:40:53.000Z
+867,99f7e26215ce6df448b719a48cade7ed,[Fx]ShoX,False,,Deeploria Fields v1.3,1450000,2022-07-28T20:54:49.000Z
+868,cbf3e2620d5a2685a53ed64aa501d999,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,400033,2022-07-28T20:38:35.000Z
+869,a1ede262965c50d30067d81331acb24d,[Fx]ShoX,True,forge_v1.3,Forge v1.3,592733,2022-07-28T20:12:17.000Z
+870,78e5e2629518c49fee79ee4d2e4bad0c,[Fx]ShoX,False,bismuth_valley_v2.1,Bismuth Valley v2.1,1700367,2022-07-28T19:37:28.000Z
+871,6bdee26248186eb13467d8f41653c413,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,1352033,2022-07-28T19:07:23.000Z
+872,b0cee16246b1bd4e5c353f964e22ad1a,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1479667,2022-07-27T23:48:00.000Z
+873,0fc4e1623a87aeae173aa48d67e2fae8,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1948833,2022-07-27T23:02:39.000Z
+874,d9bbe162f445b7f20d488c3f44e7c2b2,[Fx]ShoX,False,dsdr_4.1,DSDR 4.1,1666367,2022-07-27T22:27:37.000Z
+875,b1a2e1629713014ab3e9827dba307ed9,[Fx]ShoX,True,bismuth_valley_v2.1,Bismuth Valley v2.1,1988500,2022-07-27T20:40:17.000Z
+876,c49be162be432c95f42c2dd8a62c40cd,[Fx]ShoX,True,flats_and_forests_v2.1,Flats and Forests v2.1,1417467,2022-07-27T20:10:44.000Z
+877,ab91e162cc47d04df0cf417479e047ea,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,1594600,2022-07-27T19:27:39.000Z
+878,bf8ae162760c469bdcbb4d84750605b1,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1241533,2022-07-27T18:58:07.000Z
+879,b573e162eb293016c75343c2e7b7d21a,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1135500,2022-07-27T17:19:49.000Z
+880,9a69e162aeaad830700de40bc30432d6,[Fx]ShoX,False,bismuth_valley_v2.1,Bismuth Valley v2.1,1523567,2022-07-27T16:36:42.000Z
+881,8365e162e4d342bc348dd8f068a2c1e6,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,629033,2022-07-27T16:19:15.000Z
+882,8761e162caa4ec4a0ac791169ed8fb88,[Fx]ShoX,True,forge_v1.3,Forge v1.3,601700,2022-07-27T16:02:15.000Z
+883,a555e162f39a115aeefb087ff04489d1,[Fx]ShoX,False,Riverrun_V1,Riverrun_V1,2122933,2022-07-27T15:11:33.000Z
+884,314de162e813e495cc6521bef5105610,[Fx]ShoX,True,TheRock_V3,TheRock_V3,1531567,2022-07-27T14:35:29.000Z
+885,e443e1621d1d08246520d2c5f9a99125,[Fx]ShoX,False,TheRock_V3,TheRock_V3,1776733,2022-07-27T13:55:48.000Z
+886,4f3de1629ffaaf41b62b31644d7062d1,[Fx]ShoX,True,industrial_revolution_v2,Industrial_Revolution_V2,1084533,2022-07-27T13:27:43.000Z
+887,3b86e0622c239e95cd4b932aac708bac,[Fx]ShoX,False,Downs_of_Destruction_V2,Downs_of_Destruction_V2,2799400,2022-07-27T00:26:35.000Z
+888,847ae0625e638fa6d63d4d71db8d32a5,[Fx]ShoX,False,angel_crossing_1.5,Angel Crossing 1.5,2148033,2022-07-26T23:36:36.000Z
+889,b96de0621ddd56b2613a0fa30e6b4861,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,1322500,2022-07-26T22:42:01.000Z
+890,1062e0621b84f6cf5c27c4982a427a54,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,2209900,2022-07-26T21:52:16.000Z
+891,704ce062cdf12031aa0de6737d3e9bf6,[Fx]ShoX,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,2378800,2022-07-26T20:20:00.000Z
+892,c341e062ff522eee4b47cec642e6f328,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,1338067,2022-07-26T19:34:27.000Z
+893,853de062a143a470c3a3af202d678ad9,[Fx]ShoX,False,koom_valley_3_3.1,Koom Valley 3 3.1,625733,2022-07-26T19:16:21.000Z
+894,d438e062d81de96594e3de7557807738,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,715633,2022-07-26T18:56:20.000Z
+895,c831e062073251b6f272f2a6e951e6d0,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1401167,2022-07-26T18:26:16.000Z
+896,752ae06218245f8273da556c1c3b1113,[Fx]ShoX,False,ice_scream_v1.2,Ice Scream v1.2,1326000,2022-07-26T17:55:01.000Z
+897,7d1ee0629b6a15fb486fc0e15b68402b,[Fx]ShoX,False,all_that_glitters_1.2,All That Glitters v1.2,2294300,2022-07-26T17:03:57.000Z
+898,bc19e062409f1c17e7ff4a991c7355d7,[Fx]ShoX,False,Rosetta 1.3,Rosetta 1.3,714333,2022-07-26T16:43:40.000Z
+899,7813e062b0d43eaca21e6a6fb2d8bcf6,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,995733,2022-07-26T16:16:56.000Z
+900,2f0ce062b87ca766ca29add383fee11e,[Fx]ShoX,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1372200,2022-07-26T15:45:51.000Z
+901,91ffdf62f35e0d9ac75b39e0d8830110,[Fx]ShoX,False,colorado_v2_1.1,Colorado_V2 1.1,2317867,2022-07-26T14:52:01.000Z
+902,f3dade6228117161564f8fad6c4aae12,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,2054800,2022-07-25T18:03:31.000Z
+903,3dd0de622611de47737b9f3647f22b67,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1827033,2022-07-25T17:17:49.000Z
+904,45cade6254f7eab3cee6527e5a0c8456,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1048833,2022-07-25T16:52:21.000Z
+905,f6c2de624f5840968d4da422f2b97488,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,74133,2022-07-25T16:21:10.000Z
+906,09f2dd62ba8fb3b69d3bd39ac9019b26,[Fx]ShoX,True,tabula_remake_1.5,Tabula_Remake 1.5,2183300,2022-07-25T01:29:45.000Z
+907,6ee8dd6236e521b9217340e3e0674d54,[Fx]ShoX,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1035000,2022-07-25T00:48:46.000Z
+908,a1d9dd625789f3df731193c0ee894b41,[Fx]ShoX,False,Ditched_V1,Ditched_V1,2367933,2022-07-24T23:45:37.000Z
+909,f8cfdd62f7eab3d6ffa8029b16861b42,[Fx]ShoX,True,,Lightside Darkside v1.1,1639733,2022-07-24T23:04:24.000Z
+910,1cc4dd620d5ad9d0582d08249b4d2c77,[Fx]ShoX,True,Rosetta 1.3,Rosetta 1.3,1048967,2022-07-24T22:13:48.000Z
+911,7fbcdd62535cc76f78dc0a3441944f7a,[Fx]ShoX,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1162233,2022-07-24T21:41:19.000Z
+912,1cb3dd622ad5a873552ae5323e866eb4,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,1810833,2022-07-24T21:01:16.000Z
+913,2ea0dd62470197c30b493e22bb76c86a,[Fx]ShoX,True,Riverrun_V1,Riverrun_V1,3263167,2022-07-24T19:40:30.000Z
+914,ba97dd62654c90252cd892174ad88874,[Fx]ShoX,True,,Lightside Darkside v1.1,1409333,2022-07-24T19:04:26.000Z
+915,c591dd62d2cbe776b42809e3a5efc529,[Fx]ShoX,True,dsdr_4.1,DSDR 4.1,845400,2022-07-24T18:39:01.000Z
+916,6b8ddd625d0433367d74778b48f426cc,[Fx]ShoX,False,TheRock_V3,TheRock_V3,405000,2022-07-24T18:20:27.000Z
+917,4087dd625e2b3f498db0543d1d62e96b,[Fx]ShoX,True,koom_valley_3_3.1,Koom Valley 3 3.1,1174800,2022-07-24T17:54:08.000Z
+918,fd77dd6289f71ee0003d4b8c13a33c44,[Fx]ShoX,True,all_that_glitters_1.2,All That Glitters v1.2,2912367,2022-07-24T16:49:01.000Z
+919,d971dd62a9e0a8894462652e87a8648e,[Fx]ShoX,False,forge_v1.3,Forge v1.3,1092567,2022-07-24T16:22:49.000Z

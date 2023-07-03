@@ -1,0 +1,603 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,8cd8a16484327978cf48076254fb843f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3838700,2023-07-02T20:05:32.000Z
+1,413fa16429c51d3f3c3f817f1e170b6e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2586700,2023-07-02T09:11:29.000Z
+2,e433a164887d3dd0b34a01896fb73100,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2494167,2023-07-02T08:23:00.000Z
+3,c92aa164c8b7125b551852423ab2ed15,Fatalebaguette,False,desolation,Desolation v1,619467,2023-07-02T07:44:09.000Z
+4,2fc8a06450973b90478c66ef1dab1b1e,Fatalebaguette,False,ancient_vault_v1.4,Ancient Vault v1.4,2522967,2023-07-02T00:43:27.000Z
+5,38b3a06409afde996f69582dc03188be,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2435433,2023-07-01T23:14:00.000Z
+6,c5a2a06441741420f774d41dd680ea79,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1775433,2023-07-01T22:03:49.000Z
+7,4096a0642061644b53575dc4fd71d228,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1940200,2023-07-01T21:10:24.000Z
+8,fe86a064290dda7996c6ec36243fd839,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2448267,2023-07-01T20:05:18.000Z
+9,3d0ea064add7c2e2e6364e2b49499f2b,Fatalebaguette,False,Tau12,Tau12,947733,2023-07-01T11:30:05.000Z
+10,93209f641c487b8e5b4a598a7020bcae,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1478367,2023-06-30T18:36:03.000Z
+11,039b9e648c441d443614ac7adb157498,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,696700,2023-06-30T09:06:11.000Z
+12,ec6c9e645a6e86a988ae2fab64b1a16b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1959267,2023-06-30T05:49:32.000Z
+13,37239864067b1db9c921da11f6cf3736,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3537433,2023-06-25T11:21:27.000Z
+14,5215986484161e7b9ff1fe5ad2513da8,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2680600,2023-06-25T10:22:10.000Z
+15,3cf09764fa2ac8b730765d4b70431f0a,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2582300,2023-06-25T07:43:56.000Z
+16,371e976424c9de80a9e2ff3fb856b732,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2179300,2023-06-24T16:47:51.000Z
+17,2616976496f05d1ac4addb5590eb8cfb,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1685400,2023-06-24T16:13:26.000Z
+18,73f1966465d001f8526abcf189305b75,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2365533,2023-06-24T13:36:51.000Z
+19,18ec966468d0b33ae5289e518d87df48,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1080867,2023-06-24T13:14:00.000Z
+20,aae29664fbf369eb2f72aefa905f2714,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2075333,2023-06-24T12:33:46.000Z
+21,60ca96644898fadf661fdcbf194189a0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,912300,2023-06-24T10:50:08.000Z
+22,049996648e321a0291d7ee024e6f190f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2226767,2023-06-24T07:19:32.000Z
+23,eae09564269e1be23c86fc5d60a45599,Fatalebaguette,True,all_that_glitters_v2.1,All That Glitters v2.1,1697333,2023-06-23T18:14:02.000Z
+24,efdb9564fefb8483a37b120e953e5483,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2371100,2023-06-23T17:52:47.000Z
+25,0ca495642be8b20826f991af2a7bbb74,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2491600,2023-06-23T13:54:20.000Z
+26,4b7595647030d557593db79f13d4de13,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1678567,2023-06-23T10:34:51.000Z
+27,83709564ee056ac3fcef3685a4fa5ed2,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,945767,2023-06-23T10:14:27.000Z
+28,bd979464d463abc4b57bd44ef69234f3,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1719600,2023-06-22T18:49:33.000Z
+29,3d8f94643e7b6618932677f29ec499c4,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1809067,2023-06-22T18:13:17.000Z
+30,3883946452ef44c8b11030294198d938,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1941667,2023-06-22T17:22:00.000Z
+31,044794641946c7e41e407c0ebb158db5,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1898667,2023-06-22T13:05:08.000Z
+32,8c389464a8e9a49f1022d1ad83b44882,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2845200,2023-06-22T12:03:24.000Z
+33,a425936443fb54acf2427a72f954ce44,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2351133,2023-06-21T16:30:28.000Z
+34,1dc5926420030a348c1115c5c43e870f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2304533,2023-06-21T09:38:37.000Z
+35,27bb92649bd3d27932469c0344b76641,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2200000,2023-06-21T08:56:07.000Z
+36,47b292645949a1bad6a71d9942b96ae2,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1904733,2023-06-21T08:18:15.000Z
+37,7da59264947edf998e7ee6e5ad65a704,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2360533,2023-06-21T07:23:41.000Z
+38,e3829264fdc5dafaa26da8cd332afb9c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2257967,2023-06-21T04:56:03.000Z
+39,56cf916488a5cb66585f0103de6b40bf,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3591900,2023-06-20T16:09:58.000Z
+40,b8c591641ae168c58bf73e8afe3b1c86,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1633600,2023-06-20T15:28:56.000Z
+41,17af91640889803ac8291bd62f681885,Fatalebaguette,False,forge_v1.4,Forge v1.4,1242467,2023-06-20T13:52:23.000Z
+42,386f91645d9a43253d9b6a1b71288376,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3087833,2023-06-20T09:19:52.000Z
+43,fa5f9164bf60d15227467a0e67cc84d7,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1938133,2023-06-20T08:14:50.000Z
+44,be5291643363c72a63de0fd419e512fa,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3043233,2023-06-20T07:18:22.000Z
+45,964591641c8459feea207bfb081eba76,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2761367,2023-06-20T06:22:14.000Z
+46,0b6090645ef8e5990ec42c251e9dcd20,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1203800,2023-06-19T14:02:51.000Z
+47,f32f8f64f412a41a030e2b064c5af7d8,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2519267,2023-06-18T16:25:23.000Z
+48,46258f64611a7eca688e010babf6db14,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2166500,2023-06-18T15:39:50.000Z
+49,5d1e8f64dade73adbab4a45b1ed416aa,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1156733,2023-06-18T15:10:21.000Z
+50,cc148f64dd50b7f57eb08a5e7c7e1467,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1882833,2023-06-18T14:29:32.000Z
+51,00058f64b72755a8341e6995c1e5933e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3248733,2023-06-18T13:22:08.000Z
+52,adfa8e640f96c9f9015dce60ffcd15a4,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2061300,2023-06-18T12:38:05.000Z
+53,bff18e6448f615595ce435811504eb82,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1977700,2023-06-18T11:59:59.000Z
+54,90e88e64180223e1a9533c93af8b22bc,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1599267,2023-06-18T11:20:48.000Z
+55,87d68e646137ad2decfd5b9ea17baa56,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3923667,2023-06-18T10:03:51.000Z
+56,41148e6469be74b2b0e129e4963a8fae,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2768433,2023-06-17T20:14:57.000Z
+57,b2f48d64e0f871d810cc41a09c8dc690,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2149733,2023-06-17T18:00:18.000Z
+58,d7ea8d6438e36f6a2647faf4a20bea3c,Fatalebaguette,False,forge_v1.4,Forge v1.4,1438100,2023-06-17T17:18:15.000Z
+59,b7e18d648e5947090a88609e20e12f07,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1822333,2023-06-17T16:39:19.000Z
+60,4bbf8d64a5429fa455c13cc4a241b550,Fatalebaguette,False,all_that_glitters_v2.1,All That Glitters v2.1,1873033,2023-06-17T14:12:27.000Z
+61,45b58d64aeab4070ad26f7f68b666c0c,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2076533,2023-06-17T13:29:41.000Z
+62,bc948d64c94b55725fbb84d5f973339c,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1563967,2023-06-17T11:10:52.000Z
+63,47c48c64c24b73da9324820254a75a81,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1783433,2023-06-16T20:21:27.000Z
+64,72b58c64ff725f879774ab6cbdb3246f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2888433,2023-06-16T19:18:10.000Z
+65,68a98c64c8adc15fbe5a40493b1c460b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2663033,2023-06-16T18:26:48.000Z
+66,4ea18c6420bc5b3df8788969965b83fe,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2055334,2023-06-16T17:52:14.000Z
+67,76828c64752159c14a128e066c69f757,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1727633,2023-06-16T15:40:38.000Z
+68,547c8c643eccd3099d10ae44e260407b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1205367,2023-06-16T15:14:28.000Z
+69,8a718c64b4e7797fc6dee427ab014624,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2221367,2023-06-16T14:28:26.000Z
+70,28648c64abd968ee2436183c9564ecfc,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2206133,2023-06-16T13:31:20.000Z
+71,555b8c6497b0fd73150d566111577327,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1814000,2023-06-16T12:53:41.000Z
+72,461a8c647844dc5212be1171f3e29878,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2253400,2023-06-16T08:16:06.000Z
+73,86738b6468648814f52f2b9c7d1153d8,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1663067,2023-06-15T20:24:38.000Z
+74,58668b64c5508dabc15c5f5f66287241,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2249700,2023-06-15T19:28:24.000Z
+75,21618b64e35a808a5b632d4b1df91264,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,977433,2023-06-15T19:06:09.000Z
+76,9b578b648449d8b0db768082bdf141d5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1899767,2023-06-15T18:25:31.000Z
+77,93488b64aa06ba321e7e6e2ba8fa79a8,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2110633,2023-06-15T17:21:23.000Z
+78,16ad8a6458e4593d72a3a0ced5e39e0c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1863533,2023-06-15T06:17:58.000Z
+79,b8a48a644d3d2f37d58812988edf0f99,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1537500,2023-06-15T05:42:16.000Z
+80,dd928a644e694834da1e7dceeaafea86,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1846667,2023-06-15T04:26:05.000Z
+81,71858a6421a9f2b45af406dab9708b6f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1972833,2023-06-15T03:28:49.000Z
+82,e3ff8964d3aa275ed5df480e350c4880,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1988667,2023-06-14T17:58:59.000Z
+83,5fd689645e6b377c3c4c2fb08ba32430,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,975233,2023-06-14T15:01:51.000Z
+84,add88864f12bfbfe9fd2df5989b80734,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1838000,2023-06-13T20:59:25.000Z
+85,50cd88647056c86537ad3f3c0fb1352d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2421967,2023-06-13T20:10:56.000Z
+86,cb8288640170373dbb0f3d960bf39122,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2384500,2023-06-13T14:52:59.000Z
+87,685a8864b3ddb6dd73513d14e053fd0f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2181633,2023-06-13T12:00:40.000Z
+88,265488644e0be6c9b73255b746eaf07f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1153267,2023-06-13T11:33:58.000Z
+89,dc1b8864acdd2d0c70f80e13f53e7e2e,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3102300,2023-06-13T07:33:48.000Z
+90,627c876446bbefa02524f9aa5ff883c0,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2370467,2023-06-12T20:13:22.000Z
+91,1b6f87645ce7459ebc23c6f43ba3ba8f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2360467,2023-06-12T19:16:43.000Z
+92,d560876453f6c8ef2b2cd9916d586575,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2637167,2023-06-12T18:15:49.000Z
+93,8e558764d36b54b65ce0bc1a1f7d5cb9,Fatalebaguette,False,all_that_glitters_v2.1,All That Glitters v2.1,1417267,2023-06-12T17:27:42.000Z
+94,824c8764fd0fdbcd6fccf824227c8c19,Fatalebaguette,False,thermal_shock_v1.1,Thermal Shock v1.1,1541167,2023-06-12T16:49:06.000Z
+95,a22387642c3752cab2dbc7e8171d6920,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1502633,2023-06-12T13:54:42.000Z
+96,4c1c8764cfd5d5537ce784bdf9dcf432,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1820433,2023-06-12T13:23:24.000Z
+97,c10e876436d6d8ae3abee3dbeba71cb8,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2865833,2023-06-12T12:25:37.000Z
+98,b509876461e66a0ee40e7c50ec458910,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,898800,2023-06-12T12:04:05.000Z
+99,4cf38664579839600d7efbb2496d39ba,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2594333,2023-06-12T10:28:28.000Z
+100,35c886642dce115355fc30b9f70b4076,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1421800,2023-06-12T07:24:37.000Z
+101,8dbf8664f231c43262733201e270217f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1764067,2023-06-12T06:47:41.000Z
+102,13328664a564f1dc8c032418717f78a0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2107433,2023-06-11T20:44:03.000Z
+103,7e2b86644fc4fe46e60f3ec52bb0695a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,827433,2023-06-11T20:15:58.000Z
+104,1722866427e015e0ed9323a8d18325fc,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1829400,2023-06-11T19:35:51.000Z
+105,ee028664d43a20e5133542a7be2d3c07,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1624433,2023-06-11T17:22:54.000Z
+106,56f985642e4729f7a8d3756aacf2d453,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2127700,2023-06-11T16:41:58.000Z
+107,fdef8564d6a7d3870c01c183fb91dfed,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1573733,2023-06-11T16:02:05.000Z
+108,66e08564fdd260288aa34b823d43eb3f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1847400,2023-06-11T14:55:34.000Z
+109,8bc185647966f0a1139619c4c0632348,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3115300,2023-06-11T12:43:55.000Z
+110,2c9885642118238b1acde7dfe171571d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3177300,2023-06-11T09:47:24.000Z
+111,d68f8564bfa3f80152b547bd274b931f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1584800,2023-06-11T09:11:50.000Z
+112,f3888564f65bedebbf542e2783f01241,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1435733,2023-06-11T08:42:27.000Z
+113,d9818564b39acaf87b478626ee9a33a0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1478867,2023-06-11T08:12:09.000Z
+114,e4738564e1a5bbeac499471310f79dde,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2576600,2023-06-11T07:12:36.000Z
+115,bd6a8564d551dc99037385939ad2b0b4,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2030300,2023-06-11T06:33:33.000Z
+116,7e548564b4e4b94086aa100a8e2f14e1,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2402667,2023-06-11T04:58:38.000Z
+117,ad5085645f6e304efcced353bff7b2aa,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,646633,2023-06-11T04:42:21.000Z
+118,fb3f8564d3194ef3a02511646fcc5d0e,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2449900,2023-06-11T03:31:07.000Z
+119,1eab8464d3921df70fe86c8214755ab5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2104467,2023-06-10T16:55:58.000Z
+120,8c9984646c4de0865dbf6e8f2ee7f550,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2246667,2023-06-10T15:41:00.000Z
+121,0654846431f71d24d2eae8e03437ca98,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1710567,2023-06-10T10:44:22.000Z
+122,964184649c371de580e95bdad4c27443,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1716867,2023-06-10T09:25:42.000Z
+123,ab3a8464fa90eb2a3bcfa4363c107977,Fatalebaguette,True,eight_horses_1.2,Eight Horses 1.2,1126667,2023-06-10T08:56:11.000Z
+124,422b8464658bba0da76c990743340077,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2591833,2023-06-10T07:50:26.000Z
+125,e80884643e1dc84314d1959324221059,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2909467,2023-06-10T05:23:52.000Z
+126,37ff8364d29f3dcfc2815924e66e143f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2148833,2023-06-10T04:42:31.000Z
+127,7842836429c6c0c4b33b2a29887fe419,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3307000,2023-06-09T15:17:12.000Z
+128,ce328364363bc9c9356a4b8e3976318f,Fatalebaguette,True,ascendancy_v1.0,Ascendancy v1.0,1427767,2023-06-09T14:10:22.000Z
+129,e6128364705771201e32e4d82b69ca1d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2876000,2023-06-09T11:54:14.000Z
+130,e3fd8264aafc22ecb1dfe5d8cae45c70,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,1767433,2023-06-09T10:24:35.000Z
+131,79ed826424077a6dee670a6d9ab7aae7,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,3349467,2023-06-09T09:14:33.000Z
+132,7dde826419ba29f8695ce337ae8baf6e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1142667,2023-06-09T08:10:37.000Z
+133,f9c88264c646fc615ba272d7bc8bf111,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3064700,2023-06-09T06:38:49.000Z
+134,bec482642dc8aca666133bead2c375ef,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,750400,2023-06-09T06:20:46.000Z
+135,70b282640803ba536c771d7254df870b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1335467,2023-06-09T05:02:40.000Z
+136,3da18264c9dfe13e32cfd31a26e2fc7c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2592200,2023-06-09T03:49:17.000Z
+137,51e581646f60b093dee53d483ef1bcd5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2235333,2023-06-08T14:27:29.000Z
+138,2cd181642880be3fba6e569549d1eced,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1625000,2023-06-08T13:01:32.000Z
+139,e0c88164b92281cbf891571e4c8c7e9d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1379133,2023-06-08T12:26:08.000Z
+140,44c58064f8fb1873604eae29b3b77e51,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2832500,2023-06-07T17:58:28.000Z
+141,38a580645377d01526b40f120193f8e3,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2272767,2023-06-07T15:41:44.000Z
+142,ef418064487abd0d3748abb592664bb5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3046567,2023-06-07T08:38:07.000Z
+143,1aa27f6493caefaaceb4586fd080795f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1644867,2023-06-06T21:16:10.000Z
+144,cc967f64160cfbfeb7f8b0e88ba1d173,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2220533,2023-06-06T20:27:56.000Z
+145,f16f7f64fd58d58a9d4aaa72ce93c7e1,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2043467,2023-06-06T17:42:09.000Z
+146,c2647f64b97648020dea48ef77e74d9b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1906733,2023-06-06T16:54:26.000Z
+147,455b7f646f4bf06a95883c13a161c7cc,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1831100,2023-06-06T16:13:57.000Z
+148,921f7f646b743069d3e1e605a46e7a20,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1964100,2023-06-06T11:59:14.000Z
+149,89167f64e8cc78401ff910b24c51ac05,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1882333,2023-06-06T11:20:41.000Z
+150,42047f648331a7ec828770ff5beaef7f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2464933,2023-06-06T10:02:42.000Z
+151,62fb7e64bd21c6fc1ded195316239335,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1619333,2023-06-06T09:24:50.000Z
+152,74f27e64f575a720ff11c0d1503985ac,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1787200,2023-06-06T08:46:44.000Z
+153,dfea7e64b84f4b1c944d7d79236fae15,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1299633,2023-06-06T08:14:23.000Z
+154,ac4e7e64c8177dc0041b61ce865962d3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2694833,2023-06-05T21:07:56.000Z
+155,2c3f7e6402f4fa48db4d3e403ac538c4,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1977067,2023-06-05T20:01:48.000Z
+156,0b107e640227a186369e7ac52061df95,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2520400,2023-06-05T16:40:43.000Z
+157,03fe7d640447ddb180356ff5f08bc955,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,823667,2023-06-05T15:23:47.000Z
+158,32f67d642d6089e26216480c329a974e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1532000,2023-06-05T14:50:26.000Z
+159,c6ee7d64541d9342371576e761f2f98a,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1402333,2023-06-05T14:18:46.000Z
+160,a8de7d64653f5bb5126e38c7700338a0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1552933,2023-06-05T13:10:00.000Z
+161,f1d97d64ccf626291b25515b817c099f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,872400,2023-06-05T12:49:53.000Z
+162,d9d27d648c04958a0afb2aa844fb9858,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1855900,2023-06-05T12:19:37.000Z
+163,e6c87d64d5efb4ede87eac611fc165e1,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,738333,2023-06-05T11:37:10.000Z
+164,ecbe7d6406a392fc00d4c5f6948fda3c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1682100,2023-06-05T10:54:36.000Z
+165,2ca97d64eeb6944318e14046f2035dad,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2198533,2023-06-05T09:21:48.000Z
+166,579a7d646efdf0584b1a6e000569f5a0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2134134,2023-06-05T08:18:31.000Z
+167,1c917d641544653a134c437b3390a1c8,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2028467,2023-06-05T07:39:08.000Z
+168,81f77c64955e5f8005b9af3b5bdf1875,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2674733,2023-06-04T20:43:45.000Z
+169,e6b37964f3de2206742acb851a5c5b48,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2191467,2023-06-02T09:18:30.000Z
+170,029a796475dc194444fe8389de7b29b2,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2577200,2023-06-02T07:28:02.000Z
+171,9d90796415effa44837807363e64c0dd,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2132733,2023-06-02T06:47:57.000Z
+172,5b1c79647b5f7394768006f684eddbe7,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1155433,2023-06-01T22:31:55.000Z
+173,9d177964962c507aaa6f8bd644c96ee6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,779933,2023-06-01T22:11:41.000Z
+174,c11079644441d4409d2a9b3c8c613fb2,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1405500,2023-06-01T21:42:25.000Z
+175,d009796421b091740ecccc9d4fd3a0d8,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1496200,2023-06-01T21:12:48.000Z
+176,63dc78648d0cc3b6c09171525d25770a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,4340567,2023-06-01T17:58:59.000Z
+177,9b9c7864952171caab9c15e0a3f991ce,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2407667,2023-06-01T13:26:51.000Z
+178,6a907864c0aa05d0a056aff7a5303c2f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2394300,2023-06-01T12:34:50.000Z
+179,b26678645fa17de50ec9d5c976f77d74,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1511667,2023-06-01T09:36:50.000Z
+180,e4407864b54c59fa16b79f52aa3a0d43,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1644433,2023-06-01T06:55:32.000Z
+181,f7387864d95653be34a19c89a2a59a68,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1397433,2023-06-01T06:21:43.000Z
+182,66867764c10a5b2380074add4660db09,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1682600,2023-05-31T17:39:50.000Z
+183,884e7764d9c049fb35b3186c3c0867b9,Fatalebaguette,False,forge_v1.4,Forge v1.4,1777567,2023-05-31T13:41:28.000Z
+184,53607664bcb2ae21210a37018e5483db,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2700433,2023-05-30T20:45:07.000Z
+185,f1427664362e516167e42e6f899a6025,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2416500,2023-05-30T18:39:45.000Z
+186,7a2c7664a2ee077dfd61ade4bce95868,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1461533,2023-05-30T17:03:54.000Z
+187,79187664bb95f37ecaaef34c2d429de9,Fatalebaguette,True,serene_caldera_v1.3,Serene Caldera v1.3,3533000,2023-05-30T15:38:33.000Z
+188,42ff7564bcd8486430d03fc84e345b06,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1024700,2023-05-30T13:50:58.000Z
+189,b0f67564cb3224fda0713b8144db471f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1785600,2023-05-30T13:14:24.000Z
+190,ebeb7564f6280ad1c95c3863f81bae1e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2129933,2023-05-30T12:28:27.000Z
+191,32e6756431dcf6cc13ec16a1423c6e87,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,963067,2023-05-30T12:04:02.000Z
+192,8cd07564f45aa242a54d7891fc46ef2d,Fatalebaguette,True,forge_v1.4,Forge v1.4,2018833,2023-05-30T10:31:40.000Z
+193,e0ca75641eeb71f4a148adab51cd7deb,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,638900,2023-05-30T10:07:28.000Z
+194,d9c27564a17e5fa0e0840be8d042b72b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1532567,2023-05-30T09:33:13.000Z
+195,6d987564e518032c84c200d92178ea13,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2235767,2023-05-30T06:32:13.000Z
+196,d29275640e88540dea12dd14009ea279,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,852967,2023-05-30T06:08:18.000Z
+197,e5f674641641bbec71af2a7944843ef5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2985100,2023-05-29T19:03:01.000Z
+198,efe17464b013b3b20c03a4a2dfb806fe,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1492133,2023-05-29T17:33:35.000Z
+199,25dd7464b954684d3331e98bfdfb3e36,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,884733,2023-05-29T17:13:09.000Z
+200,94b97464eac7a7750578c9c401e456d3,Fatalebaguette,True,Tempest_V3,Tempest_V3,1095867,2023-05-29T14:41:24.000Z
+201,47b0746422ee5f47104a650e3cdf4dab,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1832933,2023-05-29T14:01:43.000Z
+202,c3947464a4614c44167b868d1e4b8513,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,947800,2023-05-29T12:04:19.000Z
+203,a2897464d6cd8f8f4a8b764f833b64e2,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1506200,2023-05-29T11:16:50.000Z
+204,037f7464073409cd9458231f0533989d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2027300,2023-05-29T10:31:31.000Z
+205,43637464e10f72177bdb475fa33d94d7,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3198467,2023-05-29T08:33:07.000Z
+206,b25c74648793137d223bf11c1d524afe,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1278700,2023-05-29T08:05:06.000Z
+207,81527464042dea07bbf00ef391fdbd09,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2054500,2023-05-29T07:21:37.000Z
+208,7be07364f8d5ad665c8308934ebd5004,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,714233,2023-05-28T23:15:07.000Z
+209,5ed97364b11cf4306708bb3c2dabde7c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1415733,2023-05-28T22:44:46.000Z
+210,50d07364d9211535b680a5428fffd43b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2024600,2023-05-28T22:06:08.000Z
+211,a3c17364f528527eff02e76712005729,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1051433,2023-05-28T21:03:31.000Z
+212,82bc73646f72810764063461794770e2,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,961733,2023-05-28T20:41:38.000Z
+213,f3b473641f011ede6657b77ba8ca3dad,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1631633,2023-05-28T20:09:23.000Z
+214,6e9c73645874a17a57203675117bb8dc,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2624867,2023-05-28T18:24:46.000Z
+215,3b95736417423f45adaa89a6355bf9f3,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1603633,2023-05-28T17:54:03.000Z
+216,7e9073640915770bd941ef0b6bff6a35,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,775267,2023-05-28T17:33:50.000Z
+217,1d887364a0f50f53cdeecb77f7bdcdc3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1792667,2023-05-28T16:58:05.000Z
+218,f680736421d8dec4f6e3796c5d626476,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1419067,2023-05-28T16:27:34.000Z
+219,417b736492ec68eef74d1af6d9777cd6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,987700,2023-05-28T16:03:13.000Z
+220,0273736446fa9e4b42734f4fc0d19bd5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1353433,2023-05-28T15:28:02.000Z
+221,a6677364a04a26fa168403190875def2,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2168433,2023-05-28T14:39:34.000Z
+222,2b6373644175403801333c448fd9224c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,741033,2023-05-28T14:20:27.000Z
+223,cf56736454915356799987c419cd6caa,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2429667,2023-05-28T13:27:43.000Z
+224,10527364460a353c2c7702cc4e4c512a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,885500,2023-05-28T13:07:28.000Z
+225,764873646a338550c26010ba6ded175e,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1910667,2023-05-28T12:26:30.000Z
+226,96037364dce11b724dc0cdf4d8a2b770,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,476467,2023-05-28T07:32:38.000Z
+227,aff472644dcb36d985187fb5d4ad54e3,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2032967,2023-05-28T06:29:03.000Z
+228,55cb726441e6747c498cc764951099c9,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3420600,2023-05-28T03:32:37.000Z
+229,fb4b72648c71dbe032dd62d0e0860391,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2056100,2023-05-27T18:29:15.000Z
+230,3a477264ef5164883b1bfc05e1b2fa3a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,851300,2023-05-27T18:08:58.000Z
+231,f43572641f8972107f1bda481c27b2b0,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1683767,2023-05-27T16:55:16.000Z
+232,fa17726423d1f562a8968b29316d875d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2821867,2023-05-27T14:47:22.000Z
+233,a4fa716464341924ecca6eecda19c1ab,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3244733,2023-05-27T12:42:12.000Z
+234,a3ed71646068e69a492eb4cafe0e8756,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2515667,2023-05-27T11:46:43.000Z
+235,afd07164f67c8c382247c5f3e5b864dd,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,4510367,2023-05-27T09:43:11.000Z
+236,1d2c71646208138b33520650459d4ef6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2718233,2023-05-26T22:01:01.000Z
+237,9d1e716421934ac275b86cc9c8a34c2e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2840800,2023-05-26T21:03:25.000Z
+238,a50a716454cfd7e590e5f1d55e44e453,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2042567,2023-05-26T19:38:13.000Z
+239,2ad47064dda2d72a6acd967a869a4808,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2520233,2023-05-26T15:45:46.000Z
+240,63aa70644c6e29d2946f386b17f4ab12,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2129700,2023-05-26T12:47:31.000Z
+241,31886f64f5a76cea9c2607f9f054baf2,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1364800,2023-05-25T16:09:21.000Z
+242,0c6f6f6417bdf95f4f5398d61226741c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2370900,2023-05-25T14:22:04.000Z
+243,2e536f64c51ec77c86aa13681014a934,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1173167,2023-05-25T12:23:10.000Z
+244,07446f64681e4fa0badce1ce3738f369,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2263233,2023-05-25T11:18:31.000Z
+245,00156f64021bf853ddeeda43ec4a4d25,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3994300,2023-05-25T07:57:52.000Z
+246,290e6f64e8cc4aee970bacedb18c651b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1378900,2023-05-25T07:28:41.000Z
+247,29866e642161c3d8f8a78aaa6c6afe39,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3032367,2023-05-24T21:48:25.000Z
+248,bc7e6e64d21b9232b8d05c355926b633,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1526267,2023-05-24T21:16:44.000Z
+249,f65f6e64aaa40e4c1baf5a1913d0f57b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2914833,2023-05-24T19:05:26.000Z
+250,bc106e64b2d50d86e264f269b87f2b96,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1736500,2023-05-24T13:27:24.000Z
+251,200c6e6428695d040d0a396f7ba01547,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,914667,2023-05-24T13:07:44.000Z
+252,66dd6d64115e16f3c0bcf11766a24082,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1866700,2023-05-24T09:48:22.000Z
+253,09d56d640c6af32d4abe78f6ef73e5fc,Fatalebaguette,False,Rosetta1.4,Rosetta 1.4,911667,2023-05-24T09:12:41.000Z
+254,4bcc6d645e5cffb044b336a22e3480eb,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1521933,2023-05-24T08:35:23.000Z
+255,a7c46d643bc43a6ea5209a12e6142052,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1610767,2023-05-24T08:02:47.000Z
+256,0db46d64efd16bb27e74105796fd17a1,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1589567,2023-05-24T06:51:57.000Z
+257,a8a76d64e46cf2e20eb9c31034c3801b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2739634,2023-05-24T05:59:04.000Z
+258,3e9f6d649c26901f96c37d9dc6a897e5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1763067,2023-05-24T05:23:10.000Z
+259,232b6d640cf9c1b6ea8cf97a7b266712,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1844100,2023-05-23T21:07:47.000Z
+260,2dfb6c6479a5c023797a030e084c1989,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2141067,2023-05-23T17:43:09.000Z
+261,ecf36c64b096b70a624d638f66a9cd8b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1529967,2023-05-23T17:12:12.000Z
+262,0be26c64b38801b03fb6d418adb05e2a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3053733,2023-05-23T15:55:55.000Z
+263,f3dc6c64cf20dbdc1b2d4ca818248956,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,802133,2023-05-23T15:34:11.000Z
+264,5bd66c64aba55714bc2d0fdaf533019e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1279767,2023-05-23T15:06:03.000Z
+265,acc06c645a325345a24f65509f956a3d,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2884733,2023-05-23T13:33:32.000Z
+266,deb46c6425a6224beb83429d10a8c410,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2312467,2023-05-23T12:43:10.000Z
+267,64946c641514d89732727b581db770b0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3853700,2023-05-23T10:24:36.000Z
+268,e4826c64564cb0a19c3ddaa6263c1271,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2000133,2023-05-23T09:09:56.000Z
+269,496f6c64173c53d60e6f60b9219a2142,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3479733,2023-05-23T07:46:17.000Z
+270,d4676c6440a3de49f7f53ace00cbd794,Fatalebaguette,True,forge_v1.4,Forge v1.4,999633,2023-05-23T07:14:28.000Z
+271,61d86b64c33b9762f94630dc8cc179e9,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,890567,2023-05-22T21:02:25.000Z
+272,34cf6b64e92ef0cfa09b2cc37e22db94,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2113700,2023-05-22T20:23:16.000Z
+273,09cb6b644b549eda2dcb13c541a98f62,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,873667,2023-05-22T20:05:29.000Z
+274,9fc16b6485b60acd2df86a100ea6dcf0,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2406366,2023-05-22T19:25:19.000Z
+275,30ad6b64e40ab0415cdf41ae71047200,Fatalebaguette,False,all_that_glitters_v2.1,All That Glitters v2.1,1281467,2023-05-22T17:58:08.000Z
+276,5e606b64462223555a7baad7a8068fea,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,845400,2023-05-22T12:30:22.000Z
+277,cc566b64f5eeea228a01eb414b7f1d33,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1993533,2023-05-22T11:49:32.000Z
+278,16496b64e73fce801da6a6ad2ac17346,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3034000,2023-05-22T10:51:02.000Z
+279,763c6b64f6db8f3135691e6e0bddb63c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2831667,2023-05-22T09:57:10.000Z
+280,002f6b644d873a30925e56fdc6120b77,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2225167,2023-05-22T08:59:44.000Z
+281,821d6b648d84bf7b003f7c16c314675b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1714267,2023-05-22T07:45:06.000Z
+282,ee176b644e289553b4ff3849ff5b407f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1126500,2023-05-22T07:21:18.000Z
+283,02126b647772261f47b29e406b1eb163,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1286100,2023-05-22T06:56:02.000Z
+284,ce4c6a64d62c4062f8ee0d576eb7c168,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1604333,2023-05-21T16:54:38.000Z
+285,c6346a64e9ba7666ed1795dbdaba0316,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,981667,2023-05-21T15:12:06.000Z
+286,a5146a64b0791fb19edc9e3a9126b59c,Fatalebaguette,True,forge_v1.4,Forge v1.4,2306567,2023-05-21T12:55:01.000Z
+287,39da696438e69ef8ff991e6b2fba2314,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2117233,2023-05-21T08:45:45.000Z
+288,d8c5696496796d7bcb148a624ecd63f1,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2748067,2023-05-21T07:18:48.000Z
+289,c7bb69644ffbaa94854a5b253bfc4b20,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1888433,2023-05-21T06:35:51.000Z
+290,461e6964fdbf614f064e506046370a16,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2167700,2023-05-20T19:23:50.000Z
+291,a50e6964ca0e1d1075055b3cac9ccff3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1976933,2023-05-20T18:17:09.000Z
+292,12f368643e9d653df4ec4546d0c01db2,Fatalebaguette,True,forge_v1.4,Forge v1.4,898300,2023-05-20T16:19:30.000Z
+293,47c868647827f5b2a0f9f1889944129a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2497700,2023-05-20T13:16:55.000Z
+294,fafa6764b8e68b6eada8497444e723e0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1820600,2023-05-19T22:40:58.000Z
+295,e7e767649dc3f0ade729b84c5a9d0252,Fatalebaguette,False,darkside_v3.0,Darkside v3.0,2007133,2023-05-19T21:19:35.000Z
+296,72da6764ae368440a68a3440ab85ee36,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3068267,2023-05-19T20:22:10.000Z
+297,fdce676496cf47cf0fa94709066555f8,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2640634,2023-05-19T19:33:17.000Z
+298,b3ac676448dec092d844f33e66b60893,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1918767,2023-05-19T17:06:59.000Z
+299,999a67641ab45bbcfa51ec690f03d15c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2798833,2023-05-19T15:49:45.000Z
+300,428f6764c032d598012417829dba86b6,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2152033,2023-05-19T15:01:22.000Z
+301,a4696764dca88ed3c96dc7e085e6f01e,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2348667,2023-05-19T12:20:51.000Z
+302,185f67647dcc60f3cc64c846edb7a730,Fatalebaguette,True,sulphur_springs_v1.1,Sulphur Springs v1.1,2359133,2023-05-19T11:35:52.000Z
+303,a7516764b2fe2fbf2e493b97ac0c5199,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2898800,2023-05-19T10:38:31.000Z
+304,d7646664536a2a0ab7105bb477614cbf,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2756767,2023-05-18T17:48:07.000Z
+305,7554666443f0a481c04a2eeb07326022,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2420767,2023-05-18T16:38:13.000Z
+306,f14d6664975d953506e5cc287f5c2ab9,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1968567,2023-05-18T16:10:25.000Z
+307,86146664ae12aa2327da36e41493e940,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,3770633,2023-05-18T12:05:26.000Z
+308,e6056664bd78301d78441f7c15205a28,Fatalebaguette,False,ice_scream_v2.5,Ice Scream v2.5,3106800,2023-05-18T11:03:02.000Z
+309,49ef6564f1a061e371a692a679af7099,Fatalebaguette,True,forge_v1.4,Forge v1.4,3035700,2023-05-18T09:26:33.000Z
+310,05e86564a1f9d2eaa524cdd5e22116ed,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2376267,2023-05-18T08:55:33.000Z
+311,5861656433194bb5a08d64216bd55408,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,1399933,2023-05-17T23:20:56.000Z
+312,055665641800160ed2dc14023861695a,Fatalebaguette,False,forge_v1.4,Forge v1.4,2217033,2023-05-17T22:32:37.000Z
+313,d74f6564a852ad68cca8497e94faf7f3,Fatalebaguette,False,starwatcher_0.9,Starwatcher 0.9,1306700,2023-05-17T22:06:15.000Z
+314,57266564b6bdb940d2a4d891c2aedbb7,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,1361600,2023-05-17T19:09:11.000Z
+315,871a65647d0b313f7ed975a92aebb4ee,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2730567,2023-05-17T18:18:47.000Z
+316,0ac46464c518e1d2bd46d86646387e85,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2217567,2023-05-17T12:09:46.000Z
+317,52b96464cb9c66795d18cdd672020e49,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2226267,2023-05-17T11:24:02.000Z
+318,d1996464ac69e69314897017383d4f89,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3000400,2023-05-17T09:09:37.000Z
+319,d2fd636470a5352747b3c27d2dc76cea,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,1973367,2023-05-16T22:04:02.000Z
+320,e6f3636479d6c5f07bdba93144602ca6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1861000,2023-05-16T21:21:42.000Z
+321,1beb6364b29347e24dbad6eb9dac2f49,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1800700,2023-05-16T20:44:11.000Z
+322,3bd46364518f7ebdeb79981d3bc28c04,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2026967,2023-05-16T19:06:35.000Z
+323,a6ca63647c3be01b9023b8f06856587c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1936467,2023-05-16T18:25:42.000Z
+324,f9bd636477883c81cff74e17399d6504,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,832367,2023-05-16T17:31:37.000Z
+325,d48b6364c8520ffb09a44a430edb5f1b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3468000,2023-05-16T13:57:40.000Z
+326,007e6364962e3ad4fc6045ddf192bee6,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,954667,2023-05-16T12:58:40.000Z
+327,c14063647951e40b6d508a4f1520f1df,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3367600,2023-05-16T08:37:21.000Z
+328,c2246364049a4a796e0c5b3863655477,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2212200,2023-05-16T06:37:54.000Z
+329,e26a6264c06252b3bfdf44f6b8ea3d86,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2627367,2023-05-15T17:24:50.000Z
+330,8d3a62649bef3804456c25f92979671f,Fatalebaguette,False,Entrenched_Plains_V2,Entrenched_Plains_V2,2470767,2023-05-15T13:58:37.000Z
+331,2d2e6264ce565327569161c9c5c771f4,Fatalebaguette,False,flats_and_forests_v2.1,Flats and Forests v2.1,2774167,2023-05-15T13:05:49.000Z
+332,da2362649d6c27cdd1facc75ce6ec8da,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1010500,2023-05-15T12:21:46.000Z
+333,88196264563e640b2e3b5d5ab48388ad,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2206800,2023-05-15T11:37:44.000Z
+334,c0db6164a6d59e156b3580b8ebb82db4,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2719967,2023-05-15T07:14:08.000Z
+335,da556164137750ea91c7bbcf742f4f02,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1753733,2023-05-14T21:42:50.000Z
+336,7252616422de1c705ce9363ebb58e4eb,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,518533,2023-05-14T21:28:18.000Z
+337,3c4c61640b67d58ec79ba1553b97abce,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1127433,2023-05-14T21:01:48.000Z
+338,4a386164217d9f13275dea64a317a553,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1225367,2023-05-14T19:36:42.000Z
+339,102f616446134c5473c466f197e2a6bb,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1614033,2023-05-14T18:57:20.000Z
+340,590461643a6fb4bbc0d246a5b0e24ed7,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1503433,2023-05-14T15:55:05.000Z
+341,fbf760643da0385418f128200b35a6cc,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2686833,2023-05-14T15:02:19.000Z
+342,4dda606410f30a7511143c381bcd299b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1992833,2023-05-14T12:55:41.000Z
+343,0fd26064fbb68c9387a1b074f13aa901,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1661000,2023-05-14T12:20:31.000Z
+344,f7a160645cfdedd59917b8b41fe1b344,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2691767,2023-05-14T08:55:19.000Z
+345,53826064a2ed26da9952a4423ed22059,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2138533,2023-05-14T06:40:19.000Z
+346,f9d95f641b68df6151efdd5095f2e309,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,1887367,2023-05-13T18:42:01.000Z
+347,6bd05f64784a656915a24ceef87031ae,Fatalebaguette,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1815267,2023-05-13T18:01:15.000Z
+348,3ebe5f64ee910f55f258246eeed7b141,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1615867,2023-05-13T16:43:42.000Z
+349,8a995f64135890a17a2f01d10991ade5,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2532600,2023-05-13T14:07:06.000Z
+350,47715f6484a2e9804fa5cabd4abfe65a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2664700,2023-05-13T11:15:19.000Z
+351,42655f6407b7da27cfb5ba2863c85448,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2262800,2023-05-13T10:24:02.000Z
+352,96415f646de6cbd70871c09eb101e2a9,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2806767,2023-05-13T07:51:50.000Z
+353,8d8c5e642840ad1b6a9e7f685dc73b3e,Fatalebaguette,False,all_that_glitters_v2.0,All That Glitters v2.0,1279567,2023-05-12T18:59:25.000Z
+354,66865e641bf394f4640bf0576f8f9db8,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1183800,2023-05-12T18:33:10.000Z
+355,a76a5e642c2a2d35c16f06a27a6ae472,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3244100,2023-05-12T16:34:47.000Z
+356,2b4f5e649a07a64422794d198ba7d98c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,995767,2023-05-12T14:37:31.000Z
+357,16445e64878fb9e77081a7c79ba4b275,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1193267,2023-05-12T13:50:14.000Z
+358,c11f5e640255b90bbd25962e5cc15285,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2650767,2023-05-12T11:15:13.000Z
+359,3afb5d642f2b4d1251a7dc97741e72ab,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2490567,2023-05-12T08:39:22.000Z
+360,0ef75d64ce4a2496122cac8d90ae489d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,824767,2023-05-12T08:21:34.000Z
+361,fc5b5d64ad4e2f3f6f0d80e97ad148e6,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2933167,2023-05-11T21:19:56.000Z
+362,d9535d648e8a15a6504cfdab49240186,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3252067,2023-05-11T20:45:13.000Z
+363,73495d640488cb63ce302647b3a0c3aa,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2321333,2023-05-11T20:00:51.000Z
+364,1f2d5d64451a3e2555d4fa5688843d99,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2509567,2023-05-11T17:59:59.000Z
+365,f4215d649903f62b24f7c849f0126851,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1325933,2023-05-11T17:12:20.000Z
+366,1d185d64db1df6588cc1af714930b047,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1909767,2023-05-11T16:30:21.000Z
+367,afdc5c644232d66247a0d9715b8c0479,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,970800,2023-05-11T12:16:47.000Z
+368,60cb5c64837df6f77675616474ebb47b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2303367,2023-05-11T11:02:56.000Z
+369,6bc15c643a5aa913b4dbb2d354f01090,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2143400,2023-05-11T10:20:27.000Z
+370,67a45c640f32c47ddc641f94820fe8bf,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,3064500,2023-05-11T08:16:39.000Z
+371,86975c6489f4f319b8897b9420df674f,Fatalebaguette,False,darkside_v3.0,Darkside v3.0,2843300,2023-05-11T07:21:42.000Z
+372,5bf65b64b523ee7ad096f260f135df76,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2974500,2023-05-10T19:54:03.000Z
+373,8dc55b64e165c3b2a46e9e5b216af763,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1534667,2023-05-10T16:25:49.000Z
+374,56b25b644cf8f676294615a85ac3ddbb,Fatalebaguette,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1784733,2023-05-10T15:03:50.000Z
+375,ad8c5b64f6b9313b1f8c5fb3c8c3c892,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1814867,2023-05-10T12:23:09.000Z
+376,4b885b6473bc5aa04b861cbd0442aca1,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,800033,2023-05-10T12:04:27.000Z
+377,fa955a64a0dde9d58e3e06cbda84127f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2895733,2023-05-09T18:50:34.000Z
+378,d2465a64647d63b6731517da25b376be,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,4578500,2023-05-09T13:12:50.000Z
+379,cb455a642288f93245c791b102487cfb,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,6367,2023-05-09T13:08:27.000Z
+380,c12c5a6461a481cf96c68ae5b4cb6ac3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2385967,2023-05-09T11:21:37.000Z
+381,801c5a6446c0e00205430065f0608973,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1065867,2023-05-09T10:12:16.000Z
+382,de8759646a84e86cd59c1fd11bfed66e,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,2973433,2023-05-08T23:38:06.000Z
+383,507959642522d8d5e6bb893f835ec172,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2254367,2023-05-08T22:36:00.000Z
+384,1e7159641ce43cc8dfe3e64d450bd8bf,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,1431633,2023-05-08T22:01:02.000Z
+385,87685964d8581402dd1f46bd9446b01e,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,956267,2023-05-08T21:24:23.000Z
+386,516259648d01a181c7ec1b40208654f6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1298667,2023-05-08T20:57:53.000Z
+387,191c5964061ab4ee05454188ecea99c4,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2359866,2023-05-08T15:58:17.000Z
+388,effd5864734c55d9b5ed2c41017b2e4c,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,1929567,2023-05-08T13:49:35.000Z
+389,33f0586466d3b9e0ffdcc2f3fb9b4792,Fatalebaguette,True,all_that_glitters_v2.0,All That Glitters v2.0,1775800,2023-05-08T12:50:59.000Z
+390,52d05864f95a546d38fd1b4e57d636d0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2657400,2023-05-08T10:34:58.000Z
+391,c1c558640c94b950abfb18eb0c6e46fd,Fatalebaguette,False,starwatcher_0.9,Starwatcher 0.9,2257333,2023-05-08T09:49:53.000Z
+392,94b25864967c06b3a5f9b45354b8ddac,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,984633,2023-05-08T08:28:04.000Z
+393,b6ac58647f67610578b9c1a0f7c8b1bd,Fatalebaguette,False,forge_v1.4,Forge v1.4,3019233,2023-05-08T08:03:02.000Z
+394,38135864001a477dbc945ce05824dd26,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2850800,2023-05-07T21:08:08.000Z
+395,020c5864f7535eeb11d024b12df91a5f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1620033,2023-05-07T20:37:22.000Z
+396,eff657649b2a246f62082a8eb33022db,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2167367,2023-05-07T19:07:27.000Z
+397,d2e15764b17b8cc335cc5d544b306373,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1752633,2023-05-07T17:37:22.000Z
+398,09d85764498d4e5c1154b3c71178260a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1901233,2023-05-07T16:55:37.000Z
+399,89a85764b11c9157506a0165c232e621,Fatalebaguette,False,Oort_Cloud_V2,Oort_Cloud_V2,1343167,2023-05-07T13:32:57.000Z
+400,889357647abbd0d65a5f5b1e7b8f1c1f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2785533,2023-05-07T12:03:20.000Z
+401,047857649feb1b769adf8f0e53626e58,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1553667,2023-05-07T10:05:56.000Z
+402,61725764220e135adc021a63dc54f3de,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1069300,2023-05-07T09:41:53.000Z
+403,01625764295a64ab3d9b1bc8fd3661a5,Fatalebaguette,False,forge_v1.4,Forge v1.4,968500,2023-05-07T08:32:01.000Z
+404,c5525764374215a44998325583dc5464,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1759633,2023-05-07T07:27:01.000Z
+405,694c576471babf59c55462b1fb0164b2,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,1991267,2023-05-07T06:59:53.000Z
+406,44b856644c434b646e1fac44e6a105d6,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1545267,2023-05-06T20:27:48.000Z
+407,2cac5664c2b9ac633e4e85921df7ac2e,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2443267,2023-05-06T19:36:12.000Z
+408,3690566470ab47255c44fb8f418e646a,Fatalebaguette,False,forge_v1.4,Forge v1.4,1343000,2023-05-06T17:36:54.000Z
+409,6188566424d78164834a2b42f29fde8a,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1730700,2023-05-06T17:03:29.000Z
+410,64765664eaa109fa6ef2fe86f7564258,Fatalebaguette,True,all_that_glitters_v2.0,All That Glitters v2.0,2517433,2023-05-06T15:46:44.000Z
+411,ed6f5664b60a9cdf1b26eeb57214fd98,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1535500,2023-05-06T15:19:09.000Z
+412,99695664400de223830d220b1475ee70,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1074600,2023-05-06T14:52:09.000Z
+413,a12d5664c617b59c28a0c2e6d9d5654b,Fatalebaguette,True,all_that_glitters_v2.0,All That Glitters v2.0,1305500,2023-05-06T10:36:17.000Z
+414,10225664aa907cbb0a115d9b066858d2,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2061500,2023-05-06T09:46:56.000Z
+415,d91356645b4cd5a01cc9ba60f30cb58c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2587267,2023-05-06T08:46:17.000Z
+416,da035664bffe98e6dd74e55c8768b709,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3531867,2023-05-06T07:38:02.000Z
+417,e06d556462b711bccc7222b14034a28c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2058700,2023-05-05T20:58:08.000Z
+418,49655564ff1da333f9b3a44ce95447b0,Fatalebaguette,False,ice_scream_v2.5,Ice Scream v2.5,1794067,2023-05-05T20:21:29.000Z
+419,ff5a5564b4905cd5934ed0b66a4e40c4,Fatalebaguette,False,eight_horses_1.2,Eight Horses 1.2,2024933,2023-05-05T19:37:35.000Z
+420,7c5655648aab640019c1be7da0c58a18,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,849533,2023-05-05T19:18:20.000Z
+421,7e475564b3fa5fb8a7e710def262e187,Fatalebaguette,True,all_that_glitters_v2.0,All That Glitters v2.0,3095167,2023-05-05T18:14:22.000Z
+422,95295564ff716bbf5c9eac79103aedd0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1802867,2023-05-05T16:06:45.000Z
+423,9623556439eb87d6db88eff773aaa6ae,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,818633,2023-05-05T15:41:10.000Z
+424,1d22556497905e2e88af350953a9c906,Fatalebaguette,False,all_that_glitters_v2.0,All That Glitters v2.0,2043300,2023-05-05T15:34:53.000Z
+425,42d0546458135bbeabbde44674bd6396,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,972333,2023-05-05T09:45:38.000Z
+426,cdbb546436e55d265f6991aa069cad0b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1915700,2023-05-05T08:18:21.000Z
+427,50b1546481b5aebd1ac194be1ba40954,Fatalebaguette,True,eight_horses_1.2,Eight Horses 1.2,2276800,2023-05-05T07:33:36.000Z
+428,7b365464fdb86ed7ec3532bf79e6cfc0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,844567,2023-05-04T22:49:31.000Z
+429,91115464c6e6700c7b0239182b642945,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2977767,2023-05-04T20:12:01.000Z
+430,14ea53641a325f21832513aecae64ea3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2547200,2023-05-04T17:23:32.000Z
+431,858253643a185955f0051bb2c3d72327,Fatalebaguette,False,eight_horses_1.2,Eight Horses 1.2,1744467,2023-05-04T10:01:41.000Z
+432,e56d53642b1660d15c624e2c44690090,Fatalebaguette,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2758767,2023-05-04T08:33:41.000Z
+433,7a6553641efac2bcb5a479e07e9d7981,Fatalebaguette,False,forge_v1.4,Forge v1.4,1314500,2023-05-04T07:57:46.000Z
+434,a7d15264cdac898f510cec6918cc315e,Fatalebaguette,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,953600,2023-05-03T21:27:03.000Z
+435,f7c55264c64a8d8a953f143c8bf1b612,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2555533,2023-05-03T20:37:11.000Z
+436,50a2526486b47f6ab16460dff0ea161c,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,3615033,2023-05-03T18:05:04.000Z
+437,6a83526472793c40de5b95c1b310a556,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2052700,2023-05-03T15:53:14.000Z
+438,1f7652647be3ab140df5868f8bbff854,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2535500,2023-05-03T14:56:31.000Z
+439,435b5264621e3986a8a4d7accb16f156,Fatalebaguette,True,eight_horses_1.2,Eight Horses 1.2,3481067,2023-05-03T13:01:55.000Z
+440,4154526418b0aa965de0bd2c8400627e,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,884667,2023-05-03T12:32:01.000Z
+441,3f4952640da6bcd793ff1f3cd06201e2,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,951733,2023-05-03T11:45:03.000Z
+442,0a445264c9ac3276caaea0b9220bd6a4,Fatalebaguette,False,FolsomdamR_1.16,FolsomDamR 1.16,1074500,2023-05-03T11:22:50.000Z
+443,ca33526450befcff29a30a0c352a9fa1,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3589167,2023-05-03T10:13:30.000Z
+444,a1275264008b1d20df887fcb92b4e3ec,Fatalebaguette,False,forge_v1.4,Forge v1.4,1407800,2023-05-03T09:21:37.000Z
+445,341e52642b149faa4ba1874e65e33e4e,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1399300,2023-05-03T08:41:24.000Z
+446,a29c516485463c346b23a1fb97066f61,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1997667,2023-05-02T23:28:34.000Z
+447,92885164296aff84c38c174e4b56a851,Fatalebaguette,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1587167,2023-05-02T22:02:58.000Z
+448,337c516413ea370f397fde04efa1e800,Fatalebaguette,False,eight_horses_1.2,Eight Horses 1.2,2234633,2023-05-02T21:10:11.000Z
+449,e2715164e38d10869ac7267a846d63ad,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,2023533,2023-05-02T20:26:10.000Z
+450,605e5164fdf6f5983ae9aa1f405b5047,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,3782867,2023-05-02T19:02:56.000Z
+451,5e4a516466ad76f4f464429290e03320,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2199000,2023-05-02T17:37:34.000Z
+452,eb2d5164c4a9f9ada28e271a5fd36262,Fatalebaguette,True,Rosetta1.4,Rosetta 1.4,999900,2023-05-02T15:36:11.000Z
+453,d92651645ae677f97872dd190b3d5718,Fatalebaguette,False,Tempest_V3,Tempest_V3,916500,2023-05-02T15:06:01.000Z
+454,48115164cd02c3dc09dfa60194e776a0,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,2562667,2023-05-02T13:34:00.000Z
+455,22fa5064373db7a5357617c661899cff,Fatalebaguette,False,dsdr_4.1,DSDR 4.1,1915767,2023-05-02T11:55:14.000Z
+456,82da50641553680c2ee76f4c31f767aa,Fatalebaguette,False,ice_scream_v2.5,Ice Scream v2.5,2610733,2023-05-02T09:40:18.000Z
+457,7ed15064fe9e95246c1b0a85d1c4eb52,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,1433367,2023-05-02T09:01:50.000Z
+458,e635506429022d299976e3bc737166af,Fatalebaguette,False,darkside_v3.0,Darkside v3.0,2165900,2023-05-01T21:57:58.000Z
+459,dd34506434cf7a36936ebf731d20b7e1,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,1177633,2023-05-01T21:53:33.000Z
+460,352950647330f53bcc987c5df77951ff,Fatalebaguette,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2491900,2023-05-01T21:03:49.000Z
+461,8c1a5064c0fce72da9085d08dcb7675c,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3017233,2023-05-01T20:01:16.000Z
+462,a4ea4f64b678cb0a5d6e49d9ad5a8c86,Fatalebaguette,True,starwatcher_0.9,Starwatcher 0.9,2003500,2023-05-01T16:36:52.000Z
+463,60df4f64ced013167c836b931c2ca605,Fatalebaguette,True,all_that_glitters_v2.0,All That Glitters v2.0,2302833,2023-05-01T15:48:48.000Z
+464,5dcb4f640cca94a1e5efef95c323e277,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2823167,2023-05-01T14:23:25.000Z
+465,57c24f64150d57470fef3333a603518e,Fatalebaguette,False,starwatcher_0.9,Starwatcher 0.9,1623600,2023-05-01T13:44:55.000Z
+466,39b04f6448b7f277586498bf21a60337,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2412167,2023-05-01T12:27:37.000Z
+467,7aab4f64ade1428f0f8668b13150de25,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,854800,2023-05-01T12:07:22.000Z
+468,d2914f645728e956b5a4d7255da70ff8,Fatalebaguette,True,carrot_mountains_v1.0,Carrot Mountains v1.0,3143567,2023-05-01T10:17:54.000Z
+469,20874f6499836e2bb5f85c7e75ef1795,Fatalebaguette,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2292800,2023-05-01T09:32:16.000Z
+470,e6014f6434e2a1f398bc293caa121bef,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2490867,2023-05-01T00:03:50.000Z
+471,4cf84e64892061352bfd1d463caa9d0b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1803833,2023-04-30T23:22:52.000Z
+472,e0f64e64d7625a9cc2013cdc98a99fd0,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2205567,2023-04-30T23:16:48.000Z
+473,f2e74e641a4758e38e10dce260115e6b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2618967,2023-04-30T22:13:06.000Z
+474,cdcd4e64e6fe32eb2895e010c366764b,Fatalebaguette,False,forge_v1.4,Forge v1.4,2855233,2023-04-30T20:21:33.000Z
+475,f1c34e6406b94e23f83e02d71c51c6d2,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,1548300,2023-04-30T19:39:29.000Z
+476,27a94e648bfc7e92e67e133500cc2ff0,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1970400,2023-04-30T17:45:11.000Z
+477,49a34e6451b2758c4efb7cc4051748b0,Fatalebaguette,False,eight_horses_1.2,Eight Horses 1.2,2118933,2023-04-30T17:20:09.000Z
+478,03964e642e48d53ab7e148abff579408,Fatalebaguette,True,all_that_glitters_1.2,All That Glitters v1.2,2312700,2023-04-30T16:23:31.000Z
+479,93814e64a20cc276d983f382a745511c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2036667,2023-04-30T14:56:19.000Z
+480,66714e64e2d006fe95df312300df036d,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2125867,2023-04-30T13:47:18.000Z
+481,806c4e64b655c8bb854a4ad0b92d85f7,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,826733,2023-04-30T13:26:24.000Z
+482,cb594e64c6c776b79b5f75a2d266b432,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3580000,2023-04-30T12:06:35.000Z
+483,e24f4e6496c33ce0aa8b8a00ffad4c53,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2184533,2023-04-30T11:24:18.000Z
+484,3d204e641c36b3af926516518a15193c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2781100,2023-04-30T08:01:01.000Z
+485,efa64d64eafde1ea51b47d76e7434fa6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2365933,2023-04-29T23:23:27.000Z
+486,6c9c4d64e35d2c941082357d5c8223a2,Fatalebaguette,True,all_that_glitters_1.2,All That Glitters v1.2,2251233,2023-04-29T22:38:36.000Z
+487,93974d6406194f1c69170fd4466b6f4d,Fatalebaguette,False,flats_and_forests_v2.1,Flats and Forests v2.1,963400,2023-04-29T22:17:55.000Z
+488,22904d64c67184b0f29970350c79167b,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,1476967,2023-04-29T21:46:10.000Z
+489,2b774d64bd1b5f23f5599d9b34018662,Fatalebaguette,True,dsdr_4.1,DSDR 4.1,3399667,2023-04-29T19:59:39.000Z
+490,64704d64d72c39dcaaa0d3192853666e,Fatalebaguette,False,carrot_mountains_v1.0,Carrot Mountains v1.0,1483300,2023-04-29T19:30:44.000Z
+491,4f5e4d646058f88dcf1b05337ccd645e,Fatalebaguette,False,forge_v1.4,Forge v1.4,1849433,2023-04-29T18:13:35.000Z
+492,714b4d6444f62c07bf44fd41f2c70dba,Fatalebaguette,False,Tempest_V3,Tempest_V3,1760500,2023-04-29T16:53:05.000Z
+493,631d4d64700f0af732e025ea2d37509f,Fatalebaguette,False,flats_and_forests_v2.1,Flats and Forests v2.1,1911533,2023-04-29T13:36:35.000Z
+494,2e0d4d64171b18a86b2211aa6687509b,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1583267,2023-04-29T12:27:26.000Z
+495,e3f54c6438c8418e57dae2ee3590c3ae,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3086867,2023-04-29T10:48:03.000Z
+496,01e44c640e833b9aebceb1bd3fc8fde3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3328967,2023-04-29T09:31:45.000Z
+497,b0cc4c6407e79f1784cdca597b1b56d3,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,776167,2023-04-29T07:52:16.000Z
+498,194b4c643fd7964644e8e9f0f1ea93c7,Fatalebaguette,True,Rosetta1.4,Rosetta 1.4,1696567,2023-04-28T22:39:21.000Z
+499,d5404c642b5b411c488a293c7fe7c03e,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,2331667,2023-04-28T21:55:33.000Z
+500,89274c6406e5876609e9782a822739a7,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3408733,2023-04-28T20:07:37.000Z
+501,a01a4c646905c3f6e99ec06f0b4d9060,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2572567,2023-04-28T19:12:32.000Z
+502,98f94b643e242e4fef8d827fece932bf,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1845933,2023-04-28T16:51:36.000Z
+503,11f34b64c1760376ad86afe57af5fb31,Fatalebaguette,False,pawn_retreat_1.2,Pawn Retreat 1.2,2459500,2023-04-28T16:23:45.000Z
+504,00eb4b642ff98d084df4908d204458fb,Fatalebaguette,True,pawn_retreat_1.2,Pawn Retreat 1.2,1229967,2023-04-28T15:49:20.000Z
+505,abe44b640e602e4c8c25f5e157eefa9d,Fatalebaguette,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,2115267,2023-04-28T15:22:19.000Z
+506,82d94b645bdc74471c1aee238d5520fb,Fatalebaguette,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2099500,2023-04-28T14:34:42.000Z
+507,7fc54b6465c7ee4a11158f76718bf47c,Fatalebaguette,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1415433,2023-04-28T13:09:19.000Z
+508,d8b34b6456ae39fb8f4ea30c8b5879da,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2684500,2023-04-28T11:54:00.000Z
+509,f49f4b64368e941b30d408b0f44b2121,Fatalebaguette,False,taldarim_v3,Taldarim_V3,3998867,2023-04-28T10:29:08.000Z
+510,ae854b6435025077f7c1b0412467c00b,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,2930433,2023-04-28T08:37:02.000Z
+511,ee7a4b640ae9d4d0bc40493b37b47ab9,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2683600,2023-04-28T07:51:10.000Z
+512,41714b64752f3b90d77629ed65bff4c4,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2155200,2023-04-28T07:09:53.000Z
+513,285f4b643722a9d9f5fef4c277dda333,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1784500,2023-04-28T05:52:40.000Z
+514,79794a64ef4a3198de00d929a34425b7,Fatalebaguette,True,shore_to_shore_v3,Shore_to_Shore_V3,3664400,2023-04-27T13:32:41.000Z
+515,68684a6423ca87df45fd463f746913bf,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2659334,2023-04-27T12:19:52.000Z
+516,774e4a641995a00cc7190c1858d6d2d6,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3353967,2023-04-27T10:29:11.000Z
+517,4c4a4a6457931d297d6044ccb030d998,Fatalebaguette,False,forge_v1.4,Forge v1.4,2031167,2023-04-27T10:11:24.000Z
+518,f2b44964204ec59298579d4487d7c2ff,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2663733,2023-04-26T23:34:10.000Z
+519,94ad496458f54cf5531e4dda8d4e8a7c,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,5233233,2023-04-26T23:02:44.000Z
+520,93a24964c5c8adf1935cdfbc67ec0386,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2469333,2023-04-26T22:15:47.000Z
+521,eb92496418d9e43e31dc5f16103d708c,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3228833,2023-04-26T21:08:59.000Z
+522,5a8a496439e139248a53d268635cdb4d,Fatalebaguette,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2133333,2023-04-26T20:32:26.000Z
+523,327849641515da00d6606b8678fdcb27,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2980600,2023-04-26T19:14:58.000Z
+524,d95c496488e6834caa8918358f3f4555,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,2283600,2023-04-26T17:18:17.000Z
+525,33524964d9607a82eeb837dc46ac5978,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1736767,2023-04-26T16:32:51.000Z
+526,5e4d496498a3b478a78f9baf8e5eb2b7,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,986633,2023-04-26T16:12:14.000Z
+527,0c374964e309b101106b870262eaf4b7,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1941033,2023-04-26T14:37:00.000Z
+528,0c1949643b363710ddd200606b41bc48,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2831100,2023-04-26T12:29:00.000Z
+529,83c948644b2064c2517d8026e1fff391,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2047067,2023-04-26T06:49:39.000Z
+530,a5bf48643dd4b8ca407dcc3edb94ce9f,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2087367,2023-04-26T06:07:33.000Z
+531,121f4864408693bbf88867731739ca7c,Fatalebaguette,False,flats_and_forests_v2.1,Flats and Forests v2.1,2905000,2023-04-25T18:42:26.000Z
+532,6df0476445a2bb354d59fad8a7676b0a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2107500,2023-04-25T15:23:25.000Z
+533,34e44764bf289d151bc74d21b3ce0b13,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2236433,2023-04-25T14:31:16.000Z
+534,91db476435cffa1f06f47ba288996988,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1916900,2023-04-25T13:54:25.000Z
+535,b1c14764552b187e5ec093e6094eede2,Fatalebaguette,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1690067,2023-04-25T12:04:01.000Z
+536,15b74764a328296496895a22a7c8dbf3,Fatalebaguette,False,all_that_glitters_1.2,All That Glitters v1.2,2152133,2023-04-25T11:18:45.000Z
+537,58b24764e5571e37f1eac875dad3708c,Fatalebaguette,True,darkside_v3.0,Darkside v3.0,2307300,2023-04-25T10:58:32.000Z
+538,daed46647e710c3634ee45d4c741ca6a,Fatalebaguette,True,Riverrun_V1,Riverrun_V1,3222733,2023-04-24T21:00:10.000Z
+539,13e846649f1a1344ec2e0e3d1a10a97e,Fatalebaguette,False,pawn_retreat_1.2,Pawn Retreat 1.2,1916833,2023-04-24T20:35:31.000Z
+540,92d546649f9ae5d6d7c18070fc218993,Fatalebaguette,True,flats_and_forests_v2.1,Flats and Forests v2.1,1965300,2023-04-24T19:16:34.000Z
+541,e1c44664592e283c292c02e4003a6170,Fatalebaguette,False,starwatcher_0.9,Starwatcher 0.9,2981300,2023-04-24T18:05:21.000Z
+542,909d46647695e95f63f7324345296098,Fatalebaguette,True,all_that_glitters_1.2,All That Glitters v1.2,1965133,2023-04-24T15:17:36.000Z
+543,1495466469a103b0ef6380d0d0f234a3,Fatalebaguette,False,flats_and_forests_v2.1,Flats and Forests v2.1,1462167,2023-04-24T14:41:24.000Z
+544,2f4c4664616164d5f682a2f528ba17b0,Fatalebaguette,False,dsdr_4.1,DSDR 4.1,2094200,2023-04-24T09:30:23.000Z
+545,983f46644fffb36174945aaafbb3224f,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2587833,2023-04-24T08:36:40.000Z
+546,1d3a466458c4e4fba6ae8f20a8a7a9ed,Fatalebaguette,False,eight_horses_1.2,Eight Horses 1.2,1423500,2023-04-24T08:13:17.000Z
+547,95304664e1e8510ecac2c229537e7d18,Fatalebaguette,False,darkside_v3.0,Darkside v3.0,1791300,2023-04-24T07:32:37.000Z
+548,895d45642ef72ca2c0da1d959513d076,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2629967,2023-04-23T16:32:09.000Z
+549,7b534564e8c260a4b32736e0cdeca4f2,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2161533,2023-04-23T15:49:15.000Z
+550,e13c456407fbbdc841c8192f44ab4b65,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,1994967,2023-04-23T14:12:49.000Z
+551,4534456440fa2e63b753c84cd539c781,Fatalebaguette,False,Rosetta1.4,Rosetta 1.4,1778033,2023-04-23T13:36:05.000Z
+552,db2245645f5d36c3fd5a04d1cad0c790,Fatalebaguette,False,Tempest_V3,Tempest_V3,806400,2023-04-23T12:21:47.000Z
+553,c51b45640f4bf458b1e4b205680514b3,Fatalebaguette,False,forge_v1.4,Forge v1.4,1294700,2023-04-23T11:51:33.000Z
+554,5e83446439fc050bfa590d6f9e74623b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,3065367,2023-04-23T01:01:18.000Z
+555,bd7d4464bdf341bdce4d812d2fc5dd73,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,1053567,2023-04-23T00:37:17.000Z
+556,d7754464bc1e47fe704583da39deadbb,Fatalebaguette,False,Riverrun_V1,Riverrun_V1,2109867,2023-04-23T00:03:35.000Z
+557,486a4464c55abcedd3174d7cd61685e0,Fatalebaguette,True,Riverrun_V1,Riverrun_V1,2528933,2023-04-22T23:14:16.000Z
+558,d7634464ffc85c0cd0c0d23450a222d6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3164800,2023-04-22T22:46:47.000Z
+559,6a4f4464a2e8353e84b209c65b3ab081,Fatalebaguette,False,mariposa_island_v2.4,Mariposa Island v2.4,2221567,2023-04-22T21:19:38.000Z
+560,50464464efa95ac825a240d605d1ebbf,Fatalebaguette,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1724900,2023-04-22T20:40:48.000Z
+561,6f3d4464b265f1d7e701ff9c5ae53e8a,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1859400,2023-04-22T20:02:55.000Z
+562,e4134464821f43c423260d9c4c0908fb,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,7077767,2023-04-22T17:05:40.000Z
+563,03054464678bf197f5ff70a5546f7516,Fatalebaguette,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2969633,2023-04-22T16:02:11.000Z
+564,0bfc4364b53aaeec47d594945013d286,Fatalebaguette,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1893567,2023-04-22T15:23:55.000Z
+565,00b04364a44d3c0b3fabc3afd087a11f,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2108600,2023-04-22T09:59:28.000Z
+566,2c894364cc0bb59cb0741ec0c9137d62,Fatalebaguette,True,forge_v1.4,Forge v1.4,2282167,2023-04-22T07:13:48.000Z
+567,ddd84264fce96767a1a3a0a42b01bab8,Fatalebaguette,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2936633,2023-04-21T18:41:33.000Z
+568,26d14264b9e0a61d516b42d251125a30,Fatalebaguette,False,theta_crystals_1.0,Theta Crystals 1.0,1920733,2023-04-21T18:08:38.000Z
+569,76804264266be4ece3fcab06121b7de2,Fatalebaguette,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2940233,2023-04-21T12:24:22.000Z
+570,8f7a42643b04316d5638e1a195484269,Fatalebaguette,False,carrot_mountains_v1.0,Carrot Mountains v1.0,1520133,2023-04-21T11:59:11.000Z
+571,50704264af594f5977cd0bb7e9782921,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2103767,2023-04-21T11:15:28.000Z
+572,6a5a4264eb2b2bfb7608471519cf3445,Fatalebaguette,True,hotlips_remake_v3.1,Hotlips Remake v3.1,2091667,2023-04-21T09:42:02.000Z
+573,455242648640d88cc6406d65e9a2c0d6,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,2013600,2023-04-21T09:07:17.000Z
+574,83d541646e608191cef7255b8614f020,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,2718867,2023-04-21T00:14:59.000Z
+575,a9cf4164d266b83150d2ccd9c06ff22e,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,970167,2023-04-20T23:50:01.000Z
+576,39bf41646898c642ea9fd1fd7270c823,Fatalebaguette,False,all_that_glitters_1.2,All That Glitters v1.2,1834267,2023-04-20T22:39:53.000Z
+577,8ab74164a52268de2bcb1fde4d87566b,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,1455633,2023-04-20T22:07:06.000Z
+578,b9b241640e824eb831078cb6c2cb4517,Fatalebaguette,True,supreme_strait_v1.4,Supreme Strait v1.4,772300,2023-04-20T21:46:33.000Z
+579,7bae416438142cfd597daafbc6feff52,Fatalebaguette,True,eight_horses_1.2,Eight Horses 1.2,645000,2023-04-20T21:28:27.000Z
+580,c0a141648d255ab6d512956bc335683a,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,2284367,2023-04-20T20:34:08.000Z
+581,a6904164b4c939210ee8acd9126c1e8b,Fatalebaguette,False,forge_v1.4,Forge v1.4,1112400,2023-04-20T19:21:10.000Z
+582,988741649a594e04f87283777a6aeb52,Fatalebaguette,False,hotlips_remake_v3.1,Hotlips Remake v3.1,1855000,2023-04-20T18:42:32.000Z
+583,df7f4164f20b398fa061d784e3bb6554,Fatalebaguette,True,Rosetta1.4,Rosetta 1.4,1362300,2023-04-20T18:09:35.000Z
+584,6e5d4164618026ae43ae06b7f7279124,Fatalebaguette,True,dsdr_4.1,DSDR 4.1,3153900,2023-04-20T15:42:38.000Z
+585,6a4e4164d237d934271510ba07ae06e8,Fatalebaguette,True,koom_valley_3_3.1,Koom Valley 3 3.1,3113300,2023-04-20T14:38:34.000Z
+586,6a3c416479e1e7371cef32cf8c3bf171,Fatalebaguette,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,917667,2023-04-20T13:21:46.000Z
+587,6d2441644b08100454a03479d2bcba55,Fatalebaguette,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1620433,2023-04-20T11:39:25.000Z
+588,40104164e7b6f74402f19ab62ccf90a0,Fatalebaguette,True,forge_v1.4,Forge v1.4,2128433,2023-04-20T10:13:20.000Z
+589,f09640649db4bad410d08abd06ac4646,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,2354167,2023-04-20T01:35:44.000Z
+590,1490406449f664558983b9b531ec4ef7,Fatalebaguette,False,koom_valley_3_3.1,Koom Valley 3 3.1,1229900,2023-04-20T01:06:28.000Z
+591,0c824064865692f6ed683df79af70607,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,1890233,2023-04-20T00:06:36.000Z
+592,6a7640649cabd220a0b99b37cc1ad28e,Fatalebaguette,True,ice_scream_v2.5,Ice Scream v2.5,2427667,2023-04-19T23:16:58.000Z
+593,6270406430fd8cc2142d5dfbeb328d54,Fatalebaguette,False,darkside_v3.0,Darkside v3.0,1919933,2023-04-19T22:51:14.000Z
+594,c6664064ffd90fda9e36ac204ee2c8bc,Fatalebaguette,False,all_that_glitters_1.2,All That Glitters v1.2,2019967,2023-04-19T22:10:14.000Z
+595,ee52406462ac8a60de45fe3f71b43283,Fatalebaguette,False,supreme_crossing_v1,Supreme_Crossing_V1,1546500,2023-04-19T20:45:34.000Z
+596,f347406484ff6b148549a615f0ea6e6b,Fatalebaguette,False,greenest_fields_1.3,Greenest Fields 1.3,2491467,2023-04-19T19:58:43.000Z
+597,273e406493b1145415279d065968a6e4,Fatalebaguette,True,greenest_fields_1.3,Greenest Fields 1.3,2064300,2023-04-19T19:16:55.000Z
+598,a43a406414917a2499ccbec68ca91f2a,Fatalebaguette,True,forge_v1.4,Forge v1.4,863167,2023-04-19T19:01:56.000Z
+599,120f4064f6ee7961bc71ea553931e694,Fatalebaguette,False,supreme_strait_v1.4,Supreme Strait v1.4,3071900,2023-04-19T15:56:02.000Z
+600,4bf93f64348ec5f0011526b7984c3dc9,Fatalebaguette,False,all_that_glitters_1.2,All That Glitters v1.2,1552767,2023-04-19T14:23:07.000Z
+601,d4f23f646b84e9244963b453e1324ae0,Fatalebaguette,True,all_that_glitters_1.2,All That Glitters v1.2,1185000,2023-04-19T13:55:32.000Z

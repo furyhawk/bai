@@ -1,0 +1,660 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,ab289f64eeffbccec3705457c8a16426,XFactorLive,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,2054133,2023-06-30T19:10:35.000Z
+1,57239f6405fcd542033ab76fb06f7cd2,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,707500,2023-06-30T18:47:51.000Z
+2,ce1e9f64637346893340f2979be04b94,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,888367,2023-06-30T18:28:30.000Z
+3,db119f644592710263247c531d0489be,XFactorLive,True,speedmetal_bar_v2,SpeedMetal BAR V2,1160367,2023-06-30T17:33:15.000Z
+4,060b9f64f55ccd9afd7773c3ca2b7910,XFactorLive,False,ascendancy_v2.0,Ascendancy v2.0,2026900,2023-06-30T17:04:06.000Z
+5,11fc9e645648b69b60cac04e7dd4cea6,XFactorLive,False,ascendancy_v2.0,Ascendancy v2.0,1474233,2023-06-30T16:00:17.000Z
+6,d4f69e640850dfce67663916eb4af252,XFactorLive,True,heartbreak_hill_v4,Heartbreak Hill v4,789600,2023-06-30T15:37:56.000Z
+7,77f39e64bee542efbb6f9df9db3a9794,XFactorLive,True,heartbreak_hill_v4,Heartbreak Hill v4,573767,2023-06-30T15:23:35.000Z
+8,1ff29e6454e37005a69f909c6e19f97d,XFactorLive,False,heartbreak_hill_v4,Heartbreak Hill v4,178367,2023-06-30T15:17:51.000Z
+9,5cf09e640e581e877de196617e3fbec1,XFactorLive,False,heartbreak_hill_v4,Heartbreak Hill v4,298433,2023-06-30T15:10:20.000Z
+10,d5599c641b92ef3e45dbde474cb270c6,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1543033,2023-06-28T16:03:33.000Z
+11,f3519c6407c787740dc03f529ab36ffd,XFactorLive,True,to_kill_the_middle_v1.0,To Kill The Middle v1.0,1287633,2023-06-28T15:29:55.000Z
+12,234c9c6481afe58d624e6f6157fe0bc7,XFactorLive,False,dsdr_4.1,DSDR 4.1,906633,2023-06-28T15:05:07.000Z
+13,7d389c645b707c258c1f8fd93bd19d6b,XFactorLive,False,to_kill_the_middle_v1.0,To Kill The Middle v1.0,4285267,2023-06-28T13:41:17.000Z
+14,4c089c641b94326bffa7a34fab14454b,XFactorLive,False,sulphur_springs_v1.1,Sulphur Springs v1.1,2967967,2023-06-28T10:15:40.000Z
+15,f4ff9b64dbe8bb53979f60065080d9b6,XFactorLive,False,ascendancy_v2.0,Ascendancy v2.0,1417767,2023-06-28T09:40:04.000Z
+16,085b9b6430941116c185e0683ea9acee,XFactorLive,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,727900,2023-06-27T21:56:24.000Z
+17,0f499b647517644ef590d2d0b9e99117,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2562700,2023-06-27T20:39:43.000Z
+18,60c79a6452f8b59e73cd41a13cde33b7,XFactorLive,True,dsdr_4.1,DSDR 4.1,1839633,2023-06-27T11:26:24.000Z
+19,d5ae9a64c76ab0dbe18acbddd47a8008,XFactorLive,True,white_fire_remake_1.1,White Fire Remake 1.1,1758767,2023-06-27T09:41:41.000Z
+20,91a79a647cfa2b2ab5be2c1f23138295,XFactorLive,True,white_fire_remake_1.1,White Fire Remake 1.1,1252500,2023-06-27T09:10:41.000Z
+21,59ad99641c831a9481e5e53336b3c2cf,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,2409767,2023-06-26T15:23:05.000Z
+22,94a1996411e182c5a1e43987279e4cd7,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,2525667,2023-06-26T14:32:52.000Z
+23,478b9864e7ab609a2e9c5ceab948f758,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3093567,2023-06-25T18:45:27.000Z
+24,e18198648caf8c6481b7f4c7feaa4be6,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1836133,2023-06-25T18:05:21.000Z
+25,39759864ae322ccabcf494f0c1d5c5cd,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2774533,2023-06-25T17:11:21.000Z
+26,9e5d9864d1bdb1e721cae7815447d3c0,XFactorLive,False,Crescent_Bay_V2,Crescent_Bay_V2,2623700,2023-06-25T15:30:37.000Z
+27,d6139664215b17f0637db03417050de4,XFactorLive,False,Mediterraneum_V1,Mediterraneum_V1,3653633,2023-06-23T21:51:18.000Z
+28,360896642ddb4108dd57c493e666cfbb,XFactorLive,False,throne_v8,Throne_V8,2474134,2023-06-23T21:01:42.000Z
+29,d9fc95645e9790f0a6a4a9e8d2539708,XFactorLive,False,dworld_v4,DWorld_V4,2155933,2023-06-23T20:13:13.000Z
+30,e5f59564adddf27136533aa48d3d3782,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,650400,2023-06-23T19:43:33.000Z
+31,c1f09564cbecb2a35a697f621fe5a161,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,860367,2023-06-23T19:21:37.000Z
+32,10e89564a78cd25e747b1364c2a53f30,XFactorLive,True,tabula_remake_1.5,Tabula_Remake 1.5,1700533,2023-06-23T18:44:32.000Z
+33,c9cd95644bed9023c870da14a79c6751,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,4021800,2023-06-23T16:52:25.000Z
+34,eac895642e61bae8e858fee34e8a15b5,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,837567,2023-06-23T16:31:38.000Z
+35,95a29564660fc64933e2a95c32fe0df8,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,2796733,2023-06-23T13:48:05.000Z
+36,7f97956472393afb643c5d3cc9eabbf5,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1511700,2023-06-23T13:00:47.000Z
+37,d5899564237177b9af45ea25b7597616,XFactorLive,True,speedmetal_bar_v2,SpeedMetal BAR V2,584000,2023-06-23T12:02:29.000Z
+38,7d6d9564bdb744da81f0b4c68cf651b5,XFactorLive,True,FolsomdamR_1.16,FolsomDamR 1.16,2554333,2023-06-23T10:01:33.000Z
+39,ca8e946497f0381673e4e259993d3140,XFactorLive,False,throne_v8,Throne_V8,3414200,2023-06-22T18:11:22.000Z
+40,d9839464ca98ef2a236ba46430a379de,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,1576700,2023-06-22T17:24:41.000Z
+41,21769464a44e89e8aff2f22e0e3f0341,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,3085700,2023-06-22T16:26:09.000Z
+42,d55394641f4a8ecc361b620b86456c45,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,939967,2023-06-22T13:59:49.000Z
+43,e04e9464cca674e0244ce87fc217ae6b,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,891233,2023-06-22T13:38:40.000Z
+44,2548946447e5052b341fd25a2e5ce12e,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,1332467,2023-06-22T13:09:57.000Z
+45,e2319464d4ac30e8bc6cbfa9f96f88bd,XFactorLive,True,forge_v1.4,Forge v1.4,768900,2023-06-22T11:34:58.000Z
+46,2129946485538fb5fed9bc75587174f2,XFactorLive,False,forge_v1.4,Forge v1.4,1502733,2023-06-22T10:57:37.000Z
+47,e42394649d79c7902079c1133f89a66d,XFactorLive,True,forge_v1.4,Forge v1.4,684667,2023-06-22T10:35:16.000Z
+48,421d9464a4081893e085abb3b6c24813,XFactorLive,False,forge_v1.4,Forge v1.4,1008033,2023-06-22T10:06:58.000Z
+49,e5169464ad64ccc4e416f30c4cac7e75,XFactorLive,True,forge_v1.4,Forge v1.4,940333,2023-06-22T09:39:49.000Z
+50,130d9464a5e0867b6ea9e49956adf001,XFactorLive,True,forge_v1.4,Forge v1.4,1156867,2023-06-22T08:57:55.000Z
+51,05069464602a88d14b33a4527aec6341,XFactorLive,True,forge_v1.4,Forge v1.4,1046500,2023-06-22T08:27:49.000Z
+52,a425936443fb54acf2427a72f954ce44,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2351133,2023-06-21T16:30:28.000Z
+53,f81a93648501e3bcfd589e5dc1393171,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2106700,2023-06-21T15:44:56.000Z
+54,41e39264289fcd4dc0c86237aeb0ea98,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,853733,2023-06-21T11:47:13.000Z
+55,45e192648a45b6114b95ec0a313e5319,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,359533,2023-06-21T11:38:45.000Z
+56,41df92642cbc78747d22682334ed6bb7,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,389700,2023-06-21T11:30:09.000Z
+57,38dc9264325bfbe2dfea934609fbb92f,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,586833,2023-06-21T11:17:12.000Z
+58,90d892641184cc31a2230de57c250866,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,805100,2023-06-21T11:01:36.000Z
+59,92d6926470c8e961286caa40335e4369,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,381467,2023-06-21T10:53:06.000Z
+60,20d092645fede5a85d7f4e1d8f7123e2,XFactorLive,False,forge_v1.4,Forge v1.4,981700,2023-06-21T10:25:36.000Z
+61,a5c19264079e1a343d84596b574fb682,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,758033,2023-06-21T09:23:49.000Z
+62,11c092646491b72941a4f8759cf2bc9d,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,196633,2023-06-21T09:17:05.000Z
+63,9a7e9164875822a99fbde82e1533ed74,XFactorLive,True,speedmetal_bar_v2,SpeedMetal BAR V2,427900,2023-06-20T10:25:30.000Z
+64,a27391644a8e555ac54687c8850d0e89,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1166267,2023-06-20T09:38:42.000Z
+65,246a9164c0b3cadc3d8c81936e08cb85,XFactorLive,True,forge_v1.4,Forge v1.4,810767,2023-06-20T08:58:12.000Z
+66,00bc9064ba065e1b1b4f37d7720bffe8,XFactorLive,False,ascendancy_v2.0,Ascendancy v2.0,2629567,2023-06-19T20:35:12.000Z
+67,daaf90640ff281527a4acda4c33cf476,XFactorLive,True,white_fire_remake_0.9,White Fire Remake 0.9,2519733,2023-06-19T19:43:22.000Z
+68,c02d9064f149e8b381479dec9012fa16,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1567900,2023-06-19T10:28:16.000Z
+69,571f90647105729ad6f6cbbf0b9e4be1,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,3184700,2023-06-19T09:26:47.000Z
+70,99da8e64a8d5e4706a7f41d3d0a71369,XFactorLive,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1413867,2023-06-18T10:21:13.000Z
+71,73ce8e64e27db4c57873b7bed0a6c9a2,XFactorLive,False,Rosetta1.4,Rosetta 1.4,2506967,2023-06-18T09:29:23.000Z
+72,6b098e64eb4225e6a3afc35b74cf5512,XFactorLive,False,ascendancy_v2.0,Ascendancy v2.0,1980667,2023-06-17T19:28:43.000Z
+73,9a008e64828ff40df43de51091a23747,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1572367,2023-06-17T18:51:06.000Z
+74,a4f88d64a3f82413fb50e8c74f4d0e3a,XFactorLive,True,forge_v1.4,Forge v1.4,1039133,2023-06-17T18:17:08.000Z
+75,58da8d6479c615a814d467cbb41027d3,XFactorLive,True,ascendancy_v1.1,Ascendancy v1.1,1155700,2023-06-17T16:07:52.000Z
+76,77738d64bb4e886d3143e5229d9c1df0,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2837633,2023-06-17T08:48:55.000Z
+77,35698d64c03d9201038188f2a6ec278f,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2235600,2023-06-17T08:05:09.000Z
+78,4d618d642bb06bd32c35f6aa3128c946,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1352067,2023-06-17T07:31:25.000Z
+79,bccb8c6448641f4af59ecca92ab1c9c1,XFactorLive,False,ascendancy_v1.1,Ascendancy v1.1,3017900,2023-06-16T20:53:16.000Z
+80,86c28c64949ab6ef856700eafd6b9c99,XFactorLive,False,starwatcher_1.0,Starwatcher 1.0,1870500,2023-06-16T20:13:58.000Z
+81,ebb18c64c197aaca27544f49aa9c5188,XFactorLive,False,dworld_v4,DWorld_V4,2434367,2023-06-16T19:03:07.000Z
+82,b5a58c646ea454eeb1f227158f73b4b0,XFactorLive,False,dworld_v4,DWorld_V4,2603500,2023-06-16T18:11:00.000Z
+83,615d8c64c6e04c906dd73f98bf600cfe,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1954767,2023-06-16T13:02:25.000Z
+84,3f588c64367c514e5ad06a05813a1e6c,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,541467,2023-06-16T12:40:31.000Z
+85,714f8c6415061870118c5e2d69b66a82,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1821667,2023-06-16T12:02:57.000Z
+86,d2438c642fab22f3b113c3b46f98a300,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1738533,2023-06-16T11:13:22.000Z
+87,4a298c6421a514a5ab73c47323573904,XFactorLive,True,tabula_remake_1.5,Tabula_Remake 1.5,1511200,2023-06-16T09:20:10.000Z
+88,8c1d8c648dd68c1dec5f8ef1bdb6ca67,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1930000,2023-06-16T08:30:04.000Z
+89,ba848b645bf59102da13b7210596bed0,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1476667,2023-06-15T21:38:02.000Z
+90,4f7a8b6477eb16fb30219a58eb647db4,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1409767,2023-06-15T20:53:35.000Z
+91,ece68a6477e1d5384b9a33b3ead14c1b,XFactorLive,False,forge_v1.4,Forge v1.4,2369667,2023-06-15T10:24:44.000Z
+92,c9e18a64e5bd399ea8050c78bb1b46d5,XFactorLive,True,forge_v1.4,Forge v1.4,981400,2023-06-15T10:02:49.000Z
+93,febe8a641c6cc0f2468c1914fb331ef6,XFactorLive,True,ascendancy_v1.1,Ascendancy v1.1,1667467,2023-06-15T07:34:22.000Z
+94,8fb98a6436f51999d477a2544a285cb1,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,784733,2023-06-15T07:11:11.000Z
+95,67448a645ac20b516185e176419156f0,XFactorLive,True,forge_v1.4,Forge v1.4,1525700,2023-06-14T22:51:19.000Z
+96,a7388a64f0e28dd0a47a37f4d3c13268,XFactorLive,True,forge_v1.4,Forge v1.4,1177567,2023-06-14T22:01:11.000Z
+97,102d8a647b86429f07f9aac05d570de9,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1236000,2023-06-14T21:11:44.000Z
+98,f3128a64ef57d52468ba2ba68026fddd,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1486767,2023-06-14T19:20:19.000Z
+99,fa0b8a648dbbe20d7b1118b00e852b8f,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1209367,2023-06-14T18:50:34.000Z
+100,8f058a649ac7a092809745bd1328eb5a,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1155533,2023-06-14T18:23:11.000Z
+101,4ef58964789aac2d5a68194630e4cf9e,XFactorLive,False,dworld_v4,DWorld_V4,3067400,2023-06-14T17:13:50.000Z
+102,20ec89644612e0eb3c639d1c5d0054b3,XFactorLive,False,throne_v8,Throne_V8,2000433,2023-06-14T16:34:40.000Z
+103,fae28964e8f50ac74ac85600a4c34590,XFactorLive,True,throne_v8,Throne_V8,1829467,2023-06-14T15:55:38.000Z
+104,bcc18964ba44579f8a078a1aa113fad7,XFactorLive,False,pawn_retreat_1.2,Pawn Retreat 1.2,1895867,2023-06-14T13:33:48.000Z
+105,b7ba896402e1a63699a7951cddf42bd3,XFactorLive,True,koom_valley_3_3.1,Koom Valley 3 3.1,1356767,2023-06-14T13:03:51.000Z
+106,e3b38964f9549e090af38bb659fe12f4,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1332367,2023-06-14T12:34:43.000Z
+107,0bb08964c4113cae95c9463ba2d793fa,XFactorLive,True,angel_crossing_1.5,Angel Crossing 1.5,538033,2023-06-14T12:18:19.000Z
+108,8ca98964f5e165e2d0069ca887d5c109,XFactorLive,False,forge_v1.4,Forge v1.4,1097833,2023-06-14T11:50:36.000Z
+109,c49c8964842958ecd6d56f3c4adc4b35,XFactorLive,True,dsdr_4.1,DSDR 4.1,650767,2023-06-14T10:56:04.000Z
+110,017a896450c1ef2c4f2349b6b62c6dee,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,2320167,2023-06-14T08:27:45.000Z
+111,66748964ae1cd11fd7ec1bbeefe0e80e,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,1046800,2023-06-14T08:03:50.000Z
+112,1b688964d0c4d1ea7550e4fc36503108,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2472233,2023-06-14T07:11:23.000Z
+113,a3b38864668e72d3f4db3e906beb3a3f,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2330667,2023-06-13T18:21:23.000Z
+114,6ba78864ca41d0787c4aa46c961ada48,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2412567,2023-06-13T17:29:15.000Z
+115,926c8864fd677aa50e337fea0b2cba4f,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,647767,2023-06-13T13:18:10.000Z
+116,7b66886463c00cf81a72c232cccdf303,XFactorLive,False,titanduel_v3,TitanDuel_V3,1391667,2023-06-13T12:52:11.000Z
+117,9141876484c7f95d2d2f0a8d839a4e53,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2176867,2023-06-12T16:02:25.000Z
+118,08358764033efa80dfaf7c6321b02fd0,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2251400,2023-06-12T15:08:56.000Z
+119,dbe386647fea9b736142ec75eb4337a6,XFactorLive,False,forge_v1.4,Forge v1.4,3015900,2023-06-12T09:22:35.000Z
+120,2add8664bccac136c16344f4c4aa7626,XFactorLive,True,forge_v1.4,Forge v1.4,1176167,2023-06-12T08:54:02.000Z
+121,dace866449297dd9cbd9eebaadce1dc3,XFactorLive,False,ascendancy_v1.1,Ascendancy v1.1,1556067,2023-06-12T07:52:58.000Z
+122,ecc68664be4cde4b479fe20c77cbc258,XFactorLive,True,ascendancy_v1.1,Ascendancy v1.1,1265367,2023-06-12T07:19:08.000Z
+123,874b8664a6099960094942df999517e3,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1222233,2023-06-11T22:32:39.000Z
+124,2c9885642118238b1acde7dfe171571d,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3177300,2023-06-11T09:47:24.000Z
+125,d68f8564bfa3f80152b547bd274b931f,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1584800,2023-06-11T09:11:50.000Z
+126,25d98464628ffbdf7b37c73b7ffdb4cd,XFactorLive,False,ascendancy_v1.1,Ascendancy v1.1,2286833,2023-06-10T20:12:21.000Z
+127,57d284646a33523fa04f96b0fefa850d,XFactorLive,True,tropical_assault_v3.0,Tropical Assault v3.0,559467,2023-06-10T19:43:19.000Z
+128,17c3846483ac0e0df0c33a5a0202265a,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,1659400,2023-06-10T18:38:15.000Z
+129,93b88464524993466d68f82cb1d9f4f0,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1779167,2023-06-10T17:53:23.000Z
+130,16b28464744d39dafded82ddfbf6b327,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1006033,2023-06-10T17:25:42.000Z
+131,bfad8464ad8849b36411580a6e800325,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,725633,2023-06-10T17:07:11.000Z
+132,f98b8464ca03467a4c646fcb5a39c6eb,XFactorLive,False,eight_horses_1.2,Eight Horses 1.2,3220733,2023-06-10T14:43:05.000Z
+133,4242846494501f386da0748f00b8d0fd,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,497800,2023-06-10T09:28:34.000Z
+134,673c8464ee71ffdd39d81b8b8817113d,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1311800,2023-06-10T09:03:35.000Z
+135,09388464ab6bb73b93c726efa26312dc,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,913233,2023-06-10T08:44:57.000Z
+136,a6358464229b2845a96d23cf5f5e6d95,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,515733,2023-06-10T08:34:46.000Z
+137,212a8464ffaf089c4147dd61845abddd,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1881933,2023-06-10T07:45:37.000Z
+138,1c25846441433db430d07f037b9bb801,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,958833,2023-06-10T07:24:12.000Z
+139,02878364e160705a13302452662ba0a6,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3026500,2023-06-09T20:09:38.000Z
+140,53798364b5df1c6e1715130b8d254699,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2656667,2023-06-09T19:11:15.000Z
+141,634983641b5ca67e59b1eee328595a5f,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3165433,2023-06-09T15:46:43.000Z
+142,e51f83643b45f77521d4baa624a9bdd4,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2601833,2023-06-09T12:49:41.000Z
+143,d0d782648421bde1eeef37f4db4da43e,XFactorLive,False,starwatcher_1.0,Starwatcher 1.0,2258433,2023-06-09T07:42:08.000Z
+144,3dcd8264e646d74922181bd875eb8565,XFactorLive,True,eight_horses_1.2,Eight Horses 1.2,2160967,2023-06-09T06:57:01.000Z
+145,40ca826434747fd151cd831f6df023ba,XFactorLive,False,desolation,Desolation v1,313800,2023-06-09T06:44:16.000Z
+146,87298264f9870cd6b3f5bb994eab57c1,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2248833,2023-06-08T19:18:31.000Z
+147,ccf181648b42d4de849ed612330e0723,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2357767,2023-06-08T15:20:44.000Z
+148,51e581646f60b093dee53d483ef1bcd5,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2235333,2023-06-08T14:27:29.000Z
+149,339f81641f676f440be74b59f382c986,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1922467,2023-06-08T09:28:19.000Z
+150,e28b816452402aa12e74894cfc75f0f8,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,3461433,2023-06-08T08:05:54.000Z
+151,6c83816429b0f3693181a65c7e7b7998,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1723433,2023-06-08T07:29:48.000Z
+152,4df48064377bba2a2e89f143f1bbb36e,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2838500,2023-06-07T21:19:09.000Z
+153,e8e88064534dbe190cb275480dfb579e,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1841867,2023-06-07T20:30:32.000Z
+154,38a580645377d01526b40f120193f8e3,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2272767,2023-06-07T15:41:44.000Z
+155,e0978064f332d68266fe774b497f79cd,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1924967,2023-06-07T14:44:48.000Z
+156,8d8380645611120679e2f871399c3247,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,4704600,2023-06-07T13:18:05.000Z
+157,22758064ebb2bae1b042bd87fe4e559a,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,2819500,2023-06-07T12:16:34.000Z
+158,495b8064fd6d08bd9a49203e9df09294,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2212767,2023-06-07T10:26:17.000Z
+159,ef528064694c5f0339fc0630d81b7669,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1631500,2023-06-07T09:50:39.000Z
+160,3249806434b963f707f1f4cf0a42c33d,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1409733,2023-06-07T09:09:06.000Z
+161,224080640d2a1f76ab43db8b47634ca8,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1320233,2023-06-07T08:30:26.000Z
+162,51917f64ba97190b8773f70a6ab7489c,XFactorLive,False,eye_of_horus_1.7,Eye Of Horus 1.7,915167,2023-06-06T20:04:33.000Z
+163,408a7f64bc127245a55e7d2eb9294209,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,1340100,2023-06-06T19:34:24.000Z
+164,457c7f64ffb12f9c858e5f22f1f6f284,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1247633,2023-06-06T18:34:45.000Z
+165,1c757f643f23cd1eba0646f67a603fd3,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1270400,2023-06-06T18:04:12.000Z
+166,ed707f640bf77330db085466e2440008,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,653367,2023-06-06T17:46:21.000Z
+167,ad567f64a7910fdae0fd942af1b5e2bd,XFactorLive,False,flats_and_forests_v2.1,Flats and Forests v2.1,1720167,2023-06-06T15:54:21.000Z
+168,e84c7f64b974e3062c4fa955883eef88,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,1576933,2023-06-06T15:12:40.000Z
+169,e0447f645b5c60a767e30bb18e52011c,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1056900,2023-06-06T14:38:24.000Z
+170,25397f64d6ea5f08cbfddc10b0f7d9c0,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2418100,2023-06-06T13:48:21.000Z
+171,b02d7f64c60f52aaf3a6ec53bc79b3f4,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2022200,2023-06-06T12:59:28.000Z
+172,ae237f64c9206663cfd131f764546738,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2048500,2023-06-06T12:16:46.000Z
+173,821b7f6401bf95ed3d7450c6f6ff076b,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1653900,2023-06-06T11:41:54.000Z
+174,10147f641138d59df0bd48d539d7388c,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1203733,2023-06-06T11:10:08.000Z
+175,0dfa7e641a3a22a4682964b02d865e36,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1898967,2023-06-06T09:19:09.000Z
+176,57f37e6401d8c83645f8d8b2f84f8174,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1049867,2023-06-06T08:50:31.000Z
+177,83e87e646a3ad863ddba28e8a03ed58f,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1296467,2023-06-06T08:04:19.000Z
+178,9e377e64eb51c397babc094d7122b6a5,XFactorLive,False,dworld_v4,DWorld_V4,3034200,2023-06-05T19:29:34.000Z
+179,8e2c7e6457e3c2c182ee4b24261d2999,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,966567,2023-06-05T18:42:22.000Z
+180,77297e644310a0423902311ca9fc282c,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,492533,2023-06-05T18:29:11.000Z
+181,18277e64678de77a904b5107c3e0ae02,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,433533,2023-06-05T18:19:04.000Z
+182,33257e64aa55ff02f1454b5c456c1940,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,365100,2023-06-05T18:10:59.000Z
+183,01227e6438ef9067af2f02d74adedc67,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,709667,2023-06-05T17:57:21.000Z
+184,ac1f7e644f080e5f5912fb715fda9fa9,XFactorLive,False,heartbreak_hill_v4,Heartbreak Hill v4,390800,2023-06-05T17:47:24.000Z
+185,03fe7d640447ddb180356ff5f08bc955,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,823667,2023-06-05T15:23:47.000Z
+186,32f67d642d6089e26216480c329a974e,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1532000,2023-06-05T14:50:26.000Z
+187,c6ee7d64541d9342371576e761f2f98a,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1402333,2023-06-05T14:18:46.000Z
+188,14e47d6471e1f31a6b8c3c044eb13f96,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2036267,2023-06-05T13:33:08.000Z
+189,6eec7c64f0d193044897e6982ad2c902,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,1491267,2023-06-04T19:56:30.000Z
+190,9be77c641494afb74838182a51e50c9b,XFactorLive,False,forge_v1.4,Forge v1.4,804667,2023-06-04T19:35:55.000Z
+191,b7df7c647c5ca334f045f006d9b230cc,XFactorLive,True,forge_v1.4,Forge v1.4,921633,2023-06-04T19:02:15.000Z
+192,e9cf7c64e5bc9f0c9c86375015f5879d,XFactorLive,True,Entrenched_Plains_V2,Entrenched_Plains_V2,3005366,2023-06-04T17:54:49.000Z
+193,44c97c644dcd185408df48eb4243d8a1,XFactorLive,False,starwatcher_1.0,Starwatcher 1.0,968567,2023-06-04T17:26:28.000Z
+194,05bd7c64d50004acd4745d95d535efeb,XFactorLive,False,sertagatta_v6.0,Sertagatta v6.0,1053400,2023-06-04T16:34:13.000Z
+195,f2b77c644ad852c503787344d8b2fe59,XFactorLive,False,ravaged_remake_v1.2,Ravaged Remake v1.2,269533,2023-06-04T16:12:34.000Z
+196,cbb37c64e1bd6f051e9310e012a0decf,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,914033,2023-06-04T15:54:51.000Z
+197,2aa47c64caf043af8c9db23e334ed5ef,XFactorLive,False,Mediterraneum_V1,Mediterraneum_V1,5123700,2023-06-04T14:48:10.000Z
+198,1d7f7c64f308b6c7123636ace48acf3e,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,700700,2023-06-04T12:10:05.000Z
+199,ae797c64a0766ea5c7fa69d912c97e4c,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1122733,2023-06-04T11:46:54.000Z
+200,ed767c643f5c57ca5e34a7b1556a47e4,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,545033,2023-06-04T11:35:09.000Z
+201,00617c64e352a5c6473b4b95e10ecbf2,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2517133,2023-06-04T10:01:36.000Z
+202,0d5b7c641068bee9a243a9ba7e49efd3,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,967000,2023-06-04T09:36:13.000Z
+203,1daa7b640454e0a94d3434ae69f9b7a5,XFactorLive,True,forge_v1.4,Forge v1.4,1630967,2023-06-03T21:01:17.000Z
+204,b6a37b6450328957d35b1a2fe48f6271,XFactorLive,True,forge_v1.4,Forge v1.4,1311000,2023-06-03T20:33:58.000Z
+205,109c7b6406cfd13bfdc29ad90dafff91,XFactorLive,True,forge_v1.4,Forge v1.4,860967,2023-06-03T20:01:20.000Z
+206,da957b64d6cb71af5edee080b9bd01be,XFactorLive,True,forge_v1.4,Forge v1.4,1113967,2023-06-03T19:34:50.000Z
+207,f98c7b646e8242462277bb09a42dbfc2,XFactorLive,True,forge_v1.4,Forge v1.4,898833,2023-06-03T18:56:57.000Z
+208,36867b64fd66c8021e684fe1fb64c0c9,XFactorLive,True,forge_v1.4,Forge v1.4,1119167,2023-06-03T18:28:06.000Z
+209,047d7b64d742fe2e44df9cee0d93768a,XFactorLive,True,forge_v1.4,Forge v1.4,1116467,2023-06-03T17:48:52.000Z
+210,dd527a6401dccdbcfc9992a2f3a6edbf,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,1358600,2023-06-02T20:36:45.000Z
+211,f0d57964cb7fb0b83e8cdcc82b24a617,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2442800,2023-06-02T11:43:44.000Z
+212,ffa97964fa816219c1439bf65c6b7e32,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,1999567,2023-06-02T08:36:15.000Z
+213,9da47964293231333e6f984e7dc72619,XFactorLive,False,sertaleina_v9.1,Sertaleina_v9.1,1117600,2023-06-02T08:13:17.000Z
+214,88a1796476faf686992a0b8afa28dcd7,XFactorLive,False,sertaleina_v9.1,Sertaleina_v9.1,667167,2023-06-02T08:00:08.000Z
+215,cc9a796408b86fa29b331d181f094ec9,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,1319567,2023-06-02T07:31:24.000Z
+216,941579643422bd5a6b7655c704436efb,XFactorLive,False,forge_v1.4,Forge v1.4,1238400,2023-06-01T22:03:00.000Z
+217,c60f7964a73827586eb2b56885c01c0f,XFactorLive,True,forge_v1.4,Forge v1.4,1061667,2023-06-01T21:38:14.000Z
+218,c8f47864c3ca52b6867acc7cebfbee0d,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,1718567,2023-06-01T19:43:04.000Z
+219,81ee7864e3820bb04ac1e3042e15c872,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,923100,2023-06-01T19:16:17.000Z
+220,34d678646b50ae8f7f40f9b1d1956f2c,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,829600,2023-06-01T17:32:36.000Z
+221,9fd17864d420cdaced4b527ebc56d250,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,801133,2023-06-01T17:13:03.000Z
+222,b2cc786436ae4dc16c2f003b1346cb53,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,680967,2023-06-01T16:52:02.000Z
+223,53c97864f977633081a9dc8abe894b8e,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,563600,2023-06-01T16:37:39.000Z
+224,75c478640d7cc55407261bfe9c68a9d0,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,719633,2023-06-01T16:16:53.000Z
+225,9ebe78640a2a738fc0bbfdb0c0c5d22f,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,1070733,2023-06-01T15:51:58.000Z
+226,feb9786401c858c5b204e19cb08fff7e,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,473833,2023-06-01T15:32:14.000Z
+227,94b57864cbfbe16c8dc939f4f9ecf99d,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,944000,2023-06-01T15:13:24.000Z
+228,71b2786431f883c96a7432bebb919afd,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,617833,2023-06-01T15:00:01.000Z
+229,b6727864a98dbd3e53192984211a9e21,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1620833,2023-06-01T10:28:06.000Z
+230,05677864da3a04213c77e692f55651f1,XFactorLive,True,dsdr_4.1,DSDR 4.1,2452867,2023-06-01T09:38:13.000Z
+231,7d607864fd4a838b248182e07ab453c7,XFactorLive,False,FolsomdamR_1.16,FolsomDamR 1.16,1209033,2023-06-01T09:10:21.000Z
+232,4ad87764fd3f77837f090da85bf5f177,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2354633,2023-05-31T23:29:14.000Z
+233,00cf77640943d55ae3aca64e03134ed6,XFactorLive,True,calamity_1.1,Calamity 1.1,1438767,2023-05-31T22:49:36.000Z
+234,6fb9776418ae4e4411205b18845b86dd,XFactorLive,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1797833,2023-05-31T21:17:35.000Z
+235,42b0776437c7501d94edea2c88450927,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1563833,2023-05-31T20:38:26.000Z
+236,f2ab77649eb4e3bab92e98e28b2d9411,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,715000,2023-05-31T20:20:02.000Z
+237,20a67764ba96c96141e73ebed9c797a2,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,848133,2023-05-31T19:55:12.000Z
+238,d2a077647025990530dac556a1718ee5,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,968567,2023-05-31T19:32:34.000Z
+239,dc957764b8cf1e4425349ce012ba2550,XFactorLive,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,2013267,2023-05-31T18:45:48.000Z
+240,6190776467ead0c82768b980a0bf1766,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,886533,2023-05-31T18:22:25.000Z
+241,a85d77642a5f405fc905e8a9f877735d,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,5329400,2023-05-31T14:46:00.000Z
+242,c32c7764c5afae3824b75390d3d8b10c,XFactorLive,False,factions_and_factious_0.9,Factions and Factious 0.9,3597400,2023-05-31T11:17:23.000Z
+243,5f0e7764f2c876402c2e02f1463f7738,XFactorLive,True,Tempest_V3,Tempest_V3,922733,2023-05-31T09:07:43.000Z
+244,f5437664109612fb0a0e956b78e86254,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,729567,2023-05-30T18:44:05.000Z
+245,80397664310ca77421f60fa1cd3e96c4,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,1725967,2023-05-30T17:59:28.000Z
+246,20327664cf2620290213efa82dc39794,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,1126967,2023-05-30T17:28:00.000Z
+247,c32d7664df2924dfb40481d652efa961,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,795467,2023-05-30T17:09:23.000Z
+248,ead675649c5069623f0df159a16c762a,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,742033,2023-05-30T10:58:50.000Z
+249,3ed1756413a1c1bf06aea1d86a1ee437,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,704567,2023-05-30T10:34:38.000Z
+250,4bc275643ff8de136faf21650b587a54,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,899900,2023-05-30T09:30:51.000Z
+251,98ba756461f1159cd02f04814d79d4cd,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,910167,2023-05-30T08:58:00.000Z
+252,99967564913c0c714225363a349d5e80,XFactorLive,False,Mediterraneum_V1,Mediterraneum_V1,5821500,2023-05-30T06:24:25.000Z
+253,8c12756452353f8f02e093623c3fe5bc,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2728600,2023-05-29T21:01:00.000Z
+254,3409756440294c9ccce5477ef5d2da51,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1702567,2023-05-29T20:21:08.000Z
+255,5ffb7464e2bdad7e81944ad6b6a8f175,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1505533,2023-05-29T19:22:07.000Z
+256,a5f074643875a057f88d071c556d554d,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1540800,2023-05-29T18:36:21.000Z
+257,6ce77464e98a89aed932d0dbb7b9221c,XFactorLive,True,tabula_remake_1.5,Tabula_Remake 1.5,961867,2023-05-29T17:57:00.000Z
+258,c9de7464184af06dadbb3c57c3271629,XFactorLive,True,tabula_remake_1.5,Tabula_Remake 1.5,1464600,2023-05-29T17:20:09.000Z
+259,cada7464255f4ec1fa5ebb2b15836563,XFactorLive,True,tabula_remake_1.5,Tabula_Remake 1.5,736433,2023-05-29T17:03:06.000Z
+260,fcc0746421a41a29fcc8db0979cfe26c,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,2771767,2023-05-29T15:13:00.000Z
+261,477074647da7cc8f4e15962b28a9e946,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1514900,2023-05-29T09:28:39.000Z
+262,306874642377f27b54df17a0e030685f,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1368733,2023-05-29T08:54:08.000Z
+263,295b74643924d5c8053f64f1f7738671,XFactorLive,True,forge_v1.4,Forge v1.4,884067,2023-05-29T07:58:33.000Z
+264,5bd47364f3505a78fedd5e3ff9402ead,XFactorLive,True,angel_crossing_1.5,Angel Crossing 1.5,1337700,2023-05-28T22:23:23.000Z
+265,17c97364fa0fec7110f92582942bf4d1,XFactorLive,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,1086500,2023-05-28T21:35:19.000Z
+266,63bf736482c6a4b824d68ed33fbcc89e,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,701467,2023-05-28T20:53:55.000Z
+267,8fb9736476368862c1f60984b785b9f1,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,867500,2023-05-28T20:29:03.000Z
+268,1cb57364b20b95ec2aa3f20747eef0b3,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,719867,2023-05-28T20:10:04.000Z
+269,caae736477dbf1d62214abf2a241a73f,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1040900,2023-05-28T19:43:06.000Z
+270,31a27364676d16216a450774609f7bd9,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1975600,2023-05-28T18:49:21.000Z
+271,ce9673643cdbd3d1962274eeba3c7d08,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2482967,2023-05-28T18:00:46.000Z
+272,b6817364674ae91cfb44b974183d59fe,XFactorLive,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,853200,2023-05-28T16:30:46.000Z
+273,2a7b7364baad2b905ca8f011bad3e5e2,XFactorLive,True,tundra_v2,Tundra_V2,1012000,2023-05-28T16:02:50.000Z
+274,9f737364efc79e6edb45fdc84663c519,XFactorLive,True,Riverrun_V1,Riverrun_V1,999467,2023-05-28T15:30:39.000Z
+275,64687364cdae716cb3c3ccc5eb13bb78,XFactorLive,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1426133,2023-05-28T14:42:44.000Z
+276,b5397364c85f70ced88ec3f944008f17,XFactorLive,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1475900,2023-05-28T11:23:33.000Z
+277,c7277364a005c58365e70f332339ca14,XFactorLive,True,all_that_glitters_v2.1,All That Glitters v2.1,3318300,2023-05-28T10:07:03.000Z
+278,437d72648adbf6c2a3366cdf7f036bf5,XFactorLive,True,starwatcher_0.9,Starwatcher 0.9,2159500,2023-05-27T21:59:31.000Z
+279,b7727264525349da77ece572b20debe2,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1140567,2023-05-27T21:14:31.000Z
+280,2b69726448f8c59c96da6d8c82d9f971,XFactorLive,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,1119467,2023-05-27T20:33:47.000Z
+281,b75672645db393c27b262d03df51a5d2,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2312867,2023-05-27T19:15:03.000Z
+282,e94972647f0c8314a313d42014a79986,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2674200,2023-05-27T18:20:25.000Z
+283,28367264040436a9795d88b676ee82d8,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3741700,2023-05-27T16:56:08.000Z
+284,212e7264f75c806bee979d855bfd8076,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1496767,2023-05-27T16:21:53.000Z
+285,1a247264fc559ee21797d9bc0c356b64,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2024900,2023-05-27T15:39:06.000Z
+286,521472646aacbb8bdef01ca9f6930138,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,740433,2023-05-27T14:31:46.000Z
+287,8d0a72642f46644f00a2fbdcc85cceb8,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1643433,2023-05-27T13:50:05.000Z
+288,33057264ef9247d3d93a6ad766544ed3,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,927967,2023-05-27T13:27:15.000Z
+289,b3fd7164c28999bc3f21d86ab05a0e59,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1523700,2023-05-27T12:55:15.000Z
+290,dff27164565e2d912389a4e212fe8ddc,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1695200,2023-05-27T12:09:03.000Z
+291,2fe87164e4a502f50395756bcda30760,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2330367,2023-05-27T11:23:27.000Z
+292,f3c57164716a4bd329326294f08b1a4c,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1922267,2023-05-27T08:57:23.000Z
+293,0dba716406bdc5dcf8936ae64af6d71d,XFactorLive,False,starwatcher_0.9,Starwatcher 0.9,2304633,2023-05-27T08:06:37.000Z
+294,e9b571645322322cf1c17a5406c43407,XFactorLive,False,dsdr_4.1,DSDR 4.1,716900,2023-05-27T07:48:57.000Z
+295,6eaa7164855c31e9e7bbbae9ed5df084,XFactorLive,True,Rosetta1.4,Rosetta 1.4,2160167,2023-05-27T06:59:58.000Z
+296,1f1871641c821457971ea196b25c7411,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,1291233,2023-05-26T20:35:43.000Z
+297,0e06716494d323bea0a1ada3624df816,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1808667,2023-05-26T19:18:38.000Z
+298,e3ee7064a902ad03ecb6ffa584ea647b,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2409033,2023-05-26T17:39:47.000Z
+299,45e470643585f42b7e9a11110865b469,XFactorLive,False,flooded_valley_v5,Flooded_Valley_V5,412900,2023-05-26T16:54:29.000Z
+300,b2e27064bd394915519c6562f4cfb4c1,XFactorLive,True,flooded_valley_v5,Flooded_Valley_V5,139267,2023-05-26T16:47:46.000Z
+301,4fe07064fc3f3438060eb3444718a198,XFactorLive,False,flooded_valley_v5,Flooded_Valley_V5,260467,2023-05-26T16:37:35.000Z
+302,dedd70642e03e313caf6e3c8c4de57f6,XFactorLive,False,flooded_valley_v5,Flooded_Valley_V5,264267,2023-05-26T16:27:10.000Z
+303,73d9706483884116b8e4efc25089e9bd,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,757667,2023-05-26T16:08:19.000Z
+304,57cd70649878a03664e33ee5297bf2a9,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2417933,2023-05-26T15:16:39.000Z
+305,a4a370649b163c400421b2645de7b72c,XFactorLive,True,thermal_shock_v1.1,Thermal Shock v1.1,754300,2023-05-26T12:18:44.000Z
+306,8a9c7064a0a295199cf1f3d4321933b5,XFactorLive,False,sulphur_springs_v1.1,Sulphur Springs v1.1,1400000,2023-05-26T11:48:26.000Z
+307,6f9070648421fa0a93dc4a5e65a03f17,XFactorLive,True,tabula_remake_1.5,Tabula_Remake 1.5,762833,2023-05-26T10:56:47.000Z
+308,8b8a7064639297053451b93cd6c955b9,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1041167,2023-05-26T10:31:39.000Z
+309,8c7f7064be00c00eb86014d6dccf2218,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,2333267,2023-05-26T09:44:44.000Z
+310,53d36f64c151a044c1aaa381c67c7150,XFactorLive,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1637333,2023-05-25T21:29:55.000Z
+311,50c86f64634dc8d697c7f714cd1d7c28,XFactorLive,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1716500,2023-05-25T20:42:56.000Z
+312,a9bf6f647e62d0a415db61108b88f632,XFactorLive,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1774267,2023-05-25T20:06:01.000Z
+313,29b06f641e098b57d74cde0ab97ec3d5,XFactorLive,False,shore_to_shore_v3,Shore_to_Shore_V3,3243000,2023-05-25T18:59:53.000Z
+314,47a96f647ca1096b7a9c47e8da1dbb72,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2115100,2023-05-25T18:30:31.000Z
+315,dc276f6471885a73e7a5d6c3046470c3,XFactorLive,False,Entrenched_Plains_V2,Entrenched_Plains_V2,2542967,2023-05-25T09:18:20.000Z
+316,171c6f64cc470ebcb758d0a66aeb9a94,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2667233,2023-05-25T08:28:07.000Z
+317,4d896e64684f50687c9c5a52fe8e5504,XFactorLive,False,flats_and_forests_v2.1,Flats and Forests v2.1,1794667,2023-05-24T22:01:49.000Z
+318,eb816e6433d7bedeea3f4c90ab0ce060,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1024167,2023-05-24T21:30:19.000Z
+319,e1766e645a96138628634ecb8b1cd82d,XFactorLive,False,dsdr_4.1,DSDR 4.1,2263867,2023-05-24T20:43:13.000Z
+320,d25f6e64ee991b73a37b03d6669c7f9d,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2086000,2023-05-24T19:04:50.000Z
+321,25436e64e834f004d52e8651ec61a66a,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2597533,2023-05-24T17:02:29.000Z
+322,ac386e64c4b73d0958c69307c141dc54,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2065567,2023-05-24T16:17:48.000Z
+323,3e316e646b77b4265e560d213adf76ec,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1562600,2023-05-24T15:46:06.000Z
+324,7d226e64ccde46b3e6926f5d3ad9de7b,XFactorLive,False,flats_and_forests_v2.1,Flats and Forests v2.1,1428700,2023-05-24T14:43:09.000Z
+325,abde6d6428e578e958d136f48b9b82fc,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,1549700,2023-05-24T09:53:47.000Z
+326,f0d66d64a0c1616c8290eead11217aff,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,1518533,2023-05-24T09:20:48.000Z
+327,96356d640acfd407c56e3f1160ae9ba2,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,2707500,2023-05-23T21:52:22.000Z
+328,38226d64f8c14db87782c99b8caef4e5,XFactorLive,True,colorado_v2_1.1,Colorado_V2 1.1,786233,2023-05-23T20:29:44.000Z
+329,e1126d64e63a3dd5783979ff857ab1d9,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3212400,2023-05-23T19:24:17.000Z
+330,e5056d641394161f5f32c1f8affac084,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2662634,2023-05-23T18:28:53.000Z
+331,2dfb6c6479a5c023797a030e084c1989,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2141067,2023-05-23T17:43:09.000Z
+332,ecf36c64b096b70a624d638f66a9cd8b,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1529967,2023-05-23T17:12:12.000Z
+333,02d46c646d153112384e297311227007,XFactorLive,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,2326600,2023-05-23T14:56:02.000Z
+334,68ce6c64fb592098552c5f24e6e471ca,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,954933,2023-05-23T14:32:08.000Z
+335,ffc86c6490daccf8165f8a608c421b4d,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,649333,2023-05-23T14:09:03.000Z
+336,20a66c64e9300558a9cad6bb73b1db8f,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,961367,2023-05-23T11:40:16.000Z
+337,599f6c64d082b54ff8af32f57a794b35,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1066867,2023-05-23T11:11:21.000Z
+338,17926c647db007c56a05642d12593f55,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2216600,2023-05-23T10:14:47.000Z
+339,5f856c645a4f6ce3222c3acf318ce01b,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2633200,2023-05-23T09:20:31.000Z
+340,6a796c640c1cc93e3f94e81b598f56ff,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2347367,2023-05-23T08:29:30.000Z
+341,78d46b64d94948514489233459980959,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2037367,2023-05-22T20:45:44.000Z
+342,ddcb6b64991ede175b61e512a990abfe,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1447767,2023-05-22T20:09:01.000Z
+343,a09b6b6470fb4f0a4216f9dd2410d435,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2723733,2023-05-22T16:43:12.000Z
+344,52956b644c5e70682ad4856545530d4d,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1114333,2023-05-22T16:16:18.000Z
+345,318d6b64feca90bc0f3918fc8350b815,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1142467,2023-05-22T15:41:37.000Z
+346,23896b64a6b8257699c0692a02471a9e,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,455933,2023-05-22T15:24:19.000Z
+347,6c856b64cb4828e6e7f012fed68fb393,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,849033,2023-05-22T15:08:28.000Z
+348,29836b644d886f6fc86efafd06cd474b,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,466067,2023-05-22T14:58:49.000Z
+349,3c656b6422ef4db19a80a094f821e5cf,XFactorLive,False,all_that_glitters_v2.1,All That Glitters v2.1,1626733,2023-05-22T12:51:08.000Z
+350,5e606b64462223555a7baad7a8068fea,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,845400,2023-05-22T12:30:22.000Z
+351,cc566b64f5eeea228a01eb414b7f1d33,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1993533,2023-05-22T11:49:32.000Z
+352,16496b64e73fce801da6a6ad2ac17346,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3034000,2023-05-22T10:51:02.000Z
+353,763c6b64f6db8f3135691e6e0bddb63c,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2831667,2023-05-22T09:57:10.000Z
+354,002f6b644d873a30925e56fdc6120b77,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2225167,2023-05-22T08:59:44.000Z
+355,56b76a64a3dcc543647ad2a8c4ade0a0,XFactorLive,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1676100,2023-05-22T00:29:10.000Z
+356,3aa66a6443bad06fb9ff1c70a73fdc70,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3641367,2023-05-21T23:16:10.000Z
+357,37956a64fe29fe8fb8101249f4efad40,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2780400,2023-05-21T22:03:35.000Z
+358,e28b6a642ad1df11761486dd81af6d44,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1439467,2023-05-21T21:23:46.000Z
+359,756f6a64f80e055ab14220f0e43411d3,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,3791833,2023-05-21T19:22:29.000Z
+360,59646a648207b40eb4b25dc36f37bf27,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1944367,2023-05-21T18:35:05.000Z
+361,3d3b6a645178af8a38bd080aa1540a1d,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2513833,2023-05-21T15:39:41.000Z
+362,b52c6a64b1735449c9975decadf12721,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,3097833,2023-05-21T14:37:41.000Z
+363,c11e6a646ecbe60c7c2a3bdcd38bf1a9,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,3127400,2023-05-21T13:38:09.000Z
+364,55176a641db83971e4938052fac18759,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,918800,2023-05-21T13:06:29.000Z
+365,dd6e6664f6abf5d3f49498e708636f16,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2877900,2023-05-18T18:30:53.000Z
+366,b162666428ac3b42d3e2979de1e81fdb,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2291900,2023-05-18T17:38:57.000Z
+367,e15e66649cd0b1888afde5c4364e72ae,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,646400,2023-05-18T17:22:41.000Z
+368,2d57666407c1ae1b908cde5f9e8d5791,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,741567,2023-05-18T16:49:49.000Z
+369,f845666450559e6680e271583c67bbd8,XFactorLive,False,Tempest_V3,Tempest_V3,1966033,2023-05-18T15:36:24.000Z
+370,ff3a66646f77af15fdfccc09ea2fc75f,XFactorLive,False,starwatcher_0.9,Starwatcher 0.9,2319933,2023-05-18T14:49:35.000Z
+371,f6f7656430e7132fdc5e96ed8899b755,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,3060567,2023-05-18T10:03:34.000Z
+372,b952656426b92342db1fc29b5545f17f,XFactorLive,True,carrot_mountains_v1.0,Carrot Mountains v1.0,3272533,2023-05-17T22:18:33.000Z
+373,714a6564aca8b535140ecfd86cbee675,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1090300,2023-05-17T21:43:13.000Z
+374,8f4565646ea69d2f7e055efd3e4314c3,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,798000,2023-05-17T21:22:23.000Z
+375,3c3a656410270e97bcc6ae425b547df5,XFactorLive,False,hooked_1.1,Hooked 1.1,234300,2023-05-17T20:34:04.000Z
+376,bd236564224bf0cb438ea90a4ca6c5b8,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2317700,2023-05-17T18:58:05.000Z
+377,3bd46364518f7ebdeb79981d3bc28c04,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,2026967,2023-05-16T19:06:35.000Z
+378,fac963642d64944a833b635b2eddc8e1,XFactorLive,True,flats_and_forests_v2.1,Flats and Forests v2.1,2080300,2023-05-16T18:22:50.000Z
+379,70be63648eea4c7981f1e3df346bfbbf,XFactorLive,True,copper_hill_v1,Copper Hill v1,1173733,2023-05-16T17:33:36.000Z
+380,6db36364226ef17718155935b6acaa63,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,2244567,2023-05-16T16:46:37.000Z
+381,7ea76364c21f8e32496dd0667b4c5bf5,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,677100,2023-05-16T15:55:42.000Z
+382,5c9963642429bc17271db2497640c593,XFactorLive,False,ice_scream_v2.5,Ice Scream v2.5,3237133,2023-05-16T14:55:24.000Z
+383,f08e6364d1240ec427a760518152af26,XFactorLive,True,all_that_glitters_v2.0,All That Glitters v2.0,2067867,2023-05-16T14:10:56.000Z
+384,16946264c7a0d0b277d8085f438a3cc7,XFactorLive,True,all_that_glitters_v2.0,All That Glitters v2.0,2902267,2023-05-15T20:20:38.000Z
+385,848f62642b8d506c6047f38bd0fd549d,XFactorLive,True,all_that_glitters_v2.0,All That Glitters v2.0,795200,2023-05-15T20:01:08.000Z
+386,c6516264f1ee1502cd48b152299ee053,XFactorLive,True,Entrenched_Plains_V2,Entrenched_Plains_V2,3986433,2023-05-15T15:37:42.000Z
+387,cc3e6264216eb64471d6a95f27067ccf,XFactorLive,False,FolsomdamR_1.16,FolsomDamR 1.16,4263900,2023-05-15T14:16:44.000Z
+388,903762643f4a72b24b05c69ad48f8b81,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1271200,2023-05-15T13:45:52.000Z
+389,0f3062644f1b841d2a0d3ed11a777658,XFactorLive,False,all_that_glitters_v2.0,All That Glitters v2.0,1479700,2023-05-15T13:13:51.000Z
+390,612b62649c4aa53d0eac0e85790bc903,XFactorLive,True,dsdr_4.1,DSDR 4.1,719867,2023-05-15T12:53:53.000Z
+391,38716164fe45f247e320e10a1da7827c,XFactorLive,True,Riverrun_V1,Riverrun_V1,1720600,2023-05-14T23:39:36.000Z
+392,64506164d49ba1046eafa5ec7d100eef,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,10900,2023-05-14T21:19:32.000Z
+393,4a386164217d9f13275dea64a317a553,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1225367,2023-05-14T19:36:42.000Z
+394,a0126064231653c15adad9cbdde13717,XFactorLive,False,eight_horses_1.2,Eight Horses 1.2,1273333,2023-05-13T22:43:44.000Z
+395,1a0b6064902a86bbf9c00940b9bae052,XFactorLive,False,supreme_strait_v1.4,Supreme Strait v1.4,1287033,2023-05-13T22:11:38.000Z
+396,9d05606427fc958fccdaf7d8bcb67ef8,XFactorLive,True,shallow_straits_v1,Shallow Straits v1,509200,2023-05-13T21:48:13.000Z
+397,5b01606479028e5750f947605ba4a610,XFactorLive,True,great_divide_v1,Great Divide V1,615700,2023-05-13T21:30:03.000Z
+398,edfd5f64c2eb6c433588b2593c0f7d80,XFactorLive,True,great_divide_v1,Great Divide V1,635800,2023-05-13T21:15:25.000Z
+399,2bf65f640f4d24407a9ae5573ef1b3f5,XFactorLive,True,tundra_v2,Tundra_V2,960000,2023-05-13T20:42:19.000Z
+400,45f05f64c2bd0322266cd1658fd79799,XFactorLive,False,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,1122867,2023-05-13T20:17:09.000Z
+401,cdd75f6400a51939fae8421a278778e0,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,2931000,2023-05-13T18:32:45.000Z
+402,aacd5f643a4837b20d34bb3d1e56b085,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,767600,2023-05-13T17:49:30.000Z
+403,f33f5e643082e1719bf1fad0ed4f75a3,XFactorLive,True,fallendell_v4,Fallendell_V4,341100,2023-05-12T13:32:35.000Z
+404,0c3e5e6410ee8e5f99abf952b26d706c,XFactorLive,True,fallendell_v4,Fallendell_V4,276333,2023-05-12T13:24:28.000Z
+405,472b5d6462ffbe5f2300bfa61c1552de,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,3687567,2023-05-11T17:52:07.000Z
+406,30d95b6445cd861de7bfd7affba59df9,XFactorLive,False,eye_of_horus_1.7,Eye Of Horus 1.7,627800,2023-05-10T17:49:36.000Z
+407,e7d45b64952354974aaace60f320d169,XFactorLive,True,eye_of_horus_1.7,Eye Of Horus 1.7,886367,2023-05-10T17:31:19.000Z
+408,7bbc5b64677a8c02bda55aaa2a83a173,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,1000133,2023-05-10T15:47:07.000Z
+409,36705a64f67628964782f45593fb7384,XFactorLive,False,darkside_v3.0,Darkside v3.0,2539600,2023-05-09T16:09:26.000Z
+410,c2695a64e578bc4e5fe5e91403b06eaf,XFactorLive,False,starwatcher_0.9,Starwatcher 0.9,1390367,2023-05-09T15:41:54.000Z
+411,7e635a64784f65b50661723ca2f6bdcd,XFactorLive,False,hades_ponds_0.7,Hades Ponds 0.7,808200,2023-05-09T15:15:10.000Z
+412,c77259644dcbd1e4d8e1d5ba4fb39245,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,550100,2023-05-08T22:08:07.000Z
+413,a96f5964c84cf36081bd202a6e889d24,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,618433,2023-05-08T21:54:49.000Z
+414,e16d5964526149bbfd9b278b19a10377,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,273233,2023-05-08T21:47:13.000Z
+415,996b5964b059887aee3f3ae69c948482,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,379900,2023-05-08T21:37:29.000Z
+416,dc685964adce6b748e4b5028a71da6b7,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,561600,2023-05-08T21:25:48.000Z
+417,1d6559641bd5afafc53e9a0a74930dbb,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,746333,2023-05-08T21:09:49.000Z
+418,c7615964a2f7233a820b649abaa74a2c,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,699033,2023-05-08T20:55:35.000Z
+419,465f5964250f9d1b763ec19db1c5cf9d,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,495733,2023-05-08T20:44:54.000Z
+420,935b596483eb43b9c556728da3ddb3ac,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,779200,2023-05-08T20:29:07.000Z
+421,c5e358647bcdb21dffa2aed3e0bf92eb,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,536800,2023-05-08T11:57:57.000Z
+422,82df58649ab7bf190b878927aeea4ca7,XFactorLive,False,callisto_v3,Callisto v3,368600,2023-05-08T11:39:46.000Z
+423,33dc586457af9ad3b2b75fc786dc49b2,XFactorLive,True,callisto_v3,Callisto v3,679333,2023-05-08T11:25:39.000Z
+424,06d1586479e8e2e644cefde0995d66a0,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,1231133,2023-05-08T10:37:58.000Z
+425,d4215864c553a3ac5ae2a86345dca5de,XFactorLive,True,mariposa_island_v2.4,Mariposa Island v2.4,1327667,2023-05-07T22:10:28.000Z
+426,acf657642f43ab0660e1a55059431e67,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,1880867,2023-05-07T19:06:20.000Z
+427,12ce5764834d0751f34b83866443ef38,XFactorLive,True,darkside_v3.0,Darkside v3.0,831367,2023-05-07T16:13:06.000Z
+428,5ec85764ca7f87874e1a6d782b37f080,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,790667,2023-05-07T15:48:46.000Z
+429,2bc05764e350af1fcdf285ca165c8deb,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,894400,2023-05-07T15:13:47.000Z
+430,44bc57648164be15e207c2295763ded1,XFactorLive,True,supreme_strait_v1.4,Supreme Strait v1.4,592900,2023-05-07T14:57:08.000Z
+431,6ab55764848474b24fa69118d41753b0,XFactorLive,True,tundra_v2,Tundra_V2,655533,2023-05-07T14:27:54.000Z
+432,2ca9576437d9bf58fb89fc1e696bbe41,XFactorLive,True,all_that_glitters_v2.0,All That Glitters v2.0,2638433,2023-05-07T13:35:40.000Z
+433,f8975764cba7cd6b1b2a3e4a136a234c,XFactorLive,True,archsimkats_valley_v1,Archsimkats_Valley_V1,803167,2023-05-07T12:22:16.000Z
+434,458f57649d18664479d032ca64e28128,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,679233,2023-05-07T11:45:09.000Z
+435,25cc5664ac98b140e7e12616c6ddcacd,XFactorLive,False,Entrenched_Plains_V2,Entrenched_Plains_V2,4168433,2023-05-06T21:52:37.000Z
+436,6c995664975f7ec159f233291b941124,XFactorLive,True,tundra_v2,Tundra_V2,754467,2023-05-06T18:16:12.000Z
+437,4b905664398592c2bbd0b0943a064a4c,XFactorLive,True,forge_v1.4,Forge v1.4,698933,2023-05-06T17:37:15.000Z
+438,fc8356640c6912286c0102aca1783e3b,XFactorLive,False,FolsomdamR_1.16,FolsomDamR 1.16,1255467,2023-05-06T16:44:44.000Z
+439,de6f5664d28339e4f28d881a642bc625,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,1129833,2023-05-06T15:18:54.000Z
+440,896256644ff66eb183f1c529d1509681,XFactorLive,True,valles_marineris_2.6,Valles Marineris 2.6,638067,2023-05-06T14:22:01.000Z
+441,b25756644055da304b35306d0be6849d,XFactorLive,False,valles_marineris_2.6,Valles Marineris 2.6,473033,2023-05-06T13:35:46.000Z
+442,6a565664bac263bba7d3a27eab294003,XFactorLive,True,valles_marineris_2.6,Valles Marineris 2.6,179667,2023-05-06T13:30:18.000Z
+443,df44566451a74d64b8a43843fcf1ec2f,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,794167,2023-05-06T12:15:27.000Z
+444,dd3f5664ce7998dc65a691e181165bdf,XFactorLive,True,great_divide_v1,Great Divide V1,281667,2023-05-06T11:54:05.000Z
+445,393a5664577388938023c01bc28bf391,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,668267,2023-05-06T11:30:01.000Z
+446,69725564ffbf4c3804cc8b4475b8e7dc,XFactorLive,True,FolsomdamR_1.16,FolsomDamR 1.16,146767,2023-05-05T21:17:29.000Z
+447,356e55644fa2e365f545e1ae3f8d5722,XFactorLive,True,FolsomdamR_1.16,FolsomDamR 1.16,241633,2023-05-05T20:59:33.000Z
+448,ea685564be6d488b1a21f5df6fb0340b,XFactorLive,True,FolsomdamR_1.16,FolsomDamR 1.16,417967,2023-05-05T20:36:58.000Z
+449,50635564b6772304231ba192c815dcd4,XFactorLive,True,FolsomdamR_1.16,FolsomDamR 1.16,480100,2023-05-05T20:13:04.000Z
+450,35245464738c557c89734068ab7fbfc3,XFactorLive,False,NuclearWinterR,Nuclear Winter Bar 1.4,640367,2023-05-04T21:31:33.000Z
+451,0c1f546456209cf878943d8d84f57ecc,XFactorLive,False,pawn_retreat_1.2,Pawn Retreat 1.2,509367,2023-05-04T21:09:32.000Z
+452,2e1a5464d2562ff115d09156de885057,XFactorLive,False,tundra_v2,Tundra_V2,616567,2023-05-04T20:48:46.000Z
+453,d4125464aea8117c861c8bd89b1fb7b7,XFactorLive,False,tabula_remake_1.5,Tabula_Remake 1.5,698533,2023-05-04T20:17:24.000Z
+454,110e5464c748926307bb8c4a320781ca,XFactorLive,False,tundra_v2,Tundra_V2,492967,2023-05-04T19:57:05.000Z
+455,be0a546463c8645934673b3a5117c63b,XFactorLive,False,forge_v1.4,Forge v1.4,397167,2023-05-04T19:42:54.000Z
+456,c205546487544a28c2cea08a1f2bd801,XFactorLive,False,valles_marineris_2.6,Valles Marineris 2.6,759933,2023-05-04T19:21:38.000Z
+457,c2fb5364eeb0704155586e313279e0e3,XFactorLive,False,valles_marineris_2.6,Valles Marineris 2.6,1427900,2023-05-04T18:38:58.000Z
+458,45ce5264b2f053e96dcb68e379ec2878,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,808800,2023-05-03T21:12:37.000Z
+459,21cc52645cc56428ec1614fa546ccf0d,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,301833,2023-05-03T21:03:29.000Z
+460,c8c95264a86b42da77ba0f4ef6d226e7,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,324500,2023-05-03T20:53:28.000Z
+461,bfc25264f5d55a3d3a6ee341d9e0ccd0,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,1390100,2023-05-03T20:23:27.000Z
+462,2abe5264c3a24ed72a6646afbd036608,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,711600,2023-05-03T20:03:54.000Z
+463,b72d5264e4e99c8491c7beabcd15bcb8,XFactorLive,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,581100,2023-05-03T09:47:35.000Z
+464,089231647a62801d9996c36c03aa2263,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,475633,2023-04-08T16:10:48.000Z
+465,928d3164eca7b098d0674b5366575f3f,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,841000,2023-04-08T15:51:46.000Z
+466,2186316429ac601bd3a887f4fb336aae,XFactorLive,True,avalanche_3.4,Avalanche 3.4,507800,2023-04-08T15:20:01.000Z
+467,9a7e3164ead4ae8a299c09333eb0081e,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,639933,2023-04-08T14:47:54.000Z
+468,457b31643e96adfb3b4bd60a52084013,XFactorLive,True,into_battle_redux_v3,Into Battle Redux v3,599833,2023-04-08T14:33:41.000Z
+469,073831644fe3a7202de9b443c29f05a8,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,736633,2023-04-08T09:46:47.000Z
+470,14343164af401b7cacebe3cd7294bbb2,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,800533,2023-04-08T09:29:56.000Z
+471,a9303164b90d01aec55ceaa1e4cc0610,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,466700,2023-04-08T09:15:21.000Z
+472,292f31646f7ee79d2fc47f619cfd16d3,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,253500,2023-04-08T09:08:57.000Z
+473,762b3164085dd115f6d5dad9473b3d8d,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,649300,2023-04-08T08:53:10.000Z
+474,372931649b7a688d3a3e2d2075f9db52,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,441267,2023-04-08T08:43:35.000Z
+475,465a3064ddb5360d87ff1402b1139e5e,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,1267100,2023-04-07T18:00:38.000Z
+476,005830646ef0ae81f9d9171dd71cef8a,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,419467,2023-04-07T17:50:56.000Z
+477,9855306448a06d99eeaefe6c64687826,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,397933,2023-04-07T17:40:40.000Z
+478,70543064f258b2e0aa2145ee6d32156c,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,141133,2023-04-07T17:35:44.000Z
+479,5c513064b5b54bad47eb03e6ee8068ce,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,549900,2023-04-07T17:22:36.000Z
+480,b14f3064d4e1279fe00cf725db3d3968,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,194433,2023-04-07T17:15:29.000Z
+481,694c3064cfbf9414c4bfa4b816fd8358,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,638567,2023-04-07T17:01:29.000Z
+482,744830643937a0752a37394ea8c4664f,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,782567,2023-04-07T16:44:36.000Z
+483,43463064044c18b4be7d8f4b1a28535e,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,379600,2023-04-07T16:35:15.000Z
+484,25433064452d12594b8b5013691011dd,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,622533,2023-04-07T16:21:57.000Z
+485,d73e306428f9e024b6329a1ae5119403,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,877933,2023-04-07T16:03:35.000Z
+486,193a3064d201163e86a441d4fd80ee6d,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,925867,2023-04-07T15:43:21.000Z
+487,6636306429bf20db4f7d0a560bf8cb8d,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,727733,2023-04-07T15:27:34.000Z
+488,173330640659bf8c1ac1639e6f8fcd7b,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,712733,2023-04-07T15:13:27.000Z
+489,3e2f3064478ad51f9d38ce975f03b2f0,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,763633,2023-04-07T14:57:02.000Z
+490,af2c3064862ee8be6d4914adea448860,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,489033,2023-04-07T14:46:07.000Z
+491,332a3064fbe2101a2912983315592d8e,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,507167,2023-04-07T14:35:31.000Z
+492,262730645d9d08fbb8647f8a9f66670a,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,627367,2023-04-07T14:22:30.000Z
+493,d8223064aabc1960ea892f9dc778bf8f,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,867333,2023-04-07T14:04:08.000Z
+494,c3203064de2f92ff223d5c84939433d1,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,385100,2023-04-07T13:55:15.000Z
+495,3b1e306434dd3ec9ba938b4dd8dafd8d,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,522233,2023-04-07T13:44:27.000Z
+496,86ee2f64e45222cbef9e5ab616fd65ba,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,524333,2023-04-07T10:20:54.000Z
+497,d1e72f64417565136dcfdf60e19604f8,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,862133,2023-04-07T09:52:17.000Z
+498,81e42f64913da75f0fa294fd521c0179,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,706133,2023-04-07T09:38:09.000Z
+499,899f2e64e73cf4659a7ca5b4adafa1e9,XFactorLive,True,avalanche_3.4,Avalanche 3.4,495067,2023-04-06T10:31:37.000Z
+500,9f9a2e64920290f4734de91244f91ad5,XFactorLive,True,avalanche_3.4,Avalanche 3.4,825633,2023-04-06T10:10:39.000Z
+501,cf982e64b152701949501ead8cf2762e,XFactorLive,False,avalanche_3.4,Avalanche 3.4,307500,2023-04-06T10:02:55.000Z
+502,ee952e64721ff58a04ea71bc0f4c9fb3,XFactorLive,False,avalanche_3.4,Avalanche 3.4,347200,2023-04-06T09:50:38.000Z
+503,8a902e64761c2daa241d39a92bd13cb2,XFactorLive,True,into_battle_redux_v3,Into Battle Redux v3,639400,2023-04-06T09:27:38.000Z
+504,22b42d643f8d2ad7a4270e1a58c2b398,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,670900,2023-04-05T17:47:14.000Z
+505,45b02d648d420584addf12f2cd70122e,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,834967,2023-04-05T17:30:45.000Z
+506,deab2d64ade67975811a23d954057d78,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,879233,2023-04-05T17:11:58.000Z
+507,aea62d6438f773cbafa08567eec213ad,XFactorLive,True,avalanche_3.4,Avalanche 3.4,620700,2023-04-05T16:49:50.000Z
+508,43a32d644412a1fc6084a10ea5e99e1a,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,680833,2023-04-05T16:35:15.000Z
+509,ea8c2c647e18d757fafe4c1968591a82,XFactorLive,False,death_valley_v1,Death Valley v1,381200,2023-04-04T20:47:38.000Z
+510,55212c640f02a4a5147aedbe1b4e2bca,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1087500,2023-04-04T13:08:37.000Z
+511,eb112c643999a661bd2b823bc102f996,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,854433,2023-04-04T12:02:51.000Z
+512,b60b2c64fb6a68d8e2ee7082fc863967,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,893000,2023-04-04T11:36:22.000Z
+513,aa042c6418543af688233ce0fb8163a2,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1117067,2023-04-04T11:06:18.000Z
+514,9e002c6461ca6ad0e2ff423af6c2ebe1,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,853033,2023-04-04T10:49:02.000Z
+515,e6fb2b6407fe3124c1a59855d9bdad9d,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,820400,2023-04-04T10:28:54.000Z
+516,9c2c2b640c5342d47707621458a4a03c,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,582933,2023-04-03T19:44:28.000Z
+517,e92a2b64340f2675afc7ced2f91968a7,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,300833,2023-04-03T19:37:13.000Z
+518,1d2a2b64f85b2195007e511c4667b8ac,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,71533,2023-04-03T19:33:49.000Z
+519,f1262b6497dffd39babea2dec65dba13,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,640100,2023-04-03T19:20:17.000Z
+520,2d242b64f190dae3cbdb2d8732780f4a,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,554933,2023-04-03T19:08:29.000Z
+521,4a212b64bd920e59b9f910ef051c88ac,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,515400,2023-04-03T18:56:10.000Z
+522,2e1d2b64cf6129b8234b3b79c0d1c64b,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,756300,2023-04-03T18:38:38.000Z
+523,15182b647d0e247f0cb6c992d2a6af21,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1062000,2023-04-03T18:16:53.000Z
+524,83ae2a644a92a04cf8e4b942d5cf9367,XFactorLive,False,avalanche_3.4,Avalanche 3.4,172333,2023-04-03T10:46:27.000Z
+525,deac2a645974967e7640802d0cbdb278,XFactorLive,True,avalanche_3.4,Avalanche 3.4,254833,2023-04-03T10:39:26.000Z
+526,0ee12964e594500bf9a2abfad04c9397,XFactorLive,False,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,768333,2023-04-02T20:09:50.000Z
+527,e2d229648e4112f03fd2f6e8f4e1a194,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,650500,2023-04-02T19:09:22.000Z
+528,70d029647e6e0a223de1a086af088735,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,465800,2023-04-02T18:58:56.000Z
+529,57c929646013576e89375d6212e7ece5,XFactorLive,True,theta_crystals_1.0,Theta Crystals 1.0,1231900,2023-04-02T18:28:39.000Z
+530,1fc629646ea89ba2d75e999d7d920245,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,664267,2023-04-02T18:14:55.000Z
+531,dec22964aeefbe4c96478cd455b37680,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,357867,2023-04-02T18:01:02.000Z
+532,0fc02964fa520d2719654af140508612,XFactorLive,True,death_valley_v1,Death Valley v1,558933,2023-04-02T17:49:03.000Z
+533,1bbc29644e0f7edbe497b95465d723b9,XFactorLive,True,mithril_mountain_v2,Mithril Mountain v2,827367,2023-04-02T17:32:11.000Z
+534,34ba2964d5fb03a4799f72aea6d4ceb2,XFactorLive,True,sky_isle_v1.1,Sky Isle v1.1,216333,2023-04-02T17:24:04.000Z
+535,08b829641fd836c96952b9bb1a3aaa28,XFactorLive,True,avalanche_3.4,Avalanche 3.4,433767,2023-04-02T17:14:48.000Z
+536,26b62964bd7528ab5347b6f3c612a43f,XFactorLive,True,avalanche_3.4,Avalanche 3.4,379733,2023-04-02T17:06:46.000Z
+537,dab22964f7304d6ffe51b49b6183a125,XFactorLive,False,avalanche_3.4,Avalanche 3.4,424667,2023-04-02T16:52:42.000Z
+538,e5b029648547d359b3567e172b89c086,XFactorLive,False,avalanche_3.4,Avalanche 3.4,400000,2023-04-02T16:44:21.000Z
+539,acaf29645c66e97ec44932fd89b4e52e,XFactorLive,False,avalanche_3.4,Avalanche 3.4,225400,2023-04-02T16:39:08.000Z
+540,57ae2964b15d661aba991f1a343d17fb,XFactorLive,True,avalanche_3.4,Avalanche 3.4,256400,2023-04-02T16:33:27.000Z
+541,29ac296421eab333e77801dbf81582ee,XFactorLive,False,avalanche_3.4,Avalanche 3.4,270067,2023-04-02T16:24:09.000Z
+542,5e992964416bb7cb2b39fc854da16b1e,XFactorLive,False,into_battle_redux_v3,Into Battle Redux v3,442400,2023-04-02T15:03:58.000Z
+543,ef952964ede7def4f4d0bd2e97465760,XFactorLive,False,into_battle_redux_v3,Into Battle Redux v3,702867,2023-04-02T14:49:19.000Z
+544,fe91296405133de6b5d3e208cbf94621,XFactorLive,False,into_battle_redux_v3,Into Battle Redux v3,747400,2023-04-02T14:32:30.000Z
+545,4a8f2964c066a228f8c85f18b11ad4c6,XFactorLive,False,into_battle_redux_v3,Into Battle Redux v3,570167,2023-04-02T14:20:58.000Z
+546,21662964a016a6998addd8cab6b64a71,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,434800,2023-04-02T11:25:21.000Z
+547,5064296420f956aa57998a0c09315bc4,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,334433,2023-04-02T11:17:36.000Z
+548,b96229640068346bd643bc76c3505564,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,279667,2023-04-02T11:10:49.000Z
+549,44622964a55a8e9d44735420ced5e70d,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,6000,2023-04-02T11:08:52.000Z
+550,a65f29648191c0116efa557522fc60b6,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,241333,2023-04-02T10:57:42.000Z
+551,f35d2964f6b2d64c5dd3cba2bb7779cb,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,310733,2023-04-02T10:50:27.000Z
+552,9e5c296419b50d03e9f02d8c4567ff23,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,237367,2023-04-02T10:44:46.000Z
+553,4f5a2964a21c65ed217640e1863da8a6,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,447033,2023-04-02T10:34:55.000Z
+554,975729641bf1843079a1b35eecddf7ce,XFactorLive,True,avalanche_3.4,Avalanche 3.4,334967,2023-04-02T10:23:19.000Z
+555,ab5429640e1c34d4f1fa686942998925,XFactorLive,True,avalanche_3.4,Avalanche 3.4,569867,2023-04-02T10:10:51.000Z
+556,4b522964b8fec10659d5498be8e16470,XFactorLive,True,avalanche_3.4,Avalanche 3.4,441933,2023-04-02T10:00:43.000Z
+557,bdbb286492c16784834d49f5c82ce72b,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,346933,2023-04-01T23:18:21.000Z
+558,81b72864f2c49296f8f2d6931dba90e7,XFactorLive,True,altair_crossing_V4,Altair_Crossing_V4,782567,2023-04-01T23:00:17.000Z
+559,526e2864f7e61b02948487c87e2cca96,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1045133,2023-04-01T17:48:02.000Z
+560,da6628649d75ae25c212225c57b9ecaf,XFactorLive,False,angel_crossing_1.5,Angel Crossing 1.5,1144233,2023-04-01T17:16:10.000Z
+561,be5f2864da8e072cf4a973231cf461a1,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,752133,2023-04-01T16:45:50.000Z
+562,5656286426750b00e21a2b40747fffc5,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,840367,2023-04-01T16:05:42.000Z
+563,cb542864beafa3fcc7e4b96e2629595f,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,257600,2023-04-01T15:59:07.000Z
+564,cf4028643b505b5285183d1701e6cfd3,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,597800,2023-04-01T14:33:51.000Z
+565,013f286402a82f005b892a65d5e6ac3d,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,352833,2023-04-01T14:26:09.000Z
+566,ed3a286437a1b808f5b09c327b2c99c3,XFactorLive,True,zed_remake_3.3,Zed Remake 3.3,870900,2023-04-01T14:08:45.000Z
+567,2132286478a07925e06ad73389dae8c7,XFactorLive,True,avalanche_3.4,Avalanche 3.4,606900,2023-04-01T13:31:13.000Z
+568,8f2e28647f60ed50152ca1505ec83f3d,XFactorLive,False,avalanche_3.4,Avalanche 3.4,702933,2023-04-01T13:15:59.000Z
+569,6c2b286448aab8992d9844c314d65393,XFactorLive,True,avalanche_3.4,Avalanche 3.4,377267,2023-04-01T13:02:36.000Z
+570,8f282864aab3a553dbfb9ad884304ff5,XFactorLive,False,avalanche_3.4,Avalanche 3.4,599600,2023-04-01T12:50:23.000Z
+571,b40c2864d002ef841523944ff0b4a752,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,671233,2023-04-01T10:51:32.000Z
+572,5f072864e247db9fa918c2717804292b,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,898967,2023-04-01T10:28:47.000Z
+573,531f2264d513efc5079bb6f681cc4533,XFactorLive,True,calamity_1.1,Calamity 1.1,655000,2023-03-27T22:57:23.000Z
+574,061b22641f61c26378d48764ae767a37,XFactorLive,True,death_valley_v1,Death Valley v1,781200,2023-03-27T22:39:02.000Z
+575,a7152264f677a943efc3db7754dc08eb,XFactorLive,True,cervino_v1,Cervino v1,869733,2023-03-27T22:16:07.000Z
+576,99122264874a6acce858e173a83ef3dd,XFactorLive,True,calamity_1.1,Calamity 1.1,531333,2023-03-27T22:03:05.000Z
+577,800e2264a88583223939e4e473bae8ae,XFactorLive,True,calamity_1.1,Calamity 1.1,669533,2023-03-27T21:45:36.000Z
+578,3ef82164069ad4ca6cccb39180277c4a,XFactorLive,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,4903067,2023-03-27T20:10:38.000Z
+579,3b9f21646e5e096f6b34d0055f1cb927,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,277700,2023-03-27T13:50:51.000Z
+580,1bf5206423cf04d3ea190116a3a1cd0b,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,443433,2023-03-27T01:44:59.000Z
+581,08ef2064fb2515e29d373c50e0684772,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,756667,2023-03-27T01:19:04.000Z
+582,37eb20641b7dd06a964656c1980cb99d,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,782167,2023-03-27T01:02:47.000Z
+583,83e72064ea7c89e51e4f83e8a7edae4b,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,644900,2023-03-27T00:46:59.000Z
+584,0ad52064acc5e5fa6cfeb67a8df6e2df,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,647900,2023-03-26T23:28:10.000Z
+585,8fd3206449d4ff49249be7d2a0d8830e,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,241700,2023-03-26T23:21:51.000Z
+586,28d02064d87f79aadb5e259e0c0fbeb9,XFactorLive,False,theta_crystals_1.0,Theta Crystals 1.0,691867,2023-03-26T23:07:20.000Z
+587,01c32064680f9bba1dd2f6001814f9da,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,406733,2023-03-26T22:11:13.000Z
+588,edba206483fceff4d49c3b88aeb50e7d,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,663667,2023-03-26T21:36:45.000Z
+589,18b62064d58ca0570d6a99c9fdd6077d,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,609000,2023-03-26T21:16:08.000Z
+590,6aad20640ca249884bcd8ff4d9dc9a64,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,523867,2023-03-26T20:39:06.000Z
+591,21aa2064d06db463ecb7652063bf3ae5,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,584100,2023-03-26T20:25:05.000Z
+592,aea72064286285fe81f640c950b2e15e,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,393633,2023-03-26T20:14:38.000Z
+593,b1a320643989425d127b5ff58ac42a28,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,799100,2023-03-26T19:57:37.000Z
+594,b89f2064d71f29fdc5140a8403ad8e7b,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,625500,2023-03-26T19:40:40.000Z
+595,8d9c206432ce67edca147c3df1e2451e,XFactorLive,True,ravaged_remake_v1.1,Ravaged Remake v1.1,524467,2023-03-26T19:27:09.000Z
+596,81962064c2a65bd1ace5029cd540daa6,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,373533,2023-03-26T19:01:21.000Z
+597,31981f646eb6f2068400f31256b5f542,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,916600,2023-03-26T00:56:17.000Z
+598,ee8d1f643084aff9c53ad7ede06b9923,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,2001267,2023-03-26T00:12:30.000Z
+599,ad831f645e309ae3c58afa36797d058b,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1391000,2023-03-25T23:28:45.000Z
+600,ef7e1f648f7125ee79ca51ab0bbcfb56,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,146933,2023-03-25T23:08:31.000Z
+601,687d1f64bf5d56a84cf3920d551191e4,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,235200,2023-03-25T23:02:00.000Z
+602,f55c1f64cf74d7338716a8e59d5c7776,XFactorLive,False,cervino_v1,Cervino v1,1882667,2023-03-25T20:43:33.000Z
+603,83531f64cf6ea54cbf5b900309c5d33e,XFactorLive,True,calamity_1.1,Calamity 1.1,1409167,2023-03-25T20:03:15.000Z
+604,be3a1f64c35086f30cbdc15f419b679c,XFactorLive,False,tabula_remake_1.5,Tabula_Remake 1.5,1355133,2023-03-25T18:17:34.000Z
+605,01291f64cf2f5b4a8c981edf7c58a82c,XFactorLive,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,3773933,2023-03-25T17:01:53.000Z
+606,a3221f64caf98dfacb002f06e1c32c12,XFactorLive,False,emainmacha_remake_2.1,EmainMacha Remake 2.1,1076167,2023-03-25T16:34:43.000Z
+607,bb1a1f64285c8641f6c16662e2da1b5d,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,925000,2023-03-25T16:00:59.000Z
+608,fd151f646d8a8aa1506f632a819f3f08,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,888933,2023-03-25T15:40:45.000Z
+609,35111f646c303a6f38efbd37f110feb2,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,878767,2023-03-25T15:20:21.000Z
+610,650d1f6488499f1ae6b29286a3d976b6,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,699100,2023-03-25T15:04:05.000Z
+611,a30a1f64eb6fbc6cba83d2148f23bbb4,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,533833,2023-03-25T14:52:19.000Z
+612,16071f648c53885e89f9e32f42323074,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,584333,2023-03-25T14:37:10.000Z
+613,53fc1e649e74b1e34b802055a5cebd86,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,302033,2023-03-25T13:51:15.000Z
+614,31fa1e6458e80dfe73d7c15632fcdb90,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,365933,2023-03-25T13:42:09.000Z
+615,5ff71e6489e718f32051a1652223e493,XFactorLive,False,avalanche_3.4,Avalanche 3.4,483700,2023-03-25T13:30:07.000Z
+616,d4f41e644a68948ad33f27df9f714939,XFactorLive,False,avalanche_3.4,Avalanche 3.4,489300,2023-03-25T13:19:16.000Z
+617,e9e31e64169e21b8717d2dfe65368891,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1254367,2023-03-25T12:07:05.000Z
+618,f1d81e64d62b9d4279822b22fd783347,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,1863233,2023-03-25T11:20:17.000Z
+619,2dc91e64ae856b7753d945f472970cf4,XFactorLive,False,zed_remake_3.3,Zed Remake 3.3,627267,2023-03-25T10:13:01.000Z
+620,5cc51e6401bb8cd191ae53206b15e4ec,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,781533,2023-03-25T09:56:44.000Z
+621,d9c11e6434b367495d0aa4eaf3f27d8f,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,708867,2023-03-25T09:41:45.000Z
+622,c1bd1e64eba29b68424b2a243c235470,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,717633,2023-03-25T09:24:17.000Z
+623,4d301e646de780ddc734d7ff40e85b06,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,583833,2023-03-24T23:20:45.000Z
+624,fb2e1e6402bb803c8b0c604d258f8f42,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,233500,2023-03-24T23:15:07.000Z
+625,a1281e64dd8ab9e2c13ac3c76d523fea,XFactorLive,False,flats_and_forests_v2.1,Flats and Forests v2.1,1432367,2023-03-24T22:48:01.000Z
+626,b81e1e649e53ceea34a7939e9fac0e32,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1314333,2023-03-24T22:05:44.000Z
+627,be101e64a0d56eef815d0159330ac84d,XFactorLive,False,emainmacha_remake_2.1,EmainMacha Remake 2.1,2044933,2023-03-24T21:06:06.000Z
+628,380b1e64ecc98fc1f3b65f966e9a2ba3,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,824600,2023-03-24T20:42:32.000Z
+629,fe011e64a7c25a5fee2411af05a95424,XFactorLive,False,ravaged_remake_v1.1,Ravaged Remake v1.1,728633,2023-03-24T20:03:10.000Z
+630,3ef21d644b315583eb0be4083fc4e87b,XFactorLive,False,Rosetta1.4,Rosetta 1.4,2207700,2023-03-24T18:55:58.000Z
+631,c9e91d6415959a17b0b4b2cde6412b0a,XFactorLive,True,cervino_v1,Cervino v1,1479700,2023-03-24T18:19:53.000Z
+632,bece1d648c912008b6600e1424fada39,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1236433,2023-03-24T16:24:30.000Z
+633,c2c41d64107de165bcdc4a319cc772da,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,710767,2023-03-24T15:41:54.000Z
+634,b0c01d641cd4a7a052ca12fad5ef2da7,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,630167,2023-03-24T15:24:32.000Z
+635,7fbb1d64cc70147cd6e9864e8c0bd845,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,902833,2023-03-24T15:02:23.000Z
+636,a59a1d64a452b9d83642edb01643e802,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,807833,2023-03-24T12:42:13.000Z
+637,64921d641de6dbbf265bd27b1bc49481,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,898067,2023-03-24T12:07:00.000Z
+638,50891d64c51107af6cbdc6137e8aefc1,XFactorLive,False,koom_valley_3_3.1,Koom Valley 3 3.1,2206933,2023-03-24T11:28:16.000Z
+639,10d51c641a6a9b05d78944500c4228f5,XFactorLive,True,avalanche_3.4,Avalanche 3.4,552433,2023-03-23T22:39:12.000Z
+640,0cbd1c64824b28cea2e4d9bef52dc009,XFactorLive,True,eye_of_horus_1.7,Eye Of Horus 1.7,822500,2023-03-23T20:56:44.000Z
+641,b3b91c648a6faeefe9b4c707becfd54a,XFactorLive,False,glacier_pass_1.2,Glacier Pass 1.2,939200,2023-03-23T20:42:27.000Z
+642,13b61c64c91557f3ed4423e8580c3b21,XFactorLive,False,glacier_pass_1.2,Glacier Pass 1.2,636733,2023-03-23T20:26:59.000Z
+643,5eaa1c640df0680a39467c44efe512ab,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,826733,2023-03-23T19:37:02.000Z
+644,d4a01c64717eb63d0d5e597942ffe7a2,XFactorLive,True,angel_crossing_1.5,Angel Crossing 1.5,1707167,2023-03-23T18:56:20.000Z
+645,25931c64ee8c4d8e1e7af74c67c08954,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,777767,2023-03-23T17:57:57.000Z
+646,b88b1c64b6193708ccdfe58b467fcc7a,XFactorLive,True,red_comet_remake_1.8,Red Comet Remake 1.8,992467,2023-03-23T17:26:16.000Z
+647,fb471c6480104d45aff6a4621aee514b,XFactorLive,True,death_valley_v1,Death Valley v1,2448033,2023-03-23T12:37:15.000Z
+648,88371c64505d050ea9cfa87d16b6e16f,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,933500,2023-03-23T11:27:04.000Z
+649,e2a11b641ab9fefeef1b008f13db8840,XFactorLive,False,Crystallized Plains 1.01,Crystallized Plains 1.01,867933,2023-03-23T00:48:34.000Z
+650,db9f1b640e20bf0375595c4b7d703d00,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,346933,2023-03-23T00:39:55.000Z
+651,7f9e1b642a88f4d65bba0be123889d05,XFactorLive,True,Crystallized Plains 1.01,Crystallized Plains 1.01,210900,2023-03-23T00:34:07.000Z
+652,8d991b6478d042628078b2b0a3dffa23,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,838333,2023-03-23T00:13:01.000Z
+653,82871b642e383558f56daab87aa3f6be,XFactorLive,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,532467,2023-03-22T22:56:02.000Z
+654,29811b64d383f5d7bc1aa6359386926d,XFactorLive,True,death_valley_v1,Death Valley v1,293867,2023-03-22T22:28:57.000Z
+655,106a1b648f156fbdb347321ea36e1a61,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,631233,2023-03-22T20:50:24.000Z
+656,37411b645f811dc23b21ab7fc0d9de5d,XFactorLive,False,red_comet_remake_1.8,Red Comet Remake 1.8,1236900,2023-03-22T17:56:07.000Z
+657,90381b644242524d168f8b970fe90fdf,XFactorLive,False,eye_of_horus_1.7,Eye Of Horus 1.7,1831000,2023-03-22T17:19:12.000Z
+658,a2321b640c35a27a933d44239094249d,XFactorLive,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,902233,2023-03-22T16:53:54.000Z

@@ -1,0 +1,364 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,c4fba1640df15ffb2dcea5093ec548e0,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,773200,2023-07-02T22:35:48.000Z
+1,4df4a16411d11504ad0aacf70ece06d0,[TZN]Clyret,True,forge_v1.4,Forge v1.4,1384900,2023-07-02T22:03:57.000Z
+2,b8d9a164f6942def11574ea3566afb5f,[TZN]Clyret,False,white_fire_remake_1.3,White Fire Remake 1.3,1284767,2023-07-02T20:10:32.000Z
+3,31d5a1649f1e20217b4353f69df755e6,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,666600,2023-07-02T19:51:13.000Z
+4,71caa1640fa2931a5c545fd60378db8b,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,2275033,2023-07-02T19:05:21.000Z
+5,0fbca164bc08f64ca0aa67d41f2cb5f6,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,2825267,2023-07-02T18:03:59.000Z
+6,9719a16435b72616c79335b1706460e3,[TZN]Clyret,True,dworld_v4,DWorld_V4,1901267,2023-07-02T06:30:47.000Z
+7,0901a164053f745a1bd0a1ec2f3bf894,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,658367,2023-07-02T04:46:01.000Z
+8,8ef9a064c5c03c1eb2cb993da9d073df,[TZN]Clyret,True,Rosetta1.4,Rosetta 1.4,1467800,2023-07-02T04:14:06.000Z
+9,def1a064eaa0e776b5a9522b920d70d2,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,1456400,2023-07-02T03:41:18.000Z
+10,45eaa06429d55b6844101ecfb58af9c6,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1393700,2023-07-02T03:08:53.000Z
+11,9ee6a06407ae80e24ed61f2d5caef7a4,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,346300,2023-07-02T02:53:18.000Z
+12,73e1a0643fb1bcad90644a576c3a9405,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,803933,2023-07-02T02:31:15.000Z
+13,2ddba064272bb2999331ae9156d67396,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,1184533,2023-07-02T02:04:29.000Z
+14,61d7a06499268431f053c455a76b7c76,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,569900,2023-07-02T01:48:17.000Z
+15,81c8a0647e824195bdda9a29c28e04f0,[TZN]Clyret,True,hotlips_remake_v3.1,Hotlips Remake v3.1,2785700,2023-07-02T00:44:49.000Z
+16,84c1a06496416244130739e3964034af,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1276133,2023-07-02T00:15:00.000Z
+17,17b9a06443bfb825bc2f6c42fe311b1e,[TZN]Clyret,False,ice_scream_v2.5,Ice Scream v2.5,1578100,2023-07-01T23:39:03.000Z
+18,e1b2a0644ffe214a834d76f8d6040351,[TZN]Clyret,True,thermal_shock_v1.1,Thermal Shock v1.1,598700,2023-07-01T23:12:33.000Z
+19,faa2a0641089ea5ce5d080a025139269,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,2521067,2023-07-01T22:04:42.000Z
+20,339da064d483a6ce6466bb780c22ef0e,[TZN]Clyret,True,koom_valley_3_3.1,Koom Valley 3 3.1,1034700,2023-07-01T21:40:03.000Z
+21,e496a064c16a7bba1973cd43cfd7ebc4,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1049600,2023-07-01T21:13:08.000Z
+22,a989a064b9df73235fdbb8074c2ba057,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,1103733,2023-07-01T20:16:41.000Z
+23,ce80a06437859ac563f2aac94e975a29,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,1209500,2023-07-01T19:38:54.000Z
+24,1605a064c1ca5c832f44d4ce5a4e15f8,[TZN]Clyret,False,ice_scream_v2.5,Ice Scream v2.5,2925833,2023-07-01T10:51:02.000Z
+25,7efc9f64d2bfc1c98e4fdd32b182a672,[TZN]Clyret,False,white_fire_remake_1.2,White Fire Remake 1.2,1599333,2023-07-01T10:14:22.000Z
+26,6bf39f64db3e124c75d74fe904cdbccb,[TZN]Clyret,True,ascendancy_v2.0,Ascendancy v2.0,1735967,2023-07-01T09:35:39.000Z
+27,fdee9f646f55590b5f4b351b2e4ccea9,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,765100,2023-07-01T09:16:45.000Z
+28,eeea9f64cd02d71f0fc92a8eab2ada3c,[TZN]Clyret,False,eight_horses_1.2,Eight Horses 1.2,616667,2023-07-01T08:59:26.000Z
+29,cee19f64e1b999cf1c0a212b4c42e744,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,1508833,2023-07-01T08:20:30.000Z
+30,b9db9f649a61cee00e8a4500f794573c,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1204900,2023-07-01T07:54:33.000Z
+31,a6d49f647fe9bcd63ee1390163bca0da,[TZN]Clyret,False,flats_and_forests_v2.1,Flats and Forests v2.1,1393700,2023-07-01T07:24:22.000Z
+32,3ecf9f64f0e481092463824bb96034b6,[TZN]Clyret,True,Rosetta1.4,Rosetta 1.4,976600,2023-07-01T07:01:18.000Z
+33,8ac19f64a662a7f4873ce6e59e6cf399,[TZN]Clyret,False,theta_crystals_1.0,Theta Crystals 1.0,1357367,2023-07-01T06:02:50.000Z
+34,51bb9f64e100570e613fb36b0476253d,[TZN]Clyret,False,shallow_straits_v1,Shallow Straits v1,1376167,2023-07-01T05:36:17.000Z
+35,3cb79f6474012b2c8dc53f6d90fe0bfe,[TZN]Clyret,True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,637667,2023-07-01T05:18:52.000Z
+36,6fb39f64f800b735b846f98834f03262,[TZN]Clyret,False,red_comet_remake_1.8,Red Comet Remake 1.8,711067,2023-07-01T05:02:39.000Z
+37,40b09f641f4ee2100e66214618179515,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,559300,2023-07-01T04:49:04.000Z
+38,19ae9f649b4aefa57bd05e63c876759d,[TZN]Clyret,True,faster_than_light_1.1,Faster Than Light 1.1,304033,2023-07-01T04:39:53.000Z
+39,81ab9f6412ec3e58ba1d5599daf4ae7f,[TZN]Clyret,True,red_comet_remake_1.8,Red Comet Remake 1.8,419033,2023-07-01T04:28:49.000Z
+40,34a89f647b270b0b975c8c6f4c5b6e54,[TZN]Clyret,True,ravaged_remake_v1.2,Ravaged Remake v1.2,597267,2023-07-01T04:14:44.000Z
+41,48a69f64f824a1b6e59689d1ab996f55,[TZN]Clyret,False,ravaged_remake_v1.2,Ravaged Remake v1.2,353633,2023-07-01T04:06:32.000Z
+42,9da39f64b29cc8e948e47ae3698d40a1,[TZN]Clyret,False,ravaged_remake_v1.2,Ravaged Remake v1.2,538467,2023-07-01T03:55:09.000Z
+43,1d929f64d2fc194edcba15bdfbb866a0,[TZN]Clyret,True,shallow_straits_v1,Shallow Straits v1,254300,2023-07-01T02:40:29.000Z
+44,8e8d9f641ef22fea9fe3a1529d1e963f,[TZN]Clyret,True,zed_remake_3.3,Zed Remake 3.3,806067,2023-07-01T02:21:02.000Z
+45,443c9e6476559d72c4c06274e9f47195,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1095833,2023-06-30T02:21:56.000Z
+46,8f319e641ce08a202e2a6a4bf9dba088,[TZN]Clyret,True,koom_valley_3_3.1,Koom Valley 3 3.1,2240733,2023-06-30T01:36:15.000Z
+47,c02a9e64c743d560dd209ac0e457acae,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1286700,2023-06-30T01:07:12.000Z
+48,dc239e641b6bb4ae268239198f983a59,[TZN]Clyret,False,ice_scream_v2.5,Ice Scream v2.5,939200,2023-06-30T00:37:48.000Z
+49,080f9d64a8b554bc726779d85fc83f67,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,1303667,2023-06-29T04:56:40.000Z
+50,6dcd9b6459713c60d51b839eca412afe,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,2172267,2023-06-28T06:04:29.000Z
+51,59859b6456168c8b7ada941d0f0be5d8,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1927833,2023-06-28T00:56:57.000Z
+52,566e9a64197884df31f20135192e2338,[TZN]Clyret,True,darkside_v3.0,Darkside v3.0,1877133,2023-06-27T05:06:30.000Z
+53,226a9a64fac4ce557f050b844032c6a9,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,633867,2023-06-27T04:48:34.000Z
+54,235f9a649a53433c560d460f5c6f2e67,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,2035300,2023-06-27T04:01:39.000Z
+55,eb589a64f92668fdbbb695b8ca70bafb,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1188767,2023-06-27T03:35:07.000Z
+56,21529a6477a93c6e15ade9a70e3077d2,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1164600,2023-06-27T03:06:09.000Z
+57,834a9a64ed19d4685334c7f1da16081f,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1182667,2023-06-27T02:33:39.000Z
+58,2b3699644256ff8cff4095e65a732b19,[TZN]Clyret,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2014700,2023-06-26T06:54:35.000Z
+59,0d319964319cb77469c08a4fadd7bd8c,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,920967,2023-06-26T06:32:45.000Z
+60,4f2a9964285b65ac7fa807d343bbc2fc,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,1317433,2023-06-26T06:03:59.000Z
+61,461e996415588225edfcf62dff4b40fc,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,2532200,2023-06-26T05:12:38.000Z
+62,49189964209f10822a854fa2799335a9,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1132533,2023-06-26T04:47:05.000Z
+63,f81099648b50792ff1f870aec5f0fe35,[TZN]Clyret,True,koom_valley_3_3.1,Koom Valley 3 3.1,952433,2023-06-26T04:15:52.000Z
+64,900a996466ac0a6bfc2eeb412ed40b4e,[TZN]Clyret,True,Rosetta1.4,Rosetta 1.4,1212667,2023-06-26T03:48:32.000Z
+65,fb059964beec95d85be248e61330347b,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,861533,2023-06-26T03:28:59.000Z
+66,d0f198646e529976b84943487184ec35,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,862533,2023-06-26T02:02:56.000Z
+67,bae3986456903556cb08425e3c0e5692,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,2930767,2023-06-26T01:02:50.000Z
+68,5bd898644707a75cde24c369abcef9b2,[TZN]Clyret,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1853933,2023-06-26T00:14:19.000Z
+69,6ace98647d58c324c6b48cc6c493c35e,[TZN]Clyret,True,starwatcher_1.0,Starwatcher 1.0,1515200,2023-06-25T23:31:54.000Z
+70,8cc5986413a9ecc52dce20496a2b77ee,[TZN]Clyret,False,Ditched_V1,Ditched_V1,1314067,2023-06-25T22:54:04.000Z
+71,8cc198649582d10095bf4ddfc2ffdf59,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,638567,2023-06-25T22:37:00.000Z
+72,5cb39864a980466b809be7b8c0bf8fcc,[TZN]Clyret,False,flats_and_forests_v2.1,Flats and Forests v2.1,1895200,2023-06-25T21:36:28.000Z
+73,14ae98647dcc7490a7f13b1ad6a5cacf,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,778867,2023-06-25T21:13:56.000Z
+74,510698644fd81a1c9d8810cb7eb6c37f,[TZN]Clyret,False,NuclearWinterR,Nuclear Winter Bar 1.4,2284067,2023-06-25T09:18:09.000Z
+75,75fe976467bc1adb6d9e876d4bddb180,[TZN]Clyret,False,ice_scream_v2.5,Ice Scream v2.5,1269167,2023-06-25T08:44:37.000Z
+76,b0f797641202a63648dd98c5f3aa3ac7,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,885600,2023-06-25T08:15:44.000Z
+77,64f297646b79ee113627b99737e0ae7e,[TZN]Clyret,False,bismuth_valley_v2.2,Bismuth Valley v2.2,965433,2023-06-25T07:53:08.000Z
+78,a863976447276a22c69925a613d2d3fd,[TZN]Clyret,True,zed_remake_3.3,Zed Remake 3.3,486767,2023-06-24T21:44:08.000Z
+79,156097642ee9eb475f4521de0a19dfa5,[TZN]Clyret,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,574333,2023-06-24T21:28:53.000Z
+80,9e549764456fb342abf7383480e855d9,[TZN]Clyret,False,ice_scream_v2.5,Ice Scream v2.5,1564933,2023-06-24T20:39:58.000Z
+81,c68396644bdaf73624a409502b97b6db,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1024800,2023-06-24T05:48:54.000Z
+82,d6139664215b17f0637db03417050de4,[TZN]Clyret,True,Mediterraneum_V1,Mediterraneum_V1,3653633,2023-06-23T21:51:18.000Z
+83,e5f59564adddf27136533aa48d3d3782,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,650400,2023-06-23T19:43:33.000Z
+84,c1f09564cbecb2a35a697f621fe5a161,[TZN]Clyret,True,red_comet_remake_1.8,Red Comet Remake 1.8,860367,2023-06-23T19:21:37.000Z
+85,c67695642ef7f194c1b9d1acaee4b515,[TZN]Clyret,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1318733,2023-06-23T10:41:10.000Z
+86,137095644a68afed392124c85ef0be65,[TZN]Clyret,False,eight_horses_1.2,Eight Horses 1.2,1151800,2023-06-23T10:12:35.000Z
+87,8a619564abae90f616dea219a14b37a7,[TZN]Clyret,True,ascendancy_v2.0,Ascendancy v2.0,1403933,2023-06-23T09:10:34.000Z
+88,b359956429061315a5aa06e180702c6b,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,1449733,2023-06-23T08:37:07.000Z
+89,d0519564c5a3acf99ed4f7f5d1baea8e,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1271567,2023-06-23T08:03:28.000Z
+90,dd4c956498d973d0a98d19d443f96364,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,821600,2023-06-23T07:42:21.000Z
+91,7d109564fed3229aaaf64be092567105,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,2786600,2023-06-23T03:24:45.000Z
+92,2dc89464ea5a2ceab2b07ccebfb02a9c,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,2327700,2023-06-22T22:16:13.000Z
+93,3cc294645a9f08bfb75dce3697761e38,[TZN]Clyret,True,forge_v1.4,Forge v1.4,583200,2023-06-22T21:50:52.000Z
+94,dbb79464c61147f162c8776507a70017,[TZN]Clyret,False,starwatcher_1.0,Starwatcher 1.0,2228733,2023-06-22T21:06:35.000Z
+95,51ad9464ad4e216ddc2eb4bdb1341256,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,1889067,2023-06-22T20:21:37.000Z
+96,efa694640878604bfbf706aaebf6fc8c,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1161167,2023-06-22T19:54:23.000Z
+97,4bd09364cbfaf31542af912703dbd049,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,918600,2023-06-22T04:38:35.000Z
+98,0bcc936410aab17d386439dd9f1213d4,[TZN]Clyret,True,starwatcher_1.0,Starwatcher 1.0,686800,2023-06-22T04:20:27.000Z
+99,fdc3936404c4941d34b64851d72d2fd5,[TZN]Clyret,False,eight_horses_1.2,Eight Horses 1.2,1628667,2023-06-22T03:46:05.000Z
+100,c095936455cfa4514e70db072de66814,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,1312400,2023-06-22T00:28:48.000Z
+101,de689364bff4a7bfc8d0bd77044b3368,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1033267,2023-06-21T21:17:18.000Z
+102,a0619364a9553486f6c503d4476d2afd,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,1215800,2023-06-21T20:46:24.000Z
+103,c1c39264ef48610e38ddcd48c160eec7,[TZN]Clyret,True,ascendancy_v2.0,Ascendancy v2.0,1798500,2023-06-21T09:32:49.000Z
+104,4fba926440398fe009cfc2e82351747e,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1762467,2023-06-21T08:52:31.000Z
+105,12b0926451534f50d9ba5e026c2edef0,[TZN]Clyret,False,Sunderance V1.3,Sunderance V1.3,2156767,2023-06-21T08:08:50.000Z
+106,45859264efcb8492d1ac3a7ab2cb1027,[TZN]Clyret,True,Rosetta1.4,Rosetta 1.4,1991433,2023-06-21T05:06:13.000Z
+107,a97b92648df1a6510b2c03aedd1e167f,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1957800,2023-06-21T04:25:13.000Z
+108,9a739264d5b04d5f468f7edebf0835f1,[TZN]Clyret,True,starwatcher_1.0,Starwatcher 1.0,1686500,2023-06-21T03:50:50.000Z
+109,657b9164a071b0c0a55b8349dc974f99,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1646733,2023-06-20T10:11:49.000Z
+110,977191644119b21b7188760978f11992,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1824933,2023-06-20T09:29:59.000Z
+111,696a91642eab886181faeb9ec1fcd478,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1476500,2023-06-20T08:59:21.000Z
+112,43649164426e1fd7d74b8a53143512ca,[TZN]Clyret,False,ascendancy_v2.0,Ascendancy v2.0,1167500,2023-06-20T08:33:07.000Z
+113,ec589164d5028d5749c6958c72c44484,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,2510700,2023-06-20T07:44:44.000Z
+114,33a28e646dccb6a345383613543b374d,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,2232967,2023-06-18T06:20:35.000Z
+115,91988e640b25359fd75b74b7e0c29704,[TZN]Clyret,True,pawn_retreat_1.2,Pawn Retreat 1.2,1887300,2023-06-18T05:39:29.000Z
+116,f38b8e64424ad7c1d5dd7089cba48ee6,[TZN]Clyret,False,forge_v1.4,Forge v1.4,2569867,2023-06-18T04:45:39.000Z
+117,1bec8b64eaa04e0a6b92b60d3db45b76,[TZN]Clyret,True,dworld_v4,DWorld_V4,4008700,2023-06-16T04:59:07.000Z
+118,e1938b64685dbae177d2b2448c7293fa,[TZN]Clyret,True,Riverrun_V1,Riverrun_V1,1235700,2023-06-15T22:42:41.000Z
+119,8fb98a6436f51999d477a2544a285cb1,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,784733,2023-06-15T07:11:11.000Z
+120,4ca08a64a6b6212806fb79c773bdd1bc,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1401733,2023-06-15T05:23:24.000Z
+121,e49b8a641e1e8af13181ad801e758ff7,[TZN]Clyret,True,forge_v1.4,Forge v1.4,688333,2023-06-15T05:04:36.000Z
+122,47918a645e56d520ffc1b12f3a562f50,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,1418600,2023-06-15T04:19:19.000Z
+123,89868a64fc9e4367b60dd5f6131aa7af,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1906267,2023-06-15T03:33:29.000Z
+124,1b2f8a64974e89fb6f155a9ae9c8735d,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,1830667,2023-06-14T21:20:27.000Z
+125,77278a64bc8e282fc8b9e377bacd6fa2,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1561600,2023-06-14T20:47:51.000Z
+126,c21e8a64b09e9ac07e3e6338a0d1d066,[TZN]Clyret,True,koom_valley_3_3.1,Koom Valley 3 3.1,1467600,2023-06-14T20:10:42.000Z
+127,db128a640c69342c7227b0d18da40a6e,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,1928467,2023-06-14T19:19:55.000Z
+128,b30d8a6401d4b4918403c0a84e1a30e6,[TZN]Clyret,False,bismuth_valley_v2.2,Bismuth Valley v2.2,935600,2023-06-14T18:57:55.000Z
+129,64878964431be2d1040d644ca853ffca,[TZN]Clyret,False,forge_v1.4,Forge v1.4,2114700,2023-06-14T09:24:52.000Z
+130,987d896493aa957217d63ee0e69e2f63,[TZN]Clyret,False,flats_and_forests_v2.1,Flats and Forests v2.1,1760267,2023-06-14T08:43:04.000Z
+131,3c6e89647968b8328d684aacaea6171b,[TZN]Clyret,False,ascendancy_v1.1,Ascendancy v1.1,2904900,2023-06-14T07:37:32.000Z
+132,b84789645d286ef96abda36049b3c5d8,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,727900,2023-06-14T04:53:12.000Z
+133,7f358964bbd3c56ed6c939a16fa2ea70,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,891700,2023-06-14T03:35:27.000Z
+134,b42f89643cae84f066b972cf44eee8df,[TZN]Clyret,False,NuclearWinterR,Nuclear Winter Bar 1.4,1148833,2023-06-14T03:10:44.000Z
+135,eaeb87644ceffb2a286fa6c9be860a7f,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,810067,2023-06-13T04:09:14.000Z
+136,2dc586644dabf1eb98c1884c3c3f8549,[TZN]Clyret,True,flats_and_forests_v2.1,Flats and Forests v2.1,1752700,2023-06-12T07:11:41.000Z
+137,5b90866416342ca1ec95afe21069b10d,[TZN]Clyret,True,forge_v1.4,Forge v1.4,737533,2023-06-12T03:26:19.000Z
+138,5c87866487a89f7fd5123be6945cbee7,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,1649933,2023-06-12T02:47:56.000Z
+139,c8188064224f12afa77a64661eb7c63a,[TZN]Clyret,True,NuclearWinterR,Nuclear Winter Bar 1.4,617367,2023-06-07T05:42:32.000Z
+140,f4fe7f6487aef62c03d1b5218042d56c,[TZN]Clyret,True,flats_and_forests_v2.1,Flats and Forests v2.1,4751667,2023-06-07T03:52:20.000Z
+141,69f97f64f8708b0b6de03e147f26818c,[TZN]Clyret,True,forge_v1.4,Forge v1.4,892167,2023-06-07T03:28:41.000Z
+142,bef27f64a98c8a2b7e59de022736b97e,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1135667,2023-06-07T03:00:14.000Z
+143,36ec7f64913825eae0125b08515f10dc,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1240133,2023-06-07T02:32:22.000Z
+144,9be27f64cf237441bb2965c5a2fe521c,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,2044467,2023-06-07T01:51:23.000Z
+145,5eb07f64594c5e61c9bd80ca37a2cd06,[TZN]Clyret,True,red_river_remake_v1.2,Red River Remake v1.2,2080933,2023-06-06T22:17:02.000Z
+146,31a27f645a51d7303a55d088e490f54e,[TZN]Clyret,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2954767,2023-06-06T21:16:33.000Z
+147,65937f64e5d43896f5d4dd5ee131efc9,[TZN]Clyret,False,supreme_strait_v1.4,Supreme Strait v1.4,3371467,2023-06-06T20:13:25.000Z
+148,c8877f64b28a945b382a6cbb3cf77795,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,2527300,2023-06-06T19:23:52.000Z
+149,ee7f7f644ed479b108d89a76c25d7039,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1502333,2023-06-06T18:50:22.000Z
+150,bf797f64dedda2616edb1c84851a8236,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,1281433,2023-06-06T18:23:59.000Z
+151,32bc7e648f4cc7aacef64b31cd24b7e5,[TZN]Clyret,False,hades_ponds_0.7,Hades Ponds 0.7,2197300,2023-06-06T04:55:14.000Z
+152,51b37e64b6a74723bc3737afa2299444,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,1751167,2023-06-06T04:17:21.000Z
+153,746e7e6474558cbed8955333a5910ff7,[TZN]Clyret,True,starwatcher_0.7,Starwatcher 0.7,2155433,2023-06-05T23:23:32.000Z
+154,3a647e6477a3c1a353277837ae506582,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,1200467,2023-06-05T22:39:54.000Z
+155,75387e64fa9290a68ed219422fe1270e,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1393833,2023-06-05T19:33:09.000Z
+156,c8237e64a9cfba24b9298618c06de5ec,[TZN]Clyret,True,forge_v1.4,Forge v1.4,991433,2023-06-05T18:04:56.000Z
+157,cb7d7d64608dfea56d36979f04b0b856,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1357633,2023-06-05T06:16:43.000Z
+158,0ac77c641b7e57954949ac9e21152c74,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,3012633,2023-06-04T17:16:58.000Z
+159,55bc7c64886b352d02fb588f2883387b,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,1984433,2023-06-04T16:31:17.000Z
+160,9f447c64889ba0ed01ebf020345c1146,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,1087633,2023-06-04T08:00:31.000Z
+161,643e7c64ea2454fcbb8e233abf792586,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,850967,2023-06-04T07:33:56.000Z
+162,3d377c6457ea324ba172ec618e4985ed,[TZN]Clyret,False,NuclearWinterR,Nuclear Winter Bar 1.4,1414833,2023-06-04T07:03:25.000Z
+163,88327c64b3f825d8c4bb3ca6d0a8067d,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,756767,2023-06-04T06:43:20.000Z
+164,862b7c64869795102132c9a0d52f9263,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1392800,2023-06-04T06:13:26.000Z
+165,44217c645857ae8a4e141f4e1c0b4e9b,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,1325867,2023-06-04T05:29:40.000Z
+166,cb1a7c6497c2d8ef49c74b5dcd9839ee,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,917800,2023-06-04T05:02:03.000Z
+167,dc0f7c6447da0d0973c8ce4121109d9f,[TZN]Clyret,False,ice_scream_v2.5,Ice Scream v2.5,2364567,2023-06-04T04:15:24.000Z
+168,230a7c64078c6d3ef8634a6ca950fad1,[TZN]Clyret,False,flats_and_forests_v2.1,Flats and Forests v2.1,1149867,2023-06-04T03:50:59.000Z
+169,3b007c649032b43c09d504033f34cc15,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,2162567,2023-06-04T03:08:43.000Z
+170,25fa7b64b713fc2f8ac9942a86e0ca44,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1244633,2023-06-04T02:42:45.000Z
+171,40a47b648de3945f513e198923d06131,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1513733,2023-06-03T20:36:16.000Z
+172,599e7b64ebefd4c8ee98d512a843c12d,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1141467,2023-06-03T20:11:05.000Z
+173,bf987b64d3be6dcd431e029fb3dd2945,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,986633,2023-06-03T19:47:11.000Z
+174,55937b6423efed8e4100a1ffaf10abb0,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1080233,2023-06-03T19:24:05.000Z
+175,29887b641b02ae6bd0f06a5a40bad0d4,[TZN]Clyret,False,supreme_strait_v1.4,Supreme Strait v1.4,2460800,2023-06-03T18:36:25.000Z
+176,10817b642894dcc1cf703f769d92d690,[TZN]Clyret,True,starwatcher_1.0,Starwatcher 1.0,1140833,2023-06-03T18:06:08.000Z
+177,df937964c924094cc35c92d6e04f2889,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1395667,2023-06-02T07:01:51.000Z
+178,288e79646fcbdc14d57417af96813bb8,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,796833,2023-06-02T06:37:28.000Z
+179,18397964ec548e1dfe95828c9167ea71,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,1968500,2023-06-02T00:34:32.000Z
+180,a21c796464ff1d48469ce253c0510f94,[TZN]Clyret,True,all_that_glitters_v2.1,All That Glitters v2.1,2271100,2023-06-01T22:33:06.000Z
+181,fb167964d5f33512b33d9826cafe330e,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,1137167,2023-06-01T22:08:59.000Z
+182,68ee7864d25208d3ee7f62b0b47fb3b6,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,2572967,2023-06-01T19:15:52.000Z
+183,b4e778640a4a1d52d68ee49967ba835d,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1140533,2023-06-01T18:47:16.000Z
+184,5ee378642c0427430024247040e7b199,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,703567,2023-06-01T18:28:46.000Z
+185,7bd978644fcf453b87442a3df9e93c2e,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1738900,2023-06-01T17:46:35.000Z
+186,8ad078642bfe66e0abbb757edca44e95,[TZN]Clyret,True,ice_scream_v2.5,Ice Scream v2.5,1721100,2023-06-01T17:08:26.000Z
+187,b2577864271f8aecf945ef6b20e64166,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,1594933,2023-06-01T08:32:50.000Z
+188,a84f78647b33be556cf98410247e22e8,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,1225200,2023-06-01T07:58:32.000Z
+189,56487864c907d804642e10113d73bcbe,[TZN]Clyret,True,Rosetta1.4,Rosetta 1.4,1451033,2023-06-01T07:27:18.000Z
+190,634478645b85aa47853f2113098e5ab6,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,660500,2023-06-01T07:10:27.000Z
+191,f73d78640814900984b85099696f8c40,[TZN]Clyret,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1153467,2023-06-01T06:43:03.000Z
+192,b6f476643a7afe1eca214dbfa5997ba2,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1251667,2023-05-31T07:18:14.000Z
+193,3fef7664a2914ff4ec90da70b543d247,[TZN]Clyret,True,forge_v1.4,Forge v1.4,635400,2023-05-31T06:54:55.000Z
+194,a0e876642f06db1d53dcd9235d0ce5fc,[TZN]Clyret,True,tropical_assault_v3.0,Tropical Assault v3.0,1193633,2023-05-31T06:26:40.000Z
+195,14e076640ef13153664eb696434712c1,[TZN]Clyret,False,NuclearWinterR,Nuclear Winter Bar 1.4,1278367,2023-05-31T05:50:12.000Z
+196,d1d37664469f533103619215f981121a,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,2638133,2023-05-31T04:57:53.000Z
+197,f6cb76642d514fc79e5a3d4f11ed3af7,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,851900,2023-05-31T04:24:22.000Z
+198,eac47664dff436874659508d34ea3579,[TZN]Clyret,True,starwatcher_0.9,Starwatcher 0.9,1280733,2023-05-31T03:54:18.000Z
+199,c57e76645be18aa1dea392bc2eb3d802,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,2118567,2023-05-30T22:55:01.000Z
+200,16737664dac2a5ac3be41b634d513675,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2400633,2023-05-30T22:05:10.000Z
+201,916e76643f6d4a95aa5b4a491cd8ca60,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,681733,2023-05-30T21:45:53.000Z
+202,40697664987485a01f612a36d5e0c011,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,867533,2023-05-30T21:23:12.000Z
+203,fb5a76648b5fd662f15b5146c0a9564d,[TZN]Clyret,False,Riverrun_V1,Riverrun_V1,1851667,2023-05-30T20:22:19.000Z
+204,17537664920af80995e1e8ee61056cb3,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1180733,2023-05-30T19:48:39.000Z
+205,773176648f6964f130da917b678facd1,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,2577500,2023-05-30T17:25:11.000Z
+206,38b5756453d40ebb40b1e8c0d384afb6,[TZN]Clyret,True,koom_valley_3_3.1,Koom Valley 3 3.1,2704967,2023-05-30T08:35:04.000Z
+207,36ad7564b4650ee213c5cf14e19292b7,[TZN]Clyret,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1393433,2023-05-30T08:00:54.000Z
+208,0da175643d35812dc9919b5028b89c46,[TZN]Clyret,False,supreme_strait_v1.4,Supreme Strait v1.4,2221067,2023-05-30T07:09:01.000Z
+209,fc9975647c7bfe60476d8846dadfacf2,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,1169700,2023-05-30T06:38:52.000Z
+210,ce8a75649e5c3b3b986a5e187bbc3217,[TZN]Clyret,False,all_that_glitters_v2.1,All That Glitters v2.1,2692433,2023-05-30T05:34:06.000Z
+211,05d557649a3dfac0077b8eea3169b68f,[TZN]Clyret,True,darkside_v3.0,Darkside v3.0,1192800,2023-05-07T16:42:45.000Z
+212,13c95664e142692d892fe29fde52d3b8,[TZN]Clyret,True,red_rock_desert_v1,Red Rock Desert v1,1199567,2023-05-06T21:39:31.000Z
+213,6bc25664b369f87e4a4fd29d52cbe069,[TZN]Clyret,True,red_rock_desert_v1,Red Rock Desert v1,696833,2023-05-06T21:11:07.000Z
+214,74af566404a8ccbb4f6ea39aee50676a,[TZN]Clyret,False,emainmacha_remake_2.1,EmainMacha Remake 2.1,944600,2023-05-06T19:50:12.000Z
+215,57a85664c2d963f2fdc1c6c1ead452b8,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,1292933,2023-05-06T19:19:51.000Z
+216,059a566425c7d67fa8b62912e3ee0ef9,[TZN]Clyret,True,tundra_v2,Tundra_V2,1333533,2023-05-06T18:18:45.000Z
+217,749056644e73a66556f8270d3a00fe7f,[TZN]Clyret,True,forge_v1.4,Forge v1.4,871967,2023-05-06T17:37:56.000Z
+218,45845664a8948a132cb0a876e86f79fd,[TZN]Clyret,False,FolsomdamR_1.16,FolsomDamR 1.16,1190100,2023-05-06T16:45:57.000Z
+219,94795664ceb8935748e7eb29c83fa34a,[TZN]Clyret,True,colorado_v2_1.1,Colorado_V2 1.1,1691433,2023-05-06T16:00:20.000Z
+220,eb6f5664792fc1c7b68971f0557a5c73,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,477867,2023-05-06T15:19:07.000Z
+221,8b61566411326c7084d5840ab9f9f547,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,818133,2023-05-06T14:17:47.000Z
+222,8eb3556453f059b26a2578269e68dc4e,[TZN]Clyret,True,Riverrun_V1,Riverrun_V1,1986067,2023-05-06T01:55:26.000Z
+223,b378556444f49287e2772aa4e074abb9,[TZN]Clyret,False,theta_crystals_1.0,Theta Crystals 1.0,1288600,2023-05-05T21:44:19.000Z
+224,b773556486a2ee02004cb9ba58dcaeaf,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1043700,2023-05-05T21:23:03.000Z
+225,be6e556485744defdd588ea9d9b1a965,[TZN]Clyret,False,forge_v1.4,Forge v1.4,917233,2023-05-05T21:01:50.000Z
+226,8469556447bf0789fd7f5227641c9739,[TZN]Clyret,True,forge_v1.4,Forge v1.4,504400,2023-05-05T20:39:32.000Z
+227,fe665564db19e0bfc18820031658ddfb,[TZN]Clyret,True,forge_v1.4,Forge v1.4,430600,2023-05-05T20:28:46.000Z
+228,29625564f525e8ee1825f2ddf9793de6,[TZN]Clyret,False,colorado_v2_1.1,Colorado_V2 1.1,955100,2023-05-05T20:08:09.000Z
+229,ef5c5564464bd22110f94e76b3b58884,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,931133,2023-05-05T19:45:51.000Z
+230,9d5455642400c5f370050bc8c8216ef2,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,1446167,2023-05-05T19:10:21.000Z
+231,b74e5564b424fdc04f6600493ee765cd,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,1097467,2023-05-05T18:45:11.000Z
+232,7b485564d20fd9b6f86a3294bebaea73,[TZN]Clyret,True,tabula_remake_1.5,Tabula_Remake 1.5,1193933,2023-05-05T18:18:35.000Z
+233,16a25464731d3ccb598aa02a337098f3,[TZN]Clyret,True,colorado_v2_1.1,Colorado_V2 1.1,557067,2023-05-05T06:28:38.000Z
+234,259e54649680910edf629ab07ff09575,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,745200,2023-05-05T06:11:49.000Z
+235,11975464ad0d106e6b3c174b8b03368e,[TZN]Clyret,True,red_comet_remake_1.8,Red Comet Remake 1.8,330200,2023-05-05T05:41:37.000Z
+236,e1915464fedbf6b42edcd85a37fae92d,[TZN]Clyret,True,red_comet_remake_1.8,Red Comet Remake 1.8,583400,2023-05-05T05:19:29.000Z
+237,de7c5464875b8460438b0df9d56217ab,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,965200,2023-05-05T03:49:50.000Z
+238,35245464738c557c89734068ab7fbfc3,[TZN]Clyret,True,NuclearWinterR,Nuclear Winter Bar 1.4,640367,2023-05-04T21:31:33.000Z
+239,0c1f546456209cf878943d8d84f57ecc,[TZN]Clyret,True,pawn_retreat_1.2,Pawn Retreat 1.2,509367,2023-05-04T21:09:32.000Z
+240,2e1a5464d2562ff115d09156de885057,[TZN]Clyret,True,tundra_v2,Tundra_V2,616567,2023-05-04T20:48:46.000Z
+241,d4125464aea8117c861c8bd89b1fb7b7,[TZN]Clyret,True,tabula_remake_1.5,Tabula_Remake 1.5,698533,2023-05-04T20:17:24.000Z
+242,110e5464c748926307bb8c4a320781ca,[TZN]Clyret,True,tundra_v2,Tundra_V2,492967,2023-05-04T19:57:05.000Z
+243,be0a546463c8645934673b3a5117c63b,[TZN]Clyret,True,forge_v1.4,Forge v1.4,397167,2023-05-04T19:42:54.000Z
+244,c205546487544a28c2cea08a1f2bd801,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,759933,2023-05-04T19:21:38.000Z
+245,c2fb5364eeb0704155586e313279e0e3,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,1427900,2023-05-04T18:38:58.000Z
+246,6e25536476bc79a64b4538f27964b5d6,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,2945367,2023-05-04T03:24:30.000Z
+247,bfc25264f5d55a3d3a6ee341d9e0ccd0,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,1390100,2023-05-03T20:23:27.000Z
+248,2abe5264c3a24ed72a6646afbd036608,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,711600,2023-05-03T20:03:54.000Z
+249,61b65264919fcd4844b6586fec020d5e,[TZN]Clyret,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1201200,2023-05-03T19:30:41.000Z
+250,02055264f59258597ef4c313bca8ee47,[TZN]Clyret,True,colorado_v2_1.1,Colorado_V2 1.1,1008533,2023-05-03T06:53:54.000Z
+251,7401526496d8c1480f65a81c463f7011,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,644200,2023-05-03T06:38:44.000Z
+252,6ff551643101b93726c8372e24b953bc,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,2657467,2023-05-03T05:47:27.000Z
+253,f5e85164a68bcd54cb825cb4d4962d0c,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,1380367,2023-05-03T04:54:13.000Z
+254,11d95164bc4713788af72e22f86e84f8,[TZN]Clyret,True,hades_ponds_0.7,Hades Ponds 0.7,1288700,2023-05-03T03:46:25.000Z
+255,bf9c51645b95dbab543780dea6f3290c,[TZN]Clyret,True,Tempest_V3,Tempest_V3,859500,2023-05-02T23:29:03.000Z
+256,5d955164c7c680cb0b6d2bca71574621,[TZN]Clyret,True,FolsomdamR_1.16,FolsomDamR 1.16,1238133,2023-05-02T22:57:33.000Z
+257,898a51647c945c0b1dd8254759b012a8,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,813700,2023-05-02T22:11:21.000Z
+258,89875164faaf3fe92de38831d1a76130,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,582300,2023-05-02T21:58:33.000Z
+259,5f85516491e2c8b532d5eb602b96ed2e,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,378067,2023-05-02T21:49:19.000Z
+260,56815164d94de15d7be99bb55c3bdfd0,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,830533,2023-05-02T21:32:06.000Z
+261,c77d5164798eb6dacb16a0c19c95d92c,[TZN]Clyret,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,777900,2023-05-02T21:16:55.000Z
+262,117c5164ed76a1c5c4297692b271bbaa,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,304833,2023-05-02T21:09:37.000Z
+263,2c7851648771748fcd67b817468f7e11,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,658400,2023-05-02T20:53:00.000Z
+264,4c735164c0decde58e1b5d2b3b3bf4bb,[TZN]Clyret,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1021333,2023-05-02T20:32:12.000Z
+265,346d5164e3858e9a7735a1513fc5d7c4,[TZN]Clyret,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1046600,2023-05-02T20:06:12.000Z
+266,4e565164aacabd2606fe36de8e631560,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1092133,2023-05-02T18:28:30.000Z
+267,f94a5164be88ea2114150156c9aad2dc,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1058067,2023-05-02T17:40:09.000Z
+268,19455164b9318f458dba41e68d166ed9,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1015933,2023-05-02T17:15:05.000Z
+269,abe0506424172f0b62d3f3f934e6725f,[TZN]Clyret,True,forge_v1.4,Forge v1.4,384600,2023-05-02T10:06:35.000Z
+270,2ede5064d7d71e076e5dbd9bb6a31664,[TZN]Clyret,True,forge_v1.4,Forge v1.4,437133,2023-05-02T09:55:58.000Z
+271,a2d8506442562b92ed4c246a4aa96245,[TZN]Clyret,True,colorado_v2_1.1,Colorado_V2 1.1,1065667,2023-05-02T09:32:18.000Z
+272,5bd4506495ed5642f736635ad5381c38,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,846167,2023-05-02T09:14:03.000Z
+273,75d050641281c6a14f2d8b59a373145e,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,736500,2023-05-02T08:57:25.000Z
+274,32cc5064e2bb3c3b664672b29fe5b2fd,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,857733,2023-05-02T08:39:14.000Z
+275,6cc85064399fb6b9b9a6eacc91615c3f,[TZN]Clyret,True,tundra_v2,Tundra_V2,664967,2023-05-02T08:23:08.000Z
+276,dac1506458a050b218de1e14e7b27075,[TZN]Clyret,False,forge_v1.4,Forge v1.4,1297033,2023-05-02T07:55:06.000Z
+277,5fbd5064a1a037f20fc366c3423bf580,[TZN]Clyret,False,FolsomdamR_1.16,FolsomDamR 1.16,626467,2023-05-02T07:35:59.000Z
+278,38b55064827a7659169e87bd08aba487,[TZN]Clyret,False,colorado_v2_1.1,Colorado_V2 1.1,1741567,2023-05-02T07:01:12.000Z
+279,9db0506435b9545c9c11253b888952a2,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,794900,2023-05-02T06:41:33.000Z
+280,5da45064fa7559e7dd7f1eb170b71cba,[TZN]Clyret,False,valles_marineris_2.6,Valles Marineris 2.6,2109700,2023-05-02T05:49:17.000Z
+281,d63d5064db14e0528d73acc5f58c3bdc,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,916333,2023-05-01T22:31:50.000Z
+282,0de94f64e9e29d1ffa925a264da2ecf7,[TZN]Clyret,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,280033,2023-05-01T16:30:05.000Z
+283,ebd94f64a4bcdbc9263486bb6fd97a63,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,673200,2023-05-01T15:25:31.000Z
+284,ca1e4f64369de49264cd26af74450804,[TZN]Clyret,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,2110433,2023-05-01T02:07:06.000Z
+285,04de4e6407af210ff2ff1382fafd4cee,[TZN]Clyret,True,forge_v1.4,Forge v1.4,745167,2023-04-30T21:30:44.000Z
+286,01d74e64028c33c43d7d5850dfc67208,[TZN]Clyret,True,forge_v1.4,Forge v1.4,962233,2023-04-30T21:00:49.000Z
+287,03d34e64560d45df2956d081b3cdcb02,[TZN]Clyret,True,forge_v1.4,Forge v1.4,584500,2023-04-30T20:43:47.000Z
+288,f0c14e64a8f322b049b5ac5547b08012,[TZN]Clyret,True,colorado_v2_1.1,Colorado_V2 1.1,1344300,2023-04-30T19:30:56.000Z
+289,43b74e6460ef4573d6450125eb2bdebf,[TZN]Clyret,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1923067,2023-04-30T18:45:23.000Z
+290,99084e64bb55f83d64a224ec7f48cac9,[TZN]Clyret,True,forge_v1.4,Forge v1.4,1299367,2023-04-30T06:20:09.000Z
+291,26fe4d64818e720a6cf0dd7e045a730a,[TZN]Clyret,True,darkside_v3.0,Darkside v3.0,1356633,2023-04-30T05:35:34.000Z
+292,b8f24d64632fa886bedc14c81706b4b5,[TZN]Clyret,False,all_that_glitters_1.2,All That Glitters v1.2,2210800,2023-04-30T04:46:48.000Z
+293,fce64d645d3e428a5e9952a7dba11c7c,[TZN]Clyret,False,all_that_glitters_1.2,All That Glitters v1.2,2438467,2023-04-30T03:56:44.000Z
+294,ce8c4d64cf5cfdfc53786b7544475e8b,[TZN]Clyret,False,eight_horses_1.2,Eight Horses 1.2,1465767,2023-04-29T21:31:58.000Z
+295,18514d644d879417e4d7dd69847ce774,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,629800,2023-04-29T17:17:12.000Z
+296,08ad4c64af859a62bc2187cccc5df954,[TZN]Clyret,False,supreme_strait_v1.4,Supreme Strait v1.4,2263300,2023-04-29T05:37:12.000Z
+297,6d234b64b0f51d87987c8fd6a40d361d,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,1473133,2023-04-28T01:37:49.000Z
+298,971f4b641e2cc0c06747dcd9665b6185,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,560967,2023-04-28T01:21:27.000Z
+299,15ea4a64db7ea43544772e25a4789001,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,705633,2023-04-27T21:33:09.000Z
+300,95e54a6442aa81e848153e9901b61f78,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,859600,2023-04-27T21:13:57.000Z
+301,5fe14a64eefcccba515b9fa951d6f748,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,952300,2023-04-27T20:55:59.000Z
+302,5ddd4a6480deefefac43190d7ad22806,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,706767,2023-04-27T20:38:53.000Z
+303,b7da4a64d3336855a925d660b24af975,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,536133,2023-04-27T20:27:35.000Z
+304,ead74a64115f3246dc3e30c7396cb961,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,517567,2023-04-27T20:15:38.000Z
+305,cad04a649ca7dc81b7e62d115fa82c70,[TZN]Clyret,False,koom_valley_3_3.1,Koom Valley 3 3.1,1402333,2023-04-27T19:45:14.000Z
+306,3fc94a6411d75038fedd71a3a4705d10,[TZN]Clyret,False,Rosetta1.4,Rosetta 1.4,1320733,2023-04-27T19:13:03.000Z
+307,f2c34a6417063b366fc978edb9b93745,[TZN]Clyret,False,dsdr_4.1,DSDR 4.1,833400,2023-04-27T18:50:26.000Z
+308,ceb84a64779c4e8d0341ee7ebd9e8f9e,[TZN]Clyret,False,flats_and_forests_v2.1,Flats and Forests v2.1,2365500,2023-04-27T18:02:54.000Z
+309,96f04964f0cbb4061a516b8260f2366d,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,2441533,2023-04-27T03:48:38.000Z
+310,658549645504edea7d744b3c002600aa,[TZN]Clyret,True,red_comet_remake_1.8,Red Comet Remake 1.8,343467,2023-04-26T20:11:17.000Z
+311,3a80496485fc8245910037a2f5e1d88e,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,946167,2023-04-26T19:49:14.000Z
+312,d17b49645973621e2d3afca73f0421df,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1016100,2023-04-26T19:30:25.000Z
+313,b577496411e701e201e0787bcd2a1b59,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,900067,2023-04-26T19:12:53.000Z
+314,8e7349648d6399d95b2c17689dd1672a,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,900400,2023-04-26T18:55:10.000Z
+315,bead486449a04ec70e1025de3077a906,[TZN]Clyret,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1729767,2023-04-26T04:51:10.000Z
+316,4f9e4864c129deef6f349b00f5f73b91,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,1682500,2023-04-26T03:45:19.000Z
+317,b4864864fa6952fa0e2cd66906b6acb9,[TZN]Clyret,True,all_that_glitters_1.2,All That Glitters v1.2,1498533,2023-04-26T02:04:36.000Z
+318,b47b4864d540e1c580f8dca5dcb08d57,[TZN]Clyret,True,flats_and_forests_v2.1,Flats and Forests v2.1,1328967,2023-04-26T01:17:40.000Z
+319,6a73486443f279eb204ec3dfa6d50936,[TZN]Clyret,True,flats_and_forests_v2.1,Flats and Forests v2.1,1535500,2023-04-26T00:42:18.000Z
+320,eb6a48646a7c3ec99a7874fef202f031,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,1335100,2023-04-26T00:06:03.000Z
+321,e9614864def7d4a23acbb07a45672885,[TZN]Clyret,True,starwatcher_0.9,Starwatcher 0.9,1919267,2023-04-25T23:27:37.000Z
+322,965a4864461d38ce90ef04b67a59f0a1,[TZN]Clyret,True,supreme_strait_v1.4,Supreme Strait v1.4,1521267,2023-04-25T22:56:22.000Z
+323,1e1b4864d0d0de5acf35c8efbd95d91e,[TZN]Clyret,True,archsimkats_valley_v1,Archsimkats_Valley_V1,714400,2023-04-25T18:25:34.000Z
+324,880f4864c760d7619b0025863ded7936,[TZN]Clyret,False,archsimkats_valley_v1,Archsimkats_Valley_V1,1279967,2023-04-25T17:36:08.000Z
+325,86914764fc813d050070b312eb8627c9,[TZN]Clyret,False,altair_crossing_V4,Altair_Crossing_V4,273000,2023-04-25T08:38:30.000Z
+326,7f8d4764531c5828766987409f465a10,[TZN]Clyret,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,806867,2023-04-25T08:21:19.000Z
+327,3e8a4764ed8964f35c42e1640ea6c77d,[TZN]Clyret,True,red_comet_remake_1.8,Red Comet Remake 1.8,726167,2023-04-25T08:07:26.000Z
+328,c17047648ea1caf245a19526fd2e7139,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,1166833,2023-04-25T06:18:41.000Z
+329,406d4764eed6ed542ef01c4072bc0670,[TZN]Clyret,True,Cirolata 1.02,Cirolata 1.02,466133,2023-04-25T06:03:44.000Z
+330,37684764cd4fed8f9f27ee3886bc78b9,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,2110500,2023-04-25T05:42:15.000Z
+331,a4f446648b59c556aeb115531f34d93b,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,917767,2023-04-24T21:29:08.000Z
+332,24ee4664db620f3d978ecfc0663a5de3,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,940533,2023-04-24T21:01:24.000Z
+333,8ee7466429bca370c55189b7eaed0ce6,[TZN]Clyret,False,forge_v1.4,Forge v1.4,919100,2023-04-24T20:33:18.000Z
+334,05e14664ae6b81c27a13fecb8b6e439c,[TZN]Clyret,False,forge_v1.4,Forge v1.4,943900,2023-04-24T20:05:25.000Z
+335,c9d94664a3bb728c0a0f66a9bcf428e2,[TZN]Clyret,True,forge_v1.4,Forge v1.4,1100667,2023-04-24T19:34:33.000Z
+336,58d446641eed7b4550b8addd23608f54,[TZN]Clyret,True,forge_v1.4,Forge v1.4,703300,2023-04-24T19:11:20.000Z
+337,93b3466425c91ab12277950a66754d04,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,2221433,2023-04-24T16:51:31.000Z
+338,f2334664696961b5c3f6d995931eaae5,[TZN]Clyret,True,valles_marineris_2.6,Valles Marineris 2.6,594467,2023-04-24T07:46:58.000Z
+339,873046641e1feff7f4cd94881dd46748,[TZN]Clyret,True,Cirolata 1.02,Cirolata 1.02,542100,2023-04-24T07:32:23.000Z
+340,4c2a4664da1cace4c2d11c353a86b48c,[TZN]Clyret,True,tabula_remake_1.5,Tabula_Remake 1.5,1158667,2023-04-24T07:05:48.000Z
+341,c625466402c0ee41594f4b9058f34cd1,[TZN]Clyret,True,tundra_v2,Tundra_V2,868367,2023-04-24T06:46:30.000Z
+342,81224664c652f73e837ce23b7a29ac81,[TZN]Clyret,True,forge_v1.4,Forge v1.4,498033,2023-04-24T06:32:33.000Z
+343,501f466431d46be7111f263f61363407,[TZN]Clyret,True,FolsomdamR_1.16,FolsomDamR 1.16,405467,2023-04-24T06:18:56.000Z
+344,b71a466485ad6458e99c72114ced801b,[TZN]Clyret,True,colorado_v2_1.1,Colorado_V2 1.1,807033,2023-04-24T05:59:19.000Z
+345,fd1346645e802bb1146a0e61981f691d,[TZN]Clyret,True,theta_crystals_1.0,Theta Crystals 1.0,1340933,2023-04-24T05:30:37.000Z
+346,203d43641e181f169a742dad426866e0,[TZN]Clyret,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2656400,2023-04-22T01:49:20.000Z
+347,2e34436422b7a3181c24e79f6703bcbd,[TZN]Clyret,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1390633,2023-04-22T01:11:10.000Z
+348,b2f54264dcff81f46fcdabca73bf4957,[TZN]Clyret,True,tundra_v2,Tundra_V2,856767,2023-04-21T20:44:34.000Z
+349,40ed4264110dc7ea91531093c7949b25,[TZN]Clyret,True,tundra_v2,Tundra_V2,1251400,2023-04-21T20:08:32.000Z
+350,8ae742640426e8c2cf65df3cfd8baa1b,[TZN]Clyret,True,tundra_v2,Tundra_V2,1173333,2023-04-21T19:44:10.000Z
+351,92e442647c2c16ba86d7328dec41c705,[TZN]Clyret,True,tabula_remake_1.5,Tabula_Remake 1.5,563567,2023-04-21T19:31:30.000Z
+352,673242640ae3062d1403fe79491a1ebd,[TZN]Clyret,True,Cirolata 1.02,Cirolata 1.02,516367,2023-04-21T06:51:19.000Z
+353,b42e426419db014d315b75acd12d6abe,[TZN]Clyret,True,Cirolata 1.02,Cirolata 1.02,817800,2023-04-21T06:35:32.000Z
+354,181f4264fcc6db81709af923431c42a7,[TZN]Clyret,True,all_that_glitters_1.2,All That Glitters v1.2,2167900,2023-04-21T05:28:56.000Z
+355,ee1642641ea2dfab5862e4ab625e36d6,[TZN]Clyret,False,supreme_strait_v1.4,Supreme Strait v1.4,1544533,2023-04-21T04:54:06.000Z
+356,af0f42640d5bf78aa2fdc950ee5f1746,[TZN]Clyret,True,eight_horses_1.2,Eight Horses 1.2,1422600,2023-04-21T04:23:11.000Z
+357,000842644ac9bf4fb9196ded9c01f1f1,[TZN]Clyret,True,dsdr_4.1,DSDR 4.1,1525433,2023-04-21T03:50:24.000Z
+358,5cfe41649cd6dc1db2886a81a96bd7db,[TZN]Clyret,False,supreme_strait_v1.4,Supreme Strait v1.4,2033967,2023-04-21T03:09:16.000Z
+359,f1b74164e3dfad90b86b81c4808bafc5,[TZN]Clyret,False,flats_and_forests_v2.1,Flats and Forests v2.1,1910667,2023-04-20T22:08:49.000Z
+360,cbb1416411b7c5df8f591f8b039688ca,[TZN]Clyret,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,768633,2023-04-20T21:42:35.000Z
+361,c0aa416444e6bec6f99be940119dba77,[TZN]Clyret,True,tabula_remake_1.5,Tabula_Remake 1.5,661667,2023-04-20T21:12:32.000Z
+362,a3a04164d6326d5fd8778e30e135a199,[TZN]Clyret,False,tabula_remake_1.5,Tabula_Remake 1.5,1244333,2023-04-20T20:29:23.000Z

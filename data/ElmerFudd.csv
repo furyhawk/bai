@@ -1,0 +1,838 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,3c869f6427c345957ca49e94e88df809,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,2702833,2023-07-01T01:49:48.000Z
+1,da7a9f64362726e4d1936e6e341945a2,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1881833,2023-07-01T01:01:14.000Z
+2,b0759f64a0607ddbdc8a90a82cb5c7ae,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,924467,2023-07-01T00:39:12.000Z
+3,21689f64e7e82926f7525a29b5b01f67,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,2162000,2023-06-30T23:41:21.000Z
+4,7e359f647181efe89277d3356e4e1bc2,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1249700,2023-06-30T20:05:18.000Z
+5,fe2e9f6460b570398e68af32d44ab85c,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,909533,2023-06-30T19:37:34.000Z
+6,6e1e9f648166918f079cbc5c40942288,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1543433,2023-06-30T18:26:54.000Z
+7,56169f647a6079884191a9448de52a44,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1628533,2023-06-30T17:52:22.000Z
+8,5d119f64e91b952e9826676d73989edf,ElmerFudd,False,carrot_mountains_v1.0,Carrot Mountains v1.0,968300,2023-06-30T17:31:09.000Z
+9,c30a9f64ddd9cb6668ba21370c884d7b,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1379700,2023-06-30T17:02:59.000Z
+10,8a039f649a8681305cdb2e393fcb60f5,ElmerFudd,True,forge_v1.4,Forge v1.4,981567,2023-06-30T16:32:10.000Z
+11,4e85986443d3152ac1d9d455ef3bdeff,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1598000,2023-06-25T18:19:58.000Z
+12,727d986448ec4829b0897b4098bf160b,ElmerFudd,True,archsimkats_valley_v1,Archsimkats_Valley_V1,1388633,2023-06-25T17:46:26.000Z
+13,4f729864646574bf1bd89b37c01476d5,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1807433,2023-06-25T16:58:55.000Z
+14,406d986443e8fd2f5f4140a873e5b7a2,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,790867,2023-06-25T16:37:20.000Z
+15,8d5f98648ca7794db6fa9d13c885a56b,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2267000,2023-06-25T15:38:53.000Z
+16,6a5a9864bae8ef1d8b2bee95e0ae5eea,ElmerFudd,True,tropical_assault_v3.0,Tropical Assault v3.0,795667,2023-06-25T15:16:58.000Z
+17,c7489864df6953e7872bf4682b74d6d4,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1437400,2023-06-25T14:01:43.000Z
+18,934398645475e61493c88af6574b7975,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,821900,2023-06-25T13:39:31.000Z
+19,703b9864a723b6c60101a54538e46fdb,ElmerFudd,False,dsdr_4.1,DSDR 4.1,708867,2023-06-25T13:04:48.000Z
+20,2d339864d8a1bde20f1ba26d52ebd2ca,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1600933,2023-06-25T12:29:33.000Z
+21,ee2598646e8ada60f61f89d9f884eb73,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3033833,2023-06-25T11:33:02.000Z
+22,2c4d97646556bd4a697b85345a436df8,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1471533,2023-06-24T20:08:12.000Z
+23,03c59664928af1e8e422d3f467444d9c,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2542967,2023-06-24T10:27:15.000Z
+24,b6b9966404244722c893c7d728342cdb,ElmerFudd,False,eight_horses_1.2,Eight Horses 1.2,2446200,2023-06-24T09:39:02.000Z
+25,1ab196641a248ae887cf535492e43347,ElmerFudd,False,forge_v1.4,Forge v1.4,1710233,2023-06-24T09:02:18.000Z
+26,e8aa9664c6d46ebd647bae1a97f818e4,ElmerFudd,True,darkside_v3.0,Darkside v3.0,1081767,2023-06-24T08:35:52.000Z
+27,e6da95647fbc4fe3ac180f3b6c3725e3,ElmerFudd,True,tundra_v2,Tundra_V2,812400,2023-06-23T17:48:22.000Z
+28,7bc795643d82c6fc23e06d364692f919,ElmerFudd,True,supreme_strait_v1.4,Supreme Strait v1.4,1714533,2023-06-23T16:25:31.000Z
+29,9ab39564af8a5333dec072bc6830d38f,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1140000,2023-06-23T15:00:42.000Z
+30,e3ab956416179004ea55ca40354fdcd3,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1621867,2023-06-23T14:27:47.000Z
+31,c67695642ef7f194c1b9d1acaee4b515,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1318733,2023-06-23T10:41:10.000Z
+32,137095644a68afed392124c85ef0be65,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1151800,2023-06-23T10:12:35.000Z
+33,8a619564abae90f616dea219a14b37a7,ElmerFudd,False,ascendancy_v2.0,Ascendancy v2.0,1403933,2023-06-23T09:10:34.000Z
+34,b359956429061315a5aa06e180702c6b,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1449733,2023-06-23T08:37:07.000Z
+35,812a94646b1b4e2ef6cd3a08c48f378e,ElmerFudd,False,all_that_glitters_v2.1,All That Glitters v2.1,1645967,2023-06-22T11:03:29.000Z
+36,052494646ca67fa95b0e5e1d1a22d9d7,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1190633,2023-06-22T10:35:49.000Z
+37,db1f94645e8b846a6b8c5654003d2ede,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,734433,2023-06-22T10:18:03.000Z
+38,1c199464429e27d71314803a4dd50c44,ElmerFudd,True,pawn_retreat_1.2,Pawn Retreat 1.2,1312933,2023-06-22T09:49:16.000Z
+39,9d0b9464d4e8d09a7457d28405db0b2e,ElmerFudd,True,all_that_glitters_v2.1,All That Glitters v2.1,2542700,2023-06-22T08:51:41.000Z
+40,0b029464a5ca595d14869d4b08b2f511,ElmerFudd,False,all_that_glitters_v2.1,All That Glitters v2.1,1764133,2023-06-22T08:10:51.000Z
+41,0f54936483a7c6c96081bfc3e88b47a5,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2617533,2023-06-21T19:48:31.000Z
+42,36269364ea5a5cb8819ee45599043eaf,ElmerFudd,False,ascendancy_v2.0,Ascendancy v2.0,1142867,2023-06-21T16:32:54.000Z
+43,6bf29264b77dc7d2a95fff6896e70c1e,ElmerFudd,True,starwatcher_1.0,Starwatcher 1.0,2842733,2023-06-21T12:51:55.000Z
+44,16c49264f64b6eefedf21efe09250d95,ElmerFudd,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1568000,2023-06-21T09:34:14.000Z
+45,3dfc916475643c7250a2c46456444719,ElmerFudd,True,starwatcher_1.0,Starwatcher 1.0,2018967,2023-06-20T19:21:33.000Z
+46,7bf39164abddc1e7692f453678ac953b,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1847133,2023-06-20T18:44:11.000Z
+47,edec9164a9223dd0d3329ef603bf8d4b,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1164833,2023-06-20T18:16:13.000Z
+48,558b91642056aa7e3e045f4c817115d5,ElmerFudd,False,starwatcher_1.0,Starwatcher 1.0,2002233,2023-06-20T11:19:49.000Z
+49,977191644119b21b7188760978f11992,ElmerFudd,True,forge_v1.4,Forge v1.4,1824933,2023-06-20T09:29:59.000Z
+50,696a91642eab886181faeb9ec1fcd478,ElmerFudd,False,ice_scream_v2.5,Ice Scream v2.5,1476500,2023-06-20T08:59:21.000Z
+51,43649164426e1fd7d74b8a53143512ca,ElmerFudd,False,ascendancy_v2.0,Ascendancy v2.0,1167500,2023-06-20T08:33:07.000Z
+52,ec589164d5028d5749c6958c72c44484,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2510700,2023-06-20T07:44:44.000Z
+53,eda590644c7a09cc89e219f86a076f5a,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,858633,2023-06-19T19:01:01.000Z
+54,aba19064ab24992f7c641e0a7c9415d2,ElmerFudd,False,sulphur_springs_v1.1,Sulphur Springs v1.1,680067,2023-06-19T18:42:51.000Z
+55,999a90648b8967fa6cbe5291a42fb605,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1345767,2023-06-19T18:12:41.000Z
+56,2d9790641c06d0edf4801fa9808b447a,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,583900,2023-06-19T17:58:05.000Z
+57,7a6390644b428065f3d01a5fa868445c,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1457600,2023-06-19T14:17:30.000Z
+58,0f5e9064b517243730a5ba8b07eacfe3,ElmerFudd,False,archsimkats_valley_v1,Archsimkats_Valley_V1,723300,2023-06-19T13:54:23.000Z
+59,b70590644f2b15f31fcfaea3c3b5258f,ElmerFudd,True,forge_v1.4,Forge v1.4,2269867,2023-06-19T07:37:27.000Z
+60,f32f8f64f412a41a030e2b064c5af7d8,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2519267,2023-06-18T16:25:23.000Z
+61,57fc8d64f07ba72ff86fa5f3ec6226aa,ElmerFudd,False,sulphur_springs_v1.1,Sulphur Springs v1.1,1778833,2023-06-17T18:32:55.000Z
+62,95f28d6477f124c50f928419f40ea772,ElmerFudd,True,sulphur_springs_v1.1,Sulphur Springs v1.1,2124367,2023-06-17T17:51:17.000Z
+63,e2b08d64d54b2801184525999f01d2ad,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1541033,2023-06-17T13:10:58.000Z
+64,3ba88d64feba638805648fee33d53f19,ElmerFudd,False,carrot_mountains_v1.0,Carrot Mountains v1.0,1633767,2023-06-17T12:34:03.000Z
+65,c69e8d64c209a73fd62b57421dff514c,ElmerFudd,False,forge_v1.4,Forge v1.4,1908400,2023-06-17T11:53:42.000Z
+66,3f998d6466254b75bd7ae109fa35b982,ElmerFudd,False,ascendancy_v1.1,Ascendancy v1.1,1080600,2023-06-17T11:30:07.000Z
+67,c28f8d647799c71e9a6c3e3a87705afa,ElmerFudd,True,all_that_glitters_v2.1,All That Glitters v2.1,2039933,2023-06-17T10:49:38.000Z
+68,07888d64c284e349534e538121880256,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1593467,2023-06-17T10:16:39.000Z
+69,c27f8d640ba1e20a738aeb6ad4772d4a,ElmerFudd,True,starwatcher_1.0,Starwatcher 1.0,1731867,2023-06-17T09:41:22.000Z
+70,0cab8c6419aebbf569bf7b1fe69bd802,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2218833,2023-06-16T18:33:48.000Z
+71,0aa38c646635189fbd149feb11472cde,ElmerFudd,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1547000,2023-06-16T17:59:38.000Z
+72,1b508b6427f085751bfadec9af2b39e0,ElmerFudd,False,dworld_v4,DWorld_V4,4727000,2023-06-15T17:53:31.000Z
+73,63178b64debcbc265e91c51ad4121c3b,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1016367,2023-06-15T13:51:31.000Z
+74,2d118b64861cb0f417551935fadcfb65,ElmerFudd,False,talus_v2,Talus_v2,1042200,2023-06-15T13:25:01.000Z
+75,010a8b64b156138eccc86465d193dddd,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1165933,2023-06-15T12:54:25.000Z
+76,1dff8a64f742b47178a9925920ab3793,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1806167,2023-06-15T12:07:57.000Z
+77,01fb8a6487bece334fc73ea87b8de95c,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,499933,2023-06-15T11:50:25.000Z
+78,cdf08a645878c4d59626955674341be5,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1911667,2023-06-15T11:06:53.000Z
+79,eee68a6476b00a02ec28dfabfe80107a,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2059933,2023-06-15T10:24:46.000Z
+80,1adf8a6471120dad635f254d3646d674,ElmerFudd,True,forge_v1.4,Forge v1.4,1238733,2023-06-15T09:51:22.000Z
+81,53d68a64353b5b93870bf04b49581f4d,ElmerFudd,False,archsimkats_valley_v1,Archsimkats_Valley_V1,1346233,2023-06-15T09:13:55.000Z
+82,54c98a64d1c808e00828398e14960113,ElmerFudd,False,dworld_v4,DWorld_V4,2450533,2023-06-15T08:18:28.000Z
+83,00388a64770ec289b2e261b1e9d1cfb6,ElmerFudd,True,starwatcher_1.0,Starwatcher 1.0,2096833,2023-06-14T21:58:24.000Z
+84,79318a642aad379310ff5446df2e7f2e,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1095567,2023-06-14T21:30:33.000Z
+85,7d2a8a6409da2676147402090cd590fa,ElmerFudd,True,hades_ponds_0.7,Hades Ponds 0.7,1371500,2023-06-14T21:00:45.000Z
+86,bc238a646b8c94a73900855aed69d2b9,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1191367,2023-06-14T20:31:56.000Z
+87,8c1d8a6464ab67cdd96416e0637a8dcb,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1123667,2023-06-14T20:05:32.000Z
+88,4f158a64888ff00dd8d7d02890b7d75d,ElmerFudd,False,eight_horses_1.2,Eight Horses 1.2,1552633,2023-06-14T19:30:23.000Z
+89,b1048a64cc59fc9861af74687406d33f,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1629533,2023-06-14T18:19:29.000Z
+90,1ffb89642b4e932fd0400cebc30add2d,ElmerFudd,True,ascendancy_v1.1,Ascendancy v1.1,1662833,2023-06-14T17:38:39.000Z
+91,caf18964c37dff389b35f9790d416189,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1725733,2023-06-14T16:58:50.000Z
+92,06ea896409dc1e95b41954762da89d2e,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1188900,2023-06-14T16:25:42.000Z
+93,3ea189648369426151fd4a47c2590302,ElmerFudd,False,ascendancy_v1.1,Ascendancy v1.1,1491067,2023-06-14T11:15:10.000Z
+94,c49c8964842958ecd6d56f3c4adc4b35,ElmerFudd,True,dsdr_4.1,DSDR 4.1,650767,2023-06-14T10:56:04.000Z
+95,0b93896497ff70f58cf7945d4b7c044f,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1192867,2023-06-14T10:14:35.000Z
+96,837c836499ac845efd3a01e84a2644c8,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1617833,2023-06-09T19:24:51.000Z
+97,1e1e82642708709916a8fd2d97aa4365,ElmerFudd,False,ascendancy_v1.0,Ascendancy v1.0,2086967,2023-06-08T18:29:50.000Z
+98,c2188264b0a23cd18eb34bf8e73730e7,ElmerFudd,False,ascendancy_v1.0,Ascendancy v1.0,1041833,2023-06-08T18:06:58.000Z
+99,1f0581647a8f9042a760b4d0b5596a9f,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2809967,2023-06-07T22:30:55.000Z
+100,23fd80646e0c1002234bf54bc5f1788b,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1578400,2023-06-07T21:56:51.000Z
+101,08f78064447205b00d533d8029a35df1,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1092633,2023-06-07T21:30:48.000Z
+102,a2d98064545a0d7ae90e9b9972e86fc6,ElmerFudd,False,all_that_glitters_v2.1,All That Glitters v2.1,3097933,2023-06-07T19:25:22.000Z
+103,8ad080642b26071e217655c37949392a,ElmerFudd,True,all_that_glitters_v2.1,All That Glitters v2.1,1713400,2023-06-07T18:46:34.000Z
+104,27c48064119d1f6b275accaab2e803c7,ElmerFudd,True,all_that_glitters_v2.1,All That Glitters v2.1,2527567,2023-06-07T17:53:43.000Z
+105,b8927f6459fd3b5d871efe68249b0c0b,ElmerFudd,True,krakatoa_v2.0,Krakatoa_V2.0,5852667,2023-06-06T20:10:32.000Z
+106,09847f6456cf65ef1624c35fccacf628,ElmerFudd,False,throne_v8,Throne_V8,3306433,2023-06-06T19:07:53.000Z
+107,c8757f64a6e27c5055fc176b71086327,ElmerFudd,False,Crescent_Bay_V2,Crescent_Bay_V2,3165000,2023-06-06T18:07:04.000Z
+108,176a7f64131f4f4c0dc741168d77b741,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1762167,2023-06-06T17:17:11.000Z
+109,afe1786487ed8149ff6b5dc183788470,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2467667,2023-06-01T18:21:35.000Z
+110,a1db78648eb3bd2f992295cd5034eccc,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1164733,2023-06-01T17:55:45.000Z
+111,4bd67864957b5c9413d85176d5cd7fd4,ElmerFudd,True,all_that_glitters_v2.1,All That Glitters v2.1,989200,2023-06-01T17:32:59.000Z
+112,50ac77641401e4f4e0c10a6997192467,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1483600,2023-05-31T20:21:36.000Z
+113,bda5776416bf154c387dd21f63d723ce,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1201400,2023-05-31T19:53:33.000Z
+114,b09077646e5d6ef6cecf37de6603c1c4,ElmerFudd,False,all_that_glitters_v2.1,All That Glitters v2.1,2374300,2023-05-31T18:23:44.000Z
+115,1e8a776442ae2f5c06ee02e445fa1523,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1159167,2023-05-31T17:55:42.000Z
+116,ac837764a91b8e02db810022b3726865,ElmerFudd,False,forge_v1.4,Forge v1.4,1265667,2023-05-31T17:28:12.000Z
+117,b37d77649e2c5169f439e3ea9dfc1a96,ElmerFudd,True,darkside_v3.0,Darkside v3.0,1144933,2023-05-31T17:02:43.000Z
+118,a24b7764f4478fc69f0e16d0aa64c3ca,ElmerFudd,False,forge_v1.4,Forge v1.4,1806867,2023-05-31T13:29:06.000Z
+119,423e776412d74e014c100548ad321d71,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3044000,2023-05-31T12:32:02.000Z
+120,1436776418e1b64ef7f28e4657e72596,ElmerFudd,False,Tau12,Tau12,1605867,2023-05-31T11:57:08.000Z
+121,902b7764a08f593563512f7340b9147a,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2221867,2023-05-31T11:12:16.000Z
+122,fb5a76648b5fd662f15b5146c0a9564d,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1851667,2023-05-30T20:22:19.000Z
+123,17537664920af80995e1e8ee61056cb3,ElmerFudd,False,forge_v1.4,Forge v1.4,1180733,2023-05-30T19:48:39.000Z
+124,f30c756487315d474f3680abdaf27c7b,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,3008367,2023-05-29T20:37:07.000Z
+125,80047564794de8611fe22d79f13f2231,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1692667,2023-05-29T20:01:04.000Z
+126,4ff8746428b3613fdedb7760e3b055e3,ElmerFudd,True,krakatoa_v2.0,Krakatoa_V2.0,2674100,2023-05-29T19:09:03.000Z
+127,d0ed7464c900a061f6e93202eaf321e7,ElmerFudd,False,darkside_v3.0,Darkside v3.0,1707767,2023-05-29T18:24:16.000Z
+128,94e47464eb2aa0de169440f27ca9450d,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1917767,2023-05-29T17:44:52.000Z
+129,d995746414ad5b78df10c0a3f387d977,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1864867,2023-05-29T12:08:57.000Z
+130,1a8a746474d6432b58811886e9280ab7,ElmerFudd,False,supreme_strait_v1.4,Supreme Strait v1.4,1693700,2023-05-29T11:18:50.000Z
+131,d5837464a3e69cdc2e4d7f6b47e13b7a,ElmerFudd,True,Riverrun_V1,Riverrun_V1,972767,2023-05-29T10:52:05.000Z
+132,ec7c74642eee03b3c50cf43d044bec5e,ElmerFudd,False,forge_v1.4,Forge v1.4,1224833,2023-05-29T10:22:36.000Z
+133,47747464f4c171b06531f18aa23946ac,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1417533,2023-05-29T09:45:43.000Z
+134,d76e74646ac191bb19bb16fd063e443d,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,982233,2023-05-29T09:22:31.000Z
+135,306874642377f27b54df17a0e030685f,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1368733,2023-05-29T08:54:08.000Z
+136,425e746462efd95efd753c84fe184b91,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1988100,2023-05-29T08:11:46.000Z
+137,646d6e64dfa6e9302642b62eb1041005,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1723767,2023-05-24T20:02:44.000Z
+138,60666e6473fafacf4acdadb9a27e7789,ElmerFudd,True,pawn_retreat_1.2,Pawn Retreat 1.2,1057267,2023-05-24T19:32:48.000Z
+139,975f6e641dc6ec368addba04602ab4d5,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1265233,2023-05-24T19:03:51.000Z
+140,1e586e64bd9a9969393a67ea436ccd07,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1506533,2023-05-24T18:31:58.000Z
+141,39f96c64a98108f733c05eb0f6bbc140,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1868567,2023-05-23T17:34:49.000Z
+142,a4f16c64ad47dca4c85db64f332e532e,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1436300,2023-05-23T17:02:28.000Z
+143,00ea6c648c688b2b24ff1d5ad17faa22,ElmerFudd,False,eight_horses_1.2,Eight Horses 1.2,1535167,2023-05-23T16:29:52.000Z
+144,8db86c6449f76194f843dabcfe53e040,ElmerFudd,False,eight_horses_1.2,Eight Horses 1.2,1958467,2023-05-23T12:58:53.000Z
+145,2aaf6c64adf342986e6355e876547cc2,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1879233,2023-05-23T12:18:50.000Z
+146,6fa96c645cdcb0be9386be3114985fe0,ElmerFudd,False,forge_v1.4,Forge v1.4,969500,2023-05-23T11:54:23.000Z
+147,189f6c64e13efda4ae0eccb712133d3e,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1841967,2023-05-23T11:10:16.000Z
+148,6d956c644ec31b7864a4066c7f261310,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2031800,2023-05-23T10:29:01.000Z
+149,238a6c64792f8aa9c612c8efa8ca4318,ElmerFudd,False,forge_v1.4,Forge v1.4,2024833,2023-05-23T09:40:51.000Z
+150,5edb6b64df242139cf4c464840696f1f,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1169733,2023-05-22T21:15:10.000Z
+151,25d36b64ada8ac47ac19444dff10e143,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1533533,2023-05-22T20:40:05.000Z
+152,6acb6b64f33034152c7c0d2aeb708fab,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1559733,2023-05-22T20:07:06.000Z
+153,51be6b646b9dc9a09ef0e3e970f8b275,ElmerFudd,False,starwatcher_0.9,Starwatcher 0.9,1633233,2023-05-22T19:11:13.000Z
+154,6db46b64dd636f9e78e6a021b5d5ee8b,ElmerFudd,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1845367,2023-05-22T18:29:01.000Z
+155,5aa76b643a361c81324f2ca9b0159ad4,ElmerFudd,True,ice_scream_v2.5,Ice Scream v2.5,2800733,2023-05-22T17:33:14.000Z
+156,385f6a64c35226bdd3b07636cd20ad50,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,4163500,2023-05-21T18:13:12.000Z
+157,ed596a64c1e439887f23e16cc8c9d245,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1085300,2023-05-21T17:50:37.000Z
+158,b04b6a646e5ed26fbb58c688564cbcb9,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3290200,2023-05-21T16:49:52.000Z
+159,53c863643bf6f6abbc1bea0e2cb70f1f,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3263667,2023-05-16T18:15:47.000Z
+160,07c2636437f1e230a73508b213b1fa24,ElmerFudd,True,pawn_retreat_1.2,Pawn Retreat 1.2,1171933,2023-05-16T17:48:55.000Z
+161,9fb96364bb9362d9b2a467ae4d46597c,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1740033,2023-05-16T17:13:03.000Z
+162,25ad636476f8362fc151ac92079239d2,ElmerFudd,False,carrot_mountains_v1.0,Carrot Mountains v1.0,2649167,2023-05-16T16:19:49.000Z
+163,73416364f41bf5124f6cfc8129058f24,ElmerFudd,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2155100,2023-05-16T08:40:19.000Z
+164,d6856264c41c92dfaf38f00b8aa50f27,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1199400,2023-05-15T19:19:50.000Z
+165,603b6164e7deff0c8d15138e62a7e4ec,ElmerFudd,True,supreme_strait_v1.4,Supreme Strait v1.4,1644000,2023-05-14T19:49:52.000Z
+166,a02d6164d98ed8b0b7273df61b16580b,ElmerFudd,False,ice_scream_v2.5,Ice Scream v2.5,2530467,2023-05-14T18:51:12.000Z
+167,27c35f64a39e9556d2a45a3ce9c22152,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1711800,2023-05-13T17:04:39.000Z
+168,a6bc5f641b22d226ecee93cbe1abe0e2,ElmerFudd,False,eight_horses_1.2,Eight Horses 1.2,1280433,2023-05-13T16:36:54.000Z
+169,14b65f644d3de335062808e2a3692755,ElmerFudd,True,Riverrun_V1,Riverrun_V1,964133,2023-05-13T16:08:52.000Z
+170,eba95f643cb96313eea4e4a5875fd10a,ElmerFudd,False,all_that_glitters_v2.0,All That Glitters v2.0,2358000,2023-05-13T15:16:59.000Z
+171,6e975f64240bf99141f49aae475fff68,ElmerFudd,True,starwatcher_0.9,Starwatcher 0.9,2330567,2023-05-13T13:58:06.000Z
+172,d4895f64219b0f31c305c1883fd3cca5,ElmerFudd,False,forge_v1.4,Forge v1.4,2986667,2023-05-13T13:00:04.000Z
+173,99815f647b807acc2967247fbb0ac19a,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1449533,2023-05-13T12:24:57.000Z
+174,e37c5f6472ef0b192ec970708c0c348c,ElmerFudd,False,hades_ponds_0.7,Hades Ponds 0.7,842500,2023-05-13T12:04:51.000Z
+175,75775f6487ac9c90900ff55fe95348cf,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,920767,2023-05-13T11:41:41.000Z
+176,80725f64130162de0be17c6b9b419a11,ElmerFudd,False,supreme_strait_v1.4,Supreme Strait v1.4,921933,2023-05-13T11:20:32.000Z
+177,a56d5f64f39324b74305a65f46521aa8,ElmerFudd,False,carrot_mountains_v1.0,Carrot Mountains v1.0,793533,2023-05-13T10:59:49.000Z
+178,f3685f6439badbe54a99e126b987bea7,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,864167,2023-05-13T10:39:47.000Z
+179,5d605f64ffa17904394268da824f9bb5,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1849567,2023-05-13T10:03:09.000Z
+180,c545596439780a61646b2a7e7bbd1cc8,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,694700,2023-05-08T18:56:05.000Z
+181,213d596489a2a6f4d8b0a4352be3bb00,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1682233,2023-05-08T18:19:13.000Z
+182,5b38596466db75fc29d7442407b4f57e,ElmerFudd,False,forge_v1.4,Forge v1.4,857733,2023-05-08T17:58:51.000Z
+183,80005864220c8ce85f1a028473b9cae2,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1556033,2023-05-07T19:48:16.000Z
+184,acf657642f43ab0660e1a55059431e67,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1880867,2023-05-07T19:06:20.000Z
+185,059a566425c7d67fa8b62912e3ee0ef9,ElmerFudd,False,tundra_v2,Tundra_V2,1333533,2023-05-06T18:18:45.000Z
+186,57915664c216f5e5453c91fed7e9ef9c,ElmerFudd,True,forge_v1.4,Forge v1.4,919467,2023-05-06T17:41:43.000Z
+187,e18356641c2b00009cc0ab9938c2412a,ElmerFudd,True,FolsomdamR_1.16,FolsomDamR 1.16,690233,2023-05-06T16:44:17.000Z
+188,257a5664210bfe51ad3c70d262eed282,ElmerFudd,True,colorado_v2_1.1,Colorado_V2 1.1,459433,2023-05-06T16:02:45.000Z
+189,b07056647d2f2fd631c277a71ec241ac,ElmerFudd,False,theta_crystals_1.0,Theta Crystals 1.0,948500,2023-05-06T15:22:24.000Z
+190,f86456649917af4baf2e58e253337d51,ElmerFudd,True,valles_marineris_2.6,Valles Marineris 2.6,2000000,2023-05-06T14:32:24.000Z
+191,124b5664170525c97262de3d39939172,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1652767,2023-05-06T12:41:54.000Z
+192,663d56641084f03b7e3a169fd4d7982c,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3128600,2023-05-06T11:43:34.000Z
+193,972f56642f985b723d33ff0bed228064,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2955733,2023-05-06T10:44:39.000Z
+194,d9235664133c62ad3d3df4013108ccfa,ElmerFudd,True,all_that_glitters_v2.0,All That Glitters v2.0,2524767,2023-05-06T09:54:33.000Z
+195,165355641714ba5b58ab02d02e0e6163,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,983700,2023-05-05T19:03:50.000Z
+196,1f4f556469c3dbd1d8edee12862ee758,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,528300,2023-05-05T18:46:55.000Z
+197,47435564aa0925fc710c1736e8d84e76,ElmerFudd,True,tundra_v2,Tundra_V2,922467,2023-05-05T17:56:23.000Z
+198,293f55649d1ff23ac643b2fe7f455094,ElmerFudd,False,tundra_v2,Tundra_V2,497500,2023-05-05T17:38:49.000Z
+199,baa34e64cfc0e9f3b18b01428be5fb57,ElmerFudd,True,ice_scream_v2.5,Ice Scream v2.5,3892633,2023-04-30T17:22:02.000Z
+200,889b4e6434badb49d27c280f21c56e80,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1735200,2023-04-30T16:47:04.000Z
+201,51954e646aad74fc10e643ce91f7e0bf,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1001100,2023-04-30T16:20:33.000Z
+202,528c4e640814b651b87781dc82fbc7d8,ElmerFudd,True,forge_v1.4,Forge v1.4,1928533,2023-04-30T15:42:10.000Z
+203,cd474e64d401f3f852d2df72cf672724,ElmerFudd,True,ice_scream_v2.5,Ice Scream v2.5,2359367,2023-04-30T10:49:49.000Z
+204,e0364e64bbf4430a19e3542a30b23bc1,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,3667433,2023-04-30T09:37:36.000Z
+205,d5644d64b0c53c9e5b0118cc9bac1dec,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2502267,2023-04-29T18:41:25.000Z
+206,595a4d6429c826a374b6e0f8489239de,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2216767,2023-04-29T17:56:41.000Z
+207,3fc94a6411d75038fedd71a3a4705d10,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1320733,2023-04-27T19:13:03.000Z
+208,ac274464520525a25c6e9085ba43044f,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1730600,2023-04-22T18:30:04.000Z
+209,5a204464a69eecfe65f1b7d7e461186f,ElmerFudd,True,carrot_mountains_v1.0,Carrot Mountains v1.0,1338533,2023-04-22T17:58:50.000Z
+210,82d6436441e1928ba904717463b7281e,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,906467,2023-04-22T12:43:46.000Z
+211,5dcd4364168863845210ed9a94bed385,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1623267,2023-04-22T12:04:45.000Z
+212,d1c54364ca52960da2f157e7d6a53a64,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1480667,2023-04-22T11:32:33.000Z
+213,b2c24364b4afd63e96ef1b51f6d96839,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,380500,2023-04-22T11:19:14.000Z
+214,10ba436469c2927570f47fd8a2db2bce,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1449767,2023-04-22T10:42:24.000Z
+215,9cd44264feab6ce6c7d2b3befdc0b05b,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1376667,2023-04-21T18:23:24.000Z
+216,6eca42640763f42fefa2f5874c773a5b,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1942300,2023-04-21T17:39:58.000Z
+217,c7c24264811150ce1615cff0ce934e4f,ElmerFudd,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1238967,2023-04-21T17:07:19.000Z
+218,6ab9426491524015b7f4c38c16042e3c,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2075866,2023-04-21T16:27:22.000Z
+219,b3b442644a10811ffee4a732b8c97e3c,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,968733,2023-04-21T16:07:15.000Z
+220,b5ab426498ce74d4e80d5e46605eccbd,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1706700,2023-04-21T15:28:53.000Z
+221,aa944264c49696114e57e9eb8f45c453,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1914833,2023-04-21T13:50:34.000Z
+222,418e426425eaaee6a9336ea8c6fcb086,ElmerFudd,True,forge_v1.4,Forge v1.4,1254433,2023-04-21T13:23:13.000Z
+223,5b834264bfbc68193672358c128e3c18,ElmerFudd,True,starwatcher_0.9,Starwatcher 0.9,2236400,2023-04-21T12:36:43.000Z
+224,597542646034f61767292d054b50c354,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2623500,2023-04-21T11:36:57.000Z
+225,b06c426422ce1626c014e4851d935489,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1711767,2023-04-21T11:00:00.000Z
+226,c98e41647bfa7f6199546e14814c36e2,ElmerFudd,False,eight_horses_1.2,Eight Horses 1.2,3889067,2023-04-20T19:13:13.000Z
+227,3e37406484f1fb7578bee44a3db79285,ElmerFudd,False,sulphur_springs_v1.1,Sulphur Springs v1.1,636667,2023-04-19T18:47:26.000Z
+228,a32f40648f3de60600dfc2c555ed83a0,ElmerFudd,True,starwatcher_0.9,Starwatcher 0.9,1424067,2023-04-19T18:14:59.000Z
+229,dd2940646c40eb4f46cca80f2c64e81e,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,918533,2023-04-19T17:50:21.000Z
+230,25234064268bd1f1fddc3b3f50327f6b,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1031967,2023-04-19T17:21:41.000Z
+231,409d39649ca282df6cdd221ba290ce9c,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1597967,2023-04-14T18:36:48.000Z
+232,968b396440848bfb58a29e35f4134319,ElmerFudd,False,forge_v1.4,Forge v1.4,1139733,2023-04-14T17:21:26.000Z
+233,c481396499817a51d34d3430b2945ed2,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2017367,2023-04-14T16:39:32.000Z
+234,877b39640a5e4834fa680a22c642374a,ElmerFudd,False,Otago Redux 1.33,Otago Redux 1.33,1125533,2023-04-14T16:12:55.000Z
+235,ef713964b5fe126e4425dac28e9c4131,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1767867,2023-04-14T15:31:59.000Z
+236,d26c39641d38a34d3109052522905437,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,839500,2023-04-14T15:10:10.000Z
+237,896339646a6df581c82331b4ea24e3dc,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1790867,2023-04-14T14:30:33.000Z
+238,9a62396488de5562ff0dfee6a2c509ef,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,19067,2023-04-14T14:26:34.000Z
+239,584e39647f89af25dc35807145b6f253,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2380033,2023-04-14T13:00:08.000Z
+240,c04739648f3314debfe65ac38354f263,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1245433,2023-04-14T12:32:00.000Z
+241,04413964f68c1a2b51453450252b2fb1,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1314633,2023-04-14T12:03:16.000Z
+242,e93939644cecf66490b41a3f91fb63bb,ElmerFudd,True,starwatcher_0.9,Starwatcher 0.9,1241967,2023-04-14T11:32:57.000Z
+243,1b3439644d944c9e0af76242168ecd9b,ElmerFudd,True,supreme_strait_v1.4,Supreme Strait v1.4,1120367,2023-04-14T11:08:11.000Z
+244,652a3964244fe8fa1ed206bd3a68896a,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2010033,2023-04-14T10:26:45.000Z
+245,5e253964a3b9fe2036874ad13c867682,ElmerFudd,True,carrot_mountains_v1.0,Carrot Mountains v1.0,776867,2023-04-14T10:05:18.000Z
+246,e2703864465cc21a8b0e1e3ee58196c4,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1695767,2023-04-13T21:15:14.000Z
+247,b7673864ab9d3a56b0bf80d60b20e0bf,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1839700,2023-04-13T20:36:07.000Z
+248,d4603864cb7de7110c9f431a01699e09,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1390900,2023-04-13T20:06:44.000Z
+249,875238640eca7a018318eaee3d91444f,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1218300,2023-04-13T19:05:43.000Z
+250,893e3864a325ed682316447061c32258,ElmerFudd,False,Riverrun_V1,Riverrun_V1,2900167,2023-04-13T17:40:25.000Z
+251,91a23764dc5abdb46dfdf9f23b12b890,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1131000,2023-04-13T06:34:57.000Z
+252,d70c3764d1ff841dc587eec3321de202,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1227933,2023-04-12T19:56:07.000Z
+253,57ba31644610010a9bc0a9502c0229d1,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,3213467,2023-04-08T19:02:47.000Z
+254,58082f647087124ba546549109725bef,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1951700,2023-04-06T17:58:48.000Z
+255,aefe2e64367203ea740e9b7b3e6683bf,ElmerFudd,True,supreme_strait_v1.3,Supreme Strait v1.3,1140433,2023-04-06T17:17:34.000Z
+256,20f62e64a67e805c65a1bbd6c05d3e97,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1047633,2023-04-06T16:41:04.000Z
+257,43f02e64d1a419d43af4ee16ca26f81c,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,930033,2023-04-06T16:16:03.000Z
+258,85c32d647377fe4379c5eac4923394dd,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2672667,2023-04-05T18:52:53.000Z
+259,5cbc2d643fe4edb7a67b1b509f05951f,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1311800,2023-04-05T18:22:20.000Z
+260,59ac2d64bf45060bbf0e87275c9536a1,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,3236800,2023-04-05T17:14:01.000Z
+261,7f1b2d647e5def3674ef03b64b062142,ElmerFudd,True,supreme_strait_v1.3,Supreme Strait v1.3,3983033,2023-04-05T06:55:59.000Z
+262,9c842c64df921ef9349bc85c7dafefbd,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1546500,2023-04-04T20:12:12.000Z
+263,ed7e2c647c6970fb41841ab7a37aac89,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,920400,2023-04-04T19:47:57.000Z
+264,1c792c647779a1cad1a6f3544dd466f5,ElmerFudd,True,supreme_strait_v1.3,Supreme Strait v1.3,924800,2023-04-04T19:23:08.000Z
+265,ac6b2c642030668e5fcefa8967a91c2c,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1420000,2023-04-04T18:25:48.000Z
+266,991e2b64c5a9ebb5c700c5be1f2878e5,ElmerFudd,True,starwatcher_0.9,Starwatcher 0.9,2298900,2023-04-03T18:44:41.000Z
+267,07862464593e497d2212fa8f51da7743,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1634633,2023-03-29T18:40:07.000Z
+268,0b802464bf274236a71f757eaaa3c80d,ElmerFudd,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1052233,2023-03-29T18:14:35.000Z
+269,7c7624640fc5c080d737963bc8d980e1,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,1653500,2023-03-29T17:33:48.000Z
+270,fb6b2464b3374ffbfc093b7bf571b96f,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2058767,2023-03-29T16:48:59.000Z
+271,42482464a26a0e896d562abab230aa5d,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2048567,2023-03-29T14:16:34.000Z
+272,483f2464ef05ba5ba1e605c8eee6a207,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1327800,2023-03-29T13:38:16.000Z
+273,c4322464f23b75d10ecb1c4bd6bbf44a,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,2676367,2023-03-29T12:44:52.000Z
+274,2e482364a5a452bf380d0f944a1df195,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,746733,2023-03-28T20:03:58.000Z
+275,f94223649fdb197bb4912319be6352b9,ElmerFudd,True,Ditched_V1,Ditched_V1,945267,2023-03-28T19:41:45.000Z
+276,fb3a23641ccbf9b0e5898321fcfecb70,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1209567,2023-03-28T19:07:39.000Z
+277,60352364ae2c9714582fc6e6ccf1ff99,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1007233,2023-03-28T18:43:44.000Z
+278,31302364fff9c887fae6bda300564f97,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,780900,2023-03-28T18:21:37.000Z
+279,de2823640fcc693a0596b3ce2e8d4c36,ElmerFudd,False,supreme_strait_v1.3,Supreme Strait v1.3,1436533,2023-03-28T17:50:22.000Z
+280,1bf922648fb3cd6733e4fe71eed03f99,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1618700,2023-03-28T14:26:35.000Z
+281,19f52264b0e1a6dea8a5b308027f41a4,ElmerFudd,True,eight_horses_1.2,Eight Horses 1.2,752600,2023-03-28T14:09:29.000Z
+282,deeb2264db55e48c6187b02faf730549,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1842933,2023-03-28T13:30:06.000Z
+283,1ae122645a264c9f97b6e97e3b67a1d6,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2030067,2023-03-28T12:44:10.000Z
+284,08d322640106b288c06040fa4ee154d8,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,3190300,2023-03-28T11:44:08.000Z
+285,79c62264e7a3e3a9c89c9d54861f3ad1,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2558767,2023-03-28T10:50:33.000Z
+286,15c12264e65d39c7d05b6c69aacefec1,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,881533,2023-03-28T10:27:33.000Z
+287,b3f22164dd619e0c1fad37b08d531484,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2227567,2023-03-27T19:46:59.000Z
+288,3fe721640cb8ea91403176cd3c858959,ElmerFudd,False,starwatcher_0.9,Starwatcher 0.9,2402100,2023-03-27T18:58:07.000Z
+289,fbdb2164f604b3278f35974092cd0f8b,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2213867,2023-03-27T18:10:03.000Z
+290,1ca82064c46179960cd8724d856f6bdb,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2575500,2023-03-26T20:16:28.000Z
+291,519f2064600416e91a378cee0af28d75,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1748100,2023-03-26T19:38:57.000Z
+292,6596206447698d58ee1315f473f94be2,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1380700,2023-03-26T19:00:53.000Z
+293,4f0f1a642fe1d58a5c6119a03a651db9,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1645967,2023-03-21T20:10:55.000Z
+294,d2c218647ff29add91fd555145a2307a,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,2423400,2023-03-20T20:32:18.000Z
+295,b7720f6475ef87704759453e18c1d4c4,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1349700,2023-03-13T19:00:07.000Z
+296,76390e645e2482b16f6525600b7449c2,ElmerFudd,False,starwatcher_0.7,Starwatcher 0.7,2808333,2023-03-12T20:43:34.000Z
+297,a4320e6407e6fa9466e26d3e22fc66ed,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1321633,2023-03-12T20:14:28.000Z
+298,6f2a0e642282c58d6381078112af54a5,ElmerFudd,True,ice_scream_v2.4,Ice Scream v2.4,1004667,2023-03-12T19:39:27.000Z
+299,e5230e640c7ab3a8a5c849376b264e8e,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1164167,2023-03-12T19:11:33.000Z
+300,cded0c642e632244051851508ec644f0,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1590967,2023-03-11T21:08:29.000Z
+301,aae50c64c6b759f71dc67ac0c6809c9f,ElmerFudd,True,starwatcher_0.7,Starwatcher 0.7,1725700,2023-03-11T20:33:46.000Z
+302,4edd0c64c01acd5d7e2c5956c83cb939,ElmerFudd,True,forge_v1.4,Forge v1.4,1781700,2023-03-11T19:58:06.000Z
+303,bad60c6460e487b9c3ac43a7828af3ad,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,985500,2023-03-11T19:30:02.000Z
+304,1ed00c64d6c74d8f9e4eb8d7fc9e4d28,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1310300,2023-03-11T19:01:50.000Z
+305,63a10b6485f46a7a0ce434aca207634c,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1507867,2023-03-10T21:30:11.000Z
+306,c2970b644e06da94ee52128f9a662119,ElmerFudd,False,starwatcher_0.7,Starwatcher 0.7,1340033,2023-03-10T20:49:06.000Z
+307,64900b64f9167d792d93bb42291b21ff,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1510833,2023-03-10T20:17:40.000Z
+308,aa8b0b64a48fe84c21d589b7da6bc6f2,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,847767,2023-03-10T19:57:30.000Z
+309,e3800b641b260847781023681ca4da60,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2254767,2023-03-10T19:11:31.000Z
+310,91e404646734f9ddbefa32e347060e31,ElmerFudd,False,starwatcher_0.7,Starwatcher 0.7,1705833,2023-03-05T18:50:57.000Z
+311,09da0464fa1caa1be981f09f6ef9a1c1,ElmerFudd,True,ice_scream_v2.4,Ice Scream v2.4,2126400,2023-03-05T18:06:01.000Z
+312,b9cc04645857c4f22068635ee795f73e,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2580467,2023-03-05T17:09:13.000Z
+313,41c704647739de36a2735ebe1ced295e,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,875467,2023-03-05T16:45:53.000Z
+314,d8bf0464e3f15723b53ccb58002026ba,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1416867,2023-03-05T16:14:16.000Z
+315,e5bd03641dfd1aa03b1432a416af9a30,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,988367,2023-03-04T21:53:41.000Z
+316,69b60364b4cdc430e8e8d8cba2ae1cfe,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1196500,2023-03-04T21:21:45.000Z
+317,bdb103643d690508205467d9f1bdf046,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,769600,2023-03-04T21:01:49.000Z
+318,cfac0364772bc0249639f95b248ef5bb,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,767533,2023-03-04T20:40:47.000Z
+319,45a403643821661ca544640098391b99,ElmerFudd,True,forge_v1.4,Forge v1.4,1488567,2023-03-04T20:04:21.000Z
+320,729b03646191cf6740cfd90773b16e38,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1701833,2023-03-04T19:26:42.000Z
+321,ed99fc6313da66548423ee82cc6b9a33,ElmerFudd,True,ancient_vault_v1.0,Ancient Vault v1.0,1464167,2023-02-27T11:54:21.000Z
+322,a959fa63bf2a116980608323888385b5,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2450634,2023-02-25T18:55:37.000Z
+323,b751fa632bb1c0bdf8f089ebe1da140a,ElmerFudd,True,ice_scream_v2.4,Ice Scream v2.4,1615867,2023-02-25T18:21:43.000Z
+324,ab49fa63b17dace5b5a61d1d97f660b4,ElmerFudd,True,stronghold_v4,Stronghold V4,1457933,2023-02-25T17:47:23.000Z
+325,1942fa6384dda1e70205d3a8500f836a,ElmerFudd,True,silveridge_v1,Silveridge v1,802100,2023-02-25T17:15:05.000Z
+326,f431fa63c9b9d8d3e1659c5a6c043b44,ElmerFudd,True,ice_scream_v2.4,Ice Scream v2.4,3246233,2023-02-25T16:06:12.000Z
+327,5d13fa635d2bd4a8255a8b76cfde4ec5,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3207467,2023-02-25T13:55:41.000Z
+328,210afa63bbd478ab3d1e5dbb5a2eb649,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1659867,2023-02-25T13:16:17.000Z
+329,8301fa6301cc6f517a53e5d8da66c2a3,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1849733,2023-02-25T12:39:31.000Z
+330,b71cf9630bfb329639e58f9b99ac6a0f,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1673267,2023-02-24T20:23:19.000Z
+331,a618f963dc27e2641aa3fdddf5ae4ea2,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,639667,2023-02-24T20:05:58.000Z
+332,4d10f963e6f1dfa3f67157478fde0cfc,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1836967,2023-02-24T19:30:21.000Z
+333,11cff763bcc5055517b8c8a0cf32ab80,ElmerFudd,False,Entrenched_Plains_V2,Entrenched_Plains_V2,3037833,2023-02-23T20:39:45.000Z
+334,cdc4f763e66a85ed11e15f62581ff3ba,ElmerFudd,False,eight_horses_1.0,Eight Horses 1.0,1689433,2023-02-23T19:55:57.000Z
+335,4f8bf663b494e95c6c3a56bbf772854e,ElmerFudd,False,forge_v1.4,Forge v1.4,1433400,2023-02-22T21:38:23.000Z
+336,2482f663a9a1064703367374a531a867,ElmerFudd,True,eight_horses_1.0,Eight Horses 1.0,1933467,2023-02-22T20:59:16.000Z
+337,79e3ef63c144b4638c23e9f4c977fbe9,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2365767,2023-02-17T20:28:41.000Z
+338,caccef63b1b0d3318c8bdfe56d5c0dc3,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1784567,2023-02-17T18:51:54.000Z
+339,79c4ef63011017e58800eaf981460ba1,ElmerFudd,False,red_river_remake_v1.1,Red River Remake v1.1,1423667,2023-02-17T18:16:25.000Z
+340,38bdef636754591ea90b477ee149e028,ElmerFudd,True,lightside_darkside_v2.0,Lightside Darkside v2.0,874667,2023-02-17T17:45:28.000Z
+341,3ab3ef63a1b791c9e2e9b15cbef6f11e,ElmerFudd,True,forge_v1.4,Forge v1.4,1269467,2023-02-17T17:02:50.000Z
+342,6499ee6308eb569b0445a3d2e416aca0,ElmerFudd,True,theta_crystals_0.8,Theta Crystals 0.8,3681667,2023-02-16T21:00:20.000Z
+343,4492ee6351f09de84aa956167e5f8b75,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1513167,2023-02-16T20:29:56.000Z
+344,0714ec63c5ee5749c6d15397a8df3009,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1962800,2023-02-14T23:06:47.000Z
+345,2307ec6394d80314477d9b73d790fd02,ElmerFudd,False,tabula_remake_1.5,Tabula_Remake 1.5,2429200,2023-02-14T22:11:47.000Z
+346,b402ec63e2b51ec151819fc33629aaa1,ElmerFudd,False,archsimkats_valley_v1,Archsimkats_Valley_V1,534533,2023-02-14T21:52:52.000Z
+347,18f1eb63ef9cb606ac4df5577fb58b71,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3385967,2023-02-14T20:37:44.000Z
+348,77b1ea63ec3b98ba4d41519f177a03b1,ElmerFudd,False,stronghold_v4,Stronghold V4,3010467,2023-02-13T21:53:59.000Z
+349,1ea9ea635ac5e062307b77b67249f6cd,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1511767,2023-02-13T21:18:22.000Z
+350,65e2e763b05d2e0e0ca92b0365c980a6,ElmerFudd,True,Crescent_Bay_V2,Crescent_Bay_V2,3828567,2023-02-11T18:45:57.000Z
+351,f88ae66363958b4d38a54a6de06e4c5e,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2578733,2023-02-10T18:20:40.000Z
+352,dc7ee663b28fe342c565625fc442fe81,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2123467,2023-02-10T17:29:00.000Z
+353,f572e66374d583f3f97c4c6568295d2f,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2436500,2023-02-10T16:38:13.000Z
+354,1b6de6638fd8675c260ca353e1fa04f0,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,979333,2023-02-10T16:13:15.000Z
+355,1c68e6637a68eb84d594e9dfc9c697c8,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,818033,2023-02-10T15:51:56.000Z
+356,795ce66385bf99188b189b37672fcf63,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2355367,2023-02-10T15:02:17.000Z
+357,fe4be6634c9fb42082af9e91c03057b8,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,2139400,2023-02-10T13:51:58.000Z
+358,c241e663919153979d6857b94fd67250,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1964567,2023-02-10T13:08:18.000Z
+359,fa2ce66347757f60144e382e72b90fe8,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1592400,2023-02-10T11:39:38.000Z
+360,0e25e663ebc5b1344e79277c89fc369d,ElmerFudd,False,taldarim_v3,Taldarim_V3,1418233,2023-02-10T11:05:50.000Z
+361,0c0fe6638105e821dec63a1b748467e6,ElmerFudd,True,centerrock_remake_dry_1.2,Centerrock Remake Dry 1.2,848500,2023-02-10T09:31:56.000Z
+362,a012e46310d7eca66f2663ef4b2017a8,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2955933,2023-02-08T21:22:40.000Z
+363,5a09e4630770ae5ea4ef02a4981706c5,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1349700,2023-02-08T20:43:06.000Z
+364,42b1e263cbcdb5cb4dec0d3bfd0ffaab,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1993667,2023-02-07T20:14:58.000Z
+365,84ace263575b4970db3e98d7623366b4,ElmerFudd,True,dsdr_4.1,DSDR 4.1,652967,2023-02-07T19:54:44.000Z
+366,9c1ee263ff2bcf85ae21310a5e17f1bd,ElmerFudd,False,forge_v1.4,Forge v1.4,1621667,2023-02-07T09:49:16.000Z
+367,0dc8da63e5105398d75a3c9b2c761b85,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2099833,2023-02-01T20:14:05.000Z
+368,edbdda63f7d9f0e4548ad99e20b02cc0,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1347067,2023-02-01T19:30:53.000Z
+369,ccb6da6393c9987586be901989ebe2e8,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1229633,2023-02-01T19:00:28.000Z
+370,48a7da63907e6f5b2a98965d7e3ffbdd,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2820333,2023-02-01T17:54:16.000Z
+371,3698da636097879d17e91bddbe3fc21d,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2808700,2023-02-01T16:49:58.000Z
+372,e88fd9632322d8b24a2e44a5921db85c,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2289100,2023-01-31T22:02:16.000Z
+373,8288d9636c4344ae5a2d5a4694714af5,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1331833,2023-01-31T21:30:42.000Z
+374,e981d9634a17885311201157da0665ad,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1146200,2023-01-31T21:02:33.000Z
+375,0379d963545032f5921977999d311dcf,ElmerFudd,True,forge_v1.4,Forge v1.4,1292800,2023-01-31T20:24:35.000Z
+376,6529d963beb91710134704d3d0a981b1,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2478900,2023-01-31T14:44:53.000Z
+377,4e1dd96312d28ae39c7ce84421f14e59,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2404800,2023-01-31T13:53:18.000Z
+378,9b37d86330bc5abec06f587650904544,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1860400,2023-01-30T21:33:15.000Z
+379,9231d863bcc1e0c3c32deb5d65a0468b,ElmerFudd,True,TheRock_V3,TheRock_V3,808533,2023-01-30T21:07:30.000Z
+380,7416d8639801500a501b1cc8bd09e037,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2257067,2023-01-30T19:11:48.000Z
+381,6309d863be666a6706d02ef228ecf630,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,2831733,2023-01-30T18:16:03.000Z
+382,6204d8630a63ae5c80106f9a8f7b9bb9,ElmerFudd,False,supreme_strait_v1.3,Supreme Strait v1.3,967233,2023-01-30T17:54:42.000Z
+383,ece6d66329e2df0e1b67102f717d708c,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2671500,2023-01-29T21:36:44.000Z
+384,bfbfd663d7835b6dd13ab23ca3d600c1,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,2066900,2023-01-29T18:49:35.000Z
+385,26b2d663c4c651e26276fda334a465e6,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2985733,2023-01-29T17:51:34.000Z
+386,5b13d063d879d0ad1ab5eebe50f4efc4,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,3010133,2023-01-24T17:20:27.000Z
+387,e803d063f5ea01dc0d7a380595767256,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3359767,2023-01-24T16:14:32.000Z
+388,7bfdcf6393ed47a5be44cd0680825455,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1290267,2023-01-24T15:47:07.000Z
+389,67f2cf6345c12857f32db3486a601540,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2125633,2023-01-24T14:59:51.000Z
+390,87f6ce63ceb10ef9654a2383e7f0bf4a,ElmerFudd,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1466733,2023-01-23T21:05:11.000Z
+391,b3eece6356cf2fdbfe3a6495924a3e30,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1192833,2023-01-23T20:31:47.000Z
+392,56e3ce63156dd416ade68f133de40b91,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2008267,2023-01-23T19:43:18.000Z
+393,86d6ce6356ed896d5523a4fb85679b7d,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2537867,2023-01-23T18:48:38.000Z
+394,5ea1cd63c6cc314fb7e0e23d70e2bad7,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2744733,2023-01-22T20:49:34.000Z
+395,ab9acd63461d0a3dd847ef0669df23c3,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,1157867,2023-01-22T20:20:59.000Z
+396,197ccd6315ce604b565021e9b0d44a6c,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1506500,2023-01-22T18:10:33.000Z
+397,f76dcd63ad85284e9a12cdc6e5538677,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2596134,2023-01-22T17:10:15.000Z
+398,b863cd639a94250d257add8c2b8226e5,ElmerFudd,True,Riverrun_V1,Riverrun_V1,2141333,2023-01-22T16:26:32.000Z
+399,3f5dcd639137de0c70ffdd0d4addc2ab,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1172667,2023-01-22T15:58:55.000Z
+400,1850cd637ed346d82130991780433028,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2810067,2023-01-22T15:02:48.000Z
+401,4748cd63e8b75f14181d93a319766fef,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1425600,2023-01-22T14:29:27.000Z
+402,e132cd638574bfc0457e9d225506e146,ElmerFudd,False,FolsomdamR_1.16,FolsomDamR 1.16,2131867,2023-01-22T12:58:09.000Z
+403,e32dcd63772374ca9e00d42a4b990281,ElmerFudd,True,dsdr_4.1,DSDR 4.1,868567,2023-01-22T12:36:51.000Z
+404,e220cd6354b28df760b540ef06930da8,ElmerFudd,False,supreme_strait_v1.1,Supreme Strait v1.1,2388567,2023-01-22T11:41:22.000Z
+405,d14acc639554850dec18f9c50cdd10bb,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1672700,2023-01-21T20:28:01.000Z
+406,3c3ecc638f52317c426d05ef0c1f798e,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2589900,2023-01-21T19:34:20.000Z
+407,0a30cc632b33882dc4c62a2144dc15fe,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3128933,2023-01-21T18:33:46.000Z
+408,b02acc63314e6dd2edc5dd12100e26f3,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,971233,2023-01-21T18:10:56.000Z
+409,6021cc639fb306b693ea9c78b923ca64,ElmerFudd,False,supreme_strait_v1.1,Supreme Strait v1.1,1787567,2023-01-21T17:31:12.000Z
+410,8209cc63b678f966ba1415c3f0abfd34,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2305833,2023-01-21T15:49:22.000Z
+411,b3fdcb63d77023c532582e4db10ff946,ElmerFudd,False,Rosetta 1.3,Rosetta 1.3,2016100,2023-01-21T14:58:59.000Z
+412,659fc563877e34e2916a02209abb4539,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,2208200,2023-01-16T19:03:01.000Z
+413,cc91c563178d6207661e11d028cd75ab,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,2931133,2023-01-16T18:05:00.000Z
+414,ce87c563a9ce49aab43b53a329f8085a,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2019334,2023-01-16T17:22:22.000Z
+415,e479c563eab58270037e302a3ba2e39e,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2949533,2023-01-16T16:23:00.000Z
+416,8c72c563f8c317d11bd4a28e172f4031,ElmerFudd,False,supreme_strait_v1.1,Supreme Strait v1.1,1575833,2023-01-16T15:51:40.000Z
+417,686ac563ec26861176c18cd28e7645d0,ElmerFudd,True,forge_v1.4,Forge v1.4,1225933,2023-01-16T15:16:56.000Z
+418,835ac563753fbd375f64b200be4bd98f,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,3072967,2023-01-16T14:09:07.000Z
+419,9d51c563401c4c9dcce6734c2679e4c5,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1833900,2023-01-16T13:31:09.000Z
+420,1b6fc463e32f07c4ac8636415783fd8c,ElmerFudd,True,supreme_strait_v1.1,Supreme Strait v1.1,2608933,2023-01-15T21:24:43.000Z
+421,c467c463c97cbef0a6ceefefcdc91f85,ElmerFudd,True,dsdr_4.1,DSDR 4.1,903667,2023-01-15T20:53:24.000Z
+422,1760c4632e783adbf2d282618cd39b57,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1142667,2023-01-15T20:20:39.000Z
+423,ca55c463e8764770d307d81d49526660,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,2134634,2023-01-15T19:36:42.000Z
+424,7d4ec463054d40ea4b6ed9987fb03523,ElmerFudd,True,silveridge_v1,Silveridge v1,1180467,2023-01-15T19:05:33.000Z
+425,8043c463ebeecf752345dcbc9964ee6f,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2280300,2023-01-15T18:18:40.000Z
+426,bf26c4631bd8ad41cca4f8d2531766a2,ElmerFudd,True,FolsomdamR_1.16,FolsomDamR 1.16,1310667,2023-01-15T16:15:59.000Z
+427,f519c463480dff7728d7d28e01cf1e62,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2874767,2023-01-15T15:21:25.000Z
+428,fa12c4630556bc86b55df8c4d57c8ef6,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1171133,2023-01-15T14:51:38.000Z
+429,6405c463476c01e8195eafa1da0a7ad8,ElmerFudd,True,supreme_strait_v1.1,Supreme Strait v1.1,2638700,2023-01-15T13:53:40.000Z
+430,2e09c363320247562e1f8af2d41248de,ElmerFudd,False,forge_v1.4,Forge v1.4,2396700,2023-01-14T19:57:34.000Z
+431,9c01c363ffec4c193f55390e6465d416,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1577767,2023-01-14T19:25:16.000Z
+432,a6edc2634409ad8217a7c6f302b2b39b,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1302567,2023-01-14T18:00:06.000Z
+433,c7ebc263605ba62c8ceef535eff46a6f,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,51033,2023-01-14T17:52:07.000Z
+434,36e2c263c4d2a2bca97a0d27583c2fe7,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1823600,2023-01-14T17:11:18.000Z
+435,3adcc2637f229485de43122b2bdf9398,ElmerFudd,False,dsdr_4.1,DSDR 4.1,741467,2023-01-14T16:45:46.000Z
+436,1bd1c2638b0cc9b999efb2fa4ce7466c,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2327700,2023-01-14T15:58:19.000Z
+437,5bc4c263fed6158bd0045f2c13dd7b12,ElmerFudd,True,supreme_strait_v1.1,Supreme Strait v1.1,1382733,2023-01-14T15:03:55.000Z
+438,5bcbc163a747e0fa34fbca15eb71d5b5,ElmerFudd,False,forge_v1.4,Forge v1.4,1039800,2023-01-13T21:21:31.000Z
+439,61c6c163c15c1546c8f152a306d9bd5d,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,799333,2023-01-13T21:00:17.000Z
+440,31bbc163b044e93d7cec6b73377f4c52,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2285900,2023-01-13T20:12:33.000Z
+441,7726bb63faca745c7e334f061b339559,ElmerFudd,False,forge_v1.4,Forge v1.4,1021767,2023-01-08T20:24:23.000Z
+442,401bbb63f5cbb5c7f56815be272ae5dc,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2279867,2023-01-08T19:36:32.000Z
+443,f513bb6317289e346be668ac014a701f,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1023200,2023-01-08T19:05:25.000Z
+444,a807bb637d3cba23ad096a0d970d5d32,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2361866,2023-01-08T18:12:56.000Z
+445,36fdba6306504b2e24c274ad2eb6ff30,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2096667,2023-01-08T17:28:22.000Z
+446,aaf2ba63cd722d2c46516391404de1a3,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1885800,2023-01-08T16:43:22.000Z
+447,fbe6ba6386e32daa1308453e470e22ae,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1945000,2023-01-08T15:53:31.000Z
+448,81cfba6371fc4445d4d70d5df4521bdd,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2622400,2023-01-08T14:13:21.000Z
+449,33c9ba631b549bb62125c70ad1d0a4b6,ElmerFudd,False,dsdr_4.1,DSDR 4.1,963033,2023-01-08T13:46:27.000Z
+450,e9c0ba63400d450ef9d3199f0899eb38,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1648833,2023-01-08T13:11:05.000Z
+451,59b9ba6383907eedc101efebbe7053c4,ElmerFudd,True,forge_v1.4,Forge v1.4,1322100,2023-01-08T12:38:49.000Z
+452,1ae6b9635f36baca5bfe8c5b951719da,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3098367,2023-01-07T21:37:30.000Z
+453,e5dbb96376ec89120fe5d7a22667a138,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,2022967,2023-01-07T20:53:57.000Z
+454,44d6b9637ed54d3dd27f36e67ba51bf6,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,963800,2023-01-07T20:29:56.000Z
+455,8ad3b9639998b1548654029429f72a51,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,409000,2023-01-07T20:18:18.000Z
+456,82cab963c1caa8a4f598b496e6303999,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1763933,2023-01-07T19:39:46.000Z
+457,65bcb963c985893c906112833d714086,ElmerFudd,False,forge_v1.4,Forge v1.4,1318500,2023-01-07T18:39:33.000Z
+458,28b2b9635f4f6a3059f9a61f5facd536,ElmerFudd,True,Tempest_V3,Tempest_V3,2118867,2023-01-07T17:55:52.000Z
+459,0d99b96384edc26fec557e3e2b23f13b,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1254267,2023-01-07T16:08:45.000Z
+460,c694b86388c1332c950d8d97a80b9512,ElmerFudd,False,lightside_darkside_v2.0,Lightside Darkside v2.0,1622233,2023-01-06T21:38:14.000Z
+461,7383b8635263a882d60d87b319a97c61,ElmerFudd,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1792533,2023-01-06T20:24:19.000Z
+462,c77db8636ee17c36aa805775dde1e3be,ElmerFudd,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,958000,2023-01-06T20:00:07.000Z
+463,5d71b8634adf23ba5f3e71ee3df00593,ElmerFudd,False,dworld_v3,DWorld_V3,2708967,2023-01-06T19:07:09.000Z
+464,6950b8637f1df4134386764123be1b8f,ElmerFudd,True,dsdr_4.1,DSDR 4.1,956767,2023-01-06T16:46:33.000Z
+465,6544b863d107b67fe56aa7a96be9d51a,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2195767,2023-01-06T15:55:17.000Z
+466,303cb863d5eb870c250cc498bf6c3ba6,ElmerFudd,False,mescaline_v2,Mescaline_V2,1545533,2023-01-06T15:20:16.000Z
+467,d634b86326b98ad034a6b396f60938e7,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1385233,2023-01-06T14:48:54.000Z
+468,95dbb1634a09be13eab7c0393283835d,ElmerFudd,False,forge_v1.4,Forge v1.4,1477700,2023-01-01T19:14:29.000Z
+469,d8d2b163074ddf79c57d66dbaf5b2d81,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1749300,2023-01-01T18:37:12.000Z
+470,0fccb163cd7ef8ff5c6fd0d7bc0716ff,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,1214367,2023-01-01T18:08:15.000Z
+471,43c1b163d32f44641b967c2644e3e831,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2154867,2023-01-01T17:22:11.000Z
+472,8eb2b1631f000386856412f9b9b0545e,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2860867,2023-01-01T16:19:26.000Z
+473,f2aab163787b3edefc08883cecc02cb3,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1147667,2023-01-01T15:46:58.000Z
+474,029ab163a7a87c1f4d48c9ec4795feac,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3668167,2023-01-01T14:34:42.000Z
+475,2893b16378ba732f3c2768697ce5832b,ElmerFudd,False,Otago Redux 1.33,Otago Redux 1.33,1175533,2023-01-01T14:05:28.000Z
+476,b0a5b063e732b81d7e459189d9c14910,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1244133,2022-12-31T21:12:16.000Z
+477,9a98b063f8df551ebb733e92a2381fbd,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2865733,2022-12-31T20:16:26.000Z
+478,8c8eb063d13589854dc5e5a7ed72bbe9,ElmerFudd,False,angel_crossing_1.5,Angel Crossing 1.5,2072500,2022-12-31T19:33:32.000Z
+479,ec7eb0630a8a85bef1bbda692c0c88a9,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1385667,2022-12-31T18:26:52.000Z
+480,1c7ab0638d6bf1ed833bded4fd46334e,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,754567,2022-12-31T18:06:20.000Z
+481,9b71b06382f1b371a0e3e7a5462d1c6d,ElmerFudd,False,forge_v1.4,Forge v1.4,1625933,2022-12-31T17:30:03.000Z
+482,2a69b0637a04eb3a0ab55e4aedf5b089,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1748800,2022-12-31T16:54:02.000Z
+483,6c5eb063bb8af5a7d4cebaf539199dd5,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2323467,2022-12-31T16:08:12.000Z
+484,3d53b063f2ce36b9919ff756f0138933,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2322267,2022-12-31T15:20:29.000Z
+485,2053af63869b5b6421d526706cd80ee5,ElmerFudd,True,forge_v1.4,Forge v1.4,1354433,2022-12-30T21:07:44.000Z
+486,7447af63cf0d4976b4dbb716c517a73d,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2227800,2022-12-30T20:17:56.000Z
+487,de41af63371a99c02a9d8e137464f99c,ElmerFudd,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,987567,2022-12-30T19:54:06.000Z
+488,2b3baf6324c8a0c09930fca230ce9402,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1287833,2022-12-30T19:25:31.000Z
+489,e909ae638c92f1e7cc03edfb42f45ea8,ElmerFudd,False,cervino_v1,Cervino v1,1777267,2022-12-29T21:43:05.000Z
+490,d8fdad638363bb6337ce0b66489f49d7,ElmerFudd,False,tabula_remake_1.5,Tabula_Remake 1.5,2550467,2022-12-29T20:51:36.000Z
+491,77cdad6385caddfb404f97e6646ae461,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2137967,2022-12-29T17:25:11.000Z
+492,f9a0ad63312680a3192a1ea173731c80,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2194300,2022-12-29T14:15:21.000Z
+493,fa99ad63e8ba42b8a2d1e22fded11006,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1140700,2022-12-29T13:45:30.000Z
+494,cd09aa63399fdbacc556197ec857eaa2,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1481967,2022-12-26T20:53:33.000Z
+495,efffa963d6b6446571be412f9d6c11b3,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1986533,2022-12-26T20:11:27.000Z
+496,d2f3a963d29fa047ef7c7a37d80f5349,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,2697333,2022-12-26T19:19:46.000Z
+497,a9eca963311cba6f8068831d08bb783d,ElmerFudd,True,forge_v1.4,Forge v1.4,1283033,2022-12-26T18:49:13.000Z
+498,9de3a9631acc92ede20b5fd71aa8380d,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1782000,2022-12-26T18:10:37.000Z
+499,adbca863bfd46d438b27161b9494005c,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2257300,2022-12-25T21:12:13.000Z
+500,7fb1a863e6587eab1802f2220214a41e,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2400200,2022-12-25T20:24:31.000Z
+501,a96ba763830216b79b76ab1e2863c297,ElmerFudd,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,895533,2022-12-24T21:14:17.000Z
+502,9064a763b43582ff1c88b71048cb2990,ElmerFudd,False,forge_v1.4,Forge v1.4,1195900,2022-12-24T20:44:00.000Z
+503,2757a763c3e270248e81d59fb60d8842,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2444867,2022-12-24T19:46:47.000Z
+504,d64aa7630c09c5f5e23d635717d22e14,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2485433,2022-12-24T18:54:14.000Z
+505,3340a7639afe84963cf625dd770b8911,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2246800,2022-12-24T18:08:51.000Z
+506,1b28a7636b501426d919efbbb7a6775a,ElmerFudd,False,forge_v1.4,Forge v1.4,1159033,2022-12-24T16:26:03.000Z
+507,2b20a763d6cccf4c531879caa913c828,ElmerFudd,True,Ditched_V1,Ditched_V1,1541700,2022-12-24T15:52:11.000Z
+508,69fea663e9011533e8f5bb248718d2fd,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2776767,2022-12-24T13:28:09.000Z
+509,2bf0a663b3022f41c019185669f1e939,ElmerFudd,False,archsimkats_valley_v1,Archsimkats_Valley_V1,2234367,2022-12-24T12:27:23.000Z
+510,940ea6630a4bbbe08938cf9a798ecc14,ElmerFudd,False,hotlips_remake_v3.1,Hotlips Remake v3.1,3371100,2022-12-23T20:24:52.000Z
+511,a309a663d07b8051c82ab93ba42c84c2,ElmerFudd,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,865000,2022-12-23T20:03:47.000Z
+512,53fda5633d63f76fa7105c24f64d03a3,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2645967,2022-12-23T19:11:15.000Z
+513,14f7a5636b592889f999dd0d2ec61117,ElmerFudd,True,forge_v1.4,Forge v1.4,1250667,2022-12-23T18:44:36.000Z
+514,c6e4a563501a1e3cb76fb65c82d8c095,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,1464533,2022-12-23T17:26:30.000Z
+515,64e0a5636d4a1f55a5c743ffc7084fe8,ElmerFudd,False,tabula_remake_1.5,Tabula_Remake 1.5,709300,2022-12-23T17:07:48.000Z
+516,12daa563f4b95a44a4e19c1371c64632,ElmerFudd,True,Twin Lakes Park Redux 1.1,Twin Lakes Park Redux 1.1,1209000,2022-12-23T16:40:50.000Z
+517,dccfa56340d259f9a22d49bd2cee44d1,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1930767,2022-12-23T15:57:16.000Z
+518,97c6a563f36781db3815f826fc787773,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1929000,2022-12-23T15:17:43.000Z
+519,4ba7a56371372f6626d86dd83bc672b7,ElmerFudd,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1752500,2022-12-23T13:04:11.000Z
+520,03a0a5634476f191d816aaf8844fadaf,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1453800,2022-12-23T12:33:07.000Z
+521,0297a56387f2a81935f73e89be0215a7,ElmerFudd,False,deeploria_fields_v1.5,Deeploria Fields v1.5,1827500,2022-12-23T11:54:42.000Z
+522,1f92a5636681397a3643888ab79bd897,ElmerFudd,True,cervino_v1,Cervino v1,723167,2022-12-23T11:33:51.000Z
+523,4db9a4631afc38b73e523a51c9929edd,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,2973433,2022-12-22T20:08:45.000Z
+524,adb0a463e9b55326b81a7d08df5e7d9f,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,1775567,2022-12-22T19:31:57.000Z
+525,cdada463eef7f93f3a168e7283e5c587,ElmerFudd,True,tabula_remake_1.5,Tabula_Remake 1.5,399367,2022-12-22T19:19:41.000Z
+526,06a3a4633b9ccc8b02f71e60f8a20139,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1790533,2022-12-22T18:33:42.000Z
+527,c498a46387ab950b5957bdf84c3a1e55,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1585867,2022-12-22T17:49:56.000Z
+528,0386a463aff18b6726345b2cdebe6e37,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,3771567,2022-12-22T16:29:55.000Z
+529,9d7da46313ba7545d1ae12e72cf8c695,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1717267,2022-12-22T15:54:05.000Z
+530,6d73a46380c8aac40c55c1a4a0295842,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2057467,2022-12-22T15:10:37.000Z
+531,2968a46349d8c569b6f31ea53330c6c5,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2446733,2022-12-22T14:22:33.000Z
+532,7861a4632423f078510f6ec19ee030ec,ElmerFudd,True,lightside_darkside_v2.0,Lightside Darkside v2.0,1368700,2022-12-22T13:54:00.000Z
+533,e955a463acc3d5f2d6f18a7652873006,ElmerFudd,False,melting_glacier_v1.1,Melting Glacier v1.1,2427867,2022-12-22T13:04:41.000Z
+534,b54ca4632405905147a1e335ad65cff8,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1343300,2022-12-22T12:25:25.000Z
+535,6281a363d4ab5f81012966efdc0e235d,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1776833,2022-12-21T21:57:54.000Z
+536,3c7ba363be9eab385bb18a65b0039e87,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1198633,2022-12-21T21:31:40.000Z
+537,616fa36308bd18f709e1e8e2370b676f,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2165667,2022-12-21T20:41:05.000Z
+538,4760a363b2f59b9cd7e842885642ef8e,ElmerFudd,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2701400,2022-12-21T19:36:39.000Z
+539,e027a2636f490ed121feb3fd2d8f745b,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,3776067,2022-12-20T21:23:44.000Z
+540,2e1ca26382e4047692fe22aea87602ae,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2268067,2022-12-20T20:33:50.000Z
+541,d517a263696ad8ce0d3c0dc26beaa795,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,659867,2022-12-20T20:15:17.000Z
+542,c9dca063fd0ceb8c8d4ab9eb473ea11f,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1489367,2022-12-19T21:51:05.000Z
+543,b8d6a063d63ebccbc607530ac3b78d52,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1132700,2022-12-19T21:25:12.000Z
+544,2bd0a06337932aa0f2b1c6a99f64b7a0,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,808667,2022-12-19T20:57:15.000Z
+545,f0729f6374c34dd48dab8c35779af391,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3821767,2022-12-18T20:07:12.000Z
+546,666a9f63cde9d632f97383bfbc78b7e2,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1650833,2022-12-18T19:30:46.000Z
+547,13669f6306e9da4fd31af5efbbc9392a,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,647733,2022-12-18T19:12:19.000Z
+548,54589f635c6675e7611a72c51cb985ee,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2676067,2022-12-18T18:13:40.000Z
+549,deea7b63a997a2896651ec5f16702189,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2371900,2022-11-21T21:17:18.000Z
+550,96df7b638c27d6bf3b7aed08dcd491f6,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,2236933,2022-11-21T20:29:10.000Z
+551,80ce7b63d8fe2f54eafd1f2d873a4435,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,3533633,2022-11-21T19:16:16.000Z
+552,52c37b63f741264c14b73113feb677a2,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2487300,2022-11-21T18:28:34.000Z
+553,e8bb7b63d535aa194b291bb27f3f86a4,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1449133,2022-11-21T17:56:56.000Z
+554,b9b27b6361c41d23a242f65bc83c3b91,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1702367,2022-11-21T17:17:45.000Z
+555,fca47a637acba94219f6169b9f6cb6df,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2518033,2022-11-20T22:06:52.000Z
+556,949e7a63351d9e76aab28ac232eaa2e0,ElmerFudd,True,forge_v1.4,Forge v1.4,1188900,2022-11-20T21:39:32.000Z
+557,36927a633295ead6bd52d04d0912840f,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2658667,2022-11-20T20:46:46.000Z
+558,308e7a63af57f9c0701732b9e9a2a958,ElmerFudd,False,Tundra_Continents_v2.3,Tundra Continents v2.3,451000,2022-11-20T20:29:36.000Z
+559,c3847a63a40feb080308d65ae4414e1f,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1706900,2022-11-20T19:49:23.000Z
+560,1b7c7a63c9a01c533c3ea24c6ce02363,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1604467,2022-11-20T19:12:27.000Z
+561,0d727a639238f9f6e48e40b290b76d53,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,2087700,2022-11-20T18:29:33.000Z
+562,6d647a63f2a8b310afd5484217dd8298,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2398367,2022-11-20T17:31:25.000Z
+563,955a796353eb95a057f1f04463743e45,ElmerFudd,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1525400,2022-11-19T22:37:09.000Z
+564,f2537963428180511acf743908745bda,ElmerFudd,False,archsimkats_valley_v1,Archsimkats_Valley_V1,1261267,2022-11-19T22:08:50.000Z
+565,904b7963070bf885b0edb3383c407821,ElmerFudd,True,boulder_beach_v1,Boulder_Beach_V1,1572567,2022-11-19T21:33:04.000Z
+566,1ce37863268af440b002b77e188f9a82,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,2554267,2022-11-19T14:07:24.000Z
+567,05db78636dad55bfcefb1f2a0bfa024e,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1626100,2022-11-19T13:32:53.000Z
+568,89d47863df11f7b04d38563023f4753e,ElmerFudd,True,tabula_remake_1.5,Tabula_Remake 1.5,964733,2022-11-19T13:05:13.000Z
+569,3acf78639f5bafaf3583b6834bef6948,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1010300,2022-11-19T12:42:34.000Z
+570,70ca7863f68569a0b2901002e9ab3c6f,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,927133,2022-11-19T12:22:08.000Z
+571,c6a87863bf943f6f2489f19b13753a6d,ElmerFudd,True,altair_crossing_V4,Altair_Crossing_V4,547267,2022-11-19T09:58:30.000Z
+572,7b10786301834a57de351534da01555d,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2109933,2022-11-18T23:08:43.000Z
+573,67fc7763a2c17650fc0a45f238d1dcbf,ElmerFudd,False,NuclearWinterR,Nuclear Winter Bar 1.4,2437733,2022-11-18T21:43:03.000Z
+574,25f17763e3c02e6bd8028bf2e28e8989,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1967833,2022-11-18T20:55:01.000Z
+575,d5e5776374f9cf6c2041b0f3c3469d1c,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,2229133,2022-11-18T20:06:45.000Z
+576,24de7763f694523579723f11341489bb,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,1567600,2022-11-18T19:33:56.000Z
+577,c6587163361d8a3d208143215b1ce8cc,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1843667,2022-11-13T20:51:18.000Z
+578,b1257163efac95fad64f330a3b1d7d0b,ElmerFudd,True,forge_v1.4,Forge v1.4,4031433,2022-11-13T17:13:21.000Z
+579,621b7163a4f57d343b8041197c1c041f,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2205700,2022-11-13T16:29:22.000Z
+580,801371638da02606f6cc1b9f8327ed11,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1612300,2022-11-13T15:55:44.000Z
+581,700b7063626662bd03cf7b9b793c78a6,ElmerFudd,True,Tundra_Continents_v2.3,Tundra Continents v2.3,2641400,2022-11-12T21:09:04.000Z
+582,250370632dd38e2687b000616a756ae7,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1598833,2022-11-12T20:33:41.000Z
+583,9ffc6f63f38765fbb873466772731bf3,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1206333,2022-11-12T20:05:51.000Z
+584,02f86f63bd20ef732cc3f73da6b1ae72,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,807233,2022-11-12T19:46:10.000Z
+585,25ef6f63a906223a2e2d1c8cf88c4089,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1841000,2022-11-12T19:08:21.000Z
+586,74e76f6385cd0ca2829d2cf2d6236815,ElmerFudd,True,emainmacha_remake_2.1,EmainMacha Remake 2.1,1522533,2022-11-12T18:35:32.000Z
+587,1db86e6361f57855f90abd1fb1225e01,ElmerFudd,False,dworld_v3,DWorld_V3,2956233,2022-11-11T21:01:17.000Z
+588,d4a86e63555e5d46ffe45bd007dc2a93,ElmerFudd,False,throne_v8,Throne_V8,3199000,2022-11-11T19:56:04.000Z
+589,77756d63a4ebec890d77b731bd9ce867,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2389500,2022-11-10T22:04:39.000Z
+590,446a6d63ad9903ef1f4347be7d4fc470,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2057900,2022-11-10T21:16:52.000Z
+591,5a626d63ba90af6f3e63951a0a6a0d8e,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1655567,2022-11-10T20:43:06.000Z
+592,49596d63f5ac8e8e4294dfeb6a60cdc6,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1448467,2022-11-10T20:04:25.000Z
+593,c0526d63ba63a63648a9640209b40bdd,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1111733,2022-11-10T19:36:32.000Z
+594,14bb6663d760663057ba9f9eec455711,ElmerFudd,False,Crescent_Bay_V2,Crescent_Bay_V2,3449267,2022-11-05T19:35:48.000Z
+595,93b26663748ab19de2c1dcf4f4c7bcc5,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1269367,2022-11-05T18:59:31.000Z
+596,5cac6663366f2bab0165c208da61b63d,ElmerFudd,False,forge_v1.4,Forge v1.4,1097733,2022-11-05T18:33:00.000Z
+597,cea36663ca58184b6637970dce5aec60,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1691767,2022-11-05T17:56:30.000Z
+598,3b9366630d8ec205fb34310adc0e99ca,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,3313233,2022-11-05T16:45:47.000Z
+599,037e6663b1bbe9d7e383a3a9bc26246c,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,3803967,2022-11-05T15:15:15.000Z
+600,db746663ec283869137993247eea12e1,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1804133,2022-11-05T14:36:11.000Z
+601,546d6663323bcd1bf7418881a2bd386a,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1456800,2022-11-05T14:04:04.000Z
+602,20656663810867f825038a3239066fd2,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,1646367,2022-11-05T13:29:04.000Z
+603,4d816563212734501b24a5759dfc2cfb,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2757800,2022-11-04T21:17:01.000Z
+604,f0736563987de64e08a7e785aa74263d,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2808600,2022-11-04T20:20:00.000Z
+605,e06e6563cd655247dfbce49ccff05806,ElmerFudd,True,archsimkats_valley_v1,Archsimkats_Valley_V1,900433,2022-11-04T19:58:24.000Z
+606,be6365636829dd7fa38a5424766fb09a,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,2293634,2022-11-04T19:10:54.000Z
+607,60586563325770fe435d6ce4b564969e,ElmerFudd,False,forge_v1.4,Forge v1.4,2327800,2022-11-04T18:22:24.000Z
+608,cc336463e4e2f091974de5d7ede02c01,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2331633,2022-11-03T21:34:04.000Z
+609,c42d6463149f58e29d985ae79fed05a3,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1088300,2022-11-03T21:08:20.000Z
+610,57276463d6a9bd7966377c19e9c6ea1a,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,887733,2022-11-03T20:40:55.000Z
+611,c50f6463f15f6e5b14abaa89aa337220,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,3449733,2022-11-03T19:00:21.000Z
+612,0409646397d768bc4ffe1e2837e05b18,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1028300,2022-11-03T18:31:32.000Z
+613,25ff636304928aa94ebf378827ff09b4,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2059367,2022-11-03T17:49:25.000Z
+614,37f96363ce38ca964bde5317dfbd47be,ElmerFudd,False,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1081933,2022-11-03T17:24:07.000Z
+615,63f26363f4d5c6b40a7914bbcf3a6319,ElmerFudd,False,silveridge_v1,Silveridge v1,1054833,2022-11-03T16:54:59.000Z
+616,3be863631e02954f1fa13ac36d9aa2e3,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1953667,2022-11-03T16:11:39.000Z
+617,bddf6263c155d14551541ddd6bd7f537,ElmerFudd,False,dworld_v3,DWorld_V3,2140167,2022-11-02T21:23:09.000Z
+618,d0d16263154fa2d612a38db099676d39,ElmerFudd,False,throne_v8,Throne_V8,3090700,2022-11-02T20:23:44.000Z
+619,2ab8626320df4bbf35084d6d95f83711,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1833300,2022-11-02T18:34:18.000Z
+620,4aae6263b8ebd119f4a42bfd3b9a2a1e,ElmerFudd,False,tabula_remake_1.5,Tabula_Remake 1.5,2035633,2022-11-02T17:52:10.000Z
+621,cfa762632ee0bb77a1b8ee9e9fcb3460,ElmerFudd,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1016767,2022-11-02T17:24:31.000Z
+622,7a9f6263bbc1f6b1a4fbb64bf0accb9f,ElmerFudd,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1233833,2022-11-02T16:48:58.000Z
+623,00375c63f393fe10fcc79ff95be78589,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1469433,2022-10-28T20:09:36.000Z
+624,e92f5c6392b84ac852fa81de64ab6c99,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1168067,2022-10-28T19:39:21.000Z
+625,ca245c6336b94d00f8ef969f7ce50a85,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1967900,2022-10-28T18:51:54.000Z
+626,11095c635cb1177e6f89bf7adc621fd5,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1966600,2022-10-28T16:53:37.000Z
+627,b2015c63d1799ffd22eefa082e8535a7,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1371667,2022-10-28T16:22:10.000Z
+628,2cfb5b63b2f1169eb599ac54478ef36a,ElmerFudd,False,taldarim_v3,Taldarim_V3,1122867,2022-10-28T15:54:20.000Z
+629,65f05b63ccac5c6cb23efbe696b32620,ElmerFudd,True,Riverrun_V1,Riverrun_V1,2082533,2022-10-28T15:08:21.000Z
+630,82e65b63c1abf6e473238d621333532b,ElmerFudd,True,Rosetta1.4,Rosetta 1.4,2060633,2022-10-28T14:26:10.000Z
+631,a4915963026d2f7fb5c54df43aa18f92,ElmerFudd,True,forge_v1.4,Forge v1.4,2760000,2022-10-26T19:59:32.000Z
+632,b3885963aa6a45c9c31d71d7db36bffe,ElmerFudd,True,FolsomdamR_1.16,FolsomDamR 1.16,1298000,2022-10-26T19:21:23.000Z
+633,2d7e5963b38f66b14cb2bafb58a110a5,ElmerFudd,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1989900,2022-10-26T18:36:29.000Z
+634,e97659636401b9a2e032c462b06f2b38,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1195133,2022-10-26T18:05:29.000Z
+635,6a6f59630fa3f568786a61aed35aead5,ElmerFudd,True,forge_v1.4,Forge v1.4,1320400,2022-10-26T17:33:30.000Z
+636,566159632fdeea9fd33c9a2704d7b68d,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2633167,2022-10-26T16:33:26.000Z
+637,1e4158637f22be14402a09d814ba237c,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2518433,2022-10-25T20:03:42.000Z
+638,d3375863e5dc24ed22158819bf73a15d,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1852800,2022-10-25T19:24:03.000Z
+639,8e315863cf27371121e14f345c88f4b5,ElmerFudd,True,forge_v1.4,Forge v1.4,1155200,2022-10-25T18:57:18.000Z
+640,23965163b963585ad06e9a453af096ef,ElmerFudd,False,dworld_v3,DWorld_V3,2709100,2022-10-20T18:40:35.000Z
+641,d28b5163958de03350c7fe20fe477cf8,ElmerFudd,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1302567,2022-10-20T17:56:34.000Z
+642,7a775163ce289d296a5bbd00f1486cb8,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,4108300,2022-10-20T16:29:46.000Z
+643,6f6d51633bf7b2f85eb7988f3d750cab,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,2077700,2022-10-20T15:46:55.000Z
+644,41635163b2fe07b827fac8b2ea49b57c,ElmerFudd,False,melting_glacier_v1.1,Melting Glacier v1.1,2137533,2022-10-20T15:03:29.000Z
+645,9c5b516392377f80051bdbd004582e28,ElmerFudd,False,FolsomdamR_1.16,FolsomDamR 1.16,1458300,2022-10-20T14:30:52.000Z
+646,c1525163c1d685b72ea8e26d5dd7e9d6,ElmerFudd,True,titanduel_v3,TitanDuel_V3,1346433,2022-10-20T13:53:05.000Z
+647,354d5163e6e7821591e238f2947bc627,ElmerFudd,True,cervino_v1,Cervino v1,840833,2022-10-20T13:29:25.000Z
+648,7d3f51637c74b1eae23bec06affa4e9a,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,2501600,2022-10-20T12:30:53.000Z
+649,98315163e830e9df63505fe8c93752c4,ElmerFudd,False,forge_v1.4,Forge v1.4,3009067,2022-10-20T11:31:36.000Z
+650,0029516356b941075de767ed271cfb01,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1518733,2022-10-20T10:54:56.000Z
+651,e1205163c8f64691e6fa3120eccca807,ElmerFudd,True,angel_crossing_1.5,Angel Crossing 1.5,1642267,2022-10-20T10:20:17.000Z
+652,751551637cae43b38f7a611c39dfa469,ElmerFudd,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,2406533,2022-10-20T09:31:33.000Z
+653,8e54506390f4c50c68e3796e1a5956f6,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3464567,2022-10-19T19:48:30.000Z
+654,bf4650638188140547ee5005125951f2,ElmerFudd,False,colorado_v2_1.1,Colorado_V2 1.1,2512400,2022-10-19T18:49:35.000Z
+655,a43f506356bceff53d8a238135a0f117,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,1395667,2022-10-19T18:19:16.000Z
+656,99325063de78ccb110ba136381c11bd5,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2618867,2022-10-19T17:23:37.000Z
+657,a72b50635717a6533d455d904a3a4a5e,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1284733,2022-10-19T16:53:59.000Z
+658,7423506310491db59501aafaefab394c,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1087067,2022-10-19T16:19:00.000Z
+659,811d5063ce575c858c0aa40768400601,ElmerFudd,True,forge_v1.4,Forge v1.4,706567,2022-10-19T15:53:37.000Z
+660,1214506382d8caf9e44a9b2a112246f3,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1834733,2022-10-19T15:13:22.000Z
+661,2a055063f475e32e259a69907f01cf07,ElmerFudd,False,dworld_v3,DWorld_V3,3104400,2022-10-19T14:09:46.000Z
+662,26fa4f633ec3e4642deab6cc8113e1ab,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1948067,2022-10-19T13:22:46.000Z
+663,f4ee4f63f57144e0fa8ef6ecc3b38511,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1775233,2022-10-19T12:35:00.000Z
+664,e5e74f6365fbcd7cbde1c4b8a5a4aba8,ElmerFudd,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1052733,2022-10-19T12:04:53.000Z
+665,4de34f63efc29af008b2d3b04fd65090,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,651000,2022-10-19T11:45:17.000Z
+666,70dd4f635c037043521b2cd0c2d26ff9,ElmerFudd,True,FolsomdamR_1.16,FolsomDamR 1.16,961800,2022-10-19T11:20:16.000Z
+667,d7134f6360c5de7e62984560af2cf9bb,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1369767,2022-10-18T21:00:07.000Z
+668,9a084f634b131ae79f985deb0f745913,ElmerFudd,True,forge_v1.4,Forge v1.4,2433667,2022-10-18T20:12:10.000Z
+669,01004f63ffb5dadaa74443e5ca2fb91b,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,1782067,2022-10-18T19:35:29.000Z
+670,7af54e6382d6d996e96dd5908a644b7e,ElmerFudd,False,Sunderance V1.3,Sunderance V1.3,1977967,2022-10-18T18:50:34.000Z
+671,f2ea4e636e948dc4bd3c3b6233409d55,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2090133,2022-10-18T18:05:38.000Z
+672,8cdf4e63d3cfd6ba16266d736f2e1bd7,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1728067,2022-10-18T17:17:00.000Z
+673,3f7b4e63346f100db7716a1e05b815ad,ElmerFudd,True,Riverrun_V1,Riverrun_V1,2486000,2022-10-18T10:09:03.000Z
+674,cc764e63f18d72ef261fc349c977839e,ElmerFudd,True,tabula_remake_1.5,Tabula_Remake 1.5,706933,2022-10-18T09:50:04.000Z
+675,0cd64d633bcd81de9e79d3f59eaf97c1,ElmerFudd,False,Riverrun_V1,Riverrun_V1,2558533,2022-10-17T22:24:12.000Z
+676,10cf4d6332ad460567080268a234f5ae,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1169700,2022-10-17T21:54:24.000Z
+677,00c04d6318f214bdcb00249279a3df96,ElmerFudd,True,forge_v1.4,Forge v1.4,2965567,2022-10-17T20:50:08.000Z
+678,c5b54d6362b08e02a37a92a41fa3777d,ElmerFudd,False,Riverrun_V1,Riverrun_V1,2141633,2022-10-17T20:06:29.000Z
+679,86a84d63d8404bac7ffc5c1eeebe918e,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2852700,2022-10-17T19:09:58.000Z
+680,459c4d630e414d23e51e9268303a3631,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,2604333,2022-10-17T18:17:41.000Z
+681,a5974d63896b9155a9f7119e17724b64,ElmerFudd,False,FolsomdamR_1.16,FolsomDamR 1.16,562067,2022-10-17T17:57:57.000Z
+682,d78f4d63768982aad24265aa7911aacb,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1538000,2022-10-17T17:24:39.000Z
+683,35854d63f02372c225e95eac4bc7280e,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2050133,2022-10-17T16:39:17.000Z
+684,50764d6357c9ecaa3dad2a2c617b8ed9,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1479633,2022-10-17T15:35:44.000Z
+685,a36f4d631d0a668533a09d572471368e,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1300667,2022-10-17T15:07:15.000Z
+686,1a694d63575747912f4acd67673376a6,ElmerFudd,True,mescaline_v2,Mescaline_V2,1137767,2022-10-17T14:39:22.000Z
+687,bd604d6374ef558fd6eec6e4eb561474,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1495800,2022-10-17T14:03:41.000Z
+688,47574d637c99d7ebbfb6f252e3ce84b0,ElmerFudd,True,FolsomdamR_1.16,FolsomDamR 1.16,1970900,2022-10-17T13:23:19.000Z
+689,25504d63063592db7c1d8b7572b9438f,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1420467,2022-10-17T12:52:53.000Z
+690,61494d636a0274d2032086feeb4953c4,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1389867,2022-10-17T12:24:01.000Z
+691,05454d63f9c33d69ba7f336bbe231def,ElmerFudd,True,titan_v3.1,Titan v3.1,477333,2022-10-17T12:05:25.000Z
+692,883e4d63b72bb911d8fdfbe0134ee45a,ElmerFudd,True,deeploria_fields_v1.5,Deeploria Fields v1.5,1038000,2022-10-17T11:37:44.000Z
+693,e62d4d6357f4cd7780d36a3d1b767182,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,3432633,2022-10-17T10:26:46.000Z
+694,81144d63d38493fad22c391bdb8fa03a,ElmerFudd,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,6000900,2022-10-17T08:38:25.000Z
+695,51184763072ec28adcd8c86937829cc6,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,3004567,2022-10-12T19:41:05.000Z
+696,9c114763dcb99a8c200fecdf1d0fd817,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1270033,2022-10-12T19:12:28.000Z
+697,b5f846639e5e03ff0012a957fe83b897,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2807367,2022-10-12T17:26:13.000Z
+698,1ff34663815b2e9404b466e44e900d05,ElmerFudd,False,dsdr_4.1,DSDR 4.1,973433,2022-10-12T17:02:23.000Z
+699,83e94663bb0db869a3b8b29653542349,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1752433,2022-10-12T16:21:23.000Z
+700,319f466368c7d848eb15765450bd9729,ElmerFudd,True,altair_crossing_V4,Altair_Crossing_V4,675033,2022-10-12T11:04:17.000Z
+701,268c4663cb4b9dc1ed1902ab6215e156,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,3419300,2022-10-12T09:43:02.000Z
+702,53da4563d280bc7593e97aab84bd5b8f,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1185833,2022-10-11T21:04:19.000Z
+703,b9d04563e9cc3f3c3872fe7ec645a5af,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,1359800,2022-10-11T20:23:21.000Z
+704,97c6456360f22389a3f9cc80063c93be,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1587800,2022-10-11T19:40:07.000Z
+705,debb4563e24b81b9eaf595a7ccf464bb,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2169500,2022-10-11T18:54:22.000Z
+706,01794463c898f99aeac959e14d15cc9b,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2850067,2022-10-10T19:56:49.000Z
+707,047244636a0ee85590c8e292cceeb5ed,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1217733,2022-10-10T19:27:00.000Z
+708,42634463b2e57ad6255a6a597ed128d0,ElmerFudd,False,dsdr_4.1,DSDR 4.1,3111500,2022-10-10T18:24:02.000Z
+709,d0554463d30cad692545ce6439b97be6,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,2877900,2022-10-10T17:26:40.000Z
+710,9936436345fa1b9cf498bca6cc79194f,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,2281900,2022-10-09T21:01:13.000Z
+711,c6274363764eac814607157423ec5c76,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3079867,2022-10-09T19:57:58.000Z
+712,471d436393fe3c8c2c34f605c2dc497d,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2014200,2022-10-09T19:13:11.000Z
+713,5c073a63dea1e24321fc75083aeb4710,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1217667,2022-10-02T21:49:16.000Z
+714,42fd39632b42983ed876659afef2e14a,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2153100,2022-10-02T21:06:10.000Z
+715,e7f33963bfb690a75242704597c9780f,ElmerFudd,False,Ditched_V1,Ditched_V1,1829633,2022-10-02T20:26:15.000Z
+716,c2e33963af37676606a82e364ea940df,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,3136933,2022-10-02T19:17:22.000Z
+717,e9b53863db4babc12c443ec727bfb81b,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,2781367,2022-10-01T21:49:29.000Z
+718,4a4e37635774ddde9bc005663cc38c80,ElmerFudd,False,forge_v1.4,Forge v1.4,2622867,2022-09-30T20:15:06.000Z
+719,5a493763f97d83b62d4bfcdf5327df14,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,580500,2022-09-30T19:54:02.000Z
+720,194337631f91765c987d77cb50472331,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,980933,2022-09-30T19:27:21.000Z
+721,4e3a37636910125ff3eb0bd9ff1f076a,ElmerFudd,False,Rosetta1.4,Rosetta 1.4,1663867,2022-09-30T18:49:50.000Z
+722,4933266353614d56dc510f7922159470,ElmerFudd,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2866533,2022-09-17T20:51:21.000Z
+723,f22b26635e74aa31d5f0f8364080b286,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1274767,2022-09-17T20:20:02.000Z
+724,452d1e639542a6f3c960a0a8d85df6ed,ElmerFudd,True,Crescent_Bay_V2,Crescent_Bay_V2,2463333,2022-09-11T18:47:33.000Z
+725,3ae61c63f04ff3f394ea168303706287,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1642100,2022-09-10T19:32:10.000Z
+726,86e01c637d8bb8a4005d8597f2318565,ElmerFudd,True,Sunderance V1.3,Sunderance V1.3,972533,2022-09-10T19:07:50.000Z
+727,b1d81c631d22b04f3d273e53acb32049,ElmerFudd,True,Sunderance V1.3,Sunderance V1.3,1531700,2022-09-10T18:34:25.000Z
+728,9f9e1b63e7eb27e800b821c8f9ce763c,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1741800,2022-09-09T20:14:23.000Z
+729,c7941b632141b4ad7cec71df6a2634de,ElmerFudd,False,Sunderance V1.3,Sunderance V1.3,2004333,2022-09-09T19:32:23.000Z
+730,af591a63ec8b7b2946246e5492833603,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1601767,2022-09-08T21:07:59.000Z
+731,884a1a6393a45816a17426b7e4cac8b0,ElmerFudd,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,3100833,2022-09-08T20:03:20.000Z
+732,043d1a634ea50985781880882d07e6d5,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2738800,2022-09-08T19:05:40.000Z
+733,db03196322120b409de394f01c9a1810,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,1446833,2022-09-07T20:49:31.000Z
+734,65fb1863508c0e134501ce9af2263c21,ElmerFudd,True,Riverrun_V1,Riverrun_V1,1434567,2022-09-07T20:13:25.000Z
+735,b6f21863947e9a5d8e64315f1fef49f9,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1406467,2022-09-07T19:36:22.000Z
+736,9baa17638d78f466bba33a3ecc36427f,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3167967,2022-09-06T20:16:27.000Z
+737,a8a31763ca4cd9eef3431fda26902df1,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1332700,2022-09-06T19:46:48.000Z
+738,7b4b1663b3f068afd1b957578d28f124,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1941267,2022-09-05T19:18:19.000Z
+739,13071563605bd588ebce8c32e041c852,ElmerFudd,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1395400,2022-09-04T20:14:11.000Z
+740,8dfb1463fe70354997e05404db223920,ElmerFudd,False,Rosetta 1.3,Rosetta 1.3,2529200,2022-09-04T19:25:01.000Z
+741,a5f41463f662dd8973f1be34685237e3,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1319600,2022-09-04T18:55:33.000Z
+742,a62511630f740dd35347c4244be4e368,ElmerFudd,False,ice_scream_v2.1,Ice Scream v2.1,2962600,2022-09-01T21:35:34.000Z
+743,4d2011633edfae8570e33fa39de559f6,ElmerFudd,False,dsdr_4.1,DSDR 4.1,806533,2022-09-01T21:12:45.000Z
+744,790811635ae1cc2e621b65c8d257669b,ElmerFudd,True,Rosetta 1.3,Rosetta 1.3,1012067,2022-09-01T19:31:05.000Z
+745,dd0211634a78965f1bc68b3e9e36d3b1,ElmerFudd,True,forge_v1.4,Forge v1.4,885633,2022-09-01T19:07:09.000Z
+746,7cf91063f6dd6ab81a686507b1a2f979,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1564633,2022-09-01T18:27:08.000Z
+747,cec30f63b501d2e372d61f08315cb607,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2528300,2022-08-31T20:25:50.000Z
+748,fdbd0f63d16fda4f95f851ef5eab1445,ElmerFudd,False,flats_and_forests_v2.1,Flats and Forests v2.1,998933,2022-08-31T20:01:01.000Z
+749,a9b30f6358bce7a5f4e5ef0ad525ca81,ElmerFudd,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,2115333,2022-08-31T19:16:57.000Z
+750,687a0e630f540877feec9f4c5b04ff79,ElmerFudd,True,dsdr_4.1,DSDR 4.1,3005200,2022-08-30T21:00:24.000Z
+751,5c660e63a54af4965a328678d4b94772,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,3349867,2022-08-30T19:34:52.000Z
+752,591d0d634c94e792929368a73a35c178,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1016900,2022-08-29T20:11:05.000Z
+753,1b180d63c6e70205d6370f700a2f5472,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,981333,2022-08-29T19:48:43.000Z
+754,86dc0763fd5fca8d8dbb2f3a2cb5e56e,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1758400,2022-08-25T20:33:10.000Z
+755,bbd40763665963c7d84b8f23c287601e,ElmerFudd,False,Otago Redux 1.33,Otago Redux 1.33,1573667,2022-08-25T19:59:55.000Z
+756,76c807630550894b85f46af8cbb85b60,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2512433,2022-08-25T19:07:34.000Z
+757,0e980663dda790b72b7a39bba1450b45,ElmerFudd,False,forge_v1.4,Forge v1.4,2026833,2022-08-24T21:28:46.000Z
+758,7b8a0663fb43568082099881c6452ac3,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,2236367,2022-08-24T20:30:51.000Z
+759,e58206635f3817d12d7ccf024d2d25e3,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1531467,2022-08-24T19:58:29.000Z
+760,53760663da9cd66bcbcc063730c2921e,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2406767,2022-08-24T19:04:51.000Z
+761,466c066363489dd5350d2b7880c140d3,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1857633,2022-08-24T18:21:58.000Z
+762,2b600663c8ac4ba0fdabe8330dddba64,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,2310933,2022-08-24T17:30:19.000Z
+763,90560663b2faf316e0e77ea8abec7048,ElmerFudd,True,tabula_remake_1.5,Tabula_Remake 1.5,1465833,2022-08-24T16:49:20.000Z
+764,723f0563bba415037efdfe083ed6ed4a,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1628133,2022-08-23T20:58:26.000Z
+765,f33a05631a7807090aad44fac2ec9620,ElmerFudd,False,taldarim_v3,Taldarim_V3,642567,2022-08-23T20:39:15.000Z
+766,8b320563c83ae44556c787cf8ec123ea,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1606600,2022-08-23T20:03:23.000Z
+767,20e90363238766c004816260df23dca7,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2312967,2022-08-22T20:37:52.000Z
+768,83d9036335fed5402b100608a6e2e850,ElmerFudd,False,angel_crossing_1.5,Angel Crossing 1.5,2905667,2022-08-22T19:31:15.000Z
+769,cd35fd62fe832c0baced8c8101cb69e6,ElmerFudd,True,NuclearWinterR,Nuclear Winter Bar 1.4,1631500,2022-08-17T18:39:09.000Z
+770,f72dfd6218b24a18d9a5bc721875841f,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1301933,2022-08-17T18:05:43.000Z
+771,7e23fd621844e13ef2f2f8394fb8efe7,ElmerFudd,False,greenest_fields_1.3,Greenest Fields 1.3,2163267,2022-08-17T17:21:02.000Z
+772,0c1bfd62db0391a149a70d8e514574a4,ElmerFudd,True,flats_and_forests_v2.1,Flats and Forests v2.1,1531300,2022-08-17T16:45:00.000Z
+773,13e9fc622c9ae9b4c832a6525cf963a7,ElmerFudd,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1304233,2022-08-17T13:11:47.000Z
+774,77e1fc6234f3b49412d1d121d3f3e616,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1306900,2022-08-17T12:39:19.000Z
+775,b3dbfc629bf4e6bb3b5eee677be12ee0,ElmerFudd,True,tabula_remake_1.5,Tabula_Remake 1.5,803900,2022-08-17T12:14:43.000Z
+776,10d5fc62e5db68a9c22a2eea83879eb1,ElmerFudd,False,tabula_remake_1.5,Tabula_Remake 1.5,1042067,2022-08-17T11:46:24.000Z
+777,c0cefc62c991b167ca14cbbb8a23d685,ElmerFudd,True,red_rock_desert_v1,Red Rock Desert v1,1176333,2022-08-17T11:19:28.000Z
+778,2ccafc62f0835e52f72bac2aec0fc37f,ElmerFudd,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,714733,2022-08-17T10:59:56.000Z
+779,43c3fc629da027fe3164ab9e13778684,ElmerFudd,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1417233,2022-08-17T10:30:27.000Z
+780,6e17fc62881e0b213346a0e1ba3069e2,ElmerFudd,True,ice_scream_v2.1,Ice Scream v2.1,2279133,2022-08-16T22:17:18.000Z
+781,e50afc62c8f8f21346c5c6e7980722dd,ElmerFudd,True,greenest_fields_1.3,Greenest Fields 1.3,2493833,2022-08-16T21:23:49.000Z
+782,20fcfb625d7a567d69ce5cebfe9b6c29,ElmerFudd,False,dsd_8_way_1.1,DSD 8 Way 1.1,3260500,2022-08-16T20:20:48.000Z
+783,31f3fb621e3b346e9201d4e47b34ea3c,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,1496600,2022-08-16T19:42:41.000Z
+784,d9ecfb625d7a2cf31a5602d51198ea57,ElmerFudd,False,Riverrun_V1,Riverrun_V1,1219533,2022-08-16T19:15:37.000Z
+785,fde4fb62684197e1a72ddd242b0c9ecd,ElmerFudd,True,hotlips_remake_v3.1,Hotlips Remake v3.1,1326267,2022-08-16T18:42:05.000Z
+786,6ad8fb624fcd0aa844d03849e86f815f,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,2533833,2022-08-16T17:48:26.000Z
+787,50d3fb6204066891594d0297ec11eac1,ElmerFudd,False,dsdr_4.1,DSDR 4.1,847367,2022-08-16T17:26:40.000Z
+788,35c6fb6242d2d44b3856879f47417373,ElmerFudd,False,Riverrun_V1,Riverrun_V1,2639900,2022-08-16T16:30:45.000Z
+789,34bbfb620150344368c6cf7f106f0631,ElmerFudd,True,tabula_remake_1.5,Tabula_Remake 1.5,1469133,2022-08-16T15:43:48.000Z
+790,f8a2fa62906957cd4b596238c1966bdc,ElmerFudd,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,2233733,2022-08-15T19:48:08.000Z
+791,f49afa6228abe4cdff9696db04f5f507,ElmerFudd,False,serene_caldera_v1.1,Serene Caldera v1.1,1414667,2022-08-15T19:13:56.000Z
+792,548cfa62d399208bf7df159cdafbd001,ElmerFudd,False,Rosetta 1.3,Rosetta 1.3,2201200,2022-08-15T18:11:32.000Z
+793,c678f162c42f5c8d594309b25d3a5cf9,ElmerFudd,False,dsdr_4.1,DSDR 4.1,2105967,2022-08-08T20:57:42.000Z
+794,646cf162780159ba1c2684acf27703ba,ElmerFudd,True,lightside_darkside_v2.0,Lightside Darkside v2.0,2025633,2022-08-08T20:04:52.000Z
+795,984af162ef63c25639088a38b5f146d1,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,3022400,2022-08-08T17:40:40.000Z
+796,8729f0629fc266c8511834b0303841da,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2649866,2022-08-07T21:07:19.000Z
+797,2409f062e0de17915b2a20c5b770ebc0,ElmerFudd,True,dsdr_4.1,DSDR 4.1,2621533,2022-08-07T18:49:08.000Z
+798,80d8ee62e6402a45dfb2eb3012d1fc6a,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1635067,2022-08-06T21:09:20.000Z
+799,01d4ee625264be423986f13026a62718,ElmerFudd,False,dsdr_4.1,DSDR 4.1,543800,2022-08-06T20:50:09.000Z
+800,608ded623fe641cc898732d75170a967,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1520667,2022-08-05T21:36:32.000Z
+801,1a87ed62c61e49ee537f64f79d6caf9b,ElmerFudd,True,angel_crossing_1.5,Angel Crossing 1.5,1056667,2022-08-05T21:09:46.000Z
+802,c780ed62d6ce4a0e84cbf515426c7998,ElmerFudd,False,angel_crossing_1.5,Angel Crossing 1.5,1043533,2022-08-05T20:42:47.000Z
+803,e479ed62e887982f618b9f7fb12e4e54,ElmerFudd,False,Tau12,Tau12,910867,2022-08-05T20:13:24.000Z
+804,7c73ed62042ec673d451c3170591887b,ElmerFudd,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1054467,2022-08-05T19:46:04.000Z
+805,be84e96280345354a4ae780083c992c2,ElmerFudd,False,taldarim_v3,Taldarim_V3,1791933,2022-08-02T20:10:38.000Z
+806,ac7ce962e44e15e40e2ef36639d737ac,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1654800,2022-08-02T19:36:12.000Z
+807,d92ae862daaedf7b661647e6eee42435,ElmerFudd,True,dsdr_4.1,DSDR 4.1,1115733,2022-08-01T19:34:49.000Z
+808,4123e8620f11c58448ee39865b0546d1,ElmerFudd,True,forge_v1.4,Forge v1.4,1524633,2022-08-01T19:02:25.000Z
+809,12ede662c9e8d559c9208cf3d2982f64,ElmerFudd,True,Riverrun_V1,Riverrun_V1,2501667,2022-07-31T20:58:58.000Z
+810,4de2e66260a7bc66a1e005da3b1556bd,ElmerFudd,False,taldarim_v3,Taldarim_V3,1835600,2022-07-31T20:13:01.000Z
+811,7cdce66278988e28040f7ac678058b0e,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,763167,2022-07-31T19:48:12.000Z
+812,34d1e6621e687a9b8df3196034a0188f,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2209000,2022-07-31T19:00:04.000Z
+813,68b9e6624946497ee035343198e1097f,ElmerFudd,True,TheRock_V3,TheRock_V3,1913367,2022-07-31T17:18:32.000Z
+814,14b3e662faffc850c5133c0aadd0b318,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,898700,2022-07-31T16:51:32.000Z
+815,bbace6629756b035a55eb8829719f4e8,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1103933,2022-07-31T16:24:27.000Z
+816,0e74e66248cd49430c9c113395cacb42,ElmerFudd,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,3249867,2022-07-31T12:22:38.000Z
+817,6369e66204d95a8c8cb05832b31a27d6,ElmerFudd,True,all_that_glitters_1.2,All That Glitters v1.2,1914933,2022-07-31T11:37:07.000Z
+818,3462e662086ceabf68690f16d56c88b7,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1328467,2022-07-31T11:06:28.000Z
+819,6759e6625f85daaabc97a4cbb1ffc533,ElmerFudd,False,dsdr_4.1,DSDR 4.1,1758000,2022-07-31T10:28:55.000Z
+820,7b9ae562794ed2fe2b103df69d7cf536,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1155600,2022-07-30T20:54:19.000Z
+821,f890e5621bc719fb8558036dde7c7228,ElmerFudd,False,lightside_darkside_v2.0,Lightside Darkside v2.0,1613333,2022-07-30T20:13:44.000Z
+822,6384e562b9ace8f956ea314ac0bb3ffc,ElmerFudd,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2462233,2022-07-30T19:20:03.000Z
+823,853de062a143a470c3a3af202d678ad9,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,625733,2022-07-26T19:16:21.000Z
+824,d438e062d81de96594e3de7557807738,ElmerFudd,True,dsdr_4.1,DSDR 4.1,715633,2022-07-26T18:56:20.000Z
+825,2ea0dd62470197c30b493e22bb76c86a,ElmerFudd,True,Riverrun_V1,Riverrun_V1,3263167,2022-07-24T19:40:30.000Z
+826,ba97dd62654c90252cd892174ad88874,ElmerFudd,False,,Lightside Darkside v1.1,1409333,2022-07-24T19:04:26.000Z
+827,c591dd62d2cbe776b42809e3a5efc529,ElmerFudd,False,dsdr_4.1,DSDR 4.1,845400,2022-07-24T18:39:01.000Z
+828,6b8ddd625d0433367d74778b48f426cc,ElmerFudd,True,TheRock_V3,TheRock_V3,405000,2022-07-24T18:20:27.000Z
+829,4087dd625e2b3f498db0543d1d62e96b,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1174800,2022-07-24T17:54:08.000Z
+830,d21adb624db541041c917193b91fe7a8,ElmerFudd,False,koom_valley_3_3.1,Koom Valley 3 3.1,1812900,2022-07-22T21:46:58.000Z
+831,4911db625a7203a348d65ba8bef4bb07,ElmerFudd,False,bismuth_valley_v2.1,Bismuth Valley v2.1,1665467,2022-07-22T21:06:17.000Z
+832,bf09db629d138f0052c2d281ab346843,ElmerFudd,False,forge_v1.3,Forge v1.3,1398600,2022-07-22T20:34:07.000Z
+833,fbc8d96220158ccdefb81975f8233cc2,ElmerFudd,False,Tempest_V3,Tempest_V3,1820967,2022-07-21T21:45:31.000Z
+834,3db9d9621b241cd17e4e26cd6b364776,ElmerFudd,False,bismuth_valley_v2.1,Bismuth Valley v2.1,2813667,2022-07-21T20:38:21.000Z
+835,3fb2d962eae0e1a88c2a17e19b901b9b,ElmerFudd,True,koom_valley_3_3.1,Koom Valley 3 3.1,1290367,2022-07-21T20:08:31.000Z
+836,b5a5d96246d49760cc886a5c93c3ebb5,ElmerFudd,False,all_that_glitters_1.2,All That Glitters v1.2,2321067,2022-07-21T19:15:01.000Z

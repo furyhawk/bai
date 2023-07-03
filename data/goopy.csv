@@ -1,0 +1,1000 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,47e9a164ac5753aff2f7b825bacaef28,goopy,False,sertagatta_v6.0,Sertagatta v6.0,745167,2023-07-02T21:16:55.000Z
+1,61e4a1644d88d7efbb6680fda08eb7cc,goopy,True,sertagatta_v6.0,Sertagatta v6.0,1090767,2023-07-02T20:56:01.000Z
+2,9719a16435b72616c79335b1706460e3,goopy,False,dworld_v4,DWorld_V4,1901267,2023-07-02T06:30:47.000Z
+3,9f0fa164aaff8e8c4540afbd8f52c0a9,goopy,True,white_fire_remake_1.2,White Fire Remake 1.2,1847967,2023-07-02T05:48:15.000Z
+4,5105a164dba03ad2691de20b34cc32d7,goopy,True,eight_horses_1.2,Eight Horses 1.2,2022167,2023-07-02T05:04:17.000Z
+5,891299648a49d7f44036e9b9255ec391,goopy,False,FolsomdamR_1.16,FolsomDamR 1.16,2139033,2023-06-26T04:22:33.000Z
+6,590d996404269532af8215f1459452f6,goopy,True,starwatcher_1.0,Starwatcher 1.0,819333,2023-06-26T04:00:25.000Z
+7,ccb89864928a4af46d78d0feea89374a,goopy,False,sertagatta_v6.0,Sertagatta v6.0,501933,2023-06-25T21:59:40.000Z
+8,0ab498641a350be0b8d9a3bbbc7d2076,goopy,True,sertagatta_v6.0,Sertagatta v6.0,1035033,2023-06-25T21:39:22.000Z
+9,07ae9864404416e2fb2863e988d0f1dc,goopy,True,sertagatta_v6.0,Sertagatta v6.0,1376433,2023-06-25T21:13:43.000Z
+10,51a696641a356085a496e4dd6d8c088a,goopy,True,ravaged_remake_v1.2,Ravaged Remake v1.2,909100,2023-06-24T08:16:17.000Z
+11,a09e9664dc125a98492532972a39ba84,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1702033,2023-06-24T07:43:28.000Z
+12,3d2a95646bc3595413bbebeb175b5ccf,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2318833,2023-06-23T05:14:37.000Z
+13,93ec9364c8eca7a248aa9cf140aabef0,goopy,True,starwatcher_1.0,Starwatcher 1.0,1312967,2023-06-22T06:39:15.000Z
+14,cbe6936488e40bab1d70857af250a863,goopy,True,supreme_strait_v1.4,Supreme Strait v1.4,1102367,2023-06-22T06:14:35.000Z
+15,10df9364b2f69db894b430a96d9dc146,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1605300,2023-06-22T05:41:36.000Z
+16,59a69264b675883fdfe86460ad30ee69,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,1193533,2023-06-21T07:27:21.000Z
+17,d7a19264c700edc9f9d1b184c999ac8e,goopy,True,forge_v1.4,Forge v1.4,802333,2023-06-21T07:08:07.000Z
+18,5d9d926477f4c990dc546c72e12dde49,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,668700,2023-06-21T06:49:01.000Z
+19,20969264a060955bee07f86d08935363,goopy,False,eight_horses_1.2,Eight Horses 1.2,1487533,2023-06-21T06:18:08.000Z
+20,008f926411534dfcbcc24774e8a1ba0a,goopy,False,ascendancy_v2.0,Ascendancy v2.0,1253867,2023-06-21T05:47:44.000Z
+21,7748916424ffd2f3ac83b6028e0c7e04,goopy,False,NuclearWinterR,Nuclear Winter Bar 1.4,1937967,2023-06-20T06:34:31.000Z
+22,42419164966d5d348d4d8872da52d209,goopy,True,forge_v1.4,Forge v1.4,1263433,2023-06-20T06:03:46.000Z
+23,fa3a91645471629b5221a8f1ec13d5f2,goopy,True,all_that_glitters_v2.1,All That Glitters v2.1,1072700,2023-06-20T05:36:58.000Z
+24,9f329164172955e776154341815fb36c,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,1284467,2023-06-20T05:01:19.000Z
+25,6b788f647f8e57a37d1553f3ebe3107a,goopy,True,ravaged_remake_v1.2,Ravaged Remake v1.2,1118300,2023-06-18T21:34:35.000Z
+26,ec748f6449b4e2605200f268f02643cb,goopy,False,Crystallized Plains 1.01,Crystallized Plains 1.01,616100,2023-06-18T21:19:40.000Z
+27,e0728f64ebdf5df394f0e1ab97447347,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,420967,2023-06-18T21:10:56.000Z
+28,de6e8f64e628f24f80cb31cc394d34a8,goopy,True,crubick_plains_bar_v1.1,Crubick Plains BAR v1.1,760200,2023-06-18T20:53:50.000Z
+29,9c6a8f641121fe6995709655cdccdd86,goopy,True,geyser_plains_bar_v1.1,Geyser Plains BAR v1.1,826333,2023-06-18T20:35:40.000Z
+30,a8688f64c46d8d6404500f4175dc71dc,goopy,True,geyser_plains_bar_v1.1,Geyser Plains BAR v1.1,331067,2023-06-18T20:27:20.000Z
+31,684a8d64e8c8e1fef67067221d8b7278,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,767100,2023-06-17T05:53:44.000Z
+32,7e468d643b4f578862e25cea2d2990e3,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,664900,2023-06-17T05:37:02.000Z
+33,f3428d64f350cc3524120ec694adccb8,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,708100,2023-06-17T05:21:55.000Z
+34,a6958c64fc70e73ecb200ea0aacad18f,goopy,True,zed_remake_3.3,Zed Remake 3.3,745500,2023-06-16T17:02:30.000Z
+35,3a938c64777956f46cd36dc0fc6311df,goopy,True,zed_remake_3.3,Zed Remake 3.3,441400,2023-06-16T16:52:10.000Z
+36,788c8c64106d86310fa980aeeca5acca,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1576633,2023-06-16T16:23:20.000Z
+37,15078c64bacea6b67d989a6e20d86e6b,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2612600,2023-06-16T06:54:13.000Z
+38,99ff8b64c15c1f2012caa13bf503822f,goopy,True,darkside_v3.0,Darkside v3.0,1486067,2023-06-16T06:22:17.000Z
+39,6ca88a6436650bf2c716d97ee76cf134,goopy,True,supreme_strait_v1.4,Supreme Strait v1.4,1940500,2023-06-15T05:58:04.000Z
+40,4ca08a64a6b6212806fb79c773bdd1bc,goopy,False,ice_scream_v2.5,Ice Scream v2.5,1401733,2023-06-15T05:23:24.000Z
+41,846a8964c81b1f7c69bf80a8f405c2cb,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,908933,2023-06-14T07:21:40.000Z
+42,36578964ddbd71f7001843f4561f5e4c,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1279600,2023-06-14T05:59:18.000Z
+43,e14c89647bb641ec92f4fb581b358db4,goopy,False,eight_horses_1.2,Eight Horses 1.2,1037233,2023-06-14T05:15:13.000Z
+44,65038864c46dc1b5fa4a4239bb7d727c,goopy,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1894433,2023-06-13T05:49:25.000Z
+45,d5b68664a66b3be6b6edad62cccdb84d,goopy,True,dsdr_4.1,DSDR 4.1,2779867,2023-06-12T06:10:29.000Z
+46,29b186643c2b7f1ce718035aa40cde04,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,779833,2023-06-12T05:46:17.000Z
+47,cca78664a8fd302dbefa7770b9fd6fbe,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1930667,2023-06-12T05:06:20.000Z
+48,4a3d8664ff99ca2a65d9c02ccf8dd113,goopy,True,ascendancy_v1.1,Ascendancy v1.1,2300667,2023-06-11T21:31:54.000Z
+49,007285645768fd2d3f5d68e87c1a318b,goopy,False,throne_v8,Throne_V8,3214867,2023-06-11T07:04:32.000Z
+50,45678564ef9232fede477ced4eb91552,goopy,False,dworld_v4,DWorld_V4,2446400,2023-06-11T06:18:45.000Z
+51,875e85649fb8b33e8a1131adf7bb8a54,goopy,False,forge_v1.4,Forge v1.4,1729833,2023-06-11T05:41:27.000Z
+52,b6538564afdfc6ac27e3fd2e49a13b48,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2184367,2023-06-11T04:55:18.000Z
+53,ac4c8564d1579ebe0aa08917e419b85f,goopy,True,forge_v1.4,Forge v1.4,1251967,2023-06-11T04:25:16.000Z
+54,97828464e0dd015a88b263269c67a284,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,671667,2023-06-10T14:03:03.000Z
+55,e97c8464a209ba4d618171e4ed677546,goopy,False,paradise_lost_v4,Paradise_Lost_V4,1260733,2023-06-10T13:38:49.000Z
+56,57c580647d3acb08f11012d91692f560,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,983600,2023-06-07T17:58:47.000Z
+57,75cc7e64c084d55fa280a82cd87e6541,goopy,True,forge_v1.4,Forge v1.4,1278367,2023-06-06T06:04:37.000Z
+58,2fc77e644167072ca31bf1879187ad66,goopy,True,TheRock_V3,TheRock_V3,907100,2023-06-06T05:42:07.000Z
+59,39177e64fa730402719b44242cb7518e,goopy,True,heartbreak_hill_v4,Heartbreak Hill v4,762733,2023-06-05T17:11:21.000Z
+60,53157e6433849f0cfe17d19751e25e7a,goopy,True,heartbreak_hill_v4,Heartbreak Hill v4,353400,2023-06-05T17:03:15.000Z
+61,e60f7e6474e641e6cacdfd2bdaa65087,goopy,True,heartbreak_hill_v4,Heartbreak Hill v4,991567,2023-06-05T16:40:06.000Z
+62,180c7e646780c2fccfeefdfb1ea7e5d7,goopy,False,heartbreak_hill_v4,Heartbreak Hill v4,856967,2023-06-05T16:23:52.000Z
+63,765f7d64d0da1977e86ad31d7d520108,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,771600,2023-06-05T04:07:18.000Z
+64,e65a7d64c66a8e6ba41bb715b36b498d,goopy,True,all_that_glitters_v2.1,All That Glitters v2.1,732800,2023-06-05T03:47:50.000Z
+65,d0547d64ba28dfe4186a1be586eac2fc,goopy,True,all_that_glitters_v2.1,All That Glitters v2.1,1118633,2023-06-05T03:21:52.000Z
+66,2d4a7d6492486153c40e7a8dca0de213,goopy,False,all_that_glitters_v2.1,All That Glitters v2.1,2229800,2023-06-05T02:36:29.000Z
+67,650e7d643734f4665acc42bc5f19fbf1,goopy,True,sertagatta_v6.0,Sertagatta v6.0,354033,2023-06-04T22:21:25.000Z
+68,2b0b7d64f690ba4fcac2132d4412d85b,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,495800,2023-06-04T22:07:39.000Z
+69,e6087d648ea3c93ed66ef663a0e95a38,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,414700,2023-06-04T21:57:58.000Z
+70,58057d6431b08fe6e8bb06d5016a76ac,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,746867,2023-06-04T21:42:48.000Z
+71,25ff7c64c204b30bd8e7ce1b7518ea50,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1328500,2023-06-04T21:16:21.000Z
+72,c6fb7c64f9815ad60c65e104ed4e9dba,goopy,True,faster_than_light_1.1,Faster Than Light 1.1,745467,2023-06-04T21:01:58.000Z
+73,9afa7c64a1b81833edc201370b735b6b,goopy,True,faster_than_light_1.1,Faster Than Light 1.1,184467,2023-06-04T20:56:58.000Z
+74,a0f67c6413ff0546fd0edceb1678b82b,goopy,False,center_command_bar_v1.0,Center Command BAR v1.0,864600,2023-06-04T20:40:00.000Z
+75,9d9d7c64c81fe0d54b44d64b0ba0c660,goopy,True,center_command_bar_v1.0,Center Command BAR v1.0,926133,2023-06-04T14:20:13.000Z
+76,685d7764dd6a198fbc2d04ae256e680d,goopy,True,titanduel_v3,TitanDuel_V3,867567,2023-05-31T14:44:56.000Z
+77,3e5b7764dd5eca21a444ae50f2393b40,goopy,True,titanduel_v3,TitanDuel_V3,419100,2023-05-31T14:35:42.000Z
+78,74587764efdc80534adf442f15899492,goopy,True,titanduel_v3,TitanDuel_V3,479167,2023-05-31T14:23:48.000Z
+79,74927564f35f9f5a63f821408f620ce9,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1148367,2023-05-30T06:06:44.000Z
+80,329075640d6fd9583407e5d6521c3ba2,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,453833,2023-05-30T05:57:06.000Z
+81,1e8c756454ece4ec6a04a4386e09a046,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,759000,2023-05-30T05:39:42.000Z
+82,c0887564eb29e74a70f1a27de51cf6fc,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,727933,2023-05-30T05:25:20.000Z
+83,e4857564b750dd49eddce06b994885aa,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,576467,2023-05-30T05:13:08.000Z
+84,d2827564cc51d6390f7cbf06bdbc7b47,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,684300,2023-05-30T05:00:02.000Z
+85,367c7564e35c95e48483689d67ee2b52,goopy,True,into_battle_redux_v3,Into Battle Redux v3,392700,2023-05-30T04:31:50.000Z
+86,f7797564b7307fbe8a8fb4435bf24a54,goopy,True,into_battle_redux_v3,Into Battle Redux v3,467933,2023-05-30T04:22:15.000Z
+87,4f6d756494d8b82774aabaab203fb97d,goopy,True,into_battle_redux_v3,Into Battle Redux v3,456700,2023-05-30T03:28:15.000Z
+88,b66a756457028df1fb6a6f29f175ee95,goopy,True,into_battle_redux_v3,Into Battle Redux v3,552833,2023-05-30T03:17:10.000Z
+89,92687564d7cce4bce1356138f2a54c73,goopy,True,into_battle_redux_v3,Into Battle Redux v3,379000,2023-05-30T03:08:02.000Z
+90,e22c746498d231c3b071fd2ffc6086bd,goopy,True,titanduel_v3,TitanDuel_V3,531033,2023-05-29T04:41:06.000Z
+91,872a7464c5962538a3ba4426304e4970,goopy,True,titanduel_v3,TitanDuel_V3,478967,2023-05-29T04:31:03.000Z
+92,a72874648b12eae15c2d36bab210f979,goopy,True,titanduel_v3,TitanDuel_V3,154333,2023-05-29T04:23:03.000Z
+93,5c25746466128c73c39c87373ae86fb1,goopy,True,titanduel_v3,TitanDuel_V3,675900,2023-05-29T04:09:00.000Z
+94,362374645731e93d59f84e3f51306de2,goopy,True,titanduel_v3,TitanDuel_V3,400967,2023-05-29T03:59:50.000Z
+95,501174643f6fb0261f67591e63fb9d49,goopy,False,throne_v8,Throne_V8,2196833,2023-05-29T02:43:28.000Z
+96,aeff6e6403808bdb64386964446f31bb,goopy,True,titanduel_v3,TitanDuel_V3,744900,2023-05-25T06:26:54.000Z
+97,affd6e64be1cefb6ac90887803394589,goopy,True,titanduel_v3,TitanDuel_V3,395500,2023-05-25T06:18:23.000Z
+98,1cfa6e64e310fe4467c06a3ed412b907,goopy,True,titanduel_v3,TitanDuel_V3,765500,2023-05-25T06:03:08.000Z
+99,0a566c647882b4aa03541c36fd2c6197,goopy,True,Rosetta1.4,Rosetta 1.4,1480900,2023-05-23T05:58:34.000Z
+100,c7f46a641486a9626d7229bcda4a075c,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,2035567,2023-05-22T04:51:19.000Z
+101,cde76a646118f907f00de3792b2a5c33,goopy,True,eight_horses_1.2,Eight Horses 1.2,2630500,2023-05-22T03:55:57.000Z
+102,b4976a644b87589ff1ea2c73b5ccaf96,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,495700,2023-05-21T22:14:12.000Z
+103,dc956a64da876c12c6a6d0f34d5f269c,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,342567,2023-05-21T22:06:20.000Z
+104,82896a64a274c7c2d766df4588c0c640,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,757867,2023-05-21T21:13:38.000Z
+105,036f68645c70ba7f48b5ca4892f28d83,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1225733,2023-05-20T06:56:03.000Z
+106,58676864c2ae416f3e41cc45af9ab957,goopy,True,thermal_shock_v1.1,Thermal Shock v1.1,1399867,2023-05-20T06:23:20.000Z
+107,83616864784977820a1a3af301b4d204,goopy,True,forge_v1.4,Forge v1.4,1234400,2023-05-20T05:58:27.000Z
+108,094b616464c021cb7a8b9d480b8eca5c,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,912100,2023-05-14T20:56:41.000Z
+109,b4466164e3d4947324df8e5d0c8fc3a3,goopy,True,titanduel_v3,TitanDuel_V3,526800,2023-05-14T20:38:12.000Z
+110,bd4361641df45faadce99daddf33eef6,goopy,False,titanduel_v3,TitanDuel_V3,618433,2023-05-14T20:25:33.000Z
+111,43416164cd030c4746cf142d4b872c16,goopy,True,titanduel_v3,TitanDuel_V3,532700,2023-05-14T20:14:59.000Z
+112,d63e61649f06d4c6fb17ce010e3eb4bb,goopy,True,titanduel_v3,TitanDuel_V3,507000,2023-05-14T20:04:38.000Z
+113,413d6164142c41878a20a9e918a22013,goopy,True,titanduel_v3,TitanDuel_V3,324900,2023-05-14T19:57:53.000Z
+114,ab3a616439481b9681b8aa7ebdb8efec,goopy,True,titanduel_v3,TitanDuel_V3,495033,2023-05-14T19:46:51.000Z
+115,1d325f641ad156ab21c77e43adba80df,goopy,False,NuclearWinterR,Nuclear Winter Bar 1.4,1697600,2023-05-13T06:45:49.000Z
+116,13285f647f54dfdd0aad7d2eba579792,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2050067,2023-05-13T06:02:59.000Z
+117,3d225f6479e0312c03dc2af02ada06b2,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1113567,2023-05-13T05:38:05.000Z
+118,eb715e645b06e3dfff0113227bb73d2f,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,763567,2023-05-12T17:05:47.000Z
+119,826e5e64a65e2569ee1d3ecef4884c02,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,657000,2023-05-12T16:51:14.000Z
+120,f86b5e643065e9593ac17913efd6be92,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,486267,2023-05-12T16:40:24.000Z
+121,0a6b5e64d529713d9ad099880bce4d9e,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,139967,2023-05-12T16:36:26.000Z
+122,d1685e641059cfb788e07db4fd17ea72,goopy,False,desolation,Desolation v1,437833,2023-05-12T16:26:57.000Z
+123,8a655e64e2985380e9470b33e8599484,goopy,True,desolation,Desolation v1,728900,2023-05-12T16:12:58.000Z
+124,d5625e6437048e37ae2e5e6320d69182,goopy,False,desolation,Desolation v1,579300,2023-05-12T16:01:25.000Z
+125,e35f5e64bb51187cd953626511fd544a,goopy,True,hooked_1.1,Hooked 1.1,356533,2023-05-12T15:48:51.000Z
+126,f65c5e6419c210fa18f26dab82d683b0,goopy,True,hooked_1.1,Hooked 1.1,507167,2023-05-12T15:36:22.000Z
+127,a15a5e64e180bf9e31041ae6d3cd857c,goopy,True,hooked_1.1,Hooked 1.1,158067,2023-05-12T15:26:25.000Z
+128,c0a358641ff01f5986470bd59129247b,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,632833,2023-05-08T07:24:48.000Z
+129,869f58641c27bb67853cad2fd8fb1798,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,760167,2023-05-08T07:06:46.000Z
+130,3b9b5864890c464b03fbdee05e5b7445,goopy,False,fallendell_v4,Fallendell_V4,897400,2023-05-08T06:48:27.000Z
+131,8e975864ab570cce3235645a2d2650b5,goopy,True,faster_than_light_1.1,Faster Than Light 1.1,697933,2023-05-08T06:32:46.000Z
+132,70905864d03cda8dd0a2174b628983ba,goopy,False,faster_than_light_1.1,Faster Than Light 1.1,392033,2023-05-08T06:02:24.000Z
+133,a79854643b10a96b1da83a910a22448e,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2411900,2023-05-05T05:48:23.000Z
+134,229154644e9a02e356348c7461eae636,goopy,True,sulphur_springs_v1.1,Sulphur Springs v1.1,1324700,2023-05-05T05:16:18.000Z
+135,02055264f59258597ef4c313bca8ee47,goopy,False,colorado_v2_1.1,Colorado_V2 1.1,1008533,2023-05-03T06:53:54.000Z
+136,7401526496d8c1480f65a81c463f7011,goopy,False,theta_crystals_1.0,Theta Crystals 1.0,644200,2023-05-03T06:38:44.000Z
+137,6ff551643101b93726c8372e24b953bc,goopy,False,valles_marineris_2.6,Valles Marineris 2.6,2657467,2023-05-03T05:47:27.000Z
+138,5ae6516426bba9297dd78f7178a4e647,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1283067,2023-05-03T04:43:06.000Z
+139,5fbd5064a1a037f20fc366c3423bf580,goopy,True,FolsomdamR_1.16,FolsomDamR 1.16,626467,2023-05-02T07:35:59.000Z
+140,38b55064827a7659169e87bd08aba487,goopy,True,colorado_v2_1.1,Colorado_V2 1.1,1741567,2023-05-02T07:01:12.000Z
+141,7ab15064fc0db5e98cd4737bde75b187,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,568900,2023-05-02T06:45:14.000Z
+142,5da45064fa7559e7dd7f1eb170b71cba,goopy,True,valles_marineris_2.6,Valles Marineris 2.6,2109700,2023-05-02T05:49:17.000Z
+143,68554f640367a1cae4b100e18263714e,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,849933,2023-05-01T06:00:08.000Z
+144,6d534f64f960af1971c5ba43db2c0399,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,360667,2023-05-01T05:51:41.000Z
+145,e8474f6408674680ece5d58c81fd4f85,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1262967,2023-05-01T05:02:32.000Z
+146,a5134f641f2c31feed609499e8624d9a,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,831933,2023-05-01T01:19:33.000Z
+147,fb104f64721fa021cd1b866fc7dacac8,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,561033,2023-05-01T01:08:11.000Z
+148,7cfa4d6403c1293e0eb2786acc23d8ac,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,503900,2023-04-30T05:19:56.000Z
+149,8cf74d642b12af431c567b59f7b8bf23,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,655167,2023-04-30T05:07:24.000Z
+150,1cf44d647081372325355f9705851528,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,579467,2023-04-30T04:52:44.000Z
+151,d4f24d64627c2cfd27aba5fef14d721b,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,190400,2023-04-30T04:47:16.000Z
+152,9aef4d64db4f4f9697765e34582bcc8d,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,625567,2023-04-30T04:33:30.000Z
+153,cded4d64d33d322f12f8a7b04536cd7c,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,352900,2023-04-30T04:25:49.000Z
+154,8a3c4d642f03793802f1b98f8dd3f70b,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1157967,2023-04-29T15:49:30.000Z
+155,88374d6483543d6773eea0d29657bddd,goopy,True,heartbreak_hill_v4,Heartbreak Hill v4,1110400,2023-04-29T15:28:08.000Z
+156,64334d64de69da98b368502e4f224482,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,892400,2023-04-29T15:10:28.000Z
+157,3b2f4d64d921314431704b38aefe663e,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,964300,2023-04-29T14:52:43.000Z
+158,abaf4c647c1a64791fe3a175de93ba01,goopy,True,avalanche_3.4,Avalanche 3.4,608633,2023-04-29T05:48:27.000Z
+159,ebad4c64fb5a485f39828d70badd27f9,goopy,True,avalanche_3.4,Avalanche 3.4,315067,2023-04-29T05:40:59.000Z
+160,baa84c645a8ea61772b5f2e98ecdb281,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1000400,2023-04-29T05:18:50.000Z
+161,4ca64c6412d85ad39c81871dcd75d824,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,450867,2023-04-29T05:08:28.000Z
+162,51a44c64f6ac45106230e819fa8bedce,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,315333,2023-04-29T05:00:01.000Z
+163,1d6b4b6425aafcbaa9af6351f4f5af0f,goopy,False,forge_v1.4,Forge v1.4,1064500,2023-04-28T06:43:41.000Z
+164,dd614b6474ae33a646175bc34f7c8a0b,goopy,True,Riverrun_V1,Riverrun_V1,1854033,2023-04-28T06:04:13.000Z
+165,cc594b64dca70590be35a25c418f1ec9,goopy,True,starwatcher_0.9,Starwatcher 0.9,1745333,2023-04-28T05:29:48.000Z
+166,b71a466485ad6458e99c72114ced801b,goopy,True,colorado_v2_1.1,Colorado_V2 1.1,807033,2023-04-24T05:59:19.000Z
+167,9b0f4664b6b2117cdd17acfe655227dc,goopy,True,valles_marineris_2.6,Valles Marineris 2.6,779600,2023-04-24T05:11:55.000Z
+168,4b024664b94284642f45784a7de283b7,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2507600,2023-04-24T04:15:07.000Z
+169,aaf74564372c2630c42ba67009359541,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,2060067,2023-04-24T03:29:46.000Z
+170,00ac45649a422b3b9b7e81aeadfa93b9,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,537700,2023-04-23T22:06:56.000Z
+171,1ea84564b5dbd0aa11498f04e602a364,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,792633,2023-04-23T21:50:22.000Z
+172,70a1456473bd683fd6b75eacbf5c9d67,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1499533,2023-04-23T21:21:52.000Z
+173,2f9d4564a6f4342392537f3580b197b9,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,921600,2023-04-23T21:03:43.000Z
+174,26994564419c8199679914a688c3d085,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,875333,2023-04-23T20:46:30.000Z
+175,cc954564ca25654f9776fd67c66cb2d8,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,729733,2023-04-23T20:32:12.000Z
+176,697b4164be5864a00731e58439e4c1bb,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1051967,2023-04-20T17:50:33.000Z
+177,f774416426a43e0dbd56c6f99ca8c69b,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1317267,2023-04-20T17:23:03.000Z
+178,ea6f41641ad118562479f63782ff7c77,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1102467,2023-04-20T17:01:30.000Z
+179,49883d64dbd27b6c3b9392e1af590f64,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1175367,2023-04-17T17:56:25.000Z
+180,05853d64feb485d9ba43c03af5ef27bb,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,422767,2023-04-17T17:42:29.000Z
+181,f4723d64b2704e8f97528819dc5777a1,goopy,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1951400,2023-04-17T16:25:24.000Z
+182,1c613c64d0d00a9dfbb8db049a4e6c70,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,648733,2023-04-16T20:57:00.000Z
+183,045d3c64be902dc0fd98825d0fb87b93,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,929600,2023-04-16T20:39:32.000Z
+184,8ab13164f9ecaa5f6d385326db803c19,goopy,False,Crystallized Plains 1.01,Crystallized Plains 1.01,983533,2023-04-08T18:25:14.000Z
+185,3aa731643a16f3073a7d0dac58496f19,goopy,False,theta_crystals_1.0,Theta Crystals 1.0,2117300,2023-04-08T17:41:14.000Z
+186,f49d3164a72873aa47c5449dc912a9fb,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,461833,2023-04-08T17:01:40.000Z
+187,b59b31644737da1047bb0ff0aad05f3a,goopy,True,Cirolata 1.02,Cirolata 1.02,419567,2023-04-08T16:52:05.000Z
+188,a484316426570cb811cc6c2791aec266,goopy,True,avalanche_3.4,Avalanche 3.4,342533,2023-04-08T15:13:40.000Z
+189,f17c31647616ebe954a8dcf2a001e0d4,goopy,True,zed_remake_3.3,Zed Remake 3.3,624667,2023-04-08T14:40:49.000Z
+190,b7763164a888314ba5ecbf23e7787227,goopy,True,into_battle_redux_v3,Into Battle Redux v3,343500,2023-04-08T14:14:15.000Z
+191,7abc2f649866cf9dd6343870ba11a3d3,goopy,True,into_battle_redux_v3,Into Battle Redux v3,328967,2023-04-07T06:47:22.000Z
+192,ddb62f64193dc12f5da19ec342636c8c,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,1042100,2023-04-07T06:23:25.000Z
+193,3eb52f64888951e028139db45312a920,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,315633,2023-04-07T06:16:30.000Z
+194,03b22f644a0d0219fffbe3cf606d8e6f,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,659567,2023-04-07T06:02:43.000Z
+195,afad2f64b092f65737092d81378e425c,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,889267,2023-04-07T05:44:15.000Z
+196,b0a82f648087b6dfeca84a891ee104d4,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,753800,2023-04-07T05:22:56.000Z
+197,66a32f64bef107960ac9e2f00c789591,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1043833,2023-04-07T05:00:22.000Z
+198,aefe2e64367203ea740e9b7b3e6683bf,goopy,True,supreme_strait_v1.3,Supreme Strait v1.3,1140433,2023-04-06T17:17:34.000Z
+199,20f62e64a67e805c65a1bbd6c05d3e97,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1047633,2023-04-06T16:41:04.000Z
+200,7a5f2e64ec09b0805edce83687425059,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,904000,2023-04-06T05:58:18.000Z
+201,e45a2e643bd5a6850a47968a0016ad6d,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,445800,2023-04-06T05:38:44.000Z
+202,bb572e646df771fff55f2e5ad91835f8,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,433767,2023-04-06T05:25:15.000Z
+203,5b532e643e6cc045e5ad942276091b4d,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,892867,2023-04-06T05:06:35.000Z
+204,06bb2b648464ab4e3796d41d9f9ec703,goopy,False,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,1188567,2023-04-04T05:52:06.000Z
+205,81b52b6446d6670c4fa0da2e5d2390f5,goopy,True,sertagatta_v5,Sertagatta_V5,1187500,2023-04-04T05:28:33.000Z
+206,82072b64e4a94a19f84d443cbd846785,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,579833,2023-04-03T17:06:10.000Z
+207,59022b64c6b1d5cdd38a3a2d22ffcd96,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1120800,2023-04-03T16:44:09.000Z
+208,2eff2a64fdf5f8550bcb78232b7cb077,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,649000,2023-04-03T16:30:38.000Z
+209,415b28649b534e86894ceeb48f491ac9,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,762567,2023-04-01T16:26:41.000Z
+210,5656286426750b00e21a2b40747fffc5,goopy,False,zed_remake_3.3,Zed Remake 3.3,840367,2023-04-01T16:05:42.000Z
+211,cb542864beafa3fcc7e4b96e2629595f,goopy,True,zed_remake_3.3,Zed Remake 3.3,257600,2023-04-01T15:59:07.000Z
+212,66802664516375c4b01afdadb73a6c2a,goopy,False,theta_crystals_1.0,Theta Crystals 1.0,1672000,2023-03-31T06:40:38.000Z
+213,907d2664f39ea1e463a70fca15cca4e0,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,613067,2023-03-31T06:28:32.000Z
+214,d27926642cb66955945f7d20f4ec8de8,goopy,True,altair_crossing_V4,Altair_Crossing_V4,482233,2023-03-31T06:12:34.000Z
+215,02772664a163e4352d6706bb51623196,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,506367,2023-03-31T06:00:34.000Z
+216,aa742664b018b5d8b081c7efc4f147c7,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,465733,2023-03-31T05:50:34.000Z
+217,957226640047bd30fb2ece3eb2577490,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,402800,2023-03-31T05:41:41.000Z
+218,786e2664226a02a26d4e15aca0933c72,goopy,False,Cirolata 1.02,Cirolata 1.02,926233,2023-03-31T05:24:08.000Z
+219,2562246401dd23f70aba5ff01a154d9b,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1002000,2023-03-29T16:07:01.000Z
+220,f7d52364abf5d2ccb76a20a126f0965b,goopy,True,zed_remake_3.3,Zed Remake 3.3,404700,2023-03-29T06:08:55.000Z
+221,12212364cd94d971515d58f139d65466,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,703033,2023-03-28T17:17:06.000Z
+222,1c14236465ffb6e81577b418a785810d,goopy,False,supreme_crossing_2.2,Supreme_Crossing 2.2,2153700,2023-03-28T16:21:48.000Z
+223,6172226484d52276bd0b0ba00f46e2b8,goopy,False,tetrad_v2,Tetrad_V2,1849800,2023-03-28T04:51:45.000Z
+224,aac721643d1ec5817becdb45ca4bf79d,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,1486267,2023-03-27T16:43:22.000Z
+225,46c321648b184c5133c26cee43c50822,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,964533,2023-03-27T16:24:38.000Z
+226,e80021646dfe1035f728f17622c92e24,goopy,True,NuclearWinterR,Nuclear Winter Bar 1.4,1652067,2023-03-27T02:35:20.000Z
+227,00c02064a218cb7fe4c5c6fa284f6bf7,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,382367,2023-03-26T21:58:24.000Z
+228,4cb920646b24349a6abdc18dfb47dd7b,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,1399300,2023-03-26T21:29:48.000Z
+229,2ab72064579797c7aa22e0a0a2ed1111,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,416100,2023-03-26T21:20:42.000Z
+230,31b42064266dec80e28c538f829ede1d,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,609733,2023-03-26T21:08:01.000Z
+231,b2b0206446d7696c57df574cc822cf64,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,749800,2023-03-26T20:53:06.000Z
+232,cee81f6448f61bed4c9bfa97057f1487,goopy,True,altair_crossing_V4,Altair_Crossing_V4,495167,2023-03-26T06:40:14.000Z
+233,c2e71f64293d46876d13135090e9194d,goopy,True,altair_crossing_V4,Altair_Crossing_V4,173800,2023-03-26T06:35:46.000Z
+234,e3de1f64c221376b79f9b63e06dbd612,goopy,True,altair_crossing_V4,Altair_Crossing_V4,271633,2023-03-26T05:57:55.000Z
+235,05dc1f640c89bf482078204a4367ce10,goopy,True,altair_crossing_V4,Altair_Crossing_V4,264400,2023-03-26T05:45:41.000Z
+236,95da1f6422a0a0501d1b34a4296754c7,goopy,True,altair_crossing_V4,Altair_Crossing_V4,246900,2023-03-26T05:39:33.000Z
+237,f1831e6417e800e0cb64a4c58b03b1eb,goopy,True,Crescent_Bay_V2,Crescent_Bay_V2,1792133,2023-03-25T05:17:37.000Z
+238,dfe01d64a39064b02f42ea6f8f05809a,goopy,True,ravaged_remake_v1.1,Ravaged Remake v1.1,1229133,2023-03-24T17:41:51.000Z
+239,fddc1d6476ff1c1ea57fcfe9d72878dc,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,631667,2023-03-24T17:25:17.000Z
+240,178e1c6487318b5735be68a5b71e7705,goopy,False,theta_crystals_1.0,Theta Crystals 1.0,1374833,2023-03-23T17:36:23.000Z
+241,358b1c6461e49f9363183efafa41ef9c,goopy,True,theta_crystals_1.0,Theta Crystals 1.0,614067,2023-03-23T17:24:05.000Z
+242,50871c64a91593764d15f9a2c43db9e7,goopy,False,theta_crystals_1.0,Theta Crystals 1.0,847867,2023-03-23T17:07:28.000Z
+243,7d3b1b64123ee39c29ec8eab11300fff,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,806733,2023-03-22T17:31:41.000Z
+244,c0341b64e3aedc2802a0fe7a48b7e5ec,goopy,True,tundra_v2,Tundra_V2,604833,2023-03-22T17:02:56.000Z
+245,40931a648466d57d420fc5c311e32863,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1124767,2023-03-22T05:33:52.000Z
+246,f8f11964feb81dd001422deed4c879af,goopy,True,death_valley_v1,Death Valley v1,1287567,2023-03-21T18:05:44.000Z
+247,83451964491d35606c634079fdd94847,goopy,True,avalanche_3.4,Avalanche 3.4,245167,2023-03-21T05:49:55.000Z
+248,4344196447cbdf4b5ef0775759dc44a1,goopy,True,avalanche_3.4,Avalanche 3.4,226100,2023-03-21T05:44:35.000Z
+249,8a3f19645310f702e8b2ce0219351658,goopy,False,avalanche_3.4,Avalanche 3.4,399067,2023-03-21T05:24:26.000Z
+250,4b3d196478bdf63570f09353780ea2d0,goopy,True,into_battle_redux_v3,Into Battle Redux v3,398600,2023-03-21T05:14:51.000Z
+251,9e9118644becc168afa5403757ec7810,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,907233,2023-03-20T17:02:21.000Z
+252,bfe6176433271e2100431b5b78874e42,goopy,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,469633,2023-03-20T04:53:19.000Z
+253,59dd17649259770a93dff194e520f882,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,1936500,2023-03-20T04:13:13.000Z
+254,8d9217645ab739bc4862ca9a5fd1e141,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1022500,2023-03-19T22:54:05.000Z
+255,c98a17644595f4f0dd4962be7de942d9,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1132500,2023-03-19T22:20:57.000Z
+256,087c176429f966eab2497da3fa49abff,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1698433,2023-03-19T21:18:00.000Z
+257,c6741764713819acea8047738b6293cd,goopy,False,into_battle_redux_v3,Into Battle Redux v3,927233,2023-03-19T20:47:02.000Z
+258,4a721764e15a5eef671f851a0e5cc739,goopy,True,the_cold_place_BAR_v1.1,The Cold Place BAR v1.1,454400,2023-03-19T20:36:26.000Z
+259,b6011464421e510e5f452b38940d0e10,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,552267,2023-03-17T05:59:18.000Z
+260,89f9136497a938d579684515fa7fd267,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1834900,2023-03-17T05:24:25.000Z
+261,80541364457fd1039ede4c4dd3e7f55b,goopy,True,death_valley_v1,Death Valley v1,496067,2023-03-16T17:40:16.000Z
+262,4e4f136465c6582e9bca697df9c06e45,goopy,True,death_valley_v1,Death Valley v1,791833,2023-03-16T17:18:06.000Z
+263,bb4c136483701540f20d72004eadcb46,goopy,True,death_valley_v1,Death Valley v1,566900,2023-03-16T17:07:07.000Z
+264,6d4b1364224a39f5e92c5cab8fd41102,goopy,True,death_valley_v1,Death Valley v1,236600,2023-03-16T17:01:33.000Z
+265,d94613645b2cebf5616888bf0b83694c,goopy,False,death_valley_v1,Death Valley v1,740267,2023-03-16T16:42:01.000Z
+266,b24313640366b8c60465471f903d1061,goopy,True,death_valley_v1,Death Valley v1,640967,2023-03-16T16:28:34.000Z
+267,86cb126490cc601938dc44639e87a832,goopy,True,avalanche_3.4,Avalanche 3.4,1040000,2023-03-16T07:55:50.000Z
+268,87c21264f235495a52fbe32257f04a06,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1953933,2023-03-16T07:17:27.000Z
+269,c9bb126427a59d289c9feb9985d1d398,goopy,True,forge_v1.4,Forge v1.4,1296900,2023-03-16T06:48:41.000Z
+270,5cb71264826f58938a4c3a65099e88c7,goopy,True,eight_horses_1.2,Eight Horses 1.2,641700,2023-03-16T06:29:48.000Z
+271,dfac1264d7a7dbeede1d7171e6bb3bc5,goopy,True,carrot_mountains_v1.0,Carrot Mountains v1.0,2088700,2023-03-16T05:45:03.000Z
+272,1ba51264372f89e72e321dd2bc34059c,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,1513733,2023-03-16T05:11:55.000Z
+273,e29b0e6419cb0716cb33ac7e51193564,goopy,True,lightside_darkside_v2.0,Lightside Darkside v2.0,3186533,2023-03-13T03:43:30.000Z
+274,0e3a0c64da445e8e66643e54c4df3ed1,goopy,False,eight_horses_1.2,Eight Horses 1.2,2236800,2023-03-11T08:21:34.000Z
+275,60760b64779b675747a8cd3da861f1d6,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,678867,2023-03-10T18:26:40.000Z
+276,31710b64732c6b3275445e2a8b900ff5,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,660433,2023-03-10T18:04:33.000Z
+277,7d6c0b6476caf35248b8c9cd77d587a5,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,999567,2023-03-10T17:44:29.000Z
+278,3c8409647a0eaa10034513bab72e18bb,goopy,True,dsdr_4.1,DSDR 4.1,767767,2023-03-09T07:01:16.000Z
+279,a17e0964a7008945f07a0ecca053eff5,goopy,True,dsdr_4.1,DSDR 4.1,826567,2023-03-09T06:37:21.000Z
+280,42290864f56389973568f128c42da4b2,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,713900,2023-03-08T06:20:50.000Z
+281,6f260864f26d3bbaf07e2bf938b8a2e1,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,610567,2023-03-08T06:08:47.000Z
+282,1e2208642ad6dc5c6893ac0dbc35d105,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,963667,2023-03-08T05:50:22.000Z
+283,2c2108640c70f0f7149a488e6bd4855c,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,132267,2023-03-08T05:46:20.000Z
+284,bb8c0764d1ac3142c3f671b98ff8ad61,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,661800,2023-03-07T19:12:59.000Z
+285,23890764c8d71c1b4d43b4294ef9c253,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,757033,2023-03-07T18:57:39.000Z
+286,8778076408146654fdc4be50ff9a3410,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,752233,2023-03-07T17:46:47.000Z
+287,e0760764addf2ffb63480c1b508b5554,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,329133,2023-03-07T17:39:44.000Z
+288,33740764477de07c1b0313fb602c2600,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,538633,2023-03-07T17:28:19.000Z
+289,ae6f0764b6104d7b48902b61d6c8f0b5,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,1065833,2023-03-07T17:09:02.000Z
+290,8e6c07648d883f44908d2b7dae7e9daa,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,713967,2023-03-07T16:55:42.000Z
+291,526a0764c7f3af6d9960debbcbaac97c,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,443300,2023-03-07T16:46:10.000Z
+292,b83a066416585bd8b7ebcfac0d3e1732,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,298567,2023-03-06T19:10:48.000Z
+293,dd38066498a5056ae28c7499d9aaffff,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,304700,2023-03-06T19:02:53.000Z
+294,402306645e3c1614a9413aca21d9003f,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,962000,2023-03-06T17:30:40.000Z
+295,331f0664a6b61ea3ec22d1c2baef6582,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,910867,2023-03-06T17:13:23.000Z
+296,321906648ab250a10df273b0bc8d1251,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,730067,2023-03-06T16:47:46.000Z
+297,a47f0564fa9dd4223e0ba9728593b750,goopy,False,tundra_v2,Tundra_V2,1038300,2023-03-06T05:52:36.000Z
+298,f07b05641a840d7610b07b5628add2a5,goopy,False,tundra_v2,Tundra_V2,724767,2023-03-06T05:36:48.000Z
+299,8d1e05646f58c5850fe0f2ad2e9af6e4,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,350000,2023-03-05T22:58:21.000Z
+300,0a1b0564f53d512e208d028138294410,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,721300,2023-03-05T22:43:22.000Z
+301,6f170564559fde9a1fa99625847e4819,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,788933,2023-03-05T22:27:59.000Z
+302,2b1605644e586fc7b07bab4bf816f868,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,248100,2023-03-05T22:22:35.000Z
+303,6a120564e476bbe09ccd56111937048b,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,879967,2023-03-05T22:06:34.000Z
+304,7e8301644bd8086111e48972b0f39bbf,goopy,True,neurope_remake_4.2,Neurope_Remake 4.2,1851400,2023-03-03T05:19:58.000Z
+305,76de00644d96c48a64f9dc938cc22e8f,goopy,False,NuclearWinterR,Nuclear Winter Bar 1.4,1526433,2023-03-02T17:35:50.000Z
+306,c8d800649162a2362eb9b02fa7cdce56,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,878000,2023-03-02T17:11:36.000Z
+307,a0390064ea2b8c192647a7ec976d5eeb,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,988233,2023-03-02T05:52:32.000Z
+308,0e3700646d11f035fbe0272fa99c2743,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,451100,2023-03-02T05:41:34.000Z
+309,e5a2ff6385a3aebed868aa9e4e19f448,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,260967,2023-03-01T19:09:25.000Z
+310,c792ff638d0c73e26000afaa44f1f433,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,261033,2023-03-01T18:00:39.000Z
+311,6e8bff630f627abb304f12c6ae293c52,goopy,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,1534433,2023-03-01T17:29:18.000Z
+312,b93bfe63c06086a4ac684e875dcea05b,goopy,False,titan_v3.1,Titan v3.1,1056933,2023-02-28T17:36:57.000Z
+313,57a0fd634c148f860d3bd39dd7c1faa6,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,330100,2023-02-28T06:33:59.000Z
+314,f09cfd63cbae19e8f53e375d40d32fb4,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,494300,2023-02-28T06:19:28.000Z
+315,8b99fd63cc0361398a46f6bf90ff75e2,goopy,True,into_battle_redux_v3,Into Battle Redux v3,545267,2023-02-28T06:04:59.000Z
+316,f997fd63a007aee842d1288dbb47c1d3,goopy,True,into_battle_redux_v3,Into Battle Redux v3,283100,2023-02-28T05:58:17.000Z
+317,a0e2fb630add041ac155dbb053708383,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,358000,2023-02-26T22:52:16.000Z
+318,addffb63c4273ebd64d531337223408b,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,650067,2023-02-26T22:39:41.000Z
+319,f8ddfb636d661ab8408aead61d10f37d,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,359033,2023-02-26T22:32:24.000Z
+320,95d9fb63e56924939e6b5d6565c8d228,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,992900,2023-02-26T22:13:41.000Z
+321,8804fb6341a6a17a4412d5309965ae17,goopy,True,avalanche_3.4,Avalanche 3.4,312033,2023-02-26T07:04:40.000Z
+322,2d01fb6352cb06aa3199f13cecfb1c6f,goopy,False,mithril_mountain_v2,Mithril Mountain v2,737533,2023-02-26T06:50:21.000Z
+323,75fdfa6330a1463f8da4577b51bf60d4,goopy,True,mithril_mountain_v2,Mithril Mountain v2,845200,2023-02-26T06:34:29.000Z
+324,5b49fa638ab2566cbf597d69c8fd7b77,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,579167,2023-02-25T17:46:03.000Z
+325,1246fa63003e5eb9b889b8f3ee7381ec,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,599767,2023-02-25T17:32:02.000Z
+326,8bb7f9630644a128c2690eb0e1c15cd0,goopy,True,tundra_v2,Tundra_V2,870733,2023-02-25T07:23:55.000Z
+327,96fcf863d23f22cb1f580aa707fd422e,goopy,True,Pinewood_Derby_V1,Pinewood_Derby_V1,4514966,2023-02-24T18:06:14.000Z
+328,daa8f763435783ad028b7f60668760ad,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,683033,2023-02-23T17:56:42.000Z
+329,cea4f763cc131f696f47b92e6a886011,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,846133,2023-02-23T17:39:26.000Z
+330,d84bf663bd105cbbff56fc7c4751e038,goopy,True,eight_horses_1.0,Eight Horses 1.0,2631800,2023-02-22T17:07:36.000Z
+331,d50cf5633068da5e7afd946c08d95621,goopy,True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,243933,2023-02-21T18:26:29.000Z
+332,4b09f56325d131956cb93f6847e7e4ba,goopy,True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,774533,2023-02-21T18:11:23.000Z
+333,2006f563eb8fd0051a3ff5cfc3b403c0,goopy,True,seths_ravine_remake_1.3,Seths Ravine Remake 1.3,591033,2023-02-21T17:57:52.000Z
+334,fe02f5633be1c38e431a7cf1621baa7a,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,507767,2023-02-21T17:44:30.000Z
+335,01b8f363dd1859c409f1d3097b142ef6,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,841033,2023-02-20T18:12:17.000Z
+336,3cb5f3632e07ae68334705a50b910116,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,627067,2023-02-20T18:00:28.000Z
+337,a1b2f363ef98064a72fcf6a3b44c747c,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,565600,2023-02-20T17:49:21.000Z
+338,3db0f3634d269fd294495c84d70c7cc1,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,507433,2023-02-20T17:39:09.000Z
+339,56fcf263f156de1da1914b124e8a129c,goopy,True,Rosetta1.4,Rosetta 1.4,2177933,2023-02-20T04:51:34.000Z
+340,6ce9f263dba21a3b4ff70b89f34722dd,goopy,False,dsdr_4.1,DSDR 4.1,4263200,2023-02-20T03:30:52.000Z
+341,a1ddf2637df75bcb0ed1cd73e5291aa7,goopy,True,Riverrun_V1,Riverrun_V1,2438333,2023-02-20T02:40:33.000Z
+342,dbaef263a0dbe6c3f17665ffb42149b6,goopy,False,avalanche_3.4,Avalanche 3.4,249067,2023-02-19T23:20:59.000Z
+343,83aaf263e4200da072f2c02564cd1eba,goopy,False,copper_hill_v1,Copper Hill v1,796767,2023-02-19T23:02:27.000Z
+344,d0a7f2630248e85157e9f7a49656d84c,goopy,False,copper_hill_v1,Copper Hill v1,611300,2023-02-19T22:50:56.000Z
+345,b9cfef63a694d81ced773fad5fbfda19,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1034067,2023-02-17T19:04:25.000Z
+346,b5ccef6346b98d3795dffa6ec6e7a89f,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,579200,2023-02-17T18:51:33.000Z
+347,a1c1ef6319418e2930a9da752f4abbb6,goopy,True,zed_remake_3.3,Zed Remake 3.3,490700,2023-02-17T18:04:17.000Z
+348,76bdef63301b9c6ca297bb45da14e547,goopy,False,zed_remake_3.3,Zed Remake 3.3,920967,2023-02-17T17:46:30.000Z
+349,c6b6ef639f733a7bc5fde9633c5564e5,goopy,False,zed_remake_3.3,Zed Remake 3.3,1309233,2023-02-17T17:17:58.000Z
+350,9db2ef63513a43f8e1c01e3bc7a29328,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,778933,2023-02-17T17:00:13.000Z
+351,7cafef6322de739458a339fba23e6ca3,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,599233,2023-02-17T16:46:52.000Z
+352,0b76ee6319007da74f2a09f11428fd3e,goopy,False,avalanche_3.4,Avalanche 3.4,402500,2023-02-16T18:29:31.000Z
+353,aa6fee6333deb3619c001b716ae39a99,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1420767,2023-02-16T18:02:18.000Z
+354,e96bee63f721f256da93a725068e0098,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,870167,2023-02-16T17:46:17.000Z
+355,2966ee63cc43d28b004b504a4bec4fbb,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1293467,2023-02-16T17:21:45.000Z
+356,90d9ed637c5edfabc32bbe43eccbf802,goopy,True,mithril_mountain_v2,Mithril Mountain v2,736100,2023-02-16T07:21:52.000Z
+357,bed6ed63d3e09303a59ca233f268903a,goopy,True,avalanche_3.4,Avalanche 3.4,440567,2023-02-16T07:09:50.000Z
+358,d5d2ed637cada8a8124f48b6d8150f97,goopy,True,avalanche_3.4,Avalanche 3.4,644367,2023-02-16T06:53:09.000Z
+359,87cfed637a6ec1db4fb600f92786a694,goopy,True,avalanche_3.4,Avalanche 3.4,577600,2023-02-16T06:39:03.000Z
+360,fc12ed63f44cd64d8f5d46a9203dc7ed,goopy,True,copper_hill_v1,Copper Hill v1,397100,2023-02-15T17:14:36.000Z
+361,f510ed6391a1549666ae0fdb10492fe9,goopy,True,copper_hill_v1,Copper Hill v1,398733,2023-02-15T17:05:57.000Z
+362,76cdeb635d44de4f335be1cb3b5928e8,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1346967,2023-02-14T18:05:42.000Z
+363,85c9eb631e11d7c9d9f607f879b63746,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,886200,2023-02-14T17:48:53.000Z
+364,acc5eb630ecf1798e5d650dd301f60a2,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,872533,2023-02-14T17:32:28.000Z
+365,d7c2eb63411c65a38d8a712e1cbf249b,goopy,True,avalanche_3.4,Avalanche 3.4,613500,2023-02-14T17:20:23.000Z
+366,cac0eb63692447aa776ccfc7b499feba,goopy,False,avalanche_3.4,Avalanche 3.4,436100,2023-02-14T17:11:38.000Z
+367,4c6eea63426e123de1d19ed3abba53b1,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,160200,2023-02-13T17:07:24.000Z
+368,376bea63369e16733a123553be7122f8,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,590700,2023-02-13T16:54:15.000Z
+369,a368ea633db2f32182703be2000dd617,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,568533,2023-02-13T16:43:15.000Z
+370,0e65ea6356c418fea062f04c4b966f7b,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,802467,2023-02-13T16:27:58.000Z
+371,e86ae963c39b74b5b45dca9f6761ff90,goopy,True,tundra_v2,Tundra_V2,336967,2023-02-12T22:40:40.000Z
+372,dcd4e763107d2f3e4a96db0c5befd435,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,679700,2023-02-11T17:48:12.000Z
+373,86d2e763b491c2f928913e1424e2b8a6,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,495767,2023-02-11T17:38:14.000Z
+374,6fd8e56312dc0ae0608078a60e02d61f,goopy,False,Rosetta1.4,Rosetta 1.4,1545900,2023-02-10T05:38:55.000Z
+375,f93ae56309863f17779cd7bbfbda77aa,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,1160567,2023-02-09T18:27:05.000Z
+376,1436e563c037db7b9e652f7fb83dd5ed,goopy,False,kolmogorov_remake_3.0,Kolmogorov Remake 3.0,692633,2023-02-09T18:06:12.000Z
+377,2830e56382bd54f884e035391f4c8bdd,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,830367,2023-02-09T17:40:56.000Z
+378,bb2ae563f0058c1e236ebae81388c94b,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,952400,2023-02-09T17:17:47.000Z
+379,41d7e363ca03f881a2f5535ad06f91cb,goopy,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,486067,2023-02-08T17:09:21.000Z
+380,dccfe3639ab3bf2e5d84925a4d19b858,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,934867,2023-02-08T16:37:48.000Z
+381,637be263198aef920996ffdad897cf16,goopy,True,copper_hill_v1,Copper Hill v1,323900,2023-02-07T16:25:07.000Z
+382,e179e263df3064a9f5ff1d182c8e246b,goopy,True,copper_hill_v1,Copper Hill v1,309567,2023-02-07T16:18:41.000Z
+383,5378e263a7a0e74d3eb75a9016f2a828,goopy,True,copper_hill_v1,Copper Hill v1,282967,2023-02-07T16:12:03.000Z
+384,8241e1635d42561143cafad64cf66dfd,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,852667,2023-02-06T18:05:54.000Z
+385,4e3ee1639f61415d75f7ffbce4ace1cf,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,693967,2023-02-06T17:52:14.000Z
+386,9796e0635dc38778c4cff8096b230378,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,689300,2023-02-06T05:56:39.000Z
+387,ba86e063ad288c2c95ed717d0bbd7578,goopy,False,Mediterraneum_V1,Mediterraneum_V1,1645900,2023-02-06T04:48:58.000Z
+388,0e37e0638bf3b9e46f28f48df7d19697,goopy,False,desolation,Desolation v1,1043400,2023-02-05T23:09:02.000Z
+389,e533e063f2526492dd3452b5e29e4ebe,goopy,True,desolation,Desolation v1,713367,2023-02-05T22:55:33.000Z
+390,724bdd63efe8a1303b7e5ebf78a16b2c,goopy,True,fallendell_v4,Fallendell_V4,985433,2023-02-03T17:59:14.000Z
+391,cf49dd63a6accb5bf47160c49b1c6550,goopy,False,fallendell_v4,Fallendell_V4,284300,2023-02-03T17:52:15.000Z
+392,4d43dd630d5ba9fcb0fb47d5d4bc9990,goopy,True,fallendell_v4,Fallendell_V4,1545867,2023-02-03T17:24:29.000Z
+393,beaedc63bd1ef9cae995a0f2986bdb05,goopy,False,shore_to_shore_v3,Shore_to_Shore_V3,2800333,2023-02-03T06:50:38.000Z
+394,83f3db63e99f229bf616d40fc63aa065,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,2123100,2023-02-02T17:31:47.000Z
+395,eaa6da6302775939e04417357e4d5e91,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,640933,2023-02-01T17:52:42.000Z
+396,32a2da631e33e703e427cd1adaf6175b,goopy,True,shallow_straits_v1,Shallow Straits v1,447733,2023-02-01T17:32:34.000Z
+397,589fda63d3f31564582de2b82c628269,goopy,False,avalanche_3.4,Avalanche 3.4,392433,2023-02-01T17:20:24.000Z
+398,699ada63b1c1c0b28a94e9fd65e3fd45,goopy,True,avalanche_3.4,Avalanche 3.4,1160733,2023-02-01T16:59:21.000Z
+399,c997da6312f237d64987723dd4d1f25b,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,553333,2023-02-01T16:48:09.000Z
+400,af55d963997b46bb718e786e275842ed,goopy,False,incandescence_remake_3.3,Incandescence Remake 3.3,623800,2023-01-31T17:53:51.000Z
+401,e73bd76362d4af968c8fe39080479ae7,goopy,True,dsdr_4.1,DSDR 4.1,1052667,2023-01-30T03:39:19.000Z
+402,55f9d663ecc5e789b97b045695c7aa2b,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,678433,2023-01-29T22:55:17.000Z
+403,bbf7d663ee0c1fd8b678b15a9757e43f,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,265767,2023-01-29T22:48:27.000Z
+404,13f3d6634438f25f832636411f8bb5e1,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,541633,2023-01-29T22:28:35.000Z
+405,2ff0d663cd5b1897e6dedbe30bbf4836,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,405300,2023-01-29T22:16:15.000Z
+406,a9edd6634696cabcb712ad5ccbde0f3c,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,431833,2023-01-29T22:05:29.000Z
+407,041dd66380d52b71671508751068944d,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,732567,2023-01-29T07:15:16.000Z
+408,9617d463ad1f3a6885b6f29200507451,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,195133,2023-01-27T18:27:34.000Z
+409,5916d4632da53e0a3cc9821379980688,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,194333,2023-01-27T18:22:17.000Z
+410,5015d463ca4cbc36a4de655ffe9b3ab1,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,116767,2023-01-27T18:17:52.000Z
+411,1a14d46374327d2910b315a92cf51410,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,189867,2023-01-27T18:12:42.000Z
+412,5510d463a8b30bef31736d562eb40421,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,475067,2023-01-27T17:56:37.000Z
+413,bc0dd463272814ef04bb673d1855249f,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,531267,2023-01-27T17:45:32.000Z
+414,210bd46394f93f638e03608d91f309ae,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,426167,2023-01-27T17:34:25.000Z
+415,4601d463c82a6c2b52a508d3f784d1a8,goopy,False,shallow_straits_v1,Shallow Straits v1,616600,2023-01-27T16:52:22.000Z
+416,3d70d163df5795c62c067a465ba598dd,goopy,True,tundra_v2,Tundra_V2,890633,2023-01-25T18:09:01.000Z
+417,e265d163d2c5a0b43cb54d12122a4c64,goopy,False,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,1452000,2023-01-25T17:24:50.000Z
+418,7362d163e063ba6e4468352665d0d042,goopy,True,mithril_mountain_v2,Mithril Mountain v2,367967,2023-01-25T17:10:11.000Z
+419,055ed163883d4c36b7f96da57e2e4160,goopy,False,talus_v2,Talus_v2,798233,2023-01-25T16:51:17.000Z
+420,bccdce63dabc96fc61d487d053468088,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,792333,2023-01-23T18:11:08.000Z
+421,35cace63b3b45c0a3f8c610ff87c10bf,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,716300,2023-01-23T17:56:05.000Z
+422,d6bfce63bae94749a2f4bcaad43d70c2,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1343233,2023-01-23T17:11:50.000Z
+423,e921ce63d9b2552b24c9a2ace131b495,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,914900,2023-01-23T05:58:01.000Z
+424,a91ece6332f30f53d89ba04f71e48039,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,590033,2023-01-23T05:44:09.000Z
+425,321bce634e69b054cc14c6f0424b47d2,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,627967,2023-01-23T05:29:22.000Z
+426,db17ce630499bb2d32c95e30ed320d6f,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,711233,2023-01-23T05:15:07.000Z
+427,fd15ce63bdbb0217eb7dfc5ec35b1d3d,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,376833,2023-01-23T05:07:09.000Z
+428,4413ce63e71ce28d627e3ddb28c1c129,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,621667,2023-01-23T04:55:32.000Z
+429,5310ce6358ce3eeb35446a45938e0e88,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,649067,2023-01-23T04:42:59.000Z
+430,4f0ece63481843e3eb938be4c38fb50b,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,439300,2023-01-23T04:34:23.000Z
+431,3b0cce63c77fb99da91ff3335502ff4c,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,377067,2023-01-23T04:25:31.000Z
+432,cfe3cd6369d5756bf0aa02fd4336443c,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,846433,2023-01-23T01:33:03.000Z
+433,eddfcd63164938eac77d1aaf1cd3535d,goopy,False,titan_v3.1,Titan v3.1,499733,2023-01-23T01:16:29.000Z
+434,f38fcb6348d996c20b735c2157149771,goopy,True,forge_v1.4,Forge v1.4,939533,2023-01-21T07:10:43.000Z
+435,3a7ec9639f0fa08c4d92e41cae6c2256,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,3452267,2023-01-19T17:30:34.000Z
+436,5c7ac963e9842651a5c427a4a644d7f8,goopy,False,all_that_glitters_1.2,All That Glitters v1.2,474600,2023-01-19T17:14:04.000Z
+437,93e1c8633002cb0474b26de76e8f4efb,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,749533,2023-01-19T06:22:11.000Z
+438,6edec863079f3eef5812011df8507b7a,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,295833,2023-01-19T06:08:46.000Z
+439,6d35c863cb07c9b079407e16c588b87e,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,583933,2023-01-18T18:07:41.000Z
+440,8431c863c9c55cf06969f18253044655,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,810000,2023-01-18T17:51:00.000Z
+441,cd2ec863425b3024a388ae21d5d92cd1,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,499500,2023-01-18T17:39:25.000Z
+442,522cc8636d0d022474dd2ed54f918a93,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,453133,2023-01-18T17:28:50.000Z
+443,7729c863d5269840c6d0d30da9053bf9,goopy,False,eye_of_horus_1.7,Eye Of Horus 1.7,588900,2023-01-18T17:16:39.000Z
+444,1427c86338a2c9b0e4dcf1b1820b8c63,goopy,True,barr_1.1,BarR 1.1,483500,2023-01-18T17:06:28.000Z
+445,4cd8c6636615641b0f420e0211c802c3,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1239400,2023-01-17T17:18:04.000Z
+446,67d5c663572c83391e88b0291f697b7d,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,351500,2023-01-17T17:05:43.000Z
+447,5b8fc5634bcc2ac48264e76de25140b9,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1057500,2023-01-16T17:54:35.000Z
+448,578ac563d37e950160c24427aa2154f9,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1015033,2023-01-16T17:33:11.000Z
+449,0c86c563458ff5e137b3bed21d9da7d6,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,827500,2023-01-16T17:14:52.000Z
+450,dc7ec5638293d002772d867d9e975dd7,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1368067,2023-01-16T16:44:12.000Z
+451,2ae7c463051c244ba3e7eb203a8953d7,goopy,True,supreme_strait_v1.1,Supreme Strait v1.1,1431700,2023-01-16T05:56:58.000Z
+452,13d7c46330d4de95d925195f812dc0f4,goopy,True,dsdr_4.1,DSDR 4.1,3603900,2023-01-16T04:48:19.000Z
+453,d0cdc46362e313b64b172edede188bfd,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1929733,2023-01-16T04:08:48.000Z
+454,c186c4639d154e7535d5ac7be883386f,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1132133,2023-01-15T23:05:37.000Z
+455,2783c463545c9b392fded3ab0cb8db15,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,708000,2023-01-15T22:50:15.000Z
+456,c575c46310e0f24d4e78b72a01818a46,goopy,False,dworld_v3,DWorld_V3,2325067,2023-01-15T21:53:09.000Z
+457,d2e1c263843c66adbcc3ea0091a18555,goopy,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,364000,2023-01-14T17:09:38.000Z
+458,cdddc263f32e020c0788502632eddc93,goopy,True,cervino_v1,Cervino v1,711633,2023-01-14T16:52:29.000Z
+459,f9d0c2630f9a9463255232aae640e788,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,391300,2023-01-14T15:57:45.000Z
+460,f7ccc263ce3e52dd7594ddbd2ca0894d,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,432633,2023-01-14T15:40:39.000Z
+461,d5a2c16325673c1c0153d4fdd55bed22,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,409233,2023-01-13T18:28:37.000Z
+462,b09ec163060ca4c29a0e99138a9d0cd7,goopy,False,Crystallized Plains 1.01,Crystallized Plains 1.01,888700,2023-01-13T18:10:56.000Z
+463,fc9bc1638f4973157274e023be7aa51c,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,409833,2023-01-13T17:59:24.000Z
+464,ed45c0637f01cba9d451d6e0b9e54f14,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1644967,2023-01-12T17:39:57.000Z
+465,df33c06333ee952f28c3decd531a875b,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,505467,2023-01-12T16:22:55.000Z
+466,8d31c06343518f296d580d220e34aad3,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,488533,2023-01-12T16:13:01.000Z
+467,892ec0634aca613c6bf783d49208df79,goopy,False,shallow_straits_v1,Shallow Straits v1,685000,2023-01-12T16:00:09.000Z
+468,4d2dc06314a62d35267d5c6695c15659,goopy,False,shallow_straits_v1,Shallow Straits v1,194600,2023-01-12T15:54:53.000Z
+469,5f27c06356661c5b552e4a0dee9461e5,goopy,True,shallow_straits_v1,Shallow Straits v1,1394133,2023-01-12T15:29:35.000Z
+470,eb98bd635ec613e5d9f95a49a2d689ac,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,494833,2023-01-10T16:57:15.000Z
+471,8b0bbd6342d341d30ccd2abed64c13e9,goopy,True,mithril_mountain_v2,Mithril Mountain v2,508600,2023-01-10T06:54:03.000Z
+472,bc07bd6385d75572248b41ed717f004e,goopy,True,mithril_mountain_v2,Mithril Mountain v2,720800,2023-01-10T06:37:48.000Z
+473,f4ffbc6371aade172043efec143a99d2,goopy,True,archsimkats_valley_v1,Archsimkats_Valley_V1,673533,2023-01-10T06:04:36.000Z
+474,c760bc637958f2b181075d769c6149cd,goopy,False,ravaged_v2,Ravaged_v2,795933,2023-01-09T18:45:27.000Z
+475,fa5cbc63384ca08ab8342e5b6cd1c08e,goopy,False,altair_crossing_V4,Altair_Crossing_V4,251233,2023-01-09T18:29:14.000Z
+476,485abc633a812a377b2042a5b9ec0e13,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,476200,2023-01-09T18:17:44.000Z
+477,0857bc635c7b55a84795c6a5e3040c43,goopy,False,shallow_straits_v1,Shallow Straits v1,370400,2023-01-09T18:03:52.000Z
+478,3052bc6369261520ed880d3d50645c92,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,978167,2023-01-09T17:43:12.000Z
+479,324fbc634f6e1e9235e36f1bae45f295,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,488533,2023-01-09T17:30:26.000Z
+480,7e7ebb6305bca13196a4ad6958a6a38f,goopy,True,mithril_mountain_v2,Mithril Mountain v2,464167,2023-01-09T02:39:58.000Z
+481,247bbb633dcfcf36be443a45e89f7a9e,goopy,True,mithril_mountain_v2,Mithril Mountain v2,698300,2023-01-09T02:25:40.000Z
+482,6c79bb63151c15274884a0af4accfbcc,goopy,True,mithril_mountain_v2,Mithril Mountain v2,340333,2023-01-09T02:18:20.000Z
+483,43f7ba63efaaeb9d646862ad3896c873,goopy,False,archsimkats_valley_v1,Archsimkats_Valley_V1,708367,2023-01-08T17:02:59.000Z
+484,35f1ba63207f8f08ef7028bd7a58f5c5,goopy,True,mithril_mountain_v2,Mithril Mountain v2,894167,2023-01-08T16:37:09.000Z
+485,d7e9ba631f7c044becf30d200d250ae6,goopy,False,copper_hill_v1,Copper Hill v1,464667,2023-01-08T16:05:43.000Z
+486,1ae5ba63bb975e1e7337b8b3575bcb68,goopy,False,avalanche_3.4,Avalanche 3.4,452100,2023-01-08T15:45:30.000Z
+487,54ddba639c1757e372548494f600f8de,goopy,True,mithril_mountain_v2,Mithril Mountain v2,541033,2023-01-08T15:12:20.000Z
+488,3ed7ba63826f0c3e38cb4ea88374a6f7,goopy,True,copper_hill_v1,Copper Hill v1,253200,2023-01-08T14:46:22.000Z
+489,99d1ba63d315a61a120f4f880d7c8e0c,goopy,True,avalanche_3.4,Avalanche 3.4,562867,2023-01-08T14:22:17.000Z
+490,51f2b963e40ed6d49c419a3000085ef4,goopy,False,archsimkats_valley_v1,Archsimkats_Valley_V1,701067,2023-01-07T22:29:37.000Z
+491,755bb863256578b622743fc1d848ef7d,goopy,False,dsdr_4.1,DSDR 4.1,2075700,2023-01-06T17:33:41.000Z
+492,9a55b863b025c46befea568765159575,goopy,False,tabula_remake_1.5,Tabula_Remake 1.5,848467,2023-01-06T17:08:42.000Z
+493,cf4fb863e38a62b31c7e8ce5076539b7,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,878933,2023-01-06T16:43:59.000Z
+494,4214b763042be2101d2022e076bbab40,goopy,True,mithril_mountain_v2,Mithril Mountain v2,552667,2023-01-05T18:17:38.000Z
+495,9511b7632c1e70bc55343fcd317322c5,goopy,False,mithril_mountain_v2,Mithril Mountain v2,587600,2023-01-05T18:06:13.000Z
+496,070eb763fa2786979ef7e161ebdf63be,goopy,True,mithril_mountain_v2,Mithril Mountain v2,808133,2023-01-05T17:51:03.000Z
+497,c805b7631a0ba5b3c9404f520de81f49,goopy,True,Rosetta1.4,Rosetta 1.4,1570933,2023-01-05T17:15:52.000Z
+498,c0feb663fc3893532aa48714d5087dd4,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1385967,2023-01-05T16:45:52.000Z
+499,adb5b563d56620183e7252b06525e5af,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,560567,2023-01-04T17:21:49.000Z
+500,b4afb5637ec4ba737595ae1cf42f15ad,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,625533,2023-01-04T16:56:20.000Z
+501,87abb56372a82c2500e75a99d69bad1a,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,762267,2023-01-04T16:38:31.000Z
+502,fd6eb4638f7aaef114a83cd81f121f7a,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,784400,2023-01-03T18:07:57.000Z
+503,036db46319a74414b6a393d5c75c393a,goopy,False,copper_hill_v1,Copper Hill v1,371267,2023-01-03T17:59:31.000Z
+504,ad6ab463760d3dea3cdb244448c3fa58,goopy,False,copper_hill_v1,Copper Hill v1,499533,2023-01-03T17:49:33.000Z
+505,9167b463b00af7ad157b7ca245f2a7b0,goopy,True,copper_hill_v1,Copper Hill v1,686300,2023-01-03T17:36:17.000Z
+506,6264b4632e4fe9a85a57ceb33fdfb02a,goopy,False,copper_hill_v1,Copper Hill v1,574767,2023-01-03T17:22:42.000Z
+507,83abb363bb3769a037b752245a3efd84,goopy,False,copper_hill_v1,Copper Hill v1,434933,2023-01-03T04:13:55.000Z
+508,bba9b363d7945e087d731d3b7a99cb0f,goopy,True,copper_hill_v1,Copper Hill v1,369067,2023-01-03T04:06:19.000Z
+509,ada5b3637cce3f6a52b42974b33a273e,goopy,False,copper_hill_v1,Copper Hill v1,945600,2023-01-03T03:49:01.000Z
+510,eda2b363ccd89b506b635ff9aa516b23,goopy,False,copper_hill_v1,Copper Hill v1,519933,2023-01-03T03:37:17.000Z
+511,5da0b3637e4376f6deecdaa1a1fa9734,goopy,True,copper_hill_v1,Copper Hill v1,557133,2023-01-03T03:26:21.000Z
+512,159db363514e45371533844c3191b5e1,goopy,False,copper_hill_v1,Copper Hill v1,755833,2023-01-03T03:12:21.000Z
+513,c899b363a9da3eefcc0b52c6912b5dc2,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,393800,2023-01-03T02:58:16.000Z
+514,9297b36377ad69ac7bc0603742e1150c,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,471433,2023-01-03T02:48:50.000Z
+515,aa94b3639bb1d3c28a2eb001df20f790,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,661133,2023-01-03T02:36:26.000Z
+516,8991b3631f4fa497988fafec44c725ca,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,646000,2023-01-03T02:23:05.000Z
+517,658db363d60687ee3b9aa70562a16070,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,977100,2023-01-03T02:05:25.000Z
+518,268ab3637efdcf76813b91a18b99a38f,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,747700,2023-01-03T01:51:34.000Z
+519,9887b36321d5520e81f9cf8f7748834e,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,528733,2023-01-03T01:40:40.000Z
+520,ab82b363055a0b537fe6a5dfa332a6ce,goopy,False,eye_of_horus_1.7,Eye Of Horus 1.7,433967,2023-01-03T01:19:39.000Z
+521,5c7fb3634d31c9e5fd72c528e8231fb3,goopy,False,eye_of_horus_1.7,Eye Of Horus 1.7,695633,2023-01-03T01:05:32.000Z
+522,c87db3633911f895e344969ad316dd2a,goopy,False,eye_of_horus_1.7,Eye Of Horus 1.7,294667,2023-01-03T00:58:48.000Z
+523,b47bb363fda9d023d60ac8bfce11d479,goopy,False,eye_of_horus_1.7,Eye Of Horus 1.7,411967,2023-01-03T00:49:56.000Z
+524,b978b363e77eecafbbe1bca2ecff0081,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,576333,2023-01-03T00:37:13.000Z
+525,e28cb2632cee3b9b6969490a0ad397cb,goopy,True,dsdr_4.1,DSDR 4.1,954533,2023-01-02T07:50:58.000Z
+526,437fb2639f136170851f9163e969a3aa,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,2582267,2023-01-02T06:52:51.000Z
+527,8579b263606ecdc52f6252304e3edb62,goopy,True,mescaline_v2,Mescaline_V2,1114267,2023-01-02T06:28:21.000Z
+528,7b6bb26386be1caf6e02156b720abcda,goopy,False,NuclearWinterR,Nuclear Winter Bar 1.4,2740134,2023-01-02T05:28:27.000Z
+529,5a60b2638b9c1263b3d8086863d3d25d,goopy,False,TheRock_V3,TheRock_V3,2047033,2023-01-02T04:40:58.000Z
+530,bb13b263abf11e7a96535d132ae24f7e,goopy,False,avalanche_3.4,Avalanche 3.4,324967,2023-01-01T23:14:03.000Z
+531,1e12b2635f533a7bf2d57353dc949c95,goopy,False,avalanche_3.4,Avalanche 3.4,335133,2023-01-01T23:07:10.000Z
+532,110fb263b185075e312daa1b53065f19,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,653433,2023-01-01T22:54:09.000Z
+533,690cb263a9e30b16582ea10e4f269eaa,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,573533,2023-01-01T22:42:49.000Z
+534,4c08b26394064c9ba67b8dad1d732b38,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,948900,2023-01-01T22:25:16.000Z
+535,1b03b263cc164c98c2baf057ae90be0c,goopy,True,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,1165167,2023-01-01T22:03:07.000Z
+536,0900b2630b386fc959fd3f0bd6ec29e3,goopy,False,gecko_isle_remake_1.2,Gecko Isle Remake v1.2,675500,2023-01-01T21:50:01.000Z
+537,5f20b1638520b863deda705f1060056c,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,984667,2023-01-01T05:55:43.000Z
+538,e527af63a26414eee8442e41bc8cded3,goopy,True,ravaged_v2,Ravaged_v2,401833,2022-12-30T18:03:17.000Z
+539,9524af63284337ae24f829efb8324ee7,goopy,False,ravaged_v2,Ravaged_v2,580033,2022-12-30T17:49:09.000Z
+540,f576ae6372e55467a6fcd0ed297c7e95,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,816233,2022-12-30T05:28:21.000Z
+541,9173ae63062829cc4bbcfe4dec81c79b,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,642067,2022-12-30T05:13:53.000Z
+542,87e5ad63f908c89850d047e418e8230a,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,725367,2022-12-29T19:07:51.000Z
+543,77cdad6385caddfb404f97e6646ae461,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2137967,2022-12-29T17:25:11.000Z
+544,f542ab63e6a86fd4de85437fd245e1d2,goopy,True,ravaged_v2,Ravaged_v2,671200,2022-12-27T19:09:41.000Z
+545,3340ab636a339870492ab607895c9756,goopy,True,ravaged_v2,Ravaged_v2,628167,2022-12-27T18:57:55.000Z
+546,8b8caa63441b7d24425e371fd5ad5cb0,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,690467,2022-12-27T06:11:23.000Z
+547,3c82aa63e53598c39fd794f172c97eb1,goopy,True,dsdr_4.1,DSDR 4.1,2067800,2022-12-27T05:27:24.000Z
+548,886caa63ca8aea79c21dbf7a5df99a2d,goopy,False,tabula_remake_1.5,Tabula_Remake 1.5,1198267,2022-12-27T03:54:48.000Z
+549,6c61aa63a0921c383105bd7e9bb1a664,goopy,False,dsdr_4.1,DSDR 4.1,1529767,2022-12-27T03:07:24.000Z
+550,0354aa638ed1e55fafa77b8026e8e860,goopy,False,throne_v8,Throne_V8,2981867,2022-12-27T02:10:11.000Z
+551,c045aa636820417ea86926529309efbc,goopy,False,dworld_v3,DWorld_V3,3187367,2022-12-27T01:09:20.000Z
+552,d62baa63f72b1a0ad8d5418efa00e9c9,goopy,False,ravaged_v2,Ravaged_v2,871733,2022-12-26T23:18:46.000Z
+553,b724aa63ed87046952f7593f0e8e0f0c,goopy,True,ravaged_v2,Ravaged_v2,1751700,2022-12-26T22:48:23.000Z
+554,a320aa63b672c1b1f2b44f3c7960436c,goopy,False,ravaged_v2,Ravaged_v2,964167,2022-12-26T22:30:59.000Z
+555,e11caa63255cc1c0699ad61bc8d248f4,goopy,True,ravaged_v2,Ravaged_v2,860500,2022-12-26T22:14:57.000Z
+556,4b0aaa6333b8ab8c254ecff9501468d7,goopy,True,into_battle_redux_v3,Into Battle Redux v3,805967,2022-12-26T20:55:39.000Z
+557,d007aa6321a5422a4a382f6b03c3f998,goopy,False,into_battle_redux_v3,Into Battle Redux v3,555933,2022-12-26T20:45:04.000Z
+558,8f04aa63b5dc2c149792786c56ed4511,goopy,False,into_battle_redux_v3,Into Battle Redux v3,730933,2022-12-26T20:31:11.000Z
+559,ac02aa631ab6c5311d135de288e7c83c,goopy,False,into_battle_redux_v3,Into Battle Redux v3,395800,2022-12-26T20:23:08.000Z
+560,35d5a963f6aff7ff03c85f5d66b76222,goopy,True,NuclearWinterR,Nuclear Winter Bar 1.4,3063667,2022-12-26T17:09:09.000Z
+561,b139a9639f3d0d0c304541f2871dd6a1,goopy,True,barr_1.1,BarR 1.1,810000,2022-12-26T06:05:37.000Z
+562,1d38a9631aefe33e79e156a3f6091c7c,goopy,True,barr_1.1,BarR 1.1,330467,2022-12-26T05:58:53.000Z
+563,bb35a963568b2673620eaba12142b07e,goopy,True,barr_1.1,BarR 1.1,518833,2022-12-26T05:48:43.000Z
+564,6329a963a70a95d77c06b911d505ced6,goopy,False,NuclearWinterR,Nuclear Winter Bar 1.4,1594633,2022-12-26T04:56:03.000Z
+565,e61ca9635b154f02a123de2e8a82a93a,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2441300,2022-12-26T04:02:46.000Z
+566,afd5a863e0d8519376bac496713a7520,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,590733,2022-12-25T22:58:55.000Z
+567,f4d2a8639675f32f5921d7abe5f867ec,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,580233,2022-12-25T22:47:16.000Z
+568,a6a4a663151b00fcb6fb47d4c9af1d82,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,968733,2022-12-24T07:05:10.000Z
+569,7fa1a663f868442a67e4593ec25df291,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,485000,2022-12-24T06:51:43.000Z
+570,669ea663ebc38c39926d942410d8f055,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,690700,2022-12-24T06:38:30.000Z
+571,199ba66301df890f7c6660caf574c2f4,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,728667,2022-12-24T06:24:25.000Z
+572,6598a663a914518f6dbdb715fd7a08cb,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,562900,2022-12-24T06:12:53.000Z
+573,8290a663194084788232939bd074a4ab,goopy,False,knockoutr_1.5,KnockoutR 1.5,1737300,2022-12-24T05:39:14.000Z
+574,c484a663bbf08dc6495b626b0415c73a,goopy,False,Crescent_Bay_V2,Crescent_Bay_V2,2571367,2022-12-24T04:49:08.000Z
+575,c498a46387ab950b5957bdf84c3a1e55,goopy,True,Riverrun_V1,Riverrun_V1,1585867,2022-12-22T17:49:56.000Z
+576,d359a36352f989ab863781a1106d508c,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,478967,2022-12-21T19:09:07.000Z
+577,7c55a363ee0c7ef81cb8bae3bfc8ce5b,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,979167,2022-12-21T18:50:36.000Z
+578,8b42a363ea7165d731758edcba76a1be,goopy,False,dsdr_4.1,DSDR 4.1,2431567,2022-12-21T17:29:47.000Z
+579,8b36a3633a5f60c356d5cb0cbf443d18,goopy,True,ghenna_rising_4.0,Ghenna Rising 4.0,2432967,2022-12-21T16:38:35.000Z
+580,64f7a1634ac1fbc8a4161b2ce1bc8b54,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,2688634,2022-12-20T17:56:52.000Z
+581,3fa2a06347b89ec10d376cb2a7594791,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,2432333,2022-12-19T17:41:19.000Z
+582,9598a0630383c7b3898f28a4c5790c7e,goopy,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1865833,2022-12-19T17:00:05.000Z
+583,4efb9f632eb573492c5c61b0fd91b2ab,goopy,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1377667,2022-12-19T05:49:02.000Z
+584,28f39f63f9746d73ef1b7ef8af7fb406,goopy,True,dsd_8_way_1.1,DSD 8 Way 1.1,268000,2022-12-19T05:14:16.000Z
+585,1dee9f63cc0f5c665d35d679a3064cbb,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,755600,2022-12-19T04:52:45.000Z
+586,1deb9f63be94ca19ac26ad32c9baed49,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,588033,2022-12-19T04:39:57.000Z
+587,a7a09e6359a6e01c3627bec70bcb51d9,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,3387133,2022-12-18T05:09:59.000Z
+588,e0969e6336ae73079c4c0ffc632bfe37,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1878067,2022-12-18T04:28:16.000Z
+589,62f69d636a81dbb2e0f72264c67bb750,goopy,True,Pinewood_Derby_V1,Pinewood_Derby_V1,1875133,2022-12-17T17:03:30.000Z
+590,13ba9c63901fe87775e905312afa05cc,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,895000,2022-12-16T18:33:55.000Z
+591,595f9b63eb584947ea5599cfdb6b2f6a,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1584733,2022-12-15T17:54:33.000Z
+592,96c69a63c2e147ed2ef1da12a025336f,goopy,True,throne_v8,Throne_V8,1204067,2022-12-15T07:02:46.000Z
+593,75ce9863af5ac85a9e915f0797363524,goopy,True,sertagatta_v5,Sertagatta_V5,726133,2022-12-13T19:11:49.000Z
+594,dfc998636b07d4f56eb15b17e794ceda,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,796233,2022-12-13T18:52:15.000Z
+595,69c598636cb89ad7385252319839cd4d,goopy,True,fallendell_v4,Fallendell_V4,787100,2022-12-13T18:33:13.000Z
+596,08b4986386f60a95f5fa03a3441b212f,goopy,True,ice_scream_v2.1,Ice Scream v2.1,1634900,2022-12-13T17:19:04.000Z
+597,0e64976353bb81abf75e18f040073235,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2467033,2022-12-12T17:25:34.000Z
+598,a3a9966331279cd072b65a9a5f6e5e5e,goopy,True,dsdr_4.1,DSDR 4.1,2437633,2022-12-12T04:10:11.000Z
+599,20a09663b0b8c97d36478b94d9e9d234,goopy,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1961300,2022-12-12T03:29:36.000Z
+600,d35b96630b8c51e3fe0d4af6217ef9f8,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,599633,2022-12-11T22:38:11.000Z
+601,3c58966308c440e43ee0ab76d492eed4,goopy,False,zed_remake_3.3,Zed Remake 3.3,831367,2022-12-11T22:22:52.000Z
+602,f1559663c20d316e31061d4aee1aa4ee,goopy,False,zed_remake_3.3,Zed Remake 3.3,356000,2022-12-11T22:13:05.000Z
+603,f453966354ec1b6c62de19770ff376e8,goopy,True,zed_remake_3.3,Zed Remake 3.3,406500,2022-12-11T22:04:36.000Z
+604,e0799563512898cfcb64f1553ea39aab,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,354100,2022-12-11T06:34:08.000Z
+605,5f6c95630cc020619dfdd5c398f4788a,goopy,False,dsdr_4.1,DSDR 4.1,2547533,2022-12-11T05:36:31.000Z
+606,133194633668ac91e614678c5791f105,goopy,True,dsdr_4.1,DSDR 4.1,2009033,2022-12-10T07:11:15.000Z
+607,a82a9463ecd41e44421a65619ad968b3,goopy,False,Rosetta1.4,Rosetta 1.4,1139967,2022-12-10T06:43:52.000Z
+608,e8d39063af5d5d5a4e3c5ff6c7d84518,goopy,True,dsdr_4.1,DSDR 4.1,1337600,2022-12-07T17:56:56.000Z
+609,bb7a8f634ed9c6af6d9a2b1a17ae1cd4,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,1408833,2022-12-06T17:24:11.000Z
+610,10e38e63039eced6d1d54475d852809a,goopy,False,Rosetta 1.3,Rosetta 1.3,2191700,2022-12-06T06:37:04.000Z
+611,d7968d63d4d65b53bf2b1f7de8a34860,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1495800,2022-12-05T06:59:35.000Z
+612,dc8e8d634d8b16d7fed73041b1cefdce,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1316767,2022-12-05T06:25:32.000Z
+613,f4568d63089e5a265872a3c8cde484db,goopy,True,dsdr_4.1,DSDR 4.1,1652767,2022-12-05T02:27:00.000Z
+614,39218d63870638d65c0705f84b0ec43b,goopy,True,tetrad_v2,Tetrad_V2,1136067,2022-12-04T22:37:45.000Z
+615,00178d638b5a9ff2aaa1e33b8c0c9129,goopy,True,throne_v8,Throne_V8,2195967,2022-12-04T21:54:08.000Z
+616,9f128d63a68e2664606812ea4c7148eb,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,744967,2022-12-04T21:35:27.000Z
+617,ec0c8d63d786c7212747d527d6489870,goopy,False,Medit_v7,Medit_V7,970633,2022-12-04T21:11:08.000Z
+618,d7418c639b867463774f41a1a85fdedb,goopy,False,requiem_outpost_1.0,Requiem Outpost 1.0,870067,2022-12-04T06:44:39.000Z
+619,30398c63bcfa3f17998893ed32014763,goopy,True,shallow_straits_v1,Shallow Straits v1,1711000,2022-12-04T06:07:44.000Z
+620,01368c6309ce0d9c8ae956adbccaf864,goopy,False,archsimkats_valley_v1,Archsimkats_Valley_V1,572233,2022-12-04T05:54:09.000Z
+621,9ad38b63716f1216d383863ecf57b56c,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,858533,2022-12-03T22:54:18.000Z
+622,ccd08b6313bfb8c53f71532f2dfe46ec,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,627900,2022-12-03T22:42:20.000Z
+623,4b408a631f97146221e1cc8f382f05dc,goopy,False,sertaleina_v8,Sertaleina_V8,1163600,2022-12-02T18:13:31.000Z
+624,b43c8a63f08fdc87a8adf19dcc4de8b7,goopy,True,sertaleina_v8,Sertaleina_V8,793267,2022-12-02T17:58:12.000Z
+625,7d3a8a63b028c157a6d9fa3e1015d5cc,goopy,True,sertaleina_v8,Sertaleina_V8,486633,2022-12-02T17:48:45.000Z
+626,dc318a6398eb40b12ed397ee6467451f,goopy,True,dsdr_4.1,DSDR 4.1,1379867,2022-12-02T17:11:56.000Z
+627,949987633ead6629b54891d30df16564,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,702033,2022-11-30T17:57:40.000Z
+628,31988763798f3b10e386429196473ff6,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,272167,2022-11-30T17:51:45.000Z
+629,e38d8763f695e40c68e252dfd5351869,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,715133,2022-11-30T17:07:47.000Z
+630,238c8763d84b2383d221ab641e8d0bfc,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,365300,2022-11-30T17:00:19.000Z
+631,fd88876311e36ee5c4a3344dbce64791,goopy,True,barr_1.1,BarR 1.1,687967,2022-11-30T16:46:53.000Z
+632,2c868763f84f4f4f80562b1e4d330199,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,590733,2022-11-30T16:34:52.000Z
+633,624486633efcca45795256d1f3a5f197,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2664033,2022-11-29T17:41:54.000Z
+634,7e3c86632e32dbccf4e964b5c07b1984,goopy,True,Tau12,Tau12,1555633,2022-11-29T17:08:14.000Z
+635,004384636e5adb2af30c5dfe5b787b01,goopy,True,dsdr_4.1,DSDR 4.1,2495967,2022-11-28T05:11:28.000Z
+636,6d30846340066bd93277c78e7261e4de,goopy,True,forge_v1.4,Forge v1.4,1316400,2022-11-28T03:52:13.000Z
+637,7ced836381b70f73c5a12365bef3fa62,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,429567,2022-11-27T23:06:36.000Z
+638,2de883634f915146c27102331cfe858f,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,697033,2022-11-27T22:43:57.000Z
+639,f5e48363c436adeaf8c8842650cfb472,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,639367,2022-11-27T22:30:13.000Z
+640,dbb981639f2d03da1431a187d207d897,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,674500,2022-11-26T07:01:47.000Z
+641,2bb68163cbe08927f37751ffca43bdac,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,548100,2022-11-26T06:46:03.000Z
+642,429e8163c0b5e0c18419227402903d48,goopy,False,all_that_glitters_1.2,All That Glitters v1.2,1241767,2022-11-26T05:04:02.000Z
+643,4b9a8163a88e701d49f626506d3969bc,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,622700,2022-11-26T04:47:07.000Z
+644,a79481631978981b78f9b8db15cbb7a2,goopy,False,FolsomdamR_1.16,FolsomDamR 1.16,886367,2022-11-26T04:23:03.000Z
+645,278c81639a9f021898756b7b1e83181a,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1543467,2022-11-26T03:46:47.000Z
+646,fa358163498912a27eb72d5671107492,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,3086033,2022-11-25T21:39:06.000Z
+647,4e3281639d8a89e45f2d67521465be30,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,484133,2022-11-25T21:23:26.000Z
+648,a02d81631e837be8a1ffc237249a0f01,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,356700,2022-11-25T21:03:28.000Z
+649,1a2b8163c13fd9952b946f3d5b0f087a,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,403833,2022-11-25T20:52:42.000Z
+650,1e278163ad41ee43f7080c5ac19d5d30,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,657433,2022-11-25T20:35:42.000Z
+651,da248163d004a8bda92ba808fb4ea443,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,355467,2022-11-25T20:26:02.000Z
+652,9a218163a3d41d0b359601ad593bcc54,goopy,True,sertaleina_v8,Sertaleina_V8,479733,2022-11-25T20:12:10.000Z
+653,9e1681631ca7bf1564bd0a6d315b6dd1,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1643800,2022-11-25T19:25:18.000Z
+654,13048163367606d3e78340f8b4004ede,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,864167,2022-11-25T18:06:11.000Z
+655,a9fe8063b7cd150c3f7869c308ea9099,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1179967,2022-11-25T17:43:05.000Z
+656,10fb806352b00a93b6f8161059d25915,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,716033,2022-11-25T17:27:44.000Z
+657,9bf5806365a502d82796950dec29b31f,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1114833,2022-11-25T17:04:27.000Z
+658,9ff28063dd6bf658d7644eab5466f71a,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,655267,2022-11-25T16:51:43.000Z
+659,b5ee80635713de043e8fb2aa51b6fbb1,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,911367,2022-11-25T16:35:01.000Z
+660,8ceb80630d121d281ee0316ba0c204c0,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,699900,2022-11-25T16:21:32.000Z
+661,f75d8063fa87e560847daa8cf865de57,goopy,False,throne_v8,Throne_V8,1439200,2022-11-25T06:17:27.000Z
+662,86568063868321bc46cb5ac97f064d69,goopy,True,barr_1.1,BarR 1.1,362633,2022-11-25T05:45:42.000Z
+663,3b54806398ec0b7e62a6acf8db1afc16,goopy,True,barr_1.1,BarR 1.1,347233,2022-11-25T05:35:55.000Z
+664,674d8063083e738073edfcdfc4766035,goopy,False,Cirolata 1.02,Cirolata 1.02,964033,2022-11-25T05:06:47.000Z
+665,e5488063204d0f118d717c851c357449,goopy,False,Cirolata 1.02,Cirolata 1.02,786633,2022-11-25T04:47:33.000Z
+666,8a44806311f9e865161dce0ea437911f,goopy,False,eye_of_horus_1.7,Eye Of Horus 1.7,882300,2022-11-25T04:28:58.000Z
+667,ac3e8063c1013c9b6e465315881f8f3c,goopy,False,tundra_v2,Tundra_V2,1200233,2022-11-25T04:03:56.000Z
+668,602e8063e6c26b14431c05f2d72563bf,goopy,True,dsdr_4.1,DSDR 4.1,3264333,2022-11-25T02:54:24.000Z
+669,e1f77f636a42c1df3bd337c6d0c7f720,goopy,True,hooked_1.1,Hooked 1.1,608367,2022-11-24T23:01:53.000Z
+670,bbf57f6315cd744c6785f28bae7f8a38,goopy,True,hooked_1.1,Hooked 1.1,391233,2022-11-24T22:52:43.000Z
+671,eff27f630b777e8274c0538b5360ea8e,goopy,True,hooked_1.1,Hooked 1.1,486000,2022-11-24T22:40:47.000Z
+672,615b7e63d65d7bd943c66543c8fa539c,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,754367,2022-11-23T17:41:53.000Z
+673,14537e633da33c294dd631d7e1c8181a,goopy,True,throne_v8,Throne_V8,1295467,2022-11-23T17:06:28.000Z
+674,244c7e6309920e5c569d45828d04656a,goopy,True,throne_v8,Throne_V8,1382267,2022-11-23T16:36:52.000Z
+675,19437e637994049c5c859137b53c24b0,goopy,True,Evad_River_Confluence_V2,Evad River Confluence_V2,1981367,2022-11-23T15:58:17.000Z
+676,07fc7c63fc590cdb39b7a1874bd4e558,goopy,False,speedmetal_bar_v2,SpeedMetal BAR V2,936700,2022-11-22T16:42:47.000Z
+677,99c07b63613828a327ee43dd5414285c,goopy,True,titanduel_v3,TitanDuel_V3,797000,2022-11-21T18:16:57.000Z
+678,74be7b631c3d2e85c256e7195d9978a6,goopy,True,titanduel_v3,TitanDuel_V3,452533,2022-11-21T18:07:48.000Z
+679,debc7b63bd129e49fb945639b90f7927,goopy,True,titanduel_v3,TitanDuel_V3,312567,2022-11-21T18:01:02.000Z
+680,fcba7b635d2d26b0d0b55ad5d2c2971b,goopy,False,titanduel_v3,TitanDuel_V3,369633,2022-11-21T17:53:00.000Z
+681,b9b27b6361c41d23a242f65bc83c3b91,goopy,True,Rosetta1.4,Rosetta 1.4,1702367,2022-11-21T17:17:45.000Z
+682,4dab7b6330e619071472a37b9815a0d3,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1343167,2022-11-21T16:46:05.000Z
+683,0c467963aea8aed78c0b68cdf8379231,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1004833,2022-11-19T21:09:32.000Z
+684,cb38796369870fcc13da0dd66a09e9e0,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,3136100,2022-11-19T20:12:59.000Z
+685,385976633aea7d87e7c70feec5c4ba7a,goopy,True,copper_hill_v1,Copper Hill v1,606000,2022-11-17T15:54:32.000Z
+686,4a15756364f3b9c6f759a3f3aa9cd0b6,goopy,False,titan_v3.1,Titan v3.1,1328500,2022-11-16T16:52:26.000Z
+687,d7ca736352ce378ca416b47b573d4c2d,goopy,True,tangerine_remake_1.0,Tangerine_Remake 1.0,844000,2022-11-15T17:22:31.000Z
+688,e4bc7363e171a4ecaeebebe38e9dcf86,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,755233,2022-11-15T16:23:00.000Z
+689,e1b67363d550e99bc3954f389e3897bd,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1100867,2022-11-15T15:57:21.000Z
+690,0d7072631db6c88612ee5851f9817ae6,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2148634,2022-11-14T16:42:53.000Z
+691,94857063c5cc31e8258d06173672ead5,goopy,True,altair_crossing_V4,Altair_Crossing_V4,427200,2022-11-13T05:50:12.000Z
+692,50376d639a99752ba3434cf8ad5114c9,goopy,False,Crystallized Plains 1.01,Crystallized Plains 1.01,569500,2022-11-10T17:39:28.000Z
+693,84336d63a2745e377436089545947c80,goopy,False,avalanche_3.4,Avalanche 3.4,817300,2022-11-10T17:23:16.000Z
+694,bc316d6344ed1a906e26bb3d82758109,goopy,True,avalanche_3.4,Avalanche 3.4,349533,2022-11-10T17:15:40.000Z
+695,fd2f6d63f39ea93cddd61fd1a935c0a6,goopy,True,avalanche_3.4,Avalanche 3.4,334267,2022-11-10T17:08:13.000Z
+696,aa2e6d6370ec684cdb81cb8ca1f44366,goopy,False,avalanche_3.4,Avalanche 3.4,247000,2022-11-10T17:02:34.000Z
+697,4c2c6d634ab71d019a81b4a7b3ac96e3,goopy,True,avalanche_3.4,Avalanche 3.4,418133,2022-11-10T16:52:28.000Z
+698,712a6d634e367e420dd4d86477dfc87c,goopy,False,copper_hill_v1,Copper Hill v1,344767,2022-11-10T16:44:33.000Z
+699,f6266d639391bea43a89e5a257e1decd,goopy,False,copper_hill_v1,Copper Hill v1,771700,2022-11-10T16:29:42.000Z
+700,93246d63309c2e0580d4c3abfaec4c5d,goopy,False,copper_hill_v1,Copper Hill v1,478067,2022-11-10T16:19:31.000Z
+701,1afe6b638356aa78b81a40fdd3b12d96,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,441767,2022-11-09T19:23:06.000Z
+702,38fc6b63b404ddeb1293e0a950de5605,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,354333,2022-11-09T19:15:04.000Z
+703,6ce66b6331a8ec5afa55ddad8f21d36d,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,441500,2022-11-09T17:42:04.000Z
+704,57e46b6349aa538ef0bd9c540a5a5d26,goopy,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,392033,2022-11-09T17:33:11.000Z
+705,94e26b63b434ec2845a06b494ac19f68,goopy,True,avalanche_3.4,Avalanche 3.4,354367,2022-11-09T17:25:40.000Z
+706,3ce06b631ebbdd50f5be7effa7e2b8c9,goopy,True,titanduel_v3,TitanDuel_V3,299667,2022-11-09T17:15:40.000Z
+707,76df6b63aba556ee258399111b6e0554,goopy,True,hooked_1.1,Hooked 1.1,77267,2022-11-09T17:12:22.000Z
+708,ecdd6b6387d4f400af4ad1b0cdb02286,goopy,True,copper_hill_v1,Copper Hill v1,232300,2022-11-09T17:05:48.000Z
+709,46d16b632082da40c562d10a51a80da0,goopy,True,copper_hill_v1,Copper Hill v1,792500,2022-11-09T16:11:50.000Z
+710,d5cf6b634765e807872234385054b212,goopy,False,copper_hill_v1,Copper Hill v1,285933,2022-11-09T16:05:41.000Z
+711,66ce6b63befa99399fe7b2437d6c9a59,goopy,False,copper_hill_v1,Copper Hill v1,272467,2022-11-09T15:59:34.000Z
+712,0acc6b63dcd8969ca86802ad630f6426,goopy,False,copper_hill_v1,Copper Hill v1,418900,2022-11-09T15:49:30.000Z
+713,50146b63a2765b455cdbdd7fe69a35d6,goopy,False,dsdr_4.1,DSDR 4.1,1750167,2022-11-09T02:45:36.000Z
+714,3b096b6373167635e5fbf47cc9f9fee6,goopy,False,Rosetta1.4,Rosetta 1.4,2133800,2022-11-09T01:58:19.000Z
+715,00e169632d17971c8986658ec07cde6f,goopy,False,archsimkats_valley_v1,Archsimkats_Valley_V1,653867,2022-11-08T04:54:24.000Z
+716,1549696310beb004816d248e117162c0,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,862000,2022-11-07T18:06:13.000Z
+717,e04369639a23e12de6f2ba48a375f5fa,goopy,True,avalanche_3.4,Avalanche 3.4,1033467,2022-11-07T17:44:00.000Z
+718,e1416963745b7810f328987c78b2430e,goopy,True,avalanche_3.4,Avalanche 3.4,326467,2022-11-07T17:35:29.000Z
+719,3c2d696337de1c9bbf0417ea50017561,goopy,False,avalanche_3.4,Avalanche 3.4,669867,2022-11-07T16:07:24.000Z
+720,369b686326dc57b3c4f8a3b7b32333b4,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,850833,2022-11-07T05:44:22.000Z
+721,fb986863b22834daed7283be13cee687,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,465367,2022-11-07T05:34:51.000Z
+722,ba9468638bfa432449c037d53e52b945,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,564700,2022-11-07T05:16:42.000Z
+723,b3c96763d08b2d91dbf03276a1834981,goopy,True,copper_hill_v1,Copper Hill v1,1682800,2022-11-06T14:50:27.000Z
+724,39eb65632ad96075d0ee888c4efe89db,goopy,True,silent_sea_v1,Silent Sea v1,464833,2022-11-05T04:48:57.000Z
+725,afe7656363f23acd411767eb874474ad,goopy,True,silent_sea_v1,Silent Sea v1,677033,2022-11-05T04:33:51.000Z
+726,75c46563051279dc276e762f1a77f614,goopy,True,dsdr_4.1,DSDR 4.1,3072367,2022-11-05T02:03:33.000Z
+727,96b66563268d4fd9ac04b80c95d5e327,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2578800,2022-11-05T01:04:22.000Z
+728,f4af65630f123d4584018d25cafc4773,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,937667,2022-11-05T00:36:04.000Z
+729,30a365632e9d31c929f59765e13fb3de,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,823267,2022-11-04T23:41:36.000Z
+730,3ca16563501aa67ea69234a960861c22,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,377833,2022-11-04T23:33:16.000Z
+731,107365630c37f1f59d4f2f8b7ab224ff,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,233400,2022-11-04T20:16:16.000Z
+732,c56f656327c7092287506da95f1e0b9c,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,720467,2022-11-04T20:02:13.000Z
+733,a86c656314230b0f8f910f8729cc277f,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,657300,2022-11-04T19:48:56.000Z
+734,8e69656332dc3d2a2c7b7ded8c52c8d7,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,694333,2022-11-04T19:35:42.000Z
+735,da676563edbae21ebcc9bda77d03a8d3,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,351533,2022-11-04T19:28:26.000Z
+736,f16565631243678eafeac04d661e4a7a,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,373500,2022-11-04T19:20:17.000Z
+737,39636563be6b430351aa2c301c75b473,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,476600,2022-11-04T19:08:41.000Z
+738,105f6563988f3acf3cca45e21fbddb42,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,844867,2022-11-04T18:50:56.000Z
+739,c85b6563f26359dba33ff2b7c669921f,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,613033,2022-11-04T18:36:56.000Z
+740,235a65635f6079ad3da9e79b103db545,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,310433,2022-11-04T18:29:55.000Z
+741,4f576563437cb0cb2f7b4c4effab0ae0,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,591700,2022-11-04T18:17:51.000Z
+742,bf546563869498bb4b96ada2c90de642,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,431100,2022-11-04T18:06:55.000Z
+743,305265633dee3f5e510c641c1a77f582,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,551400,2022-11-04T17:56:00.000Z
+744,453b6563eb31e00b705fc8010eb4533a,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,433767,2022-11-04T16:18:13.000Z
+745,9439656317f03f54fbabb0c29212d6a9,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,302800,2022-11-04T16:11:00.000Z
+746,b2366563cd8df7c306ffda67748163ba,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,588633,2022-11-04T15:58:42.000Z
+747,8d3165632503d1903f9718efb901d77f,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,503700,2022-11-04T15:36:45.000Z
+748,d7856463fe4cbc94d81098623e85c2e6,goopy,True,Rosetta1.4,Rosetta 1.4,2402933,2022-11-04T03:24:07.000Z
+749,5e7c6463dd7f9b158e86d31308e12d3f,goopy,False,TheRock_V3,TheRock_V3,1444033,2022-11-04T02:43:42.000Z
+750,c50f6463f15f6e5b14abaa89aa337220,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,3449733,2022-11-03T19:00:21.000Z
+751,98db63632302595e50437f92faaf5689,goopy,True,titanduel_v3,TitanDuel_V3,931833,2022-11-03T15:17:44.000Z
+752,393963633bd9a30bb3da61146b09dc17,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2810600,2022-11-03T03:44:57.000Z
+753,7e2963636607a4957408f8068a43a4c9,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,2950300,2022-11-03T02:37:50.000Z
+754,fb1f63631fa39cb8f686c22048605316,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1712700,2022-11-03T01:57:15.000Z
+755,d3166363bff28b04f576bfae835de5fc,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,1813733,2022-11-03T01:18:11.000Z
+756,dbcb6263ba10ebf67cc9607e939b6614,goopy,True,ravaged_v2,Ravaged_v2,1562167,2022-11-02T19:58:19.000Z
+757,9ec8626357ef42551d8186cb6590627b,goopy,True,ravaged_v2,Ravaged_v2,705300,2022-11-02T19:44:30.000Z
+758,83c66263afaae8d031eceb12f9747b82,goopy,True,ravaged_v2,Ravaged_v2,452900,2022-11-02T19:35:31.000Z
+759,ccc46263c04cf7a72a76efd78bdfbb5c,goopy,True,ravaged_v2,Ravaged_v2,307133,2022-11-02T19:28:12.000Z
+760,dfa762631985fa8c2768305cc84756ed,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,637200,2022-11-02T17:24:47.000Z
+761,11a4626395812271e1bc1b98394b04f1,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,628933,2022-11-02T17:08:33.000Z
+762,a9a16263242e25e47968c4f3a217dbbc,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,345867,2022-11-02T16:58:17.000Z
+763,a79e6263fb72afceee3eeca930582969,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,650100,2022-11-02T16:45:27.000Z
+764,47f36163944e8debe3a0034eab8f03fa,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,326833,2022-11-02T04:34:15.000Z
+765,28f06163e88a3fd486ee18f549b92b1b,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,608067,2022-11-02T04:20:56.000Z
+766,80ec6163df7f811c64b16055e8c25d59,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,454633,2022-11-02T04:05:20.000Z
+767,5ce961634934cd30e614c3770d1c37db,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,608833,2022-11-02T03:51:56.000Z
+768,67d86163cbe63d293bb88a49d0236119,goopy,True,Riverrun_V1,Riverrun_V1,3459967,2022-11-02T02:39:35.000Z
+769,3fd36163458a575536cecd3ef2cf46f9,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,941900,2022-11-02T02:17:35.000Z
+770,1dc9616336dc70007815c3764749ff84,goopy,False,TheRock_V3,TheRock_V3,1464933,2022-11-02T01:34:21.000Z
+771,95436163ddc79287dfddb88c3118d76d,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,725733,2022-11-01T16:04:37.000Z
+772,284161635e45f5c26570f03904a231c7,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,498100,2022-11-01T15:54:16.000Z
+773,113e6163ca4f79e76c50c160ebd22a63,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,581567,2022-11-01T15:41:05.000Z
+774,443b6163f87517a99251af4599efeb1a,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,521533,2022-11-01T15:29:08.000Z
+775,1c386163efa19d0557122eb270394ae0,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,695867,2022-11-01T15:15:40.000Z
+776,89346163ec5bd9dff09d51a8f2dc9c94,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,721000,2022-11-01T15:00:25.000Z
+777,3f2f61636fed344ba58be4a4e6ffddca,goopy,False,paradise_lost_v4,Paradise_Lost_V4,1056700,2022-11-01T14:37:51.000Z
+778,3a896063098a8dc3e03a674e82984a93,goopy,True,silveridge_v1,Silveridge v1,1319200,2022-11-01T02:49:30.000Z
+779,bb8060630a2f417ce16885a7489595c6,goopy,True,NuclearWinterR,Nuclear Winter Bar 1.4,1617100,2022-11-01T02:13:15.000Z
+780,4077606390b41609bd248392ec66ccb4,goopy,False,ice_scream_v2.1,Ice Scream v2.1,1969000,2022-11-01T01:32:48.000Z
+781,47706063e8394b2b3c591db60c2ad73c,goopy,True,dsdr_4.1,DSDR 4.1,1201533,2022-11-01T01:03:03.000Z
+782,3d6b606309d2a9e11d9af5bde2395759,goopy,True,dsdr_4.1,DSDR 4.1,407467,2022-11-01T00:41:33.000Z
+783,1e4b5f63285ced67b07b04880c22c4b5,goopy,True,dsdr_4.1,DSDR 4.1,1551433,2022-10-31T04:12:14.000Z
+784,ba355f63942714ed9aabf6c5fe135279,goopy,False,Rosetta1.4,Rosetta 1.4,3358267,2022-10-31T02:40:58.000Z
+785,a02b5f63aaf219f9d4e6d902ec885933,goopy,True,Rosetta1.4,Rosetta 1.4,1931600,2022-10-31T01:57:52.000Z
+786,89b05c6338dc5238ff351eb015062d61,goopy,False,Riverrun_V1,Riverrun_V1,1320533,2022-10-29T04:48:09.000Z
+787,8da25c63aa8d074307e65fe54c05836f,goopy,True,dsdr_4.1,DSDR 4.1,2829167,2022-10-29T03:48:29.000Z
+788,29525b63f74debb01cdc7118fb9a047c,goopy,False,tabula_remake_1.5,Tabula_Remake 1.5,2228933,2022-10-28T03:53:13.000Z
+789,483d5b63bcd6435fd6a7bd786d7fed87,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,3281967,2022-10-28T02:24:08.000Z
+790,ba375b63df1263053de8c502f8b17dfe,goopy,False,angel_crossing_1.5,Angel Crossing 1.5,785800,2022-10-28T02:00:26.000Z
+791,5e2d5b63d651bc3624e24c6c73b424e7,goopy,False,throne_v8,Throne_V8,2095900,2022-10-28T01:16:14.000Z
+792,b0245b6371df5916f8ecb6a8dd718eac,goopy,False,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1407467,2022-10-28T00:39:12.000Z
+793,b4025b63950e6c7cd31fe37a7d4bd55a,goopy,True,Riverrun_V1,Riverrun_V1,1503367,2022-10-27T22:14:12.000Z
+794,72db5a63c43fd7eb6434417cdd8176fb,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,861900,2022-10-27T19:26:42.000Z
+795,86d75a636228595556880ebc0d06be47,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,861433,2022-10-27T19:09:58.000Z
+796,fdd45a63526febb83cc1d421efc338e5,goopy,False,barr_1.1,BarR 1.1,440200,2022-10-27T18:59:09.000Z
+797,e8d15a63121a0fe0d929140d56a9b9e1,goopy,False,barr_1.1,BarR 1.1,555433,2022-10-27T18:46:00.000Z
+798,8dcf5a63252fb282165a08650af64cd0,goopy,True,barr_1.1,BarR 1.1,413267,2022-10-27T18:35:57.000Z
+799,cda45a63bcdbd4b86f1af926d2310af8,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,969200,2022-10-27T15:33:33.000Z
+800,089c5a63de11acd58443016580352426,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1563733,2022-10-27T14:56:08.000Z
+801,ce9958638c87414341561026ef6e932d,goopy,True,Riverrun_V1,Riverrun_V1,3850000,2022-10-26T02:22:06.000Z
+802,13445863a35370a8bc7b3c51b9ab444e,goopy,False,Crystallized Plains 1.01,Crystallized Plains 1.01,244733,2022-10-25T20:16:19.000Z
+803,384158633a0bd128c4109f9feb2dd5d6,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,313133,2022-10-25T20:04:08.000Z
+804,603e5863976f307e0f03f4d787c6d282,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,595067,2022-10-25T19:52:00.000Z
+805,e33b5863bd549b17037a623c8e7f0068,goopy,True,Crystallized Plains 1.01,Crystallized Plains 1.01,420667,2022-10-25T19:41:23.000Z
+806,36385863bcdd3d87a28bc0e63766744a,goopy,False,shallow_straits_v1,Shallow Straits v1,638967,2022-10-25T19:25:42.000Z
+807,90355863007edb885911d617ad5d05ee,goopy,True,shallow_straits_v1,Shallow Straits v1,574267,2022-10-25T19:14:24.000Z
+808,d831586390ac0da46984a1ee9d77dd9a,goopy,False,shallow_straits_v1,Shallow Straits v1,737367,2022-10-25T18:58:32.000Z
+809,481358632b6c04abca418ed49fa278ec,goopy,True,Rosetta1.4,Rosetta 1.4,2073033,2022-10-25T16:48:08.000Z
+810,2f6c57630a10b5df87edeb2836134f96,goopy,True,dsdr_4.1,DSDR 4.1,2731733,2022-10-25T04:55:11.000Z
+811,a7615763a6716084cf929c63502b28a6,goopy,True,NuclearWinterR,Nuclear Winter Bar 1.4,1902467,2022-10-25T04:10:15.000Z
+812,564e5763e5aeab0a5605ed17d17859d9,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,3100333,2022-10-25T02:47:50.000Z
+813,384657630e2f71f1dd9b4b389530a44a,goopy,False,Sunderance V1.3,Sunderance V1.3,1619967,2022-10-25T02:13:12.000Z
+814,840b5663f0580ac2862cd34c0d39c77b,goopy,False,tabula_remake_1.5,Tabula_Remake 1.5,1468933,2022-10-24T03:50:28.000Z
+815,95065663b6256da20ff95f68aee7634d,goopy,True,NuclearWinterR,Nuclear Winter Bar 1.4,718367,2022-10-24T03:29:25.000Z
+816,bcfb55636dda36283ec507ada398acda,goopy,True,dsdr_4.1,DSDR 4.1,2074200,2022-10-24T02:43:08.000Z
+817,d1b055631ff1573b1ac991f4bcd77765,goopy,True,barr_1.1,BarR 1.1,452733,2022-10-23T21:23:29.000Z
+818,03af556347ee2aa19e089ae2d6420e5d,goopy,True,barr_1.1,BarR 1.1,362200,2022-10-23T21:15:47.000Z
+819,b8ac5563f54b5b14e17da24e990bba97,goopy,True,barr_1.1,BarR 1.1,355833,2022-10-23T21:06:00.000Z
+820,7464536300d00e6222fb47d0b16a5d3d,goopy,False,dsdr_4.1,DSDR 4.1,3367967,2022-10-22T03:33:08.000Z
+821,6e5d5363d7b4c2b02f7de2380db9de2b,goopy,False,dsdr_4.1,DSDR 4.1,1341100,2022-10-22T03:03:10.000Z
+822,d12652636476a9ff9a39845946a3423e,goopy,False,all_that_glitters_1.2,All That Glitters v1.2,1462933,2022-10-21T04:57:53.000Z
+823,512052633e1f8986d38b6d24e370163a,goopy,True,deeploria_fields_v1.5,Deeploria Fields v1.5,1316500,2022-10-21T04:30:09.000Z
+824,9d13526313609366c98d18012360099f,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,1925933,2022-10-21T03:35:57.000Z
+825,fcbf506306558ccd1fd99d62c57f6e99,goopy,False,dsdr_4.1,DSDR 4.1,1627600,2022-10-20T03:26:52.000Z
+826,f0ba50635a81fcd5334908d092ca1dbb,goopy,True,deeploria_fields_v1.5,Deeploria Fields v1.5,822833,2022-10-20T03:05:20.000Z
+827,bcb35063d71457ac7b8123ff7f2ccf01,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,941667,2022-10-20T02:34:36.000Z
+828,3fad5063dfab14ecc86f4adf99cc02bc,goopy,True,dsdr_4.1,DSDR 4.1,1133433,2022-10-20T02:06:55.000Z
+829,986d4f6375bfd2a569f3b9eb524b3fff,goopy,False,dsdr_4.1,DSDR 4.1,3231900,2022-10-19T03:23:04.000Z
+830,d02d4e6362a3379b13e8f6984c485dfb,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,735367,2022-10-18T04:38:40.000Z
+831,6e294e63cd65973bbcaa3800f5c0c973,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,910033,2022-10-18T04:19:58.000Z
+832,dc264e636eeca6f7457c7fc47ef00571,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,531433,2022-10-18T04:09:00.000Z
+833,431e4e63099d05665bfd0b0cd2faeb2c,goopy,False,Ditched_V1,Ditched_V1,1244767,2022-10-18T03:32:19.000Z
+834,a0054e6316629f37a2b507e0947fc5fb,goopy,False,dsdr_4.1,DSDR 4.1,703700,2022-10-18T01:47:12.000Z
+835,a7f94d63b875a7d254de39851dc95dfe,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2378567,2022-10-18T00:56:07.000Z
+836,9eec4d63b2276b3d7833b693bd4f85c7,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,2723800,2022-10-18T00:00:30.000Z
+837,c8a74d6399e3a261a751bdcc68aa2e72,goopy,True,ravaged_v2,Ravaged_v2,405933,2022-10-17T19:06:48.000Z
+838,35854d63f02372c225e95eac4bc7280e,goopy,False,all_that_glitters_1.2,All That Glitters v1.2,2050133,2022-10-17T16:39:17.000Z
+839,207e4d6351e4a395654ba70a752ea6aa,goopy,True,forge_v1.4,Forge v1.4,1140633,2022-10-17T16:09:04.000Z
+840,50764d6357c9ecaa3dad2a2c617b8ed9,goopy,False,dsdr_4.1,DSDR 4.1,1479633,2022-10-17T15:35:44.000Z
+841,fbea4c63c6d7167f18c259b61f45132e,goopy,True,Entrenched_Plains_V2,Entrenched_Plains_V2,1726800,2022-10-17T05:41:15.000Z
+842,cee44c63566497219628a211e18ef74b,goopy,False,Entrenched_Plains_V2,Entrenched_Plains_V2,1098433,2022-10-17T05:14:54.000Z
+843,1ddd4c63134f7b5f780d27a563958d76,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1002533,2022-10-17T04:42:05.000Z
+844,1bd74c63686b025de74a70505609f1e8,goopy,False,Rosetta 1.3,Rosetta 1.3,846800,2022-10-17T04:16:27.000Z
+845,5dce4c63e948d3b242fd185357d93132,goopy,False,dsdr_4.1,DSDR 4.1,1529533,2022-10-17T03:39:09.000Z
+846,933347639c1c549dab7fbf4d86469b4b,goopy,True,avalanche_3.4,Avalanche 3.4,292000,2022-10-12T21:37:23.000Z
+847,a7454663d84fd5379e36596e89562824,goopy,True,NuclearWinterR,Nuclear Winter Bar 1.4,2437767,2022-10-12T04:42:15.000Z
+848,9e344663ae7e04bc91f658bf568141a6,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,3468567,2022-10-12T03:29:34.000Z
+849,d32a4663a2576b7c3d0b1d111a93b246,goopy,False,dsdr_4.1,DSDR 4.1,1943833,2022-10-12T02:47:47.000Z
+850,59254663f2239357414c3a771d031854,goopy,False,TheRock_V3,TheRock_V3,1041900,2022-10-12T02:24:25.000Z
+851,cad3456309dcc3d8e39e8c3e1d604f7d,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,824333,2022-10-11T20:36:26.000Z
+852,f7cd45639ec462aff749c3282ccf4674,goopy,True,Pinewood_Derby_V1,Pinewood_Derby_V1,1245533,2022-10-11T20:11:35.000Z
+853,8ccb4563c01e4c2e5ec245853d9df500,goopy,True,Pinewood_Derby_V1,Pinewood_Derby_V1,373033,2022-10-11T20:01:16.000Z
+854,07c74563f0b689ef1fda77645be0b579,goopy,False,Pinewood_Derby_V1,Pinewood_Derby_V1,980500,2022-10-11T19:41:59.000Z
+855,85d644630c801ed172d1dbde190d0105,goopy,False,deeploria_fields_v1.5,Deeploria Fields v1.5,2104567,2022-10-11T02:35:49.000Z
+856,bac344636fad241c29f252535821f157,goopy,True,dsdr_4.1,DSDR 4.1,3535733,2022-10-11T01:15:38.000Z
+857,cab84463511a3a079719e690cb3ccb4d,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,685400,2022-10-11T00:28:58.000Z
+858,3cb54463b459a22bf395e42066197cd1,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,690400,2022-10-11T00:13:48.000Z
+859,a95f4463f0576b8773b18cf119834219,goopy,True,red_rock_desert_v1,Red Rock Desert v1,2925733,2022-10-10T18:08:41.000Z
+860,c7e64163713a9cb1ac7cba914333d837,goopy,True,avalanche_3.4,Avalanche 3.4,427633,2022-10-08T21:08:23.000Z
+861,8ee44163cb16e5c9d52678a2fa676077,goopy,True,avalanche_3.4,Avalanche 3.4,279800,2022-10-08T20:58:54.000Z
+862,f8e04163dab4f2901b2df0439d2591fc,goopy,False,titanduel_v3,TitanDuel_V3,640033,2022-10-08T20:43:36.000Z
+863,56de41634966bf87e08a5731b624c614,goopy,True,titanduel_v3,TitanDuel_V3,503567,2022-10-08T20:32:22.000Z
+864,efdb4163335a614ece1db93da5a48013,goopy,False,titanduel_v3,TitanDuel_V3,458367,2022-10-08T20:22:07.000Z
+865,cbd841631fe4499b1e049d0956f7f00d,goopy,False,titanduel_v3,TitanDuel_V3,617033,2022-10-08T20:08:43.000Z
+866,dace4163e3370741f876d9b2a680bf49,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2151867,2022-10-08T19:26:18.000Z
+867,209e4163c8e07713b8fe452f7321ceea,goopy,False,avalanche_3.4,Avalanche 3.4,298333,2022-10-08T15:58:24.000Z
+868,ba9c4163ac6272676e88cbdb942cd9f7,goopy,True,avalanche_3.4,Avalanche 3.4,247300,2022-10-08T15:52:26.000Z
+869,d899416310976c3985fc997a8c2cf93d,goopy,False,avalanche_3.4,Avalanche 3.4,616500,2022-10-08T15:40:08.000Z
+870,27984163d9bb3f355ef413d56769ced9,goopy,True,avalanche_3.4,Avalanche 3.4,296400,2022-10-08T15:32:55.000Z
+871,ebf14063ee79404d5f8460160d300119,goopy,True,dsdr_4.1,DSDR 4.1,1668000,2022-10-08T03:43:39.000Z
+872,13e84063c880b7620857a201bb9254be,goopy,False,all_that_glitters_1.2,All That Glitters v1.2,1894800,2022-10-08T03:01:39.000Z
+873,87df4063b71ef32fc786bd2632917d02,goopy,False,Riverrun_V1,Riverrun_V1,1652700,2022-10-08T02:25:11.000Z
+874,e5d240634a91c7545a3908b6e580c637,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2591900,2022-10-08T01:31:17.000Z
+875,e5c340632e0c17742a9104ab2dba5585,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,2963700,2022-10-08T00:27:17.000Z
+876,59943f6366327668876315aeb5df38ee,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1759100,2022-10-07T02:52:09.000Z
+877,4a873f63c05f5d1b2410a4545533f1dc,goopy,False,ice_scream_v2.1,Ice Scream v2.1,2497033,2022-10-07T01:56:26.000Z
+878,b97c3f637fe8bdb012817d7ccd295a76,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2243067,2022-10-07T01:11:21.000Z
+879,01583e63cf4fc84d7e8c3efc69584f7f,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,1379233,2022-10-06T04:22:25.000Z
+880,b5533e631f058dd00494331a6ccd99f2,goopy,True,taldarim_v3,Taldarim_V3,549633,2022-10-06T04:04:05.000Z
+881,b12e3e63d028e8d247641ac0c08d37f1,goopy,False,Crescent_Bay_V2,Crescent_Bay_V2,3956333,2022-10-06T01:26:09.000Z
+882,75133d6373bf1d767b885ae82da82ae4,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,1796700,2022-10-05T05:17:41.000Z
+883,8c013d630854bbb77ed6ddae4ab850bd,goopy,False,Entrenched_Plains_V2,Entrenched_Plains_V2,3634267,2022-10-05T04:01:16.000Z
+884,76f83c63f0d33d6fdc620e382d360c43,goopy,True,Twin Lakes Park Redux 1.2,Twin Lakes Park Redux 1.2,1376867,2022-10-05T03:22:30.000Z
+885,42223963bbd1df5d42ce9c1979296239,goopy,True,speedmetal_bar_v2,SpeedMetal BAR V2,1254333,2022-10-02T05:31:46.000Z
+886,0aba3863ad0228884057595b5d9a2e2b,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,618967,2022-10-01T22:07:06.000Z
+887,0d683863f8a8a4ac60f4b75a4563c07f,goopy,True,barr_1.1,BarR 1.1,552267,2022-10-01T16:17:17.000Z
+888,67653863e8fa27342da395ca081cd610,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,557967,2022-10-01T16:05:59.000Z
+889,9c5c3863ae7303ac187228a09aafc071,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,275100,2022-10-01T15:28:28.000Z
+890,61c537635800a2e9dc297f3bfc2a86ab,goopy,True,Rosetta1.4,Rosetta 1.4,727833,2022-10-01T04:43:13.000Z
+891,58bc3763de7d8430befa1a52a5e68b0e,goopy,False,bismuth_valley_v2.2,Bismuth Valley v2.2,1792000,2022-10-01T04:04:40.000Z
+892,907436638613beb77b22f2bdd84f0d7f,goopy,True,mescaline_v2,Mescaline_V2,543700,2022-09-30T04:46:08.000Z
+893,f5683663b2170ad517cc2fdd0480531b,goopy,True,Tau12,Tau12,2355667,2022-09-30T03:56:37.000Z
+894,98613663d915b2e4557a93e0dbbb5b2f,goopy,True,forge_v1.4,Forge v1.4,1437767,2022-09-30T03:25:12.000Z
+895,7bec356314f5a1e58e40bccb05d3eb9a,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,471700,2022-09-29T19:05:31.000Z
+896,29e935635111642d45d892d668094088,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,718967,2022-09-29T18:51:21.000Z
+897,2fe635638aaa95d22ba4cee440ec7448,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,638167,2022-09-29T18:38:39.000Z
+898,340f356326574d3d44b3f64a371fca0a,goopy,True,altored_divide_bar_remake_1.6,Altored Divide Bar Remake 1.6,542767,2022-09-29T03:21:24.000Z
+899,870635635a0d348f071d274383a54ef3,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1454867,2022-09-29T02:44:23.000Z
+900,26fc346383443f0d93190c62955749be,goopy,False,Rosetta1.4,Rosetta 1.4,1851900,2022-09-29T02:00:06.000Z
+901,b96c33631ffccd95a3457ffb4fd6f36e,goopy,True,trefoil_remake_2.20,Trefoil Remake 2.20,870933,2022-09-27T21:35:53.000Z
+902,086a336345601f0dd19fe4d7ce3c6d7e,goopy,True,glacier_pass_1.2,Glacier Pass 1.2,311933,2022-09-27T21:24:24.000Z
+903,08e42d6345b6469fffedb2530fa71821,goopy,False,dsdr_4.1,DSDR 4.1,1580967,2022-09-23T16:51:20.000Z
+904,5d452563d675c7e07e0a6ad5f0e0730c,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,871933,2022-09-17T03:56:13.000Z
+905,7c3a2563436f3e04a49924dd50c1cf68,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1585933,2022-09-17T03:09:48.000Z
+906,550c2463afeb5e63011a9ae873e1d034,goopy,True,dsdr_4.1,DSDR 4.1,1967767,2022-09-16T05:40:37.000Z
+907,f5042463bed290c2f228e946516333db,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,1150667,2022-09-16T05:09:09.000Z
+908,8cec23636279420ea4e53607cd7a75da,goopy,True,Riverrun_V1,Riverrun_V1,1732833,2022-09-16T03:25:00.000Z
+909,4ae8236360f7e4950c725614ff0c9aff,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,642967,2022-09-16T03:06:50.000Z
+910,08b82263c7c417698533d5c8494be9b2,goopy,True,flats_and_forests_v2.1,Flats and Forests v2.1,2524833,2022-09-15T05:28:40.000Z
+911,04af2263bfb02054cae5667176aa225d,goopy,True,Rustcrown Canyon 1.1,Rustcrown Canyon 1.1,1423433,2022-09-15T04:50:12.000Z
+912,30a52263db8e98599a338fc069a0e470,goopy,False,dsdr_4.1,DSDR 4.1,2001500,2022-09-15T04:08:16.000Z
+913,a89d22631d93d4fc023b703e45c2ba0d,goopy,False,forge_v1.4,Forge v1.4,1232100,2022-09-15T03:36:08.000Z
+914,b79122639fdd28c29063f330024785e0,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,2462733,2022-09-15T02:45:11.000Z
+915,584c21630b0050a54d5bb8b4fad3df35,goopy,True,Sunderance V1.3,Sunderance V1.3,920133,2022-09-14T03:36:56.000Z
+916,b4452163b596062c6cd68694db2b6f1c,goopy,False,archsimkats_valley_v1,Archsimkats_Valley_V1,976833,2022-09-14T03:08:36.000Z
+917,d40f20634f508fc02d08ef638baab208,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,2150100,2022-09-13T05:06:28.000Z
+918,8d042063ea6dddc601cd36df37fa502c,goopy,False,dsdr_4.1,DSDR 4.1,2237000,2022-09-13T04:18:21.000Z
+919,5efd1f63c2678d85fca7b808b0b8ac86,goopy,False,flats_and_forests_v2.1,Flats and Forests v2.1,1458233,2022-09-13T03:47:42.000Z
+920,17f41f63521057d6e169bba1bb6c78bb,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1517100,2022-09-13T03:08:07.000Z
+921,ae7a1f635f59f80f6546db5b19f5a7ce,goopy,False,death_valley_v1,Death Valley v1,1436600,2022-09-12T18:30:06.000Z
+922,e1751f63fef1855ba3fa277001793bb6,goopy,False,death_valley_v1,Death Valley v1,841433,2022-09-12T18:09:37.000Z
+923,e8a81e6345f8364b51ef757779a02a7c,goopy,True,bismuth_valley_v2.2,Bismuth Valley v2.2,1549933,2022-09-12T03:35:04.000Z
+924,2b4c1e6305bbde093dd028d65597aea4,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1048033,2022-09-11T20:59:23.000Z
+925,74481e63db988a7ff8d446c1c26130c4,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,656300,2022-09-11T20:43:32.000Z
+926,4c461e63aab80658c4c15d3342bc3674,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,447633,2022-09-11T20:34:20.000Z
+927,48441e63e55e2cf9705aeb55f688ac96,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,451200,2022-09-11T20:25:44.000Z
+928,09421e63f6f4d8f28c3cc24ed677dae5,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,456800,2022-09-11T20:16:09.000Z
+929,43401e63a5800cf3f3ec058cf4f0c830,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,375267,2022-09-11T20:08:35.000Z
+930,04321e63b7fd2712989ccff4d60e0994,goopy,False,TheRock_V3,TheRock_V3,3207533,2022-09-11T19:07:48.000Z
+931,707d1d63c0913d2382ff62ba1e430fbf,goopy,True,cervino_v1,Cervino v1,898100,2022-09-11T06:17:20.000Z
+932,19741d63a553374eac941f46dcece65e,goopy,False,melting_glacier_v1.1,Melting Glacier v1.1,1761933,2022-09-11T05:37:29.000Z
+933,3d6d1d634cdd18a6ce5173c764e629cc,goopy,True,melting_glacier_v1.1,Melting Glacier v1.1,1253500,2022-09-11T05:08:13.000Z
+934,6b661d636f65535578e564c76c93663f,goopy,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,678767,2022-09-11T04:39:07.000Z
+935,fa181c63372d59c61283877484e987d8,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1884267,2022-09-10T04:56:26.000Z
+936,130d1c63a4a600ec4a1a0399fd5eb733,goopy,False,NuclearWinterR,Nuclear Winter Bar 1.4,2597933,2022-09-10T04:05:39.000Z
+937,2b531b63fdcf29b15ac66c87f71abd33,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,497300,2022-09-09T14:52:27.000Z
+938,644e1b6337313c6607137e314202ca59,goopy,False,death_valley_v1,Death Valley v1,1035033,2022-09-09T14:32:04.000Z
+939,ac4b1b637139090e7bb84b0f882b5c04,goopy,True,great_divide_v1,Great Divide V1,416333,2022-09-09T14:20:28.000Z
+940,2e4a1b63478bc86439b30dfccdb91b6f,goopy,True,great_divide_v1,Great Divide V1,281967,2022-09-09T14:14:06.000Z
+941,06491b636b78f258133efa89b9ac6648,goopy,True,great_divide_v1,Great Divide V1,224033,2022-09-09T14:09:10.000Z
+942,1c451b6348ad41ac090b2fae0e903980,goopy,True,great_divide_v1,Great Divide V1,832000,2022-09-09T13:52:28.000Z
+943,8d1818639f38a155f4a6e87e4f12a8e6,goopy,True,titan_v3.1,Titan v3.1,1523667,2022-09-07T04:05:33.000Z
+944,441118632da95299823533601cf56ccc,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1005033,2022-09-07T03:34:28.000Z
+945,046e1763f3bdd2ac383b96a5823a4d4e,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,734967,2022-09-06T15:57:56.000Z
+946,2199166381885e85beaad9c50c5e4472,goopy,False,Rosetta 1.3,Rosetta 1.3,3694567,2022-09-06T00:49:37.000Z
+947,8c1d14635609e7364c696953fd86ab87,goopy,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,3601767,2022-09-04T03:37:48.000Z
+948,65161463f4b8bbc1912ce62951b59ce1,goopy,True,Riverrun_V1,Riverrun_V1,1146867,2022-09-04T03:07:17.000Z
+949,4e0e1463452fe954ceff7400832da02c,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1469267,2022-09-04T02:32:46.000Z
+950,937b116364da9df791263f5d14b839a6,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,716467,2022-09-02T03:42:11.000Z
+951,9e781163ef43264add4e78acff850a3c,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,657067,2022-09-02T03:29:34.000Z
+952,9f7411638c5aa8bb53a2bf4ae3b9307f,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,873933,2022-09-02T03:12:31.000Z
+953,1e671163b41ea123b467bc5f1dbfb67b,goopy,False,dsdr_4.1,DSDR 4.1,2964600,2022-09-02T02:14:54.000Z
+954,465e1163cc09ac355169cd0e4efd3e04,goopy,False,Riverrun_V1,Riverrun_V1,1372400,2022-09-02T01:37:10.000Z
+955,c528106355816b55625c9dcb492663b2,goopy,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1475567,2022-09-01T03:36:37.000Z
+956,8f1f1063d7cf3ebc03ed69e315ad3eb5,goopy,True,all_that_glitters_1.2,All That Glitters v1.2,1689000,2022-09-01T02:57:19.000Z
+957,1f830f634ef6749a8bbe8955bfd3a368,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1494167,2022-08-31T15:49:51.000Z
+958,55770f63b5919a1641810d611a4f3250,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1754367,2022-08-31T14:59:33.000Z
+959,99d80a63c53cb4cf6c8c87bf5ba31ea5,goopy,False,greenest_fields_1.3,Greenest Fields 1.3,2435800,2022-08-28T02:53:13.000Z
+960,901209634ced80ccafc6d3d05445d628,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,958733,2022-08-26T18:36:00.000Z
+961,500e0963b2c731fd043a459620748f36,goopy,False,tundra_v2,Tundra_V2,871267,2022-08-26T18:17:52.000Z
+962,4c550663665bedb04490a4b3aac90b61,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,641333,2022-08-24T16:43:56.000Z
+963,9b5106639abf475f79bd80d0ee397c0c,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,713300,2022-08-24T16:28:11.000Z
+964,4d4e066359fdd5c8ca3b4112fae24a64,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,728800,2022-08-24T16:14:05.000Z
+965,a04a066305fc282a420785e8434cef2f,goopy,False,incandescence_remake_3.3,Incandescence Remake 3.3,610000,2022-08-24T15:58:24.000Z
+966,4845066310b0675d17651ae822707d1e,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,723100,2022-08-24T15:35:36.000Z
+967,c63e06638988bcf1f5b1ecb4b0a438a3,goopy,True,reraghnarok_1,ReRaghnarok 1,989100,2022-08-24T15:07:50.000Z
+968,11680463369597ef8d3b20300313bc99,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,676667,2022-08-23T05:39:29.000Z
+969,6862046371f9fab9960d3e5aff0bb98b,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,1024367,2022-08-23T05:15:20.000Z
+970,635f04633363b94a9ecbc41dad238357,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,403267,2022-08-23T05:02:27.000Z
+971,43510463ea1dbba4828ca862b449bc92,goopy,True,eye_of_horus_1.7,Eye Of Horus 1.7,1101533,2022-08-23T04:02:11.000Z
+972,00480463aa2a006cecc49408dc2f4904,goopy,True,koom_valley_3_3.1,Koom Valley 3 3.1,1560033,2022-08-23T03:22:40.000Z
+973,62fe026383a912b6b9932961762805d5,goopy,False,koom_valley_3_3.1,Koom Valley 3 3.1,1406467,2022-08-22T03:56:18.000Z
+974,3ef202632ae41810f559d901d542433f,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1948367,2022-08-22T03:04:30.000Z
+975,3aa002636c59b3aa55fab80551f27edd,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,694800,2022-08-21T21:14:34.000Z
+976,71b30163414044b5b465ad592fbd50a3,goopy,True,Twin Lakes Park Redux 1.1,Twin Lakes Park Redux 1.1,2221833,2022-08-21T04:24:17.000Z
+977,4a5b006354417e00b1c155c479f899b9,goopy,False,Ditched_V1,Ditched_V1,1831900,2022-08-20T03:55:54.000Z
+978,d24e00637d13e5f8b93793c667ca1594,goopy,True,Rosetta 1.3,Rosetta 1.3,1897767,2022-08-20T03:02:42.000Z
+979,e126ff6210aaccd2668c8f6dc3dd9191,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,415200,2022-08-19T06:00:01.000Z
+980,9124ff62481ec30265a74f5070409eb8,goopy,False,red_comet_remake_1.8,Red Comet Remake 1.8,406167,2022-08-19T05:50:09.000Z
+981,4a20ff6276402c61f97f7200c2a9bf3b,goopy,False,dsdr_4.1,DSDR 4.1,746967,2022-08-19T05:31:54.000Z
+982,701aff6254ce0d7ca4c1db6a91f87a5e,goopy,True,red_comet_remake_1.8,Red Comet Remake 1.8,1012400,2022-08-19T05:06:56.000Z
+983,8bfffe62eddc1224b76322e6f4c2f93a,goopy,True,Riverrun_V1,Riverrun_V1,4417833,2022-08-19T03:12:11.000Z
+984,8cf6fe62dc42af3095f2b3f12c311a96,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1772733,2022-08-19T02:33:48.000Z
+985,08f0fe622734d57cb4236f1a425a1012,goopy,False,angel_crossing_1.5,Angel Crossing 1.5,904133,2022-08-19T02:06:00.000Z
+986,4a7ffe6222c6d970a5d0fc8859976967,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1670600,2022-08-18T18:04:58.000Z
+987,12c0fd62ad150df5033d11699890457d,goopy,True,tundra_v2,Tundra_V2,1182067,2022-08-18T04:29:06.000Z
+988,ae64fc6286d86c668143dd0cc3f5a719,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,935900,2022-08-17T03:46:54.000Z
+989,c40efb625f07e8daccad2e9e6e559161,goopy,True,ice_scream_v2.1,Ice Scream v2.1,3576100,2022-08-16T03:28:04.000Z
+990,86bbfa62a64176f2769631c9a023ab57,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1097333,2022-08-15T21:32:54.000Z
+991,a0b8fa62f5404c7afb9a854948c806c4,goopy,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,512167,2022-08-15T21:20:32.000Z
+992,1bb3fa62d1966cbd9f184cc4341c3a5a,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1201200,2022-08-15T20:56:59.000Z
+993,88cdf96260e22b9b174dbacce95b0813,goopy,True,valles_marineris_2.6,Valles Marineris 2.6,861033,2022-08-15T04:37:28.000Z
+994,d7bef9629f8ce130740670f5a08af10c,goopy,True,dsdr_4.1,DSDR 4.1,2946967,2022-08-15T03:34:47.000Z
+995,e9b7f962c33b3283d8ef59e61c333613,goopy,True,tabula_remake_1.5,Tabula_Remake 1.5,1211567,2022-08-15T03:05:13.000Z
+996,fc63f9623a8d365cf8e6a6a2fc9e2316,goopy,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1172600,2022-08-14T21:07:08.000Z
+997,7285f862fb28dfbd51a1b6b08758365c,goopy,True,Rosetta 1.3,Rosetta 1.3,2438333,2022-08-14T05:17:38.000Z
+998,407cf862798bbefd5fffa20913f3b30c,goopy,False,dsdr_4.1,DSDR 4.1,1792733,2022-08-14T04:38:24.000Z

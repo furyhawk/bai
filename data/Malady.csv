@@ -1,0 +1,298 @@
+,id,name,winningTeam,Map.fileName,Map.scriptName,durationMs,startTime
+0,9040cb62bd356568adcaa254c0bb4ba4,Malady,True,dsdr_4.1,DSDR 4.1,1952467,2022-07-10T21:11:44.000Z
+1,6b16ca62b3ea39a2669da7001ed33968,Malady,False,tabula_remake_1.5,Tabula_Remake 1.5,1748567,2022-07-09T23:59:39.000Z
+2,dfb4c962900d9f336652bb2e97633bb1,Malady,False,dsdr_4.1,DSDR 4.1,2692700,2022-07-09T17:03:27.000Z
+3,d9a9c9621e5a59583bd366d7fb786065,Malady,False,all_that_glitters_1.2,All That Glitters v1.2,2127400,2022-07-09T16:16:25.000Z
+4,81c8c862626812f70eaa107842c9ed4b,Malady,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1383667,2022-07-09T00:14:57.000Z
+5,6ea2c8626c35d485917f7167e8ef41fb,Malady,True,koom_valley_3_3.1,Koom Valley 3 3.1,1602800,2022-07-08T21:32:30.000Z
+6,666bc261fc1878bed93e1285f7d60126,Malady,False,dsdr_4.0,DSDR 4.0,1703867,2021-12-22T00:03:50.000Z
+7,3563c26110736c881d4ea220625e7927,Malady,False,koom_valley_3_3.0,Koom Valley 3 3.0,1484500,2021-12-21T23:28:53.000Z
+8,1c9fbf61beb22d6e3b1d8d6c22c40157,Malady,False,boulder_beach_v1,Boulder_Beach_V1,2809900,2021-12-19T21:07:40.000Z
+9,dc65bf614b0979843c18038df55047d7,Malady,True,taldarim_v3,Taldarim_V3,2832167,2021-12-19T17:03:24.000Z
+10,5a12be61a580639210ee73d2e78d1829,Malady,True,tropical-v2,Tropical-v2,1244167,2021-12-18T16:54:50.000Z
+11,680dbe61eab6d4890092abd44c7761db,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,917267,2021-12-18T16:33:44.000Z
+12,72cebc6190d9d0f3f79a8536a738c384,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1411733,2021-12-17T17:52:50.000Z
+13,5f99bb61d71422503a9242e191030709,Malady,False,Tau12,Tau12,1325567,2021-12-16T19:54:07.000Z
+14,0a90bb616f76f2c4c4ef9f48d2b53bcf,Malady,False,emain_macha_v3,Emain Macha v3,1884900,2021-12-16T19:14:18.000Z
+15,2b64bb61ae0ef529dafe0b6cbfe09954,Malady,True,boulder_beach_v1,Boulder_Beach_V1,1234600,2021-12-16T16:07:07.000Z
+16,2808ba61c7c777d82d3767fd14a9b32d,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1013133,2021-12-15T15:22:16.000Z
+17,1266b661b887eb1dc1827571cd7a6ae8,Malady,False,death_valley_v1,Death Valley v1,947167,2021-12-12T21:13:54.000Z
+18,5754b661ffc8b721c4c4d47acdc92971,Malady,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2553767,2021-12-12T19:58:15.000Z
+19,0940b661e11cf3963eff1c3b6477c966,Malady,False,Entrenched_Plains_V2,Entrenched_Plains_V2,2098400,2021-12-12T18:31:37.000Z
+20,64fdb4614cc8c1d519ac1010ceb4ec74,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1891167,2021-12-11T19:35:00.000Z
+21,1af6b461759ff82e04037ba3ad1a82ea,Malady,True,eye_of_horus_v13,Eye of Horus v13,710933,2021-12-11T19:03:54.000Z
+22,2457b36195b1a3dfed86b06d50a1bb7f,Malady,False,seths_ravine_v4,Seths_Ravine_V4,729500,2021-12-10T13:33:24.000Z
+23,e468b261e14589398e6b51355216e893,Malady,True,dsdr_4.0,DSDR 4.0,3152867,2021-12-09T20:36:52.000Z
+24,f234b061cd2aad67cc12b3e76aed6eef,Malady,True,paradise_lost_v4,Paradise_Lost_V4,633800,2021-12-08T04:30:42.000Z
+25,2f11b061c32688da876a92eb918b9f6a,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,344533,2021-12-08T01:58:07.000Z
+26,5b0fb061852591c2541e5fef893b3553,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,349333,2021-12-08T01:50:19.000Z
+27,210eae6144ab80294e01ef5925f0aaac,Malady,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,628467,2021-12-06T13:20:33.000Z
+28,120dae6196b4f3cdb6bd0e5ccf6014db,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,203000,2021-12-06T13:16:02.000Z
+29,cf0aae61fe662a4180d57e35c1493056,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,426300,2021-12-06T13:06:23.000Z
+30,d68ead6102e9a32c1396f639552e1108,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,466900,2021-12-06T04:17:26.000Z
+31,8e82ad613450107be81d43f1a63e8b69,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,863433,2021-12-06T03:25:02.000Z
+32,cc3ba86174b740a3363dab15fb98a7a7,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,550833,2021-12-02T03:21:48.000Z
+33,00fba761ade5ef09ab0ab0321400590c,Malady,True,centerrock_remake_dry_1.2,Centerrock Remake Dry 1.2,1477833,2021-12-01T22:45:20.000Z
+34,e0f6a761d97a8659abb9e85ce31a35ef,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,819867,2021-12-01T22:27:44.000Z
+35,3e30a76116157a760e4bf178455f9090,Malady,True,barr_1.1,BarR 1.1,503700,2021-12-01T08:20:14.000Z
+36,78f1a66181b9371e81c01c184bdd30be,Malady,True,altair_crossing_V4,Altair_Crossing_V4,639967,2021-12-01T03:52:24.000Z
+37,0cdea66113087c68aab912323ace72e0,Malady,True,akilon_wastelands_-_v18,Akilon Wastelands - v18,791667,2021-12-01T02:29:32.000Z
+38,8edba661d85edb2ad11b548ec9555587,Malady,True,akilon_wastelands_-_v18,Akilon Wastelands - v18,523200,2021-12-01T02:18:54.000Z
+39,92d8a661df897d9495d705e9797cbfb5,Malady,True,sertagatta_v5,Sertagatta_V5,608033,2021-12-01T02:06:10.000Z
+40,53d4a661e96df088c4af19d664ba6005,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,816233,2021-12-01T01:48:03.000Z
+41,4233a5610b0e2649088b85d04de7b69d,Malady,True,titan_v3.1,Titan v3.1,886633,2021-11-29T20:08:34.000Z
+42,712ca561a028c785b60fdb78c3cdb93f,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,911467,2021-11-29T19:39:29.000Z
+43,b76ba46197949a0990e3c507175cfe59,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,388100,2021-11-29T05:57:11.000Z
+44,3d69a461a333e1a1768f548d924f44d9,Malady,True,barr_1.1,BarR 1.1,547500,2021-11-29T05:46:37.000Z
+45,ec65a461c4fd876acb221eb53a37bd0c,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,788667,2021-11-29T05:32:28.000Z
+46,a35ba461c74a427d0aed97e8d840c0ed,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1228700,2021-11-29T04:48:35.000Z
+47,2f56a461a860c8b04069496f6304e85d,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,898600,2021-11-29T04:25:19.000Z
+48,6d50a461609d4ac1601e07f6c3264643,Malady,False,akilon_wastelands_-_v18,Akilon Wastelands - v18,790933,2021-11-29T04:00:45.000Z
+49,413ca46145baf518ed2b504991313cee,Malady,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,1456767,2021-11-29T02:34:41.000Z
+50,9f30a461cbcc188ac739656d55a6864b,Malady,True,tundra_v2,Tundra_V2,828733,2021-11-29T01:45:03.000Z
+51,5609a4610dcff15735c15f1c8732d23d,Malady,True,dsdr_4.0,DSDR 4.0,1222033,2021-11-28T22:57:26.000Z
+52,7feda361cfb73890a2179d54ca026524,Malady,True,dsdr_4.0,DSDR 4.0,1642400,2021-11-28T20:58:39.000Z
+53,37cea361e6fe472843097a8ad37d511e,Malady,True,dsdr_4.0,DSDR 4.0,1634700,2021-11-28T18:45:11.000Z
+54,8cc4a36144b86262970d054dc7897e3c,Malady,False,Ice_Scream_v1.1,Ice Scream v1.1,2057300,2021-11-28T18:03:56.000Z
+55,3118a3612b21adb9b4e9f9bb9bbfb2ab,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,740767,2021-11-28T05:48:33.000Z
+56,6f80a26115d0012d38ab3c732c168802,Malady,False,koom_valley_3_3.0,Koom Valley 3 3.0,2305767,2021-11-27T19:01:03.000Z
+57,6e7ba261ae7585a7e316f9b9682ee73b,Malady,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,899767,2021-11-27T18:39:42.000Z
+58,09d9a161283b79b8ae4ad91fd6377b58,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,680267,2021-11-27T07:06:49.000Z
+59,bbd1a1616f0af435e7918f69af16217e,Malady,True,sertagatta_v5,Sertagatta_V5,746867,2021-11-27T06:35:39.000Z
+60,4d6aa16138f6e6883551938bb0ada2b4,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,674600,2021-11-26T23:14:21.000Z
+61,a066a16173e6081999116373dc212993,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,816933,2021-11-26T22:58:40.000Z
+62,a144a161d30998e5af2e77b4a38475ea,Malady,True,dsdr_4.0,DSDR 4.0,876567,2021-11-26T20:33:37.000Z
+63,623ba161afced9767d51c41f131fa8b0,Malady,False,gehenna_rising_3,Gehenna Rising 3,1450667,2021-11-26T19:54:10.000Z
+64,d32aa1619638b14ecd7a4055a08aa156,Malady,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1230867,2021-11-26T18:43:31.000Z
+65,8b41a06119c59e9cace17251c77d71a3,Malady,True,great_divide_v1,Great Divide V1,323133,2021-11-26T02:08:11.000Z
+66,05109f61b50a8a73ac1a554dd5ee5492,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,1752200,2021-11-25T04:24:37.000Z
+67,1b089f61824458619388bd8b80a47f69,Malady,False,titan_v3.1,Titan v3.1,960733,2021-11-25T03:50:51.000Z
+68,7e039f61f9a246c82adef46b6bc5a896,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,796567,2021-11-25T03:31:10.000Z
+69,4ab29d6123db028cfb1d2cb38e5a276e,Malady,True,Entrenched_Plains_V2,Entrenched_Plains_V2,2880767,2021-11-24T03:32:26.000Z
+70,42ae9d612d5d5762605ad9397e1a27ef,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,355767,2021-11-24T03:15:14.000Z
+71,27ac9d61adcd1a864ebeaa16c47430d3,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,416733,2021-11-24T03:06:15.000Z
+72,fc989d6196f5becc38a5ccc0d1704d79,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,2373533,2021-11-24T01:44:28.000Z
+73,54809d6187d1919e342553144965d997,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,754267,2021-11-23T23:59:16.000Z
+74,cf539d6193f4057fce0b884514a65fe9,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,1306000,2021-11-23T20:49:19.000Z
+75,1b249c61e92d977b9e146d1d2f04f2d9,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,295600,2021-11-22T23:13:31.000Z
+76,06209c614104c6a6f86cad0033c3709d,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,681033,2021-11-22T22:56:06.000Z
+77,951c9c618c04d0250c20152e244d1a30,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,748500,2021-11-22T22:41:25.000Z
+78,83169c61049458aca1f3a97d472c776d,Malady,True,ravaged_v2,Ravaged_v2,673967,2021-11-22T22:15:31.000Z
+79,8f0b9c61d4b664637a205a9d2691e5cc,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,900033,2021-11-22T21:28:47.000Z
+80,c0089c61e4e5aa8c4825b9a69af47a43,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,600833,2021-11-22T21:16:48.000Z
+81,4a059c6116d2feaa01e84cea43d7504e,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,786000,2021-11-22T21:02:02.000Z
+82,8dd99b61a3af88caa41aff9775d79d52,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,1298567,2021-11-22T17:55:25.000Z
+83,350e9b6126d27f9483bee6a1bbb0a63c,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1220667,2021-11-22T03:27:49.000Z
+84,8ee69a61706b001260638add8763f879,Malady,False,two_continents_dry_v1.5,Two Continents Dry v1.5,2119033,2021-11-22T00:38:38.000Z
+85,9b749a61e5fe47b83ad98093608e74d3,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,792367,2021-11-21T16:32:27.000Z
+86,b3d09961b1138b1ca2a2a4d326757981,Malady,False,coastlines_dry_v2.2,Coastlines_Dry_V2.2,2585600,2021-11-21T04:53:07.000Z
+87,e5c89961b39a69fcc368bb5a614780a7,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,1677333,2021-11-21T04:19:49.000Z
+88,33bf9961ab5391516f79edb6cf071452,Malady,False,tundra_v2,Tundra_V2,1827000,2021-11-21T03:38:27.000Z
+89,da9c9961f55b76315a36b69193b0e3fc,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,942233,2021-11-21T01:11:54.000Z
+90,dc9599615f2e0cbc2524757ffb017644,Malady,True,altair_crossing_V4,Altair_Crossing_V4,252067,2021-11-21T00:42:04.000Z
+91,a79499614e22afc2f5201bee77e6b926,Malady,True,altair_crossing_V4,Altair_Crossing_V4,223700,2021-11-21T00:36:55.000Z
+92,d78a99617802bb29f16c0203668a0bb0,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,628033,2021-11-20T23:55:03.000Z
+93,b0869961d5792e7cfc9e5f4d96775761,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,992967,2021-11-20T23:37:20.000Z
+94,53389961341834a772410c83b89541d0,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,409300,2021-11-20T18:02:59.000Z
+95,193499611f8b03e5d03c3b473ced2ff4,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,980200,2021-11-20T17:44:57.000Z
+96,8a689861a19e8d001dbed878787238e8,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,669967,2021-11-20T03:16:26.000Z
+97,3ba595617b5dad271ec87669314b2bd8,Malady,True,seths_ravine_v4,Seths_Ravine_V4,610900,2021-11-18T00:58:35.000Z
+98,9aa3956135bdfd9d2fd89597323c6526,Malady,True,glacier_pass_1.2,Glacier Pass 1.2,303100,2021-11-18T00:51:38.000Z
+99,d1a19561e2bd4513c7d3dee7325738ef,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,335333,2021-11-18T00:44:01.000Z
+100,d08e956172636bbfc8a04467705989a4,Malady,False,paradise_lost_v4,Paradise_Lost_V4,2377233,2021-11-17T23:22:56.000Z
+101,7f6095617d71d5fc735e3fede1a283bc,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1318267,2021-11-17T20:05:19.000Z
+102,cb5d9561a5f8f91e166049076e8ac713,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,606900,2021-11-17T19:53:47.000Z
+103,455a9561aa035227d2879ec3a4b93bc1,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,806700,2021-11-17T19:38:45.000Z
+104,6b579561ff5583c3bd86ce41a2fcf7d9,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,663067,2021-11-17T19:26:35.000Z
+105,72439561c780559c411745ec2c0dffce,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,555967,2021-11-17T18:01:22.000Z
+106,c93f956157bfa5096f2295709246b4d6,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,796367,2021-11-17T17:45:45.000Z
+107,143e9561f6d316f16c69d3a1542404a5,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,293200,2021-11-17T17:38:28.000Z
+108,283d9561550819466de87e720d2ac2b9,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,133633,2021-11-17T17:34:32.000Z
+109,2e3495612487bc424ccd248e98e8ef39,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,676833,2021-11-17T16:56:14.000Z
+110,d33195612cb14765b09f24dcdf37dff8,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,568200,2021-11-17T16:46:11.000Z
+111,ef5694615a6378073c0d4eda266b3053,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,186300,2021-11-17T01:12:15.000Z
+112,065194618d0c140cf08c84ed032d92e6,Malady,True,desert_3.25,Desert 3.25,1391533,2021-11-17T00:47:02.000Z
+113,d648946109dc5dab78af0e2ec6f618cf,Malady,False,akilon_wastelands_-_v18,Akilon Wastelands - v18,1196000,2021-11-17T00:12:06.000Z
+114,a2ad91618940216f2bfbdd6644b1d3f3,Malady,True,desolation,Desolation v1,1328133,2021-11-15T00:45:22.000Z
+115,7da59161a3f15521b9dc502d4205bb37,Malady,False,tabula_remake_1.5,Tabula_Remake 1.5,1221300,2021-11-15T00:10:37.000Z
+116,a89a91619df1b5bdf4d95adc8b3a93e4,Malady,True,tropical-v2,Tropical-v2,1126567,2021-11-14T23:24:24.000Z
+117,a38f90619bb195912d3f984778d0552d,Malady,False,Tau12,Tau12,903333,2021-11-14T04:25:07.000Z
+118,eb889061fb03e4ae5ba341a0b91c2306,Malady,False,valles_marineris_v2,Valles_Marineris_v2,1369700,2021-11-14T03:56:27.000Z
+119,8a7590615eac304c11b70c0fd2feb5f7,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,750667,2021-11-14T02:33:46.000Z
+120,ae719061e75742a3aa76335aae631934,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,795800,2021-11-14T02:17:18.000Z
+121,fb6d90618899d876288a8ab4a52a2f00,Malady,True,sertaleina_v8,Sertaleina_V8,403733,2021-11-14T02:01:31.000Z
+122,b66a9061d49e707d563743b2867ab7f5,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,704967,2021-11-14T01:47:34.000Z
+123,f93c9061de5b0120014f6a1fc2ded7d7,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,1750467,2021-11-13T22:32:25.000Z
+124,6228906169b6a1b8a5a61007f48530de,Malady,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1063767,2021-11-13T21:04:34.000Z
+125,251a9061db8c858686ed091be52a101a,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,870067,2021-11-13T20:03:49.000Z
+126,8216906119192b9ff3c8acedce2d0eeb,Malady,False,red_comet_remake_1.8,Red Comet Remake 1.8,591100,2021-11-13T19:48:18.000Z
+127,b40d9061eae9df5bd5d5ba9640a54fe2,Malady,False,dsdr_4.0,DSDR 4.0,829467,2021-11-13T19:10:44.000Z
+128,30f78f6140f9aa4861c4f932d9fcb137,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,719800,2021-11-13T17:34:40.000Z
+129,743c8f610bc23cbb332903f6f0bd8189,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1051900,2021-11-13T04:17:56.000Z
+130,1d388f61ab8132cd8c448e080aad23a0,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,764700,2021-11-13T03:59:25.000Z
+131,b82a8f6110242e0e4698db847c997b2d,Malady,True,tundra_v2,Tundra_V2,277600,2021-11-13T03:02:16.000Z
+132,45278f6129ca187f07fd93b20ce8ea75,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,783067,2021-11-13T02:47:33.000Z
+133,b5258f613c064e07f13363fc5c940f45,Malady,True,glacier_pass_1.2,Glacier Pass 1.2,317800,2021-11-13T02:40:53.000Z
+134,97228f617aab26a1f1fecd04746e074d,Malady,True,moonq20xr2_2.5,MoonQ20XR2 2.5,747967,2021-11-13T02:27:35.000Z
+135,44218f617003cca880ec4288225bd042,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,289900,2021-11-13T02:21:56.000Z
+136,2a058f6102a69c43e4902f60f21d2746,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1376400,2021-11-13T00:22:02.000Z
+137,a9ee8e615d313f817ad47be9f131df3c,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,858733,2021-11-12T22:46:01.000Z
+138,f5c58e613edc6720e8108d4c86054879,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1123533,2021-11-12T19:52:21.000Z
+139,e3a78c61fa4580d122a48e53ac827f68,Malady,True,archsimkats_valley_v1,Archsimkats_Valley_V1,1393433,2021-11-11T05:19:31.000Z
+140,f5a18c617c225997835e012ca0f19fe6,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,962000,2021-11-11T04:54:13.000Z
+141,f38e8c61bda1bc6f144442c607f3871c,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1326167,2021-11-11T03:33:07.000Z
+142,e9148a6188e54d061fe2526630f30da2,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,873967,2021-11-09T06:27:53.000Z
+143,df128a61b8587a0d05bc98b13541e24c,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,424133,2021-11-09T06:19:11.000Z
+144,6d868861eedf30570a165988086a1107,Malady,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1631867,2021-11-08T02:07:41.000Z
+145,8f5588613af97d3274d5f7d0cc516489,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,1697633,2021-11-07T22:39:11.000Z
+146,ce4c8861efd66c3b06b40b01b846a52d,Malady,False,nuclear_winter_bar_1.2,Nuclear Winter Bar 1.2,1404233,2021-11-07T22:01:50.000Z
+147,7845886127ab665ad8988d4eebb8c859,Malady,True,nuclear_winter_bar_1.2,Nuclear Winter Bar 1.2,1439733,2021-11-07T21:30:32.000Z
+148,1e378861131876ff47e0e90b0ed4c402,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,816133,2021-11-07T20:29:18.000Z
+149,be2d8861ff85d5a5ee459f5a3597ed1e,Malady,True,tundra_v2,Tundra_V2,952300,2021-11-07T19:49:18.000Z
+150,4827886116b09c260ee1b1c83ed3dd9f,Malady,False,supreme_crossing_v1,Supreme_Crossing_V1,531633,2021-11-07T19:21:44.000Z
+151,8e21886131d2c3abf3f0a1ee87008d90,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,808067,2021-11-07T18:57:18.000Z
+152,c11f88613fc2f7c55beac4c56cf3a0b6,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,386533,2021-11-07T18:49:37.000Z
+153,e23387613eec89970974a3f619f4b775,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1425233,2021-11-07T02:03:14.000Z
+154,bd2887619ed8fed134461e2d902ce204,Malady,False,stronghold_v4,Stronghold V4,1833200,2021-11-07T01:15:41.000Z
+155,061c87615638d04780a42c4c85c4673d,Malady,True,tropical-v2,Tropical-v2,1424267,2021-11-07T00:21:26.000Z
+156,b81587614928981939a0f7c7566e64dd,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,994567,2021-11-06T23:54:32.000Z
+157,0c128761af4e809256123bc1ee1c24cd,Malady,True,quicksilver_remake_1.24,Quicksilver Remake 1.24,134833,2021-11-06T23:38:52.000Z
+158,1d008761824620c3c749454bba510c3c,Malady,True,archsimkats_valley_v1,Archsimkats_Valley_V1,1488833,2021-11-06T22:22:21.000Z
+159,fcf286618cd5d9bf0bec515fe5b5ca09,Malady,False,tabula_remake_1.5,Tabula_Remake 1.5,1013100,2021-11-06T21:26:20.000Z
+160,93d18661b8bcdbf116f2576dbad5f3c4,Malady,True,Tempest_V3,Tempest_V3,1433900,2021-11-06T19:03:47.000Z
+161,cec78661e913a9c7d71c48734277b3ea,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,978700,2021-11-06T18:22:06.000Z
+162,ff03866183a5957f828e0e74e827134f,Malady,True,into_battle_redux_v3,Into Battle Redux v3,851833,2021-11-06T04:26:39.000Z
+163,01008661819a83f9abaf53999ab8c48b,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,768033,2021-11-06T04:09:37.000Z
+164,b0fb8561ac1e2c01b095bfb88b3ebaf1,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,755800,2021-11-06T03:51:12.000Z
+165,d4db8561598498cbd3dd7fdff64bb5ed,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,920533,2021-11-06T01:35:16.000Z
+166,2eca856176a957aee7c3997dc40e77cf,Malady,True,tropical-v2,Tropical-v2,1959633,2021-11-06T00:19:58.000Z
+167,e8bb85618e7bc9995310c8ff4a782d00,Malady,False,emain_macha_v3,Emain Macha v3,1803533,2021-11-05T23:19:04.000Z
+168,28017e612c9e107d1e5a8bbf39c3f0d1,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,669367,2021-10-31T02:36:24.000Z
+169,a5fc7d61db743ec160576b15d43edbb9,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1075767,2021-10-31T02:17:09.000Z
+170,00f87d61d689f39f79642f055575c859,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1144700,2021-10-31T01:57:20.000Z
+171,5bee7d612a7481feb867c03c159c9616,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1180867,2021-10-31T01:16:11.000Z
+172,52b97d6182032ad8aba360a7c39220f5,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1077067,2021-10-30T21:29:54.000Z
+173,a2ac7d61b1ccef245181b3e431140268,Malady,True,boulder_beach_v1,Boulder_Beach_V1,821400,2021-10-30T20:35:46.000Z
+174,a1a97d61002999f7d317da826b9faec1,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,723300,2021-10-30T20:22:57.000Z
+175,f79a7d618e8b0eaa6b6053e992481da7,Malady,True,dsdr_4.0,DSDR 4.0,1311567,2021-10-30T19:20:23.000Z
+176,a2487d61a1d6988ab103989766c205d1,Malady,True,tundra_v2,Tundra_V2,1087800,2021-10-30T13:29:06.000Z
+177,1a867b61e8bb70d576a05d3ea5512bf2,Malady,True,small_supreme_battlefield_v3,Small_Supreme_Battlefield_V3,1212100,2021-10-29T05:26:50.000Z
+178,63827b611e5f59df29b658942e1d515a,Malady,True,mescaline_v2,Mescaline_V2,829900,2021-10-29T05:10:59.000Z
+179,a7787b61c132a1be75c683ac4e0c7680,Malady,True,eye_of_horus_v13,Eye of Horus v13,929200,2021-10-29T04:29:27.000Z
+180,63737b6190c4106e83307db4e18407c8,Malady,False,fallendell_v4,Fallendell_V4,958900,2021-10-29T04:06:59.000Z
+181,016e7b611afe94c80de39bab90b0784a,Malady,True,tundra_v2,Tundra_V2,986567,2021-10-29T03:44:01.000Z
+182,12667b6117b0096cb0e5b8fd45489ff5,Malady,False,tundra_v2,Tundra_V2,1389000,2021-10-29T03:10:10.000Z
+183,914e7b61cc1c7879793b0bd1d6fe4690,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,1026700,2021-10-29T01:29:53.000Z
+184,e4417b614fc6ad33653d7ec86c2e0f0d,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,634633,2021-10-29T00:35:48.000Z
+185,6f1b7a61f068447d607ad922a50e64ec,Malady,True,eye_of_horus_v13,Eye of Horus v13,1065500,2021-10-28T03:39:27.000Z
+186,ab147a615cc895abb0fa2a2cd98ad968,Malady,True,,Zed 2.3 - MexesFix,1166867,2021-10-28T03:10:35.000Z
+187,b219766137b2a24fe1e18042bcd4ca57,Malady,True,taldarim_v3,Taldarim_V3,4095433,2021-10-25T02:42:58.000Z
+188,57117661d9014ac10d49a1d2b82c4e06,Malady,False,koom_valley_3_3.0,Koom Valley 3 3.0,1684100,2021-10-25T02:07:19.000Z
+189,510876611986d7da3bcde42ce0a589cd,Malady,True,Tempest_V3,Tempest_V3,1404433,2021-10-25T01:28:49.000Z
+190,5a0176617aa2ce63996c335a9842d9ad,Malady,True,gecko_isle_1.1,Gecko Isle 1.1,1144267,2021-10-25T00:59:06.000Z
+191,15f9756175e79678513300e476eb8349,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1499733,2021-10-25T00:23:49.000Z
+192,b86c756186aac9dde6201037a772cc2b,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,829467,2021-10-24T14:24:56.000Z
+193,2eaa7461c493a22f830e31635adc7ab2,Malady,True,tropical-v2,Tropical-v2,3676833,2021-10-24T00:34:54.000Z
+194,bea5746115112ee43b29491782e28175,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,945667,2021-10-24T00:15:58.000Z
+195,e99c74615b38b5d95eeba6db69ae8bc7,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1863767,2021-10-23T23:38:17.000Z
+196,ac95746199ba7bb050c6aa0dd8200e6d,Malady,False,Tempest_V3,Tempest_V3,1330133,2021-10-23T23:07:24.000Z
+197,e98b7461b9d1ead32577354e545c7947,Malady,False,tangerine_remake_1.0,Tangerine_Remake 1.0,1729600,2021-10-23T22:25:45.000Z
+198,3a83746123045383651fa6c0639ceeb1,Malady,False,TheRock_V3,TheRock_V3,1580333,2021-10-23T21:48:42.000Z
+199,52677461510bd42a3b17db735f6b0de8,Malady,True,dsdr_4.0,DSDR 4.0,1901000,2021-10-23T19:49:38.000Z
+200,7d6174616498c24c24e3b56608da83ef,Malady,False,Tau12,Tau12,936767,2021-10-23T19:24:45.000Z
+201,f4527461e1c811ac7d3c4243b5afd5c6,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,574367,2021-10-23T18:22:44.000Z
+202,da3773618131f5c7715912fb72d013a7,Malady,True,colorado_v2_1.1,Colorado_V2 1.1,854733,2021-10-22T22:14:50.000Z
+203,83067261ab324273e22ac9a193718d6c,Malady,True,gecko_isle_1.1,Gecko Isle 1.1,1043967,2021-10-22T00:32:03.000Z
+204,cf027261e5f1037bf29e2f093a299dc9,Malady,True,altair_crossing_V4,Altair_Crossing_V4,518533,2021-10-22T00:16:15.000Z
+205,aefa7161d698710f69cee297bebb17b5,Malady,True,death_valley_v1,Death Valley v1,882567,2021-10-21T23:41:34.000Z
+206,289871610eb28a2cd0646551608b7a62,Malady,True,koom_valley_3_3.0,Koom Valley 3 3.0,1861200,2021-10-21T16:41:12.000Z
+207,4ebf70618ff019f262d469f86274970c,Malady,False,sertagatta_v5,Sertagatta_V5,789500,2021-10-21T01:15:58.000Z
+208,a87c6f615be293a3df9a1ac53d64911b,Malady,False,koom_valley_3_3.0,Koom Valley 3 3.0,3409500,2021-10-20T02:19:20.000Z
+209,48726f61deb4dccdf17cc9df1ffe0750,Malady,True,Tempest_V3,Tempest_V3,1235967,2021-10-20T01:35:04.000Z
+210,52666f61b68030a0fce4f882fe83ab13,Malady,False,red_comet_remake_1.8,Red Comet Remake 1.8,1083767,2021-10-20T00:44:02.000Z
+211,43586f61a59f6c98e13a797062d9f6b4,Malady,True,Tau12,Tau12,1460733,2021-10-19T23:44:03.000Z
+212,e6e76a611cec70a86d1482eb0c1d7e82,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,2106900,2021-10-16T14:55:34.000Z
+213,2de16a610289916cd293462fb0e81daa,Malady,False,centerrock_remake_1.2,Centerrock Remake 1.2,1403667,2021-10-16T14:26:53.000Z
+214,08675c6199c1773ed78e2be95e2e6c71,Malady,False,valles_marineris_v2,Valles_Marineris_v2,1667167,2021-10-05T14:54:00.000Z
+215,23a85b611355ef6c587626736e1111c0,Malady,False,mescaline_v2,Mescaline_V2,1548367,2021-10-05T01:19:31.000Z
+216,0aa15b6117b526e18e0ef1a56e301c45,Malady,False,red_comet_remake_1.8,Red Comet Remake 1.8,800567,2021-10-05T00:49:14.000Z
+217,fa9d5b61b19625e74670a32e82e92dc3,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,575467,2021-10-05T00:36:10.000Z
+218,269b5b612705865797859a0b8f3082f6,Malady,False,red_comet_remake_1.8,Red Comet Remake 1.8,411967,2021-10-05T00:24:06.000Z
+219,fc7d5b617ab4c8275e6d24216b3f114a,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,761833,2021-10-04T22:19:40.000Z
+220,c4b45461ffff9431eee762576af8ea53,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,936000,2021-09-29T18:47:32.000Z
+221,8c8f5361c4cc0c6e8890de89321b57da,Malady,False,tabula_remake_1.5,Tabula_Remake 1.5,2086033,2021-09-28T21:56:28.000Z
+222,e08453615a74b02bdb7a0b607435dcf8,Malady,False,FolsomdamR_1.16,FolsomDamR 1.16,2276067,2021-09-28T21:10:56.000Z
+223,097253619b8ac55cd69332af2f01b17d,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1544533,2021-09-28T19:50:33.000Z
+224,bd6353616ff0437795cddc276a863326,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1244967,2021-09-28T18:49:33.000Z
+225,413d5261e1304b48f139212d8349ea15,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,2240667,2021-09-27T21:53:05.000Z
+226,9ae15061d1853891079aad7ac0fda138,Malady,False,throne_v8,Throne_V8,6497734,2021-09-26T21:09:46.000Z
+227,59d05061bdc429c173216327af2035d7,Malady,False,centerrock_remake_1.2,Centerrock Remake 1.2,1670133,2021-09-26T19:56:09.000Z
+228,b9ca50611ac3af313a43e52ac1b5d05d,Malady,False,FolsomdamR_1.16,FolsomDamR 1.16,983133,2021-09-26T19:32:09.000Z
+229,84b2506183604553ac55f87fe5882a35,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1350000,2021-09-26T17:48:52.000Z
+230,7ab14f611311b4fc63240991b2861d59,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,717200,2021-09-25T23:32:10.000Z
+231,6da94f61dd99f881f6bd32230deb7dd4,Malady,False,red_comet_remake_1.8,Red Comet Remake 1.8,457433,2021-09-25T22:57:49.000Z
+232,89844f611dadb6e863269e27bc9d5eb5,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,839567,2021-09-25T20:20:25.000Z
+233,997f4f61a66350a2bed7a6997892fcbc,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,923100,2021-09-25T19:59:21.000Z
+234,e1af4b6120cd2ccb3dd6adea1d93ccde,Malady,False,Tempest_V3,Tempest_V3,1808833,2021-09-22T22:36:17.000Z
+235,4daf4761d3b6d0182ed3d188797a29af,Malady,False,throne_v8,Throne_V8,2542033,2021-09-19T21:44:45.000Z
+236,a4a04761fce513ffed876d8205c2db86,Malady,False,centerrock_remake_dry_1.2,Centerrock Remake Dry 1.2,1941067,2021-09-19T20:42:12.000Z
+237,5998476168dd3678d04951aa77dea029,Malady,False,,Painted Badlands 1.0,1687500,2021-09-19T20:06:49.000Z
+238,e99147618be37d193d632e0d268ec06d,Malady,False,valles_marineris_v2,Valles_Marineris_v2,1309467,2021-09-19T19:39:21.000Z
+239,968c476192361759e00827e371c6326a,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1168133,2021-09-19T19:16:38.000Z
+240,9188476170ef20f4b0ac2c81a2502a04,Malady,True,altair_crossing_V4,Altair_Crossing_V4,767267,2021-09-19T18:59:29.000Z
+241,f4804761953901d695d14cc5b33b512b,Malady,True,coastlines_dry_v2.2,Coastlines_Dry_V2.2,1671967,2021-09-19T18:27:00.000Z
+242,894d47612f5719f233ac8ae00b58d9aa,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1798167,2021-09-19T14:47:37.000Z
+243,0b4447612bea5b436b0cbf572ffde877,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,883433,2021-09-19T14:07:07.000Z
+244,f86246617a97559e7dde9add4710f95f,Malady,False,quicksilver_remake_1.24,Quicksilver Remake 1.24,424700,2021-09-18T22:06:48.000Z
+245,a5244661e6e6b45bc3a47662677936f8,Malady,False,red_comet_remake_1.8,Red Comet Remake 1.8,692400,2021-09-18T17:40:53.000Z
+246,1efc4561e9bab8f2079482230d7fdeda,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1199467,2021-09-18T14:47:58.000Z
+247,20094561e4e7738eb6e498ceb6e9b1aa,Malady,True,tempest,Tempest,1201833,2021-09-17T21:31:12.000Z
+248,a5f644616d6b42cfc9fbd7e92a10207b,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,420433,2021-09-17T20:12:21.000Z
+249,5cf3446166e6ce51b9e9dda46b2ab3a6,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,722900,2021-09-17T19:58:20.000Z
+250,46da4461c818079de88e6e9ee3d3c325,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,567733,2021-09-17T18:11:18.000Z
+251,45d444615ead72149c21aaa8e06dc6af,Malady,False,kolmogorov,Kolmogorov,1055667,2021-09-17T17:45:41.000Z
+252,8f5344616f2af2ac966abbd338f8134e,Malady,True,red_comet_remake_1.8,Red Comet Remake 1.8,547333,2021-09-17T08:36:31.000Z
+253,6c73426151e45a4f897c7d3eb536ba94,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,952933,2021-09-15T22:27:56.000Z
+254,19fd40619430d70208727dd85d8f5fde,Malady,True,koom_valley_3_3.0,Koom Valley 3 3.0,3889567,2021-09-14T19:50:49.000Z
+255,0ff240619ed8801733e8869641f43a1f,Malady,False,dsdr_4.0,DSDR 4.0,2024233,2021-09-14T19:03:43.000Z
+256,4aec4061e95be8204ae25151f7abea22,Malady,False,dsdr_4.0,DSDR 4.0,1110033,2021-09-14T18:39:06.000Z
+257,bce440610a331351281510831f3b2e72,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1053733,2021-09-14T18:06:52.000Z
+258,9cf53f610621efb20f7428f9bbc54c47,Malady,True,supreme_crossing_v1,Supreme_Crossing_V1,997200,2021-09-14T01:06:36.000Z
+259,aadd3f6192fd2942a1cdcfa258db59eb,Malady,True,twin_lakes_park_1,Twin Lakes Park 1,1426067,2021-09-13T23:24:26.000Z
+260,3bd73f610139bce5d821cb2a4cc6820f,Malady,True,twin_lakes_park_1,Twin Lakes Park 1,1302667,2021-09-13T22:56:59.000Z
+261,bcd13f61dca6fb72c27460a189f3a608,Malady,False,taldarim_v3,Taldarim_V3,910533,2021-09-13T22:33:32.000Z
+262,bd993f61f0dcc1701139d033f45f64f4,Malady,True,dsdr_4.0,DSDR 4.0,1438367,2021-09-13T18:34:37.000Z
+263,e2913f6115419e14a6345751455ffbfa,Malady,False,dsdr_4.0,DSDR 4.0,1584867,2021-09-13T18:01:06.000Z
+264,84ae3e61455c6431f6c13434c9c02186,Malady,True,tabula_remake_1.5,Tabula_Remake 1.5,1589633,2021-09-13T01:51:00.000Z
+265,78a53e6127968ac370b5df546f14d9ed,Malady,False,koom_valley_3_3.0,Koom Valley 3 3.0,1156300,2021-09-13T01:12:24.000Z
+266,029d3e619d2c78ea961a394c0cec7b13,Malady,True,TheRock_V3,TheRock_V3,1063500,2021-09-13T00:36:18.000Z
+267,e57f3e61851d4e88fdad8132af88a098,Malady,True,supreme_crossing_v1,Supreme_Crossing_V1,2758467,2021-09-12T22:32:05.000Z
+268,00793e61b49cae29aeba3d6791facebe,Malady,True,dsdr_4.0,DSDR 4.0,1243333,2021-09-12T22:02:40.000Z
+269,58473e61bec6bb5f2a83baac163f68c5,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,830833,2021-09-12T18:30:48.000Z
+270,ebd03c614d21e08b4535e7ed110e8425,Malady,True,dsdr_4.0,DSDR 4.0,2708200,2021-09-11T15:53:15.000Z
+271,c7ca3c61b77385d41051b39d1ba318f2,Malady,True,dsdr_4.0,DSDR 4.0,1159733,2021-09-11T15:27:03.000Z
+272,10b93c61cb74b50ad45d99e8fcb6a2cd,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1743600,2021-09-11T14:11:28.000Z
+273,7fb33c61d286364850fdac452dbfe68a,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1111000,2021-09-11T13:47:43.000Z
+274,57ae3c6175b5a55f0d8844b616943ce9,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,871033,2021-09-11T13:25:43.000Z
+275,ffa83c61dede6a1f4d2e5c068616df01,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,777933,2021-09-11T13:02:55.000Z
+276,fc803c612b10e446ce2bbd876cbbe1bf,Malady,True,dsdr_4.0,DSDR 4.0,2559700,2021-09-11T10:12:12.000Z
+277,95f63b61fa5ea4c6fdaebee1ea68aeb0,Malady,True,talus_v2,Talus_v2,768100,2021-09-11T00:21:41.000Z
+278,88ec3b6195ecffa8fa769040c19e8361,Malady,False,TheRock_V3,TheRock_V3,1583667,2021-09-10T23:38:48.000Z
+279,11e73b61ab9e7033562d7f592fcc945b,Malady,False,otago_1.4,Otago 1.4,918800,2021-09-10T23:15:29.000Z
+280,30e03b6181d68e4ac6efd65d77759846,Malady,False,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1457933,2021-09-10T22:46:08.000Z
+281,5ad13b61657efd6675856f4f4a2ff33f,Malady,False,dsdr_4.0,DSDR 4.0,1658133,2021-09-10T21:42:50.000Z
+282,2ec63b6113a03e975585dae222a2813b,Malady,False,dsdr_4.0,DSDR 4.0,2267033,2021-09-10T20:55:10.000Z
+283,9dc13b61433a26f2027393ad05b90d1f,Malady,False,dsdr_4.0,DSDR 4.0,914700,2021-09-10T20:35:41.000Z
+284,a8ae3b6112744e419a0c5520b3ece0f8,Malady,True,altored_divide_bar_remake_1.55,Altored Divide Bar Remake 1.55,1561167,2021-09-10T19:14:48.000Z
+285,89993b61c437e305db43591d13265c08,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1669367,2021-09-10T17:44:41.000Z
+286,608a3b6137065d3f6cd1ba947c7b4d3c,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,1018667,2021-09-10T16:40:00.000Z
+287,25423b61731b5b73c379f665d0b78e70,Malady,False,moonq20xr2_2.5,MoonQ20XR2 2.5,719267,2021-09-10T11:31:49.000Z
+288,fe353b613d9f1b3c287eebb348a19495,Malady,True,otago_1.4,Otago 1.4,1532000,2021-09-10T10:39:58.000Z
+289,04323b61e80a7279dbe5a23d9d03a14d,Malady,True,small_supreme_battlefield_v3,Small_Supreme_Battlefield_V3,665967,2021-09-10T10:23:00.000Z
+290,ff2b3b61fe94363649c67c7a65ea0edc,Malady,False,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,980967,2021-09-10T09:57:19.000Z
+291,71273b61693e55a165fcb596c2594045,Malady,True,comet_catcher_remake_1.8,Comet Catcher Remake 1.8,682967,2021-09-10T09:37:53.000Z
+292,c95339617a28ec7cf32a47d5b176f77c,Malady,True,boulder_beach_v1,Boulder_Beach_V1,2384233,2021-09-09T00:22:33.000Z
+293,6d4e396162786c49af919b24c497d42f,Malady,False,eye_of_horus_v13,Eye of Horus v13,860400,2021-09-08T23:59:41.000Z
+294,a04a396152aa162727a87cd8fdb64b55,Malady,False,eye_of_horus_v13,Eye of Horus v13,697100,2021-09-08T23:43:28.000Z
+295,74463961e857a394e4d573e6aa17f5e7,Malady,False,cape_violet_v1,Cape_Violet_V1,705000,2021-09-08T23:25:40.000Z
+296,37403961818f98ea3305568a19efb857,Malady,True,cape_violet_v1,Cape_Violet_V1,1172900,2021-09-08T22:59:03.000Z
