@@ -157,6 +157,7 @@ def plot_win_rate(user: str, min_games: int = 5, season0: bool = False):
 
 
 if __name__ == "__main__":
+    st.image("https://assets.website-files.com/5f1b8f0f7d5e4a1a8f2e8b4f/5f1b8f0f7d5e4a7a5b2e8b5a_logo.png", width=50)
     st.title("Beyond All Information")
     instructions = """
         Get your stats of Beyond All Reason https://www.beyondallreason.info/.
