@@ -25,6 +25,7 @@ class Preset(StrEnum):
 
 preset = Preset.team
 
+
 @st.cache_data
 def get_data(url: str):
     """Get the data from the API and return a json object"""
@@ -77,14 +78,19 @@ def get_match_data(user: str, preset: Preset = Preset.all):
                         matches.append(match)
 
     matches_df = pd.json_normalize(matches)
+    matches_df["startTime"] = pd.to_datetime(matches_df["startTime"])
     return matches_df
 
 
 # Get the win rate for each map
-def get_win_rate(user: str, min_games: int = 5):
+def get_win_rate(user: str, min_games: int = 5, season0: bool = False):
     df = get_match_data(user, preset)
     if df.empty:
         return df
+
+    if season0:
+        df = df[df["startTime"] >= "2023-06-01"]
+
     win_rate = (
         df.groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
@@ -98,10 +104,11 @@ def get_win_rate(user: str, min_games: int = 5):
 # games played with horizontal bars and subdivide the bars by the winning team
 # with minor locator for the x axis. Color by count and winningTeam.
 
+
 # Set the x axis minor locator to 5 and major locator to 10
 # Set the y axis to the map name
-def plot_win_rate(user: str, min_games: int = 5):
-    win_rate = get_win_rate(user, min_games)
+def plot_win_rate(user: str, min_games: int = 5, season0: bool = False):
+    win_rate = get_win_rate(user, min_games, season0)
     if win_rate.empty:
         print(f"{user} has not played enough games")
         return
@@ -161,7 +168,9 @@ if __name__ == "__main__":
     min_games: int = st.sidebar.slider(
         "Min Games", min_value=1, max_value=20, value=5, step=1
     )
-    figure = plot_win_rate(user, min_games)
+    season0: bool = st.sidebar.checkbox("Season 0", value=False)
+
+    figure = plot_win_rate(user, min_games, season0)
     if figure is not None:
         st.pyplot(figure)
     else:
