@@ -160,7 +160,7 @@ if __name__ == "__main__":
     st.image("https://assets.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg", width=100)
     st.title("Beyond All Information")
     instructions = """
-        Get your stats of Beyond All Reason https://www.beyondallreason.info/.
+        Get your stats of Beyond All Reason https://www.beyondallreason.info
         """
     st.write(instructions)
 
