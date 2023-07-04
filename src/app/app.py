@@ -25,8 +25,9 @@ class Preset(StrEnum):
 
 preset = Preset.team
 
-
+@st.cache
 def get_data(url: str):
+    """Get the data from the API and return a json object"""
     with urlopen(url) as response:
         source = response.read().decode("utf-8")
     data = json.loads(source)
@@ -34,6 +35,7 @@ def get_data(url: str):
 
 
 # Get the players replays metadata
+@st.cache
 def get_match_data(user: str, preset: Preset = Preset.all):
     # Depending on the preset, the API returns different data.json
     # The preset uses the following format: &preset=duel%2Cffa%2Cteam
@@ -99,7 +101,7 @@ def get_win_rate(user: str, min_games: int = 5):
 
 # Set the x axis minor locator to 5 and major locator to 10
 
-
+@st.cache
 def plot_win_rate(user: str, min_games: int = 5):
     win_rate = get_win_rate(user, min_games)
     if win_rate.empty:
