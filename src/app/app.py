@@ -78,6 +78,9 @@ def get_match_data(user: str, preset: Preset = Preset.all):
                         matches.append(match)
 
     matches_df = pd.json_normalize(matches)
+    if matches_df.empty:
+        print(f"{user} not found or no games played.")
+        return matches_df
     matches_df["startTime"] = pd.to_datetime(matches_df["startTime"])
     return matches_df
 
@@ -157,7 +160,10 @@ def plot_win_rate(user: str, min_games: int = 5, season0: bool = False):
 
 
 if __name__ == "__main__":
-    st.image("https://assets.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg", width=100)
+    st.image(
+        "https://assets.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg",
+        width=100,
+    )
     st.title("Beyond All Information")
     instructions = """
         Get your stats of Beyond All Reason https://www.beyondallreason.info
