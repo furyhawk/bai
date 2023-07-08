@@ -9,7 +9,7 @@ from urllib.request import urlopen
 
 import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
+
 
 plt.rcParams["figure.figsize"] = (10, 10)
 
@@ -150,18 +150,12 @@ def get_match_data(
 
 # Get the win rate for each map
 def get_win_rate(
-    matches_bar,
+    df,
     user: str,
     min_games: int = 5,
-    preset=Preset.team,
-    season0: bool = False,
 ):
-    df = process_match_data(get_match_data(matches_bar, user, preset, season0))
     if df.empty:
         return df
-
-    if season0:
-        df = df[df["startTime"] >= "2023-06-01"]
 
     user_id = get_user_id(user)
     if user_id == "":
@@ -172,64 +166,40 @@ def get_win_rate(
         df.query(f"userId == {user_id}")
         .groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
-        .query(f"count > {str(min_games)}")
+        .query(f"count >= {str(min_games)}")
         .sort_values([("mean"), ("count")], ascending=True)
     )
     return win_rate
 
 
-# Set the x axis minor locator to 5 and major locator to 10
-# Set the y axis to the map name
-def plot_win_rate(
-    matches_bar,
-    user: str,
-    min_games: int = 5,
-    preset=Preset.team,
-    season0: bool = False,
-):
-    win_rate = get_win_rate(matches_bar, user, min_games, preset, season0)
-    if win_rate.empty:
-        print(f"{user} has not played enough games")
-        return
-
-    # Get overall win rate
-    overall_win_rate = win_rate["mean"].mean()
-    # Get total number of games
-    total_games = win_rate["count"].sum()
-
-    fig, (ax1, ax2) = plt.subplots(1, 2, sharey="all", figsize=(12, 6))
-
-    bars = ax1.barh(
-        y=win_rate.index,
-        width=win_rate["mean"],
-        alpha=0.75,
-    )
-    ax1.bar_label(bars, fmt="{:.0%}", label_type="center")
-    ax1.xaxis.set_minor_locator(ticker.MultipleLocator(0.05))
-    ax1.xaxis.set_major_locator(ticker.MultipleLocator(0.1))
-    ax1.grid(which="minor", axis="x", linestyle="--")
-    ax1.grid(which="major", axis="x", linestyle="-")
-    ax1.set_xlabel("Winning %")
-    ax1.set_ylabel("Map")
-    ax1.set_xlim(0, 1)
-    ax1.set_title(f"[{preset.name} games]{user} Winning {overall_win_rate:.0%} by Map")
-
-    ax1.set_axisbelow(True)
-
-    bars = ax2.barh(
-        y=win_rate.index,
-        width=win_rate["count"],
-        alpha=0.75,
+def get_fractions_win_rate(df, user: str):
+    return (
+        df.query(f"userId == {get_user_id(user)}")
+        .groupby(["faction"])
+        .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
+        # .query(f"count > {str(5)}")
+        # .sort_values([("mean"), ("count")], ascending=True)
     )
 
-    ax2.bar_label(bars, label_type="center")
-    ax2.xaxis.set_minor_locator(ticker.MultipleLocator(5))
-    ax2.xaxis.set_major_locator(ticker.MultipleLocator(10))
-    ax2.grid(which="minor", axis="x", linestyle="--")
-    ax2.grid(which="major", axis="x", linestyle="-")
-    ax2.set_xlabel("Games")
-    ax2.set_title(f"{user} {total_games} games by Map")
 
-    plt.subplots_adjust(wspace=0, hspace=0)
+def get_best_teammates(df, user: str, min_games: int = 5):
+    team_winrate = (
+        df.groupby(  # .query(f"userId == {get_user_id('furyhawk')}")
+            ["allyTeamId", "userId"]
+        ).agg({"winningTeam": ["mean", "count"]})["winningTeam"]
+        # .query(f"count > {str(1)}")
+        # .sort_values([("mean"), ("count")], ascending=True)
+    )
 
-    return fig
+    # From team_winrate, get the allyTeamId of the user
+    team_ally_id = team_winrate.query(f"userId == {get_user_id(user)}").index.unique(
+        level="allyTeamId"
+    )
+    teams_df = df[df["allyTeamId"].isin(team_ally_id)]
+    best_teammates_df = (
+        teams_df.groupby(["name", "userId"])
+        .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
+        .query(f"count >= {str(min_games)} & userId != {get_user_id(user)}")
+        .sort_values([("mean"), ("count")], ascending=False)
+    )
+    return best_teammates_df
