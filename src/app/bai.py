@@ -136,7 +136,7 @@ def get_match_data(
         percent_complete += 1
         matches_bar.progress(
             percent_complete / number_of_matches,
-            text=f"Processing game {index+1} out of {number_of_matches} games",
+            text=f"Getting API for game {index+1} out of {number_of_matches} games. ({game['id']})",
         )
         if game["Map"]["fileName"] is not None:
             matches.append(get_match_details(game["id"]))
