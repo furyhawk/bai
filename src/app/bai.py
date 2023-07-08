@@ -1,3 +1,4 @@
+from datetime import datetime
 from enum import auto, StrEnum
 import re
 
@@ -20,11 +21,9 @@ class Preset(StrEnum):
     all = auto()
 
 
-season0: bool = True
-
-
 # Cache the data
 def get_data(url: str):
+    # print(f"Getting data from {url}")
     session = CachedSession("bar_cache", backend="sqlite")
     data = session.get(url).json()
     return data
@@ -50,6 +49,8 @@ def get_user_id(user_name: str):
 
 
 def process_match_data(match_details_df):
+    if match_details_df.empty:
+        return match_details_df
     # Get the winning team and count the number of wins
     match = {}
     matches = []
@@ -99,7 +100,12 @@ def get_match_details(id: str):
 
 
 # Get the players replays metadata
-def get_match_data(matches_bar, user: str, preset: Preset = Preset.all):
+def get_match_data(
+    matches_bar,
+    user: str,
+    preset: Preset = Preset.team,
+    season0: bool = False,
+):
     # Depending on the preset, the API returns different data.json
     # The preset uses the following format: &preset=duel%2Cffa%2Cteam
     # duel%2Cffa%2Cteam is the same as duel,ffa,team
@@ -109,9 +115,18 @@ def get_match_data(matches_bar, user: str, preset: Preset = Preset.all):
     else:
         preset = f"&preset={preset.name}"
 
-    uri = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}&hasBots=false&endedNormally=true&players="
+    # If season0 is true, then only get games after June 1st, 2023 %2C
+    date_range = ""
+    if season0:
+        date_range = f"&date=2023-06-01&date={datetime.today().strftime('%Y-%m-%d')}"
+
+    uri = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
 
     data = get_data(f"{uri}{quote(user)}")
+
+    # Test data has attribute data
+    # if not hasattr(data, "data"):
+    #     return pd.DataFrame()
 
     # Get the winning team and count the number of wins
     matches = []
@@ -126,6 +141,9 @@ def get_match_data(matches_bar, user: str, preset: Preset = Preset.all):
         if game["Map"]["fileName"] is not None:
             matches.append(get_match_details(game["id"]))
 
+    if len(matches) == 0:
+        return pd.DataFrame()
+
     matches_df = pd.concat(matches, axis=0)
     return matches_df
 
@@ -135,14 +153,23 @@ def get_win_rate(
     matches_bar,
     user: str,
     min_games: int = 5,
-    season0: bool = False,
     preset=Preset.team,
+    season0: bool = False,
 ):
-    df = process_match_data(get_match_data(matches_bar, user, preset))
+    df = process_match_data(get_match_data(matches_bar, user, preset, season0))
+    if df.empty:
+        return df
+
     if season0:
         df = df[df["startTime"] >= "2023-06-01"]
+
+    user_id = get_user_id(user)
+    if user_id == "":
+        print(f"{user} does not exist")
+        return pd.DataFrame()
+
     win_rate = (
-        df.query(f"userId == {get_user_id(user)}")
+        df.query(f"userId == {user_id}")
         .groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
         .query(f"count > {str(min_games)}")
@@ -157,10 +184,10 @@ def plot_win_rate(
     matches_bar,
     user: str,
     min_games: int = 5,
-    season0: bool = False,
     preset=Preset.team,
+    season0: bool = False,
 ):
-    win_rate = get_win_rate(matches_bar, user, min_games, season0, preset)
+    win_rate = get_win_rate(matches_bar, user, min_games, preset, season0)
     if win_rate.empty:
         print(f"{user} has not played enough games")
         return

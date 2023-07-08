@@ -38,11 +38,11 @@ if __name__ == "__main__":
     min_games: int = st.sidebar.slider(
         "Min Games", min_value=1, max_value=20, value=5, step=1
     )
-    season0: bool = st.sidebar.checkbox("Season 0", value=False)
+    season0: bool = st.sidebar.checkbox("Season 0", value=True)
 
     progress_text = "Operation in progress. Please wait."
     matches_bar = st.progress(0, text=progress_text)
-    figure = plot_win_rate(matches_bar, user, min_games, season0, preset)
+    figure = plot_win_rate(matches_bar, user, min_games, preset, season0)
     if figure is not None:
         st.pyplot(figure)
     else:

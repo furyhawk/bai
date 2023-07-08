@@ -2,6 +2,7 @@
 
 Get your stats of Beyond All Reason https://www.beyondallreason.info/.
 
+https://beyondallinfo.streamlit.app/
 
 ```sh
 docker build -t bai .
