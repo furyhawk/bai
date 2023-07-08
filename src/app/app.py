@@ -40,7 +40,9 @@ if __name__ == "__main__":
     )
     season0: bool = st.sidebar.checkbox("Season 0", value=False)
 
-    figure = plot_win_rate(user, min_games, season0, preset)
+    progress_text = "Operation in progress. Please wait."
+    matches_bar = st.progress(0, text=progress_text)
+    figure = plot_win_rate(matches_bar, user, min_games, season0, preset)
     if figure is not None:
         st.pyplot(figure)
     else:

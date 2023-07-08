@@ -99,7 +99,7 @@ def get_match_details(id: str):
 
 
 # Get the players replays metadata
-def get_match_data(user: str, preset: Preset = Preset.all):
+def get_match_data(matches_bar, user: str, preset: Preset = Preset.all):
     # Depending on the preset, the API returns different data.json
     # The preset uses the following format: &preset=duel%2Cffa%2Cteam
     # duel%2Cffa%2Cteam is the same as duel,ffa,team
@@ -115,8 +115,14 @@ def get_match_data(user: str, preset: Preset = Preset.all):
 
     # Get the winning team and count the number of wins
     matches = []
-
-    for game in data["data"]:
+    percent_complete = 0
+    number_of_matches = len(data["data"])
+    for index, game in enumerate(data["data"]):
+        percent_complete += 1
+        matches_bar.progress(
+            percent_complete / number_of_matches,
+            text=f"Processing game {index+1} out of {number_of_matches} games",
+        )
         if game["Map"]["fileName"] is not None:
             matches.append(get_match_details(game["id"]))
 
@@ -126,9 +132,13 @@ def get_match_data(user: str, preset: Preset = Preset.all):
 
 # Get the win rate for each map
 def get_win_rate(
-    user: str, min_games: int = 5, season0: bool = False, preset=Preset.team
+    matches_bar,
+    user: str,
+    min_games: int = 5,
+    season0: bool = False,
+    preset=Preset.team,
 ):
-    df = process_match_data(get_match_data(user, preset))
+    df = process_match_data(get_match_data(matches_bar, user, preset))
     if season0:
         df = df[df["startTime"] >= "2023-06-01"]
     win_rate = (
@@ -144,9 +154,13 @@ def get_win_rate(
 # Set the x axis minor locator to 5 and major locator to 10
 # Set the y axis to the map name
 def plot_win_rate(
-    user: str, min_games: int = 5, season0: bool = False, preset=Preset.team
+    matches_bar,
+    user: str,
+    min_games: int = 5,
+    season0: bool = False,
+    preset=Preset.team,
 ):
-    win_rate = get_win_rate(user, min_games, season0, preset)
+    win_rate = get_win_rate(matches_bar, user, min_games, season0, preset)
     if win_rate.empty:
         print(f"{user} has not played enough games")
         return
