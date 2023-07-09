@@ -35,6 +35,7 @@ def get_fresh_data(url: str):
     data = session.get(url).json()
     return data
 
+
 # Get user name from user id
 def get_user_name(user_id: int):
     name_list = get_data("https://api.bar-rts.com/cached-users")
@@ -79,11 +80,11 @@ def process_match_data(match_details_df):
                         "skill": float(re.sub("[^0123456789\.]", "", player["skill"])),
                         "startPos": player["startPos"],
                         "winningTeam": team["winningTeam"],
-                        "Map.fileName": game["Map.fileName"]
-                        + "_"
-                        + str(len(team["Players"]))
-                        + "v"
-                        + str(len(team["Players"])),
+                        "Map.fileName": game["Map.fileName"],
+                        # + "_"
+                        # + str(len(team["Players"]))
+                        # + "v"
+                        # + str(len(team["Players"])),
                         "Map.scriptName": game["Map.scriptName"],
                         "durationMs": game["durationMs"],
                         "startTime": game["startTime"],
@@ -168,14 +169,14 @@ def get_win_rate(
         print(f"{user} does not exist")
         return pd.DataFrame()
 
-    win_rate = (
+    win_rate_df = (
         df.query(f"userId == {user_id}")
         .groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
         .query(f"count >= {str(min_games)}")
         .sort_values([("mean"), ("count")], ascending=True)
     )
-    return win_rate
+    return win_rate_df
 
 
 def get_fractions_win_rate(df, user: str):
@@ -183,19 +184,13 @@ def get_fractions_win_rate(df, user: str):
         df.query(f"userId == {get_user_id(user)}")
         .groupby(["faction"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
-        # .query(f"count > {str(5)}")
-        # .sort_values([("mean"), ("count")], ascending=True)
     )
 
 
 def get_best_teammates(df, user: str, min_games: int = 5):
-    team_winrate = (
-        df.groupby(  # .query(f"userId == {get_user_id('furyhawk')}")
-            ["allyTeamId", "userId"]
-        ).agg({"winningTeam": ["mean", "count"]})["winningTeam"]
-        # .query(f"count > {str(1)}")
-        # .sort_values([("mean"), ("count")], ascending=True)
-    )
+    team_winrate = df.groupby(  # .query(f"userId == {get_user_id('furyhawk')}")
+        ["allyTeamId", "userId"]
+    ).agg({"winningTeam": ["mean", "count"]})["winningTeam"]
 
     # From team_winrate, get the allyTeamId of the user
     team_ally_id = team_winrate.query(f"userId == {get_user_id(user)}").index.unique(
@@ -209,3 +204,35 @@ def get_best_teammates(df, user: str, min_games: int = 5):
         .sort_values([("mean"), ("count")], ascending=False)
     )
     return best_teammates_df
+
+
+def get_battle_list():
+    battles_json = get_fresh_data("https://api.bar-rts.com/battles")
+    return pd.json_normalize(battles_json)
+
+
+def get_battle_details(battles_df):
+    battle_list = []
+
+    best_battle = battles_df.head(1)
+    for players in best_battle["players"]:
+        for player in players:
+            if "teamId" in player:  # skill userId
+                battle_list.append(
+                    {
+                        "teamId": player["teamId"],
+                        "username": player["username"],
+                        "userId": player["userId"],
+                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"])),
+                        "gameStatus": player["gameStatus"],
+                        "map": best_battle["mapFileName"].values[0],
+                        "title": best_battle["title"].values[0],
+                    }
+                )
+
+    return pd.DataFrame(battle_list).sort_values(by="teamId")
+
+
+def get_map_win_rate(win_rate_df, map_name: str):
+    win_rate_df = win_rate_df.reset_index()
+    return win_rate_df.loc[win_rate_df["Map.fileName"] == map_name]
