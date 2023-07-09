@@ -29,6 +29,12 @@ def get_data(url: str):
     return data
 
 
+def get_fresh_data(url: str):
+    # print(f"Getting data from {url}")
+    session = CachedSession("short_cache", backend="sqlite", expire_after=60)
+    data = session.get(url).json()
+    return data
+
 # Get user name from user id
 def get_user_name(user_id: int):
     name_list = get_data("https://api.bar-rts.com/cached-users")
