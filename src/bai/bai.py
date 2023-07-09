@@ -9,6 +9,7 @@ from urllib.request import urlopen
 
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 
 
 plt.rcParams["figure.figsize"] = (10, 10)
@@ -129,7 +130,7 @@ def get_match_data(
 
     uri = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
 
-    data = get_data(f"{uri}{quote(user)}")
+    data = get_fresh_data(f"{uri}{quote(user)}")
 
     # Test data has attribute data
     # if not hasattr(data, "data"):
@@ -236,3 +237,53 @@ def get_battle_details(battles_df):
 def get_map_win_rate(win_rate_df, map_name: str):
     win_rate_df = win_rate_df.reset_index()
     return win_rate_df.loc[win_rate_df["Map.fileName"] == map_name]
+
+
+# Set the x axis minor locator to 5 and major locator to 10
+# Set the y axis to the map name
+def plot_win_rate(
+    win_rate_df,
+    user: str,
+    preset=Preset.team,
+):
+    # Get overall win rate
+    overall_win_rate = win_rate_df["mean"].mean()
+    # Get total number of games
+    total_games = win_rate_df["count"].sum()
+
+    fig, (ax1, ax2) = plt.subplots(1, 2, sharey="all", figsize=(12, 6))
+
+    bars = ax1.barh(
+        y=win_rate_df.index,
+        width=win_rate_df["mean"],
+        alpha=0.75,
+    )
+    ax1.bar_label(bars, fmt="{:.0%}", label_type="center")
+    ax1.xaxis.set_minor_locator(ticker.MultipleLocator(0.05))
+    ax1.xaxis.set_major_locator(ticker.MultipleLocator(0.1))
+    ax1.grid(which="minor", axis="x", linestyle="--")
+    ax1.grid(which="major", axis="x", linestyle="-")
+    ax1.set_xlabel("Winning %")
+    ax1.set_ylabel("Map")
+    ax1.set_xlim(0, 1)
+    ax1.set_title(f"{user} winning {preset.name} games @ {overall_win_rate:.0%}")
+
+    ax1.set_axisbelow(True)
+
+    bars = ax2.barh(
+        y=win_rate_df.index,
+        width=win_rate_df["count"],
+        alpha=0.75,
+    )
+
+    ax2.bar_label(bars, label_type="center")
+    ax2.xaxis.set_minor_locator(ticker.MultipleLocator(5))
+    ax2.xaxis.set_major_locator(ticker.MultipleLocator(10))
+    ax2.grid(which="minor", axis="x", linestyle="--")
+    ax2.grid(which="major", axis="x", linestyle="-")
+    ax2.set_xlabel("Games")
+    ax2.set_title(f"{user} {total_games} games by Map")
+
+    plt.subplots_adjust(wspace=0, hspace=0)
+
+    return fig
