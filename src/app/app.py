@@ -138,16 +138,16 @@ def controller(
                 [("mean"), ("count")], ascending=True
             ).head(top_n),
             column_config={
-                "name": "Worst Teammates",
+                "name": "Lobsters",
                 "userId": None,
                 "mean": st.column_config.NumberColumn(
                     "Win rate",
-                    help="Win rate of the player with Worst Teammates",
+                    help="Win rate of the player with Lobsters",
                     format="%.2f",
                 ),
                 "count": st.column_config.NumberColumn(
                     "Games",
-                    help="Number of games played with Worst Teammates",
+                    help="Number of games played with Lobsters",
                     format="%d 🎮",
                 ),
             },
