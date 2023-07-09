@@ -204,11 +204,20 @@ def main():
             team2_total_skills = team2_df["skill"].sum()
             team2_total_games = team2_df["count"].sum()
 
+            # Battle
+            map_name = team1_df["Map.fileName"].iloc[0]
+            st.subheader(f"Map: {map_name}")
+            st.image(
+                f"https://api.bar-rts.com/maps/{map_name}/texture-mq.jpg", width=200
+            )
+
+            # Team 1
             st.dataframe(
                 team1_df,
                 column_config={
                     "teamId": None,
                     "userId": None,
+                    "Map.fileName": None,
                     "mean": st.column_config.NumberColumn(
                         "Win rate",
                         help="Win rate on this map",
@@ -236,6 +245,7 @@ def main():
                 column_config={
                     "teamId": None,
                     "userId": None,
+                    "Map.fileName": None,
                     "mean": st.column_config.NumberColumn(
                         "Win rate",
                         help="Win rate on this map",
