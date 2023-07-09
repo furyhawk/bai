@@ -204,7 +204,24 @@ def main():
             team2_total_skills = team2_df["skill"].sum()
             team2_total_games = team2_df["count"].sum()
 
-            st.dataframe(team1_df, hide_index=True)
+            st.dataframe(
+                team1_df,
+                column_config={
+                    "teamId": None,
+                    "userId": None,
+                    "mean": st.column_config.NumberColumn(
+                        "Win rate",
+                        help="Win rate on this map",
+                        format="%.2f",
+                    ),
+                    "count": st.column_config.NumberColumn(
+                        "Games",
+                        help="Number of games played on this map",
+                        format="%d 🎮",
+                    ),
+                },
+                hide_index=True,
+            )
             col1_win_rate, col1_skill, col1_games = st.columns(3)
             col1_win_rate.metric(
                 "Team 1 win rate",
@@ -214,7 +231,24 @@ def main():
             col1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
             col1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
 
-            st.dataframe(team2_df, hide_index=True)
+            st.dataframe(
+                team2_df,
+                column_config={
+                    "teamId": None,
+                    "userId": None,
+                    "mean": st.column_config.NumberColumn(
+                        "Win rate",
+                        help="Win rate on this map",
+                        format="%.2f",
+                    ),
+                    "count": st.column_config.NumberColumn(
+                        "Games",
+                        help="Number of games played on this map",
+                        format="%d 🎮",
+                    ),
+                },
+                hide_index=True,
+            )
             col2_win_rate, col2_skill, col2_games = st.columns(3)
             col2_win_rate.metric(
                 "Team 2 win rate",
