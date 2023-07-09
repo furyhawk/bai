@@ -149,7 +149,7 @@ def main():
     season0: bool = st.sidebar.checkbox("Season 0", True)
 
     # Main
-    tab_battle, tab_user = st.tabs(["Battle", "User Stats"])
+    tab_battle, tab_user = st.tabs(["Battle", "Player Stats"])
     with tab_user:
         if st.session_state.user:
             progress_text = "Operation in progress. Please wait."
