@@ -3,10 +3,13 @@
 from enum import auto, StrEnum
 
 import matplotlib.pyplot as plt
+import pandas as pd
 
 import streamlit as st
 
 from bai.bai import (
+    get_quick_match_data,
+    get_quick_win_rate,
     get_win_rate,
     get_fractions_win_rate,
     get_best_teammates,
@@ -15,6 +18,7 @@ from bai.bai import (
     plot_win_rate,
     get_battle_list,
     get_battle_details,
+    get_map_win_rate,
 )
 
 plt.rcParams["figure.figsize"] = (10, 10)
@@ -156,8 +160,68 @@ def main():
         battles_df = get_battle_list()
         battle_detail_df = get_battle_details(battles_df)
         team_size = len(battle_detail_df.index)
-        st.dataframe(battle_detail_df.head(team_size // 2))
-        st.dataframe(battle_detail_df.tail(team_size // 2))
+        # st.dataframe(battle_detail_df.head(team_size // 2))
+        # st.dataframe(battle_detail_df.tail(team_size // 2))
+
+        battle_list = []
+
+        for _, player in battle_detail_df.iterrows():
+            battle = {}
+            win_rate_df = get_quick_match_data(player["username"], preset)
+            win_rate_user_df = get_quick_win_rate(win_rate_df, 1)
+            map_df = get_map_win_rate(win_rate_user_df, player["map"])
+            if not map_df.empty:
+                record = map_df.to_dict("records")[-1]
+                battle = {
+                    "teamId": player["teamId"],
+                    "userId": player["userId"],
+                    "username": player["username"],
+                    "skill": player["skill"],
+                    "gameStatus": player["gameStatus"],
+                    **record,
+                }
+            else:
+                battle = {
+                    "teamId": player["teamId"],
+                    "userId": player["userId"],
+                    "username": player["username"],
+                    "skill": player["skill"],
+                    "gameStatus": player["gameStatus"],
+                    "Map.fileName": player["map"],
+                    "mean": 0.5,
+                    "count": 0,
+                }
+            battle_list.append(battle)
+
+        battle_win_rate_df = pd.DataFrame(battle_list)
+        team1_df = battle_win_rate_df.head(team_size // 2)
+        team2_df = battle_win_rate_df.tail(team_size // 2)
+        team1_avg_win_rate = team1_df.agg({"mean": ["mean", "count"]})["mean"][0]
+        team1_total_skills = team1_df["skill"].sum()
+        team1_total_games = team1_df["count"].sum()
+        team2_avg_win_rate = team2_df.agg({"mean": ["mean", "count"]})["mean"][0]
+        team2_total_skills = team2_df["skill"].sum()
+        team2_total_games = team2_df["count"].sum()
+
+        st.dataframe(team1_df)
+        col1_win_rate, col1_skill, col1_games = st.columns(3)
+        col1_win_rate.metric(
+            "Team 1 win rate",
+            f"{team1_avg_win_rate:.0%}",
+            f"{team1_avg_win_rate-team2_avg_win_rate:.0%}",
+        )
+        col1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
+        col1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
+
+        st.dataframe(team2_df)
+        col2_win_rate, col2_skill, col2_games = st.columns(3)
+        col2_win_rate.metric(
+            "Team 2 win rate",
+            f"{team2_avg_win_rate:.0%}",
+            f"{team2_avg_win_rate-team1_avg_win_rate:.0%}",
+        )
+        col2_skill.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
+        col2_games.metric("Team 2 total games", f"{team2_total_games:.0f}")
 
 
 if __name__ == "__main__":

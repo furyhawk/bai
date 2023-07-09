@@ -112,7 +112,7 @@ def get_match_data(
     matches_bar,
     user: str,
     preset: Preset = Preset.team,
-    season0: bool = False,
+    season0: bool = True,
 ):
     # Depending on the preset, the API returns different data.json
     # The preset uses the following format: &preset=duel%2Cffa%2Cteam
@@ -156,6 +156,59 @@ def get_match_data(
     return matches_df
 
 
+# Get the players replays metadata
+def get_quick_match_data(
+    user: str,
+    preset: Preset = Preset.team,
+    season0: bool = True,
+):
+    # Depending on the preset, the API returns different data.json
+    # The preset uses the following format: &preset=duel%2Cffa%2Cteam
+    # duel%2Cffa%2Cteam is the same as duel,ffa,team
+
+    if preset == Preset.all:
+        preset = "&preset=duel&preset=ffa&preset=team"
+    else:
+        preset = f"&preset={preset.name}"
+
+    # If season0 is true, then only get games after June 1st, 2023 %2C
+    date_range = ""
+    if season0:
+        date_range = f"&date=2023-06-01&date={datetime.today().strftime('%Y-%m-%d')}"
+
+    uri = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
+
+    data = get_fresh_data(f"{uri}{quote(user)}")
+
+    # Get the winning team and count the number of wins
+    match = {}
+    matches = []
+
+    for game in data["data"]:
+        if game["Map"]["fileName"] is not None:
+            # print(game["id"])
+            for team in game["AllyTeams"]:
+                for player in team["Players"]:
+                    if player["name"] == user:
+                        match = {
+                            **match,
+                            **{
+                                "id": game["id"],
+                                "name": player["name"],
+                                "winningTeam": team["winningTeam"],
+                                "Map.fileName": game["Map"]["fileName"],
+                                "Map.scriptName": game["Map"]["scriptName"],
+                                "durationMs": game["durationMs"],
+                                "startTime": game["startTime"],
+                            },
+                        }
+                        matches.append(match)
+
+    matches_df = pd.json_normalize(matches)
+    # matches_df["startTime"] = pd.to_datetime(matches_df["startTime"])
+    return matches_df
+
+
 # Get the win rate for each map
 def get_win_rate(
     df,
@@ -173,6 +226,23 @@ def get_win_rate(
     win_rate_df = (
         df.query(f"userId == {user_id}")
         .groupby(["Map.fileName"])
+        .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
+        .query(f"count >= {str(min_games)}")
+        .sort_values([("mean"), ("count")], ascending=True)
+    )
+    return win_rate_df
+
+
+# Get the win rate for each map
+def get_quick_win_rate(
+    df,
+    min_games: int = 5,
+):
+    if df.empty:
+        return df
+
+    win_rate_df = (
+        df.groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
         .query(f"count >= {str(min_games)}")
         .sort_values([("mean"), ("count")], ascending=True)
@@ -218,7 +288,7 @@ def get_battle_details(battles_df):
     best_battle = battles_df.head(1)
     for players in best_battle["players"]:
         for player in players:
-            if "teamId" in player:  # skill userId
+            if "teamId" in player and "gameStatus" in player:  # skill userId
                 battle_list.append(
                     {
                         "teamId": player["teamId"],
@@ -234,9 +304,14 @@ def get_battle_details(battles_df):
     return pd.DataFrame(battle_list).sort_values(by="teamId")
 
 
-def get_map_win_rate(win_rate_df, map_name: str):
-    win_rate_df = win_rate_df.reset_index()
-    return win_rate_df.loc[win_rate_df["Map.fileName"] == map_name]
+def get_map_win_rate(win_rate_user_df, map_name: str):
+    # print(win_rate_user_df)
+    # print(map_name)
+    if win_rate_user_df.empty:
+        return win_rate_user_df
+    df = win_rate_user_df.reset_index()
+    map_win_rate_df = df.loc[df["Map.fileName"] == map_name]
+    return map_win_rate_df
 
 
 # Set the x axis minor locator to 5 and major locator to 10
