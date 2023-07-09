@@ -155,6 +155,13 @@ def controller(
 
 
 def main():
+    st.set_page_config(
+        page_title="Beyond All Information",
+        page_icon="🧊",
+        layout="wide",
+        initial_sidebar_state="expanded",
+    )
+
     st.image(
         "https://assets.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg",
         width=100,
