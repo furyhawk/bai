@@ -130,15 +130,19 @@ def main():
     )
 
     # Header
-    st.image(
-        "https://assets.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg",
-        width=100,
-    )
-    st.title("Beyond All Information")
+    image_col, title_col = st.columns([1, 5], gap="small")
+    with image_col:
+        st.image(
+            "https://assets.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg",
+            # width=100,
+        )
+    with title_col:
+        st.title("Beyond All Information")
+
     instructions = """
         Get your stats of Beyond All Reason https://www.beyondallreason.info
-        """
-    st.write(instructions)
+            """
+    st.caption(instructions)
 
     # Sidebar
     preset = Preset(st.sidebar.selectbox("Game Preset", ["team", "duel", "ffa", "all"]))
@@ -151,6 +155,7 @@ def main():
     # Main
     tab_battle, tab_user = st.tabs(["Battle", "Player Stats"])
     with tab_user:
+        st.caption("Get the win rate of player by map")
         if st.session_state.user:
             progress_text = "Operation in progress. Please wait."
             matches_bar = st.progress(0, text=progress_text)
@@ -160,6 +165,7 @@ def main():
             matches_bar.empty()
 
     with tab_battle:
+        st.caption("Get the win rate of players in the battle with most spectators")
         battles_df = get_battle_list()
         battle_detail_df = get_battle_details(battles_df)
 
@@ -223,9 +229,12 @@ def main():
         team2_total_games = team2_df["count"].sum()
 
         # Battle
-        map_name = team1_df["Map.fileName"].iloc[0]
-        st.subheader(f"Map: {map_name}")
-        st.image(f"https://api.bar-rts.com/maps/{map_name}/texture-mq.jpg", width=200)
+        map_name = team1_df["Map.fileName"].iloc[0] # lobby 0
+        image_col, title_col = st.columns([1, 5], gap="small")
+        with image_col:
+            st.image(f"https://api.bar-rts.com/maps/{map_name}/texture-mq.jpg")
+        with title_col:
+            st.subheader(f"Map: {map_name}")
 
         # Team 1
         team1_container = st.container()
