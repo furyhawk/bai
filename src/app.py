@@ -34,7 +34,7 @@ class Preset(StrEnum):
 
 
 # Controller for the streamlit app
-def controller(
+def player_tab_controller(
     matches_bar,
     user: str,
     min_games: int = 5,
@@ -154,119 +154,140 @@ def main():
         if st.session_state.user:
             progress_text = "Operation in progress. Please wait."
             matches_bar = st.progress(0, text=progress_text)
-            controller(matches_bar, st.session_state.user, min_games, preset, season0)
+            player_tab_controller(
+                matches_bar, st.session_state.user, min_games, preset, season0
+            )
+            matches_bar.empty()
 
     with tab_battle:
-        with st.spinner("Wait for it..."):
-            battles_df = get_battle_list()
-            battle_detail_df = get_battle_details(battles_df)
-            team_size = len(battle_detail_df.index)
-            # st.dataframe(battle_detail_df.head(team_size // 2))
-            # st.dataframe(battle_detail_df.tail(team_size // 2))
+        battles_df = get_battle_list()
+        battle_detail_df = get_battle_details(battles_df)
 
-            battle_list = []
+        progress_text = "Operation in progress. Please wait."
+        battle_bar = st.progress(0, text=progress_text)
 
-            for _, player in battle_detail_df.iterrows():
-                battle = {}
-                win_rate_df = get_quick_match_data(player["username"], preset)
-                win_rate_user_df = get_quick_win_rate(win_rate_df, min_games)
-                map_df = get_map_win_rate(win_rate_user_df, player["map"])
-                if not map_df.empty:
-                    record = map_df.to_dict("records")[-1]
-                    battle = {
-                        "teamId": player["teamId"],
-                        "userId": player["userId"],
-                        "username": player["username"],
-                        "skill": player["skill"],
-                        "gameStatus": player["gameStatus"],
-                        **record,
-                    }
-                else:
-                    battle = {
-                        "teamId": player["teamId"],
-                        "userId": player["userId"],
-                        "username": player["username"],
-                        "skill": player["skill"],
-                        "gameStatus": player["gameStatus"],
-                        "Map.fileName": player["map"],
-                        "mean": 0.5,
-                        "count": 0,
-                    }
-                battle_list.append(battle)
+        initial_battle_placeholder = st.empty()
+        initial_battle_placeholder.dataframe(battle_detail_df)
 
-            battle_win_rate_df = pd.DataFrame(battle_list)
-            team1_df = battle_win_rate_df.head(team_size // 2)
-            team2_df = battle_win_rate_df.tail(team_size // 2)
-            team1_avg_win_rate = team1_df.agg({"mean": ["mean", "count"]})["mean"][0]
-            team1_total_skills = team1_df["skill"].sum()
-            team1_total_games = team1_df["count"].sum()
-            team2_avg_win_rate = team2_df.agg({"mean": ["mean", "count"]})["mean"][0]
-            team2_total_skills = team2_df["skill"].sum()
-            team2_total_games = team2_df["count"].sum()
+        number_of_players = len(battle_detail_df.index)
+        percent_complete = 0
+        battle_list = []
 
-            # Battle
-            map_name = team1_df["Map.fileName"].iloc[0]
-            st.subheader(f"Map: {map_name}")
-            st.image(
-                f"https://api.bar-rts.com/maps/{map_name}/texture-mq.jpg", width=200
+        for _, player in battle_detail_df.iterrows():
+            percent_complete += 1
+            battle_bar.progress(
+                percent_complete / number_of_players,
+                text=f"Getting API for player {percent_complete} out of {number_of_players} players. ({player['username']})",
             )
+            battle = {}
 
-            # Team 1
-            st.dataframe(
-                team1_df,
-                column_config={
-                    "teamId": None,
-                    "userId": None,
-                    "Map.fileName": None,
-                    "mean": st.column_config.NumberColumn(
-                        "Win rate",
-                        help="Win rate on this map",
-                        format="%.2f",
-                    ),
-                    "count": st.column_config.NumberColumn(
-                        "Games",
-                        help="Number of games played on this map",
-                        format="%d 🎮",
-                    ),
-                },
-                hide_index=True,
-            )
-            col1_win_rate, col1_skill, col1_games = st.columns(3)
-            col1_win_rate.metric(
-                "Team 1 win rate",
-                f"{team1_avg_win_rate:.0%}",
-                f"{team1_avg_win_rate-team2_avg_win_rate:.0%}",
-            )
-            col1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
-            col1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
+            win_rate_df = get_quick_match_data(player["username"], preset)
+            win_rate_user_df = get_quick_win_rate(win_rate_df, 1)
+            map_df = get_map_win_rate(win_rate_user_df, player["map"])
+            if not map_df.empty:
+                record = map_df.to_dict("records")[-1]
+                battle = {
+                    "teamId": player["teamId"],
+                    "userId": player["userId"],
+                    "username": player["username"],
+                    "skill": player["skill"],
+                    "gameStatus": player["gameStatus"],
+                    **record,
+                }
+            else:
+                battle = {
+                    "teamId": player["teamId"],
+                    "userId": player["userId"],
+                    "username": player["username"],
+                    "skill": player["skill"],
+                    "gameStatus": player["gameStatus"],
+                    "Map.fileName": player["map"],
+                    "mean": 0.5,
+                    "count": 0,
+                }
+            battle_list.append(battle)
 
-            st.dataframe(
-                team2_df,
-                column_config={
-                    "teamId": None,
-                    "userId": None,
-                    "Map.fileName": None,
-                    "mean": st.column_config.NumberColumn(
-                        "Win rate",
-                        help="Win rate on this map",
-                        format="%.2f",
-                    ),
-                    "count": st.column_config.NumberColumn(
-                        "Games",
-                        help="Number of games played on this map",
-                        format="%d 🎮",
-                    ),
-                },
-                hide_index=True,
-            )
-            col2_win_rate, col2_skill, col2_games = st.columns(3)
-            col2_win_rate.metric(
-                "Team 2 win rate",
-                f"{team2_avg_win_rate:.0%}",
-                f"{team2_avg_win_rate-team1_avg_win_rate:.0%}",
-            )
-            col2_skill.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
-            col2_games.metric("Team 2 total games", f"{team2_total_games:.0f}")
+        battle_bar.empty()
+        initial_battle_placeholder.empty()
+
+        battle_win_rate_df = pd.DataFrame(battle_list)
+        team1_df = battle_win_rate_df.head(number_of_players // 2)
+        team2_df = battle_win_rate_df.tail(number_of_players // 2)
+
+        team1_avg_win_rate = team1_df.agg({"mean": ["mean", "count"]})["mean"][0]
+        team1_total_skills = team1_df["skill"].sum()
+        team1_total_games = team1_df["count"].sum()
+
+        team2_avg_win_rate = team2_df.agg({"mean": ["mean", "count"]})["mean"][0]
+        team2_total_skills = team2_df["skill"].sum()
+        team2_total_games = team2_df["count"].sum()
+
+        # Battle
+        map_name = team1_df["Map.fileName"].iloc[0]
+        st.subheader(f"Map: {map_name}")
+        st.image(f"https://api.bar-rts.com/maps/{map_name}/texture-mq.jpg", width=200)
+
+        # Team 1
+        team1_container = st.container()
+        team1_container.dataframe(
+            team1_df,
+            column_config={
+                "teamId": None,
+                "userId": None,
+                "Map.fileName": None,
+                "mean": st.column_config.NumberColumn(
+                    "win rate",
+                    help="Win rate on this map",
+                    format="%.2f",
+                ),
+                "count": st.column_config.NumberColumn(
+                    "games",
+                    help="Number of games played on this map",
+                    format="%d 🎮",
+                ),
+            },
+            hide_index=True,
+        )
+
+        col1_win_rate, col1_skill, col1_games = team1_container.columns(3)
+        col1_win_rate.metric(
+            "Team 1 win rate",
+            f"{team1_avg_win_rate:.0%}",
+            f"{team1_avg_win_rate-team2_avg_win_rate:.0%}",
+        )
+        col1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
+        col1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
+
+        # Team 2
+        team2_container = st.container()
+        col2_win_rate, col2_skill, col2_games = team2_container.columns(3)
+        col2_win_rate.metric(
+            "Team 2 win rate",
+            f"{team2_avg_win_rate:.0%}",
+            f"{team2_avg_win_rate-team1_avg_win_rate:.0%}",
+        )
+        col2_skill.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
+        col2_games.metric("Team 2 total games", f"{team2_total_games:.0f}")
+
+        team2_container.dataframe(
+            team2_df,
+            column_config={
+                "teamId": None,
+                "userId": None,
+                "Map.fileName": None,
+                "mean": st.column_config.NumberColumn(
+                    "win rate",
+                    help="Win rate on this map",
+                    format="%.2f",
+                ),
+                "count": st.column_config.NumberColumn(
+                    "games",
+                    help="Number of games played on this map",
+                    format="%d 🎮",
+                ),
+            },
+            hide_index=True,
+        )
 
 
 if __name__ == "__main__":
