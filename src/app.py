@@ -41,6 +41,7 @@ def player_tab_controller(
     preset=Preset.team,
     season0: bool = False,
 ):
+    """Controller for the player tab"""
     df = process_match_data(get_match_data(matches_bar, player, preset, season0))
     win_rate_df = get_win_rate(df, player, min_games)
     if win_rate_df.empty:
@@ -116,28 +117,19 @@ def player_tab_controller(
                 },
             )
 
+
 def on_change_player():
+    """Update the URL when the player name is changed"""
     st.experimental_set_query_params(
         player=str(st.session_state.player),
     )
 
 
 def main():
-    # Initialize session state
+    """Main function of the app
+    Beyond All Information"""
 
-    params = st.experimental_get_query_params()
-    print(params)
-    if "player" in params:
-        st.session_state.player = params["player"][0]
-
-    if "player" not in st.session_state:
-        st.session_state.player = "furyhawk"
-
-    st.experimental_set_query_params(
-        player=str(st.session_state.player),
-    )
-
-
+    # Set page config and title of the page
     st.set_page_config(
         page_title="Beyond All Information",
         page_icon="🧊",
@@ -145,6 +137,14 @@ def main():
         initial_sidebar_state="expanded",
     )
 
+    # Get player name from URL
+    params = st.experimental_get_query_params()
+    if "player" in params:
+        st.session_state.player = params["player"][0]
+
+    # Initialize session state
+    if "player" not in st.session_state:
+        st.session_state.player = "furyhawk"
 
     # Header
     image_col, title_col = st.columns([1, 5], gap="small")
@@ -275,25 +275,25 @@ def main():
             hide_index=True,
         )
 
-        col1_win_rate, col1_skill, col1_games = team1_container.columns(3)
-        col1_win_rate.metric(
+        team1_win_rate, team1_skill, team1_games = team1_container.columns(3)
+        team1_win_rate.metric(
             "Team 1 win rate",
             f"{team1_avg_win_rate:.0%}",
             f"{team1_avg_win_rate-team2_avg_win_rate:.0%}",
         )
-        col1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
-        col1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
+        team1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
+        team1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
 
         # Team 2
         team2_container = st.container()
-        col2_win_rate, col2_skill, col2_games = team2_container.columns(3)
-        col2_win_rate.metric(
+        team2_win_rate, team2_skill, team2_games = team2_container.columns(3)
+        team2_win_rate.metric(
             "Team 2 win rate",
             f"{team2_avg_win_rate:.0%}",
             f"{team2_avg_win_rate-team1_avg_win_rate:.0%}",
         )
-        col2_skill.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
-        col2_games.metric("Team 2 total games", f"{team2_total_games:.0f}")
+        team2_skill.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
+        team2_games.metric("Team 2 total games", f"{team2_total_games:.0f}")
 
         team2_container.dataframe(
             team2_df,
