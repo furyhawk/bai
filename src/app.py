@@ -36,24 +36,24 @@ class Preset(StrEnum):
 # Controller for the streamlit app
 def player_tab_controller(
     matches_bar,
-    user: str,
+    player: str,
     min_games: int = 5,
     preset=Preset.team,
     season0: bool = False,
 ):
-    df = process_match_data(get_match_data(matches_bar, user, preset, season0))
-    win_rate_df = get_win_rate(df, user, min_games)
+    df = process_match_data(get_match_data(matches_bar, player, preset, season0))
+    win_rate_df = get_win_rate(df, player, min_games)
     if win_rate_df.empty:
-        st.write(f"No data for {user} with {min_games} games")
+        st.write(f"No data for {player} with {min_games} games")
         return
 
-    fig = plot_win_rate(win_rate_df, user, preset)
+    fig = plot_win_rate(win_rate_df, player, preset)
     if fig:
         st.pyplot(fig)
     col_best, col_worst, col_fraction = st.columns(3)
 
     top_n = 10
-    best_teammates_df = get_best_teammates(df, user, min_games)
+    best_teammates_df = get_best_teammates(df, player, min_games)
     with col_best:
         if not best_teammates_df.empty:
             st.dataframe(
@@ -97,7 +97,7 @@ def player_tab_controller(
             )
 
     with col_fraction:
-        fractions_win_rate_df = get_fractions_win_rate(df, user)
+        fractions_win_rate_df = get_fractions_win_rate(df, player)
         if not fractions_win_rate_df.empty:
             st.dataframe(
                 fractions_win_rate_df,
@@ -116,11 +116,27 @@ def player_tab_controller(
                 },
             )
 
+def on_change_player():
+    st.experimental_set_query_params(
+        player=str(st.session_state.player),
+    )
+
 
 def main():
     # Initialize session state
-    if "user" not in st.session_state:
-        st.session_state.user = "furyhawk"
+
+    params = st.experimental_get_query_params()
+    print(params)
+    if "player" in params:
+        st.session_state.player = params["player"][0]
+
+    if "player" not in st.session_state:
+        st.session_state.player = "furyhawk"
+
+    st.experimental_set_query_params(
+        player=str(st.session_state.player),
+    )
+
 
     st.set_page_config(
         page_title="Beyond All Information",
@@ -128,6 +144,7 @@ def main():
         layout="wide",
         initial_sidebar_state="expanded",
     )
+
 
     # Header
     image_col, title_col = st.columns([1, 5], gap="small")
@@ -146,21 +163,21 @@ def main():
 
     # Sidebar
     preset = Preset(st.sidebar.selectbox("Game Preset", ["team", "duel", "ffa", "all"]))
-    st.sidebar.text_input("Player name", key="user")
+    st.sidebar.text_input("Player name", key="player", on_change=on_change_player)
     min_games: int = st.sidebar.slider(
         "Min Games", min_value=1, max_value=20, value=3, step=1
     )
     season0: bool = st.sidebar.checkbox("Season 0", True)
 
     # Main
-    tab_battle, tab_user = st.tabs(["Battle", "Player Stats"])
-    with tab_user:
+    tab_battle, tab_player = st.tabs(["Battle", "Player Stats"])
+    with tab_player:
         st.caption("Get the win rate of player by map")
-        if st.session_state.user:
+        if st.session_state.player:
             progress_text = "Operation in progress. Please wait."
             matches_bar = st.progress(0, text=progress_text)
             player_tab_controller(
-                matches_bar, st.session_state.user, min_games, preset, season0
+                matches_bar, st.session_state.player, min_games, preset, season0
             )
             matches_bar.empty()
 
@@ -188,8 +205,8 @@ def main():
             battle = {}
 
             win_rate_df = get_quick_match_data(player["username"], preset)
-            win_rate_user_df = get_quick_win_rate(win_rate_df, 1)
-            map_df = get_map_win_rate(win_rate_user_df, player["map"])
+            win_rate_player_df = get_quick_win_rate(win_rate_df, 1)
+            map_df = get_map_win_rate(win_rate_player_df, player["map"])
             if not map_df.empty:
                 record = map_df.to_dict("records")[-1]
                 battle = {
@@ -229,7 +246,7 @@ def main():
         team2_total_games = team2_df["count"].sum()
 
         # Battle
-        map_name = team1_df["Map.fileName"].iloc[0] # lobby 0
+        map_name = team1_df["Map.fileName"].iloc[0]  # lobby 0
         image_col, title_col = st.columns([1, 5], gap="small")
         with image_col:
             st.image(f"https://api.bar-rts.com/maps/{map_name}/texture-mq.jpg")

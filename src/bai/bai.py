@@ -305,8 +305,6 @@ def get_battle_details(battles_df):
 
 
 def get_map_win_rate(win_rate_user_df, map_name: str):
-    # print(win_rate_user_df)
-    # print(map_name)
     if win_rate_user_df.empty:
         return win_rate_user_df
     df = win_rate_user_df.reset_index()
