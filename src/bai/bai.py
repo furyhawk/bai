@@ -78,7 +78,9 @@ def process_match_data(match_details_df):
                         "faction": player["faction"],
                         "rank": player["rank"],
                         "skillUncertainty": player["skillUncertainty"],
-                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"])),
+                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"]))
+                        if player["skill"] is not None
+                        else 0.0,
                         "startPos": player["startPos"],
                         "winningTeam": team["winningTeam"],
                         "Map.fileName": game["Map.fileName"],
