@@ -296,7 +296,9 @@ def get_battle_details(battles_df):
                         "teamId": player["teamId"],
                         "username": player["username"],
                         "userId": player["userId"],
-                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"])),
+                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"]))
+                        if player["skill"] is not None
+                        else 0.0,
                         "gameStatus": player["gameStatus"],
                         "map": best_battle["mapFileName"].values[0],
                         "title": best_battle["title"].values[0],
