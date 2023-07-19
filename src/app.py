@@ -197,6 +197,8 @@ def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
         column_config={
             "teamId": None,
             "userId": None,
+            "username": "Team 1",
+            "skill": "OpenSkill",
             "Map.fileName": None,
             "mean": st.column_config.NumberColumn(
                 "win rate",
@@ -237,6 +239,8 @@ def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
         column_config={
             "teamId": None,
             "userId": None,
+            "username": "Team 2",
+            "skill": "OpenSkill",
             "Map.fileName": None,
             "mean": st.column_config.NumberColumn(
                 "win rate",
