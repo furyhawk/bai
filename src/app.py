@@ -119,7 +119,7 @@ def player_tab_controller(
 
 
 def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
-    """ """
+    """battle tab controller"""
     initial_battle_placeholder = st.empty()
     initial_battle_placeholder.dataframe(battle_detail_df)
 
@@ -149,6 +149,7 @@ def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
                 **record,
             }
         else:
+            # if no data for the map, use the mean 50% win rate
             battle = {
                 "teamId": player["teamId"],
                 "userId": player["userId"],
@@ -174,6 +175,12 @@ def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
     team2_avg_win_rate = team2_df.agg({"mean": ["mean", "count"]})["mean"][0]
     team2_total_skills = team2_df["skill"].sum()
     team2_total_games = team2_df["count"].sum()
+
+    team1_total_win = team1_avg_win_rate * team1_total_games
+    team2_total_win = team2_avg_win_rate * team2_total_games
+
+    team1_win_rate = team1_total_win / (team1_total_win + team2_total_win)
+    team2_win_rate = team2_total_win / (team1_total_win + team2_total_win)
 
     # Battle
     map_name = team1_df["Map.fileName"].iloc[0]  # lobby 0
@@ -205,25 +212,25 @@ def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
         hide_index=True,
     )
 
-    team1_win_rate, team1_skill, team1_games = team1_container.columns(3)
-    team1_win_rate.metric(
+    team1_win_rate_col, team1_skill_col, team1_games_col = team1_container.columns(3)
+    team1_win_rate_col.metric(
         "Team 1 win rate",
-        f"{team1_avg_win_rate:.0%}",
-        f"{team1_avg_win_rate-team2_avg_win_rate:.0%}",
+        f"{team1_win_rate:.0%}",
+        f"{team1_win_rate-team2_win_rate:.0%}",
     )
-    team1_skill.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
-    team1_games.metric("Team 1 total games", f"{team1_total_games:.0f}")
+    team1_skill_col.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
+    team1_games_col.metric("Team 1 total games", f"{team1_total_games:.0f}")
 
     # Team 2
     team2_container = st.container()
-    team2_win_rate, team2_skill, team2_games = team2_container.columns(3)
-    team2_win_rate.metric(
+    team2_win_rate_col, team2_skill_col, team2_games_col = team2_container.columns(3)
+    team2_win_rate_col.metric(
         "Team 2 win rate",
-        f"{team2_avg_win_rate:.0%}",
-        f"{team2_avg_win_rate-team1_avg_win_rate:.0%}",
+        f"{team2_win_rate:.0%}",
+        f"{team2_win_rate-team1_win_rate:.0%}",
     )
-    team2_skill.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
-    team2_games.metric("Team 2 total games", f"{team2_total_games:.0f}")
+    team2_skill_col.metric("Team 2 total skills", f"{team2_total_skills:.0f}")
+    team2_games_col.metric("Team 2 total games", f"{team2_total_games:.0f}")
 
     team2_container.dataframe(
         team2_df,
