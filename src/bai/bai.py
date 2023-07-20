@@ -1,16 +1,18 @@
 from datetime import datetime
 from enum import auto, StrEnum
 import re
+from typing import Any, List, Literal
+from matplotlib.figure import Figure
 
 from requests_cache import CachedSession
 
 from urllib.parse import quote
-from urllib.request import urlopen
 
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
+from streamlit.delta_generator import DeltaGenerator
 
 plt.rcParams["figure.figsize"] = (10, 10)
 
@@ -22,8 +24,8 @@ class Preset(StrEnum):
     all = auto()
 
 
-# Cache the data
 def get_data(url: str):
+    """Get data from the API and cache it"""
     # print(f"Getting data from {url}")
     session = CachedSession("bar_cache", backend="sqlite")
     data = session.get(url).json()
@@ -31,14 +33,15 @@ def get_data(url: str):
 
 
 def get_fresh_data(url: str):
+    """Get data from the API and cache it for 60 seconds"""
     # print(f"Getting data from {url}")
     session = CachedSession("short_cache", backend="sqlite", expire_after=60)
     data = session.get(url).json()
     return data
 
 
-# Get user name from user id
-def get_user_name(user_id: int):
+def get_user_name(user_id: int) -> Any | Literal[""]:
+    """Get the user name from the user id"""
     name_list = get_data("https://api.bar-rts.com/cached-users")
     user_name = ""
     for user in name_list:
@@ -47,7 +50,8 @@ def get_user_name(user_id: int):
     return user_name
 
 
-def get_user_id(user_name: str):
+def get_user_id(user_name: str) -> Any | Literal[""]:
+    """Get the user id from the user name"""
     name_list = get_data("https://api.bar-rts.com/cached-users")
     user_id = ""
     for user in name_list:
@@ -56,12 +60,13 @@ def get_user_id(user_name: str):
     return user_id
 
 
-def process_match_data(match_details_df):
+def process_match_data(match_details_df: pd.DataFrame) -> pd.DataFrame:
+    """Process the match data into a dataframe"""
     if match_details_df.empty:
         return match_details_df
     # Get the winning team and count the number of wins
     match = {}
-    matches = []
+    matches: List[Any] = []
 
     for _, game in match_details_df.iterrows():
         # print(game)
@@ -78,7 +83,7 @@ def process_match_data(match_details_df):
                         "faction": player["faction"],
                         "rank": player["rank"],
                         "skillUncertainty": player["skillUncertainty"],
-                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"]))
+                        "skill": float(re.sub(r"[^0123456789.]", "", player["skill"]))
                         if player["skill"] is not None
                         else 0.0,
                         "startPos": player["startPos"],
@@ -95,27 +100,27 @@ def process_match_data(match_details_df):
                 }
                 matches.append(match)
 
-    matches_df = pd.json_normalize(matches)
+    matches_df: pd.DataFrame = pd.json_normalize(matches)
     matches_df["startTime"] = pd.to_datetime(matches_df["startTime"])
     return matches_df
 
 
-# Get match details for each match
-def get_match_details(id: str):
+def get_match_details(id: str) -> pd.DataFrame:
+    """Get the match details for a specific match"""
     match_details = get_data(f"https://api.bar-rts.com/replays/{id}")
 
-    match_details_df = pd.json_normalize(match_details)
+    match_details_df: pd.DataFrame = pd.json_normalize(match_details)
     match_details_df["startTime"] = pd.to_datetime(match_details_df["startTime"])
     return match_details_df
 
 
 # Get the players replays metadata
 def get_match_data(
-    matches_bar,
+    matches_bar: DeltaGenerator,
     user: str,
     preset: Preset = Preset.team,
     season0: bool = True,
-):
+) -> pd.DataFrame:
     # Depending on the preset, the API returns different data.json
     # The preset uses the following format: &preset=duel%2Cffa%2Cteam
     # duel%2Cffa%2Cteam is the same as duel,ffa,team
@@ -139,9 +144,9 @@ def get_match_data(
     #     return pd.DataFrame()
 
     # Get the winning team and count the number of wins
-    matches = []
+    matches: List[Any] = []
     percent_complete = 0
-    number_of_matches = len(data["data"])
+    number_of_matches: int = len(data["data"])
     for index, game in enumerate(data["data"]):
         percent_complete += 1
         matches_bar.progress(
@@ -154,7 +159,7 @@ def get_match_data(
     if len(matches) == 0:
         return pd.DataFrame()
 
-    matches_df = pd.concat(matches, axis=0)
+    matches_df: pd.DataFrame = pd.concat(matches, axis=0)
     return matches_df
 
 
@@ -163,7 +168,7 @@ def get_quick_match_data(
     user: str,
     preset: Preset = Preset.team,
     season0: bool = True,
-):
+) -> pd.DataFrame:
     # Depending on the preset, the API returns different data.json
     # The preset uses the following format: &preset=duel%2Cffa%2Cteam
     # duel%2Cffa%2Cteam is the same as duel,ffa,team
@@ -178,13 +183,13 @@ def get_quick_match_data(
     if season0:
         date_range = f"&date=2023-06-01&date={datetime.today().strftime('%Y-%m-%d')}"
 
-    uri = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
+    uri: str = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
 
     data = get_data(f"{uri}{quote(user)}")
 
     # Get the winning team and count the number of wins
     match = {}
-    matches = []
+    matches: List[Any] = []
 
     for game in data["data"]:
         if game["Map"]["fileName"] is not None:
@@ -206,17 +211,17 @@ def get_quick_match_data(
                         }
                         matches.append(match)
 
-    matches_df = pd.json_normalize(matches)
+    matches_df: pd.DataFrame = pd.json_normalize(matches)
     # matches_df["startTime"] = pd.to_datetime(matches_df["startTime"])
     return matches_df
 
 
-# Get the win rate for each map
 def get_win_rate(
-    df,
+    df: pd.DataFrame,
     user: str,
     min_games: int = 5,
-):
+) -> pd.DataFrame:
+    """Get the win rate for each map"""
     if df.empty:
         return df
 
@@ -225,7 +230,7 @@ def get_win_rate(
         print(f"{user} does not exist")
         return pd.DataFrame()
 
-    win_rate_df = (
+    win_rate_df: pd.DataFrame = (
         df.query(f"userId == {user_id}")
         .groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
@@ -235,15 +240,15 @@ def get_win_rate(
     return win_rate_df
 
 
-# Get the win rate for each map
 def get_quick_win_rate(
-    df,
+    df: pd.DataFrame,
     min_games: int = 5,
-):
+) -> pd.DataFrame:
+    """Get the win rate for each map"""
     if df.empty:
         return df
 
-    win_rate_df = (
+    win_rate_df: pd.DataFrame = (
         df.groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
         .query(f"count >= {str(min_games)}")
@@ -252,7 +257,7 @@ def get_quick_win_rate(
     return win_rate_df
 
 
-def get_fractions_win_rate(df, user: str):
+def get_fractions_win_rate(df: pd.DataFrame, user: str) -> pd.Series:
     return (
         df.query(f"userId == {get_user_id(user)}")
         .groupby(["faction"])
@@ -260,17 +265,17 @@ def get_fractions_win_rate(df, user: str):
     )
 
 
-def get_best_teammates(df, user: str, min_games: int = 5):
-    team_winrate = df.groupby(  # .query(f"userId == {get_user_id('furyhawk')}")
-        ["allyTeamId", "userId"]
-    ).agg({"winningTeam": ["mean", "count"]})["winningTeam"]
+def get_best_teammates(df: pd.DataFrame, user: str, min_games: int = 5) -> pd.DataFrame:
+    team_winrate = df.groupby(["allyTeamId", "userId"]).agg(
+        {"winningTeam": ["mean", "count"]}
+    )["winningTeam"]
 
     # From team_winrate, get the allyTeamId of the user
     team_ally_id = team_winrate.query(f"userId == {get_user_id(user)}").index.unique(
         level="allyTeamId"
     )
-    teams_df = df[df["allyTeamId"].isin(team_ally_id)]
-    best_teammates_df = (
+    teams_df: pd.DataFrame = df[df["allyTeamId"].isin(team_ally_id)]
+    best_teammates_df: pd.DataFrame = (
         teams_df.groupby(["name", "userId"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]
         .query(f"count >= {str(min_games)} & userId != {get_user_id(user)}")
@@ -279,15 +284,17 @@ def get_best_teammates(df, user: str, min_games: int = 5):
     return best_teammates_df
 
 
-def get_battle_list():
+def get_battle_list() -> pd.DataFrame:
+    """Get the list of battles"""
     battles_json = get_fresh_data("https://api.bar-rts.com/battles")
     return pd.json_normalize(battles_json)
 
 
-def get_battle_details(battles_df):
-    battle_list = []
+def get_battle_details(battles_df: pd.DataFrame) -> pd.DataFrame:
+    """Get the details of the best battle"""
+    battle_list: List[Any] = []
 
-    best_battle = battles_df.head(1)
+    best_battle = battles_df.head(1)  # Get the first battle
     for players in best_battle["players"]:
         for player in players:
             if "teamId" in player and "gameStatus" in player:  # skill userId
@@ -296,7 +303,7 @@ def get_battle_details(battles_df):
                         "teamId": player["teamId"],
                         "username": player["username"],
                         "userId": player["userId"],
-                        "skill": float(re.sub("[^0123456789\.]", "", player["skill"]))
+                        "skill": float(re.sub(r"[^0123456789.]", "", player["skill"]))
                         if player["skill"] is not None
                         else 0.0,
                         "gameStatus": player["gameStatus"],
@@ -308,7 +315,8 @@ def get_battle_details(battles_df):
     return pd.DataFrame(battle_list).sort_values(by="teamId")
 
 
-def get_map_win_rate(win_rate_user_df, map_name: str):
+def get_map_win_rate(win_rate_user_df: pd.DataFrame, map_name: str) -> pd.DataFrame:
+    """Get the win rate for a specific map"""
     if win_rate_user_df.empty:
         return win_rate_user_df
     df = win_rate_user_df.reset_index()
@@ -319,14 +327,15 @@ def get_map_win_rate(win_rate_user_df, map_name: str):
 # Set the x axis minor locator to 5 and major locator to 10
 # Set the y axis to the map name
 def plot_win_rate(
-    win_rate_df,
+    win_rate_df: pd.DataFrame,
     user: str,
-    preset=Preset.team,
-):
+    preset: Preset = Preset.team,
+) -> Figure:
+    """Plot the win rate for each map"""
     # Get overall win rate
-    overall_win_rate = win_rate_df["mean"].mean()
+    overall_win_rate: float = win_rate_df["mean"].mean()
     # Get total number of games
-    total_games = win_rate_df["count"].sum()
+    total_games: int = win_rate_df["count"].sum()
 
     fig, (ax1, ax2) = plt.subplots(1, 2, sharey="all", figsize=(12, 6))
 

@@ -1,13 +1,13 @@
 # Steamlit app for Beyond All Reason
 
-from enum import auto, StrEnum
-
 import matplotlib.pyplot as plt
 import pandas as pd
 
 import streamlit as st
+from streamlit.delta_generator import DeltaGenerator
 
 from bai.bai import (
+    Preset,
     get_quick_match_data,
     get_quick_win_rate,
     get_win_rate,
@@ -24,25 +24,18 @@ from bai.bai import (
 plt.rcParams["figure.figsize"] = (10, 10)
 
 
-class Preset(StrEnum):
-    """Preset for the API call"""
-
-    duel = auto()
-    team = auto()
-    ffa = auto()
-    all = auto()
-
-
 # Controller for the streamlit app
 def player_tab_controller(
-    matches_bar,
+    matches_bar: DeltaGenerator,
     player: str,
     min_games: int = 5,
-    preset=Preset.team,
+    preset: Preset = Preset.team,
     season0: bool = False,
-):
+) -> None:
     """Controller for the player tab"""
-    df = process_match_data(get_match_data(matches_bar, player, preset, season0))
+    df: pd.DataFrame = process_match_data(
+        get_match_data(matches_bar, player, preset, season0)
+    )
     win_rate_df = get_win_rate(df, player, min_games)
     if win_rate_df.empty:
         st.write(f"No data for {player} with {min_games} games")
@@ -54,7 +47,7 @@ def player_tab_controller(
     col_best, col_worst, col_fraction = st.columns(3)
 
     top_n = 10
-    best_teammates_df = get_best_teammates(df, player, min_games)
+    best_teammates_df: pd.DataFrame = get_best_teammates(df, player, min_games)
     with col_best:
         if not best_teammates_df.empty:
             st.dataframe(
@@ -118,7 +111,11 @@ def player_tab_controller(
             )
 
 
-def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
+def battle_tab_controller(
+    progress_bar: DeltaGenerator,
+    battle_detail_df: pd.DataFrame,
+    preset: Preset = Preset.team,
+) -> None:
     """battle tab controller"""
     initial_battle_placeholder = st.empty()
     initial_battle_placeholder.dataframe(battle_detail_df)
@@ -165,8 +162,8 @@ def battle_tab_controller(progress_bar, battle_detail_df, preset=Preset.team):
     initial_battle_placeholder.empty()
 
     battle_win_rate_df = pd.DataFrame(battle_list)
-    team1_df = battle_win_rate_df.head(number_of_players // 2)
-    team2_df = battle_win_rate_df.tail(number_of_players // 2)
+    team1_df: pd.DataFrame = battle_win_rate_df.head(number_of_players // 2)
+    team2_df: pd.DataFrame = battle_win_rate_df.tail(number_of_players // 2)
 
     team1_avg_win_rate = team1_df.agg({"mean": ["mean", "count"]})["mean"][0]
     team1_total_skills = team1_df["skill"].sum()
@@ -314,7 +311,7 @@ def main():
         st.caption("Get the win rate of player by map")
         if st.session_state.player:
             progress_text = "Operation in progress. Please wait."
-            matches_bar = st.progress(0, text=progress_text)
+            matches_bar: DeltaGenerator = st.progress(0, text=progress_text)
             player_tab_controller(
                 matches_bar, st.session_state.player, min_games, preset, season0
             )
@@ -322,8 +319,8 @@ def main():
 
     with tab_battle:
         st.caption("Get the win rate of players in the battle with most spectators")
-        battles_df = get_battle_list()
-        battle_detail_df = get_battle_details(battles_df)
+        battles_df: pd.DataFrame = get_battle_list()
+        battle_detail_df: pd.DataFrame = get_battle_details(battles_df)
 
         progress_text = "Operation in progress. Please wait."
         battle_bar = st.progress(0, text=progress_text)
