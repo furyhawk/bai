@@ -220,7 +220,7 @@ def battle_tab_controller(
     team1_win_rate_col.metric(
         "Team 1 weighted win rate",
         f"{team1_win_rate:.0%}",
-        f"{team1_win_rate-team2_avg_win_rate:.0%}",
+        f"{team1_win_rate-team2_win_rate:.0%}",
     )
     team1_skill_col.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
     team1_games_col.metric("Team 1 total games", f"{team1_total_games:.0f}")
