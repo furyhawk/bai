@@ -1,5 +1,8 @@
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beyondallinfo.streamlit.app/)
+
+
 
 # Beyond All Information
 
