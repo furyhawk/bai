@@ -230,6 +230,7 @@ def get_win_rate(
         print(f"{user} does not exist")
         return pd.DataFrame()
 
+    # get top 10 meand and count of games for each map
     win_rate_df: pd.DataFrame = (
         df.query(f"userId == {user_id}")
         .groupby(["Map.fileName"])
@@ -248,6 +249,7 @@ def get_quick_win_rate(
     if df.empty:
         return df
 
+    # get top 10 mean and count of games for each map
     win_rate_df: pd.DataFrame = (
         df.groupby(["Map.fileName"])
         .agg({"winningTeam": ["mean", "count"]})["winningTeam"]

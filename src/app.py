@@ -1,6 +1,7 @@
 # Steamlit app for Beyond All Reason
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 
 import streamlit as st
@@ -165,19 +166,23 @@ def battle_tab_controller(
     team1_df: pd.DataFrame = battle_win_rate_df.head(number_of_players // 2)
     team2_df: pd.DataFrame = battle_win_rate_df.tail(number_of_players // 2)
 
-    team1_avg_win_rate = team1_df.agg({"mean": ["mean", "count"]})["mean"][0]
+    team1_avg_win_rate = np.average(team1_df["mean"], weights=team1_df["skill"])
     team1_total_skills = team1_df["skill"].sum()
     team1_total_games = team1_df["count"].sum()
 
-    team2_avg_win_rate = team2_df.agg({"mean": ["mean", "count"]})["mean"][0]
+    team2_avg_win_rate = np.average(team2_df["mean"], weights=team2_df["skill"])
     team2_total_skills = team2_df["skill"].sum()
     team2_total_games = team2_df["count"].sum()
 
     team1_total_win = team1_avg_win_rate * team1_total_games
     team2_total_win = team2_avg_win_rate * team2_total_games
 
-    team1_win_rate = team1_total_win / (team1_total_win + team2_total_win)
-    team2_win_rate = team2_total_win / (team1_total_win + team2_total_win)
+    # team1_win_rate = team1_total_win / (team1_total_win + team2_total_win)
+    # team2_win_rate = team2_total_win / (team1_total_win + team2_total_win)
+
+    # Normalize the win rate
+    team1_win_rate = team1_avg_win_rate / (team1_avg_win_rate + team2_avg_win_rate)
+    team2_win_rate = team2_avg_win_rate / (team1_avg_win_rate + team2_avg_win_rate)
 
     # Battle
     map_name = team1_df["Map.fileName"].iloc[0]  # lobby 0
@@ -213,9 +218,9 @@ def battle_tab_controller(
 
     team1_win_rate_col, team1_skill_col, team1_games_col = team1_container.columns(3)
     team1_win_rate_col.metric(
-        "Team 1 win rate",
+        "Team 1 weighted win rate",
         f"{team1_win_rate:.0%}",
-        f"{team1_win_rate-team2_win_rate:.0%}",
+        f"{team1_win_rate-team2_avg_win_rate:.0%}",
     )
     team1_skill_col.metric("Team 1 total skills", f"{team1_total_skills:.0f}")
     team1_games_col.metric("Team 1 total games", f"{team1_total_games:.0f}")
@@ -224,7 +229,7 @@ def battle_tab_controller(
     team2_container = st.container()
     team2_win_rate_col, team2_skill_col, team2_games_col = team2_container.columns(3)
     team2_win_rate_col.metric(
-        "Team 2 win rate",
+        "Team 2 weighted win rate",
         f"{team2_win_rate:.0%}",
         f"{team2_win_rate-team1_win_rate:.0%}",
     )
