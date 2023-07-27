@@ -185,7 +185,7 @@ def get_quick_match_data(
 
     uri: str = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
 
-    data = get_data(f"{uri}{quote(user)}")
+    data = get_fresh_data(f"{uri}{quote(user)}")
 
     # Get the winning team and count the number of wins
     match = {}
