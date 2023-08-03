@@ -174,8 +174,8 @@ def battle_tab_controller(
     team2_total_skills = team2_df["skill"].sum()
     team2_total_games = team2_df["count"].sum()
 
-    team1_total_win = team1_avg_win_rate * team1_total_games
-    team2_total_win = team2_avg_win_rate * team2_total_games
+    # team1_total_win = team1_avg_win_rate * team1_total_games
+    # team2_total_win = team2_avg_win_rate * team2_total_games
 
     # team1_win_rate = team1_total_win / (team1_total_win + team2_total_win)
     # team2_win_rate = team2_total_win / (team1_total_win + team2_total_win)

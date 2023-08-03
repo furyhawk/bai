@@ -27,7 +27,7 @@ class Preset(StrEnum):
 def get_data(url: str):
     """Get data from the API and cache it"""
     # print(f"Getting data from {url}")
-    session = CachedSession("bar_cache", backend="sqlite")
+    session = CachedSession("bar_cache", backend="sqlite", expire_after=259200)
     data = session.get(url).json()
     return data
 
@@ -57,6 +57,7 @@ def get_user_id(user_name: str) -> Any | Literal[""]:
     for user in name_list:
         if user["username"] == user_name:
             user_id = user["id"]
+    print(f"User id is {user_id}: {user_name}")
     return user_id
 
 
@@ -141,7 +142,7 @@ def get_match_data(
 
     # Test data has attribute data
     # if not hasattr(data, "data"):
-    #     return pd.DataFrame()
+    #     raise ValueError(f"User {user} has no data")
 
     # Get the winning team and count the number of wins
     matches: List[Any] = []
