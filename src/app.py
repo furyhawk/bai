@@ -20,6 +20,7 @@ from bai.bai import (
     get_battle_list,
     get_battle_details,
     get_map_win_rate,
+    get_player_data,
 )
 
 plt.rcParams["figure.figsize"] = (10, 10)
@@ -42,9 +43,17 @@ def player_tab_controller(
         st.write(f"No data for {player} with {min_games} games")
         return
 
+    # Win rate plot
     fig = plot_win_rate(win_rate_df, player, preset)
     if fig:
         st.pyplot(fig)
+
+    # Player data area chart
+    player_data_df = get_player_data(df, player)
+    if not player_data_df.empty:
+        # st.dataframe(player_data_df)
+        st.area_chart(data=player_data_df, x="startTime", y="skill")
+
     col_best, col_worst, col_fraction = st.columns(3)
 
     top_n = 10

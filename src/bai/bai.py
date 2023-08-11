@@ -260,6 +260,25 @@ def get_quick_win_rate(
     return win_rate_df
 
 
+def get_player_data(
+    df: pd.DataFrame,
+    user: str,
+) -> pd.DataFrame:
+    """Get the player data"""
+    if df.empty:
+        return df
+
+    user_id = get_user_id(user)
+    if user_id == "":
+        print(f"{user} does not exist")
+        return pd.DataFrame()
+
+    # get top 10 meand and count of games for each map
+    win_rate_df: pd.DataFrame = df.query(f"userId == {user_id}")
+
+    return win_rate_df
+
+
 def get_fractions_win_rate(df: pd.DataFrame, user: str) -> pd.Series:
     return (
         df.query(f"userId == {get_user_id(user)}")
