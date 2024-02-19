@@ -1,5 +1,7 @@
 FROM python:3.11
 
+ENV APPLOCATION /bai
+
 WORKDIR /app
 COPY requirements.txt .
 
@@ -13,5 +15,5 @@ COPY ./src ./src
 EXPOSE 8501
 
 #Running the streamlit app
-ENTRYPOINT ["streamlit", "run", "--server.maxUploadSize=5"]
-CMD ["src/app.py"]
+RUN echo "streamlit run --server.maxUploadSize=5 --server.baseUrlPath=$APPLOCATION src/app.py" > run_app.sh
+ENTRYPOINT ["/bin/bash", "run_app.sh"]

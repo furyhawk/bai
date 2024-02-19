@@ -25,7 +25,7 @@ docker compose build
 docker compose up -d
 ```
 
-http://localhost/
+http://localhost:8501/bai
 
 
 ## DEV env

@@ -7,6 +7,6 @@ services:
     image: furyhawk/beyondallinfo:latest
     hostname: beyondallinfo
     ports:
-      - "8501:8501"
+      - "${PORT:-8501}:${PORT:-8501}"
     restart: unless-stopped
 
