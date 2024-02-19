@@ -4,7 +4,7 @@ services:
     container_name: beyondallinfo
     build:
       dockerfile: ./Dockerfile
-    image: beyondallinfo:latest
+    image: furyhawk/beyondallinfo:latest
     hostname: beyondallinfo
     ports:
       - "8501:8501"
