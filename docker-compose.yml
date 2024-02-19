@@ -9,6 +9,6 @@ services:
       - "8501:8501"
     restart: unless-stopped
     networks:
-      beyondallinfo:
+      bridge:
         aliases:
           - beyondallinfo
