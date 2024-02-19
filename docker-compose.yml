@@ -1,14 +1,14 @@
 version: "3.7"
 services:
-  beyondallreason:
-    container_name: beyondallreason
+  beyondallinfo:
+    container_name: beyondallinfo
     build:
       dockerfile: ./Dockerfile
-    image: beyondallreason:latest
+    image: beyondallinfo:latest
     ports:
       - "8501:8501"
     restart: unless-stopped
     networks:
-      beyondallreason-network:
+      beyondallinfo-network:
         aliases:
-          - beyondallreason
+          - beyondallinfo
