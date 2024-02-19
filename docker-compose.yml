@@ -6,5 +6,5 @@ services:
       dockerfile: ./Dockerfile
     image: beyondallreason:latest
     ports:
-      - "8501:8501"
+      - "80:8501"
     restart: unless-stopped
