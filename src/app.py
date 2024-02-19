@@ -268,14 +268,12 @@ def battle_tab_controller(
     )
 
 
-def on_change_player():
+def on_change_player() -> None:
     """Update the URL when the player name is changed"""
-    st.experimental_set_query_params(
-        player=str(st.session_state.player),
-    )
+    st.query_params["player"] = st.session_state.player
 
 
-def main():
+def main() -> None:
     """Main function of the app
     Beyond All Information"""
 
@@ -288,9 +286,9 @@ def main():
     )
 
     # Get player name from URL
-    params = st.experimental_get_query_params()
+    params = st.query_params.to_dict()
     if "player" in params:
-        st.session_state.player = params["player"][0]
+        st.session_state.player = params["player"]
 
     # Initialize session state
     if "player" not in st.session_state:
