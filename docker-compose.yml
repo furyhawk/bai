@@ -15,8 +15,8 @@ services:
       - "${CADDY_PORT_SSL:-443}:443"
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile
-      - caddy_data:/data
-      - caddy_config:/config
+      - ./caddy_data:/data
+      - ./caddy_config:/config
     networks:
       - web
       - internal
