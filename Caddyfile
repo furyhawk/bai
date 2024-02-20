@@ -1,0 +1,3 @@
+bai.furyhawk.lol {
+    reverse_proxy beyondallinfo:8501
+}
