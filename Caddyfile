@@ -1,3 +1,5 @@
-bai.furyhawk.lol {
+bai.furyhawk.lol furyhawk.lol localhost {
     reverse_proxy beyondallinfo:8501
+    root * ./site
+    file_server
 }
