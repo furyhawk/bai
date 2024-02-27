@@ -9,7 +9,7 @@
 Get your stats of Beyond All Reason https://www.beyondallreason.info/.
 
 https://beyondallinfo.streamlit.app/
-http://furyhawk.synology.me:8501/bai
+https://bai.furyhawk.lol/
 
 
 ## Run locally
