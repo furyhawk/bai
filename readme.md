@@ -8,8 +8,8 @@
 
 Get your stats of Beyond All Reason https://www.beyondallreason.info/.
 
-https://beyondallinfo.streamlit.app/
-https://bai.furyhawk.lol/
+- https://beyondallinfo.streamlit.app/
+- https://bai.furyhawk.lol/
 
 
 ## Run locally
