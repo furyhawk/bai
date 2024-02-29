@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "bai"
+version = "0.1.0"
+description = ""
+authors = ["Teck Meng <furyx@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.31.1"
+matplotlib = "^3.8.3"
+pandas = "^2.2.1"
+requests-cache = "^1.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
