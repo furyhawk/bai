@@ -283,6 +283,12 @@ def main() -> None:
         page_icon="🧊",
         layout="wide",
         initial_sidebar_state="expanded",
+        menu_items={
+            "Get help": "https://github.com/furyhawk/bai/issues",
+            "Report a bug": "https://github.com/furyhawk/bai/issues/new",
+            "About": """# Beyond All Information (BAI)
+                https://github.com/furyhawk/bai""",
+        },
     )
 
     # Get player name from URL
@@ -302,11 +308,11 @@ def main() -> None:
             # width=100,
         )
     with title_col:
-        st.title("Beyond All Information")
+        st.title("[Beyond All Information](https://github.com/furyhawk/bai)")
 
     instructions = """
-        Get your stats of Beyond All Reason https://www.beyondallreason.info
-            """
+        Get your stats of [Beyond All Reason](https://www.beyondallreason.info)
+        """
     st.caption(instructions)
 
     # Sidebar
