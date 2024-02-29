@@ -49,7 +49,7 @@ def player_tab_controller(
         st.pyplot(fig)
 
     # Player data area chart
-    player_data_df = get_player_data(df, player)
+    player_data_df: pd.DataFrame = get_player_data(df, player)
     if not player_data_df.empty:
         # st.dataframe(player_data_df)
         st.area_chart(data=player_data_df, x="startTime", y="skill")
@@ -130,7 +130,7 @@ def battle_tab_controller(
     initial_battle_placeholder = st.empty()
     initial_battle_placeholder.dataframe(battle_detail_df)
 
-    number_of_players = len(battle_detail_df.index)
+    number_of_players: int = len(battle_detail_df.index)
     percent_complete = 0
     battle_list = []
 
@@ -202,7 +202,7 @@ def battle_tab_controller(
         st.subheader(f"Map: {map_name}")
 
     # Team 1
-    team1_container = st.container()
+    team1_container: DeltaGenerator = st.container()
     team1_container.dataframe(
         team1_df,
         column_config={
@@ -235,7 +235,7 @@ def battle_tab_controller(
     team1_games_col.metric("Team 1 total games", f"{team1_total_games:.0f}")
 
     # Team 2
-    team2_container = st.container()
+    team2_container: DeltaGenerator = st.container()
     team2_win_rate_col, team2_skill_col, team2_games_col = team2_container.columns(3)
     team2_win_rate_col.metric(
         "Team 2 weighted win rate",
@@ -341,7 +341,7 @@ def main() -> None:
         battle_detail_df: pd.DataFrame = get_battle_details(battles_df)
 
         progress_text = "Operation in progress. Please wait."
-        battle_bar = st.progress(0, text=progress_text)
+        battle_bar: DeltaGenerator = st.progress(0, text=progress_text)
         battle_tab_controller(battle_bar, battle_detail_df, preset)
         battle_bar.empty()
 
