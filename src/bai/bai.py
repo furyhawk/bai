@@ -4,7 +4,7 @@ import re
 from typing import Any, List, Literal
 from matplotlib.figure import Figure
 
-from requests_cache import CachedSession
+from requests_cache import CachedSession, NEVER_EXPIRE
 
 from urllib.parse import quote
 
@@ -27,7 +27,7 @@ class Preset(StrEnum):
 def get_data(url: str):
     """Get data from the API and cache it"""
     # print(f"Getting data from {url}")
-    session = CachedSession("bar_cache", backend="sqlite", expire_after=259200)
+    session = CachedSession("bar_cache", backend="sqlite", expire_after=NEVER_EXPIRE)
     data = session.get(url).json()
     return data
 
@@ -35,7 +35,7 @@ def get_data(url: str):
 def get_fresh_data(url: str):
     """Get data from the API and cache it for 60 seconds"""
     # print(f"Getting data from {url}")
-    session = CachedSession("short_cache", backend="sqlite", expire_after=60)
+    session = CachedSession("short_cache", backend="sqlite", expire_after=960)
     data = session.get(url).json()
     return data
 
@@ -84,9 +84,11 @@ def process_match_data(match_details_df: pd.DataFrame) -> pd.DataFrame:
                         "faction": player["faction"],
                         "rank": player["rank"],
                         "skillUncertainty": player["skillUncertainty"],
-                        "skill": float(re.sub(r"[^0123456789.]", "", player["skill"]))
-                        if player["skill"] is not None
-                        else 0.0,
+                        "skill": (
+                            float(re.sub(r"[^0123456789.]", "", player["skill"]))
+                            if player["skill"] is not None
+                            else 0.0
+                        ),
                         "startPos": player["startPos"],
                         "winningTeam": team["winningTeam"],
                         "Map.fileName": game["Map.fileName"],
@@ -184,7 +186,9 @@ def get_quick_match_data(
     if season0:
         date_range = f"&date=2023-06-01&date={datetime.today().strftime('%Y-%m-%d')}"
 
-    uri: str = f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
+    uri: str = (
+        f"https://api.bar-rts.com/replays?page=1&limit=9999{preset}{date_range}&hasBots=false&endedNormally=true&players="
+    )
 
     data = get_fresh_data(f"{uri}{quote(user)}")
 
@@ -325,9 +329,11 @@ def get_battle_details(battles_df: pd.DataFrame) -> pd.DataFrame:
                         "teamId": player["teamId"],
                         "username": player["username"],
                         "userId": player["userId"],
-                        "skill": float(re.sub(r"[^0123456789.]", "", player["skill"]))
-                        if player["skill"] is not None
-                        else 0.0,
+                        "skill": (
+                            float(re.sub(r"[^0123456789.]", "", player["skill"]))
+                            if player["skill"] is not None
+                            else 0.0
+                        ),
                         "gameStatus": player["gameStatus"],
                         "map": best_battle["mapFileName"].values[0],
                         "title": best_battle["title"].values[0],
